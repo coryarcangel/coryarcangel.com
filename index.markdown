@@ -10,7 +10,7 @@ Youtube: [1](https://www.youtube.com/user/coryarcangel),
 [3](https://www.youtube.com/channel/UCYBrqFro8YOq5IPGSoVQycg)  
 Twitter: [1](https://twitter.com/cory_arcangel), [2](https://twitter.com/RodeoComputer), [3](https://twitter.com/SolitaireWeekly)  
 Are.na:️ [Me](https://www.are.na/cory-arcangel), eg. [Nice pics](https://www.are.na/cory-arcangel/nice-pics), 
-[Wish I Made This](https://www.are.na/cory-arcangel/wish-i-made-this), [The Year in the Internet, 2020](https://www.are.na/the-year-in-the-internet/channels?sort=UPDATED_AT), etc, etc  
+[Wish I Made This](https://www.are.na/cory-arcangel/wish-i-made-this), etc, etc  
 Old site [here](https://conifer.rhizome.org/cory_arcangel/coryarcangelcom/20211205113448/https://coryarcangel.com/) :-/ 
 
 <!-- Begin Mailchimp Signup Form -->
