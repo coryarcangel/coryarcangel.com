@@ -39,7 +39,6 @@ Old site [here](https://conifer.rhizome.org/cory_arcangel/coryarcangelcom/202112
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/hO0p_f" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
     </div>
