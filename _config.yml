@@ -22,9 +22,14 @@ title: Cory Arcangel
 description: >- # this means to ignore newlines until "baseurl:"
   Cory Arcangel's Official Website
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "Https://coryarcangel.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://coryarcangel.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cory_arcangel
 github_username:  coryarcangel
+
+collections:
+    things:
+        output: true
+        permalink: /:collection/:name
 
 # Build settings
 #theme: minima
