@@ -1,0 +1,30 @@
+---
+ee_id: '4394'
+site: '1'
+type: '2'
+long_id: '2017-060 Photoshop CS: 84by 144 inches, 300 DPI, RGB, square pixels, default
+  gradient “Spectrum”, mo'
+url: 2017-060-photoshop-cs-84by-144-inches-300-dpi-rgb-square-pixels-default-gra
+year: '2017'
+medium: Chromogenic print
+commission:
+add_credit:
+dims: 84 x 144 in
+pitch:
+ps:
+live_url:
+related:
+title: 'Photoshop CS: 84by 144 inches, 300 DPI, RGB, square pixels, default gradient
+  “Spectrum”, mousedown y=24433 x=24933, mouseup y=13681 x=24933; tool "Wand", select
+  y=9500 x=23366, tolerance=94, contiguous= off; default gradient "Spectrum", mousedown
+  y=9500 x=4425, mouseup y=9500 x=38534 '
+youtube:
+imgs: photoshop-cs-2017-060-database-02-ug.jpg
+subheading:
+year2: '2017'
+download:
+add_credits:
+related_code:
+! '':
+layout: things-i-made
+---

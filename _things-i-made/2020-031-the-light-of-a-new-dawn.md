@@ -1,0 +1,26 @@
+---
+ee_id: '4497'
+site: '1'
+type: '2'
+long_id: 2020-031 The light of a new dawn
+url: 2020-031-the-light-of-a-new-dawn
+year: '2020'
+medium: 'New York Times "Fireplace" spread & related Louis Vuitton window installation(s). '
+commission:
+add_credit:
+dims:
+pitch: Did an ad &amp; window campaign 4 LV.&nbsp;
+ps:
+live_url:
+related:
+title: The Light of a New Dawn
+youtube:
+imgs: light-of-a-new-dawn-2020-031-db-ih--MUIA.jpg
+subheading:
+year2: '2020'
+download:
+add_credits:
+related_code:
+! '':
+layout: things-i-made
+---

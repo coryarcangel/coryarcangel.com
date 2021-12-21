@@ -1,0 +1,44 @@
+---
+ee_id: '4168'
+site: '1'
+type: '2'
+long_id: 2014-125 All The Small Things (catalog)
+url: 2014-125-all-the-small-things
+year: '2014'
+medium: Exhibition Catalog
+commission:
+add_credit: 'Published by WALTHER KöNIG, KöLN, Design by Dave Yun, Photos: Sasha Maric'
+dims:
+pitch:
+ps:
+live_url:
+related: |-
+  [4166] [2014-126-all-the-small-things-trailer] 2014 126 All The Small Things trailer
+  [4249] [2014-114-all-the-small-things-tshirt] 2014-114 All The Small Things Tshirt
+  [4250] [2014-078-all-the-small-things-edition] 2014-078 All The Small Things Edition
+title: All The Small Things
+youtube:
+imgs: |-
+  allthesmallthingscatalog-2014-125-full-01-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-02-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-03-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-05-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-06-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-07-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-04-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-08-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-09-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-11-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-12-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-13-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-10-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-15-database-ih.jpg
+  allthesmallthingscatalog-2014-125-full-14-database-ih.jpg
+subheading: "(Catalog)"
+year2: '2014'
+download:
+add_credits:
+related_code:
+! '':
+layout: things-i-made
+---

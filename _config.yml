@@ -26,7 +26,12 @@ url: "https://coryarcangel.com" # the base hostname & protocol for your site, e.
 twitter_username: cory_arcangel
 github_username:  coryarcangel
 
-collections:
-  things:
-    output: true 
+plugins:
+  - pagemaster
 
+collections:
+  things-i-made:
+    output: true
+    source: things.csv
+    id_key: url
+    layout: things-i-made

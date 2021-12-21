@@ -1,0 +1,26 @@
+---
+ee_id: '4270'
+site: '1'
+type: '2'
+long_id: 2015-056 This is all so crazy, everybody seems so famous (catalog)
+url: 2015-056-this-is-all-so-crazy-everybody-seems-so-famous-catalog
+year: '2015'
+medium: Exhibition Catalog
+commission:
+add_credit:
+dims:
+pitch:
+ps:
+live_url:
+related:
+title: 'This is all so crazy, everybody seems so famous '
+youtube:
+imgs: gamec-catalogue-2015-056-digital-database-ih.jpg
+subheading: "(Catalog)"
+year2: '2015'
+download:
+add_credits:
+related_code:
+! '':
+layout: things-i-made
+---

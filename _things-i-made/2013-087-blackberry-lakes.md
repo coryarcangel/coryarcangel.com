@@ -1,0 +1,27 @@
+---
+ee_id: '4116'
+site: '1'
+type: '2'
+long_id: 2013-087 Blackberry / Lakes
+url: 2013-087-blackberry-lakes
+year: '2013'
+medium: 1920x1080 H.264/MPEG-4 Part 10 looped digital file (from ​lossless ​Quicktime
+  Animation master), media player, 70” flatscreen, armature, various cables
+commission:
+add_credit:
+dims: 79 x 36.5 x 11 inches
+pitch: Rando image w/ lake effect ;-)
+ps:
+live_url:
+related:
+title: Blackberry / Lakes
+youtube:
+imgs: blackberry-lakes-2013-187-install-Heart-01-database-SM.jpg
+subheading:
+year2: '2013'
+download:
+add_credits:
+related_code:
+! '':
+layout: things-i-made
+---

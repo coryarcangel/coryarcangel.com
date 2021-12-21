@@ -1,0 +1,80 @@
+---
+layout: things-i-made
+---
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <style>
+      body 
+      {
+        font-family: 'Tangerine', serif;
+        font-size: 36px;
+      }
+      p 
+      {
+		margin: 0px;
+		}
+	.fix
+	{
+    position:fixed;
+    bottom:5%;
+    right:5%;
+    width:15%;
+	}		
+	 </style>
+  </head>
+  <body>
+    {{ page.title }}
+    <br>
+    
+    {{ page.year }}
+	<br>
+	
+	{{ page.medium }}
+	<br>
+	
+	{{ page.pitch }}
+	<br>
+	
+	{{ page.ps }}
+	<br>
+	
+	{{ page.commission }}
+	<br>
+	
+	{{ page.add_credit }}
+	<br>
+	
+	{{ page.dims }}
+	<br>
+	
+	{% if page.live_url %}
+	{{ page.live_url }}
+	<br>
+	{% endif %}	
+
+	{% if page.download %}
+	Download: {{ page.download }}
+	<br>
+	{% endif %}	
+	
+	{% if page.youtube %}
+	Utube: {{ page.youtube }}
+	{% endif %}	
+
+
+
+
+	{% assign images = page.imgs | newline_to_br | split: '<br />' %}
+	{% for image in images %}
+  	<img src="{{ site.url }}/assets/imgs/{{ image }}">
+	{% endfor %}
+	
+
+	
+	{% include puke.html %}
+  </body>
+</html>
