@@ -1,6 +1,6 @@
 ---
 layout: default
-title: things
+title: Things List
 ---
 
 <ul>
