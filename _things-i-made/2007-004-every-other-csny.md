@@ -15,7 +15,7 @@ live_url:
 related:
 title: Every Other C.S.N.Y.
 youtube:
-imgs: "{filedir_1}every-other-csny-2007-004-full-database-ih.jpg"
+imgs: every-other-csny-2007-004-full-database-ih.jpg
 subheading:
 year2: '2007'
 download:

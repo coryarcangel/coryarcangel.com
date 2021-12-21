@@ -15,7 +15,7 @@ live_url: http://colors-personal-edition.coryarcangel.com/
 related: "[33] 2006-004 Colors - 2006-004-colors"
 title: Colors Personal Edition
 youtube:
-imgs: "{filedir_1}colors-2009-054-detail-2-database-ih.jpg"
+imgs: colors-2009-054-detail-2-database-ih.jpg
 subheading:
 year2: '2009'
 download:

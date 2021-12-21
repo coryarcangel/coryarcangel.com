@@ -15,7 +15,7 @@ live_url: http://www.newjerseyy.ch/arcangel_for_newjerseyy/
 related:
 title: Cory Arcangel for New Jerseyy
 youtube:
-imgs: "{filedir_1}new-jerseyy-2010-057-screen-shot-3-database-ih.jpg"
+imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
 subheading:
 year2: '2010'
 download:

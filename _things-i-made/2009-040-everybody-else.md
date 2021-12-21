@@ -15,7 +15,7 @@ live_url: " http://digitalfolklore.org/"
 related:
 title: Everybody Else
 youtube:
-imgs: "{filedir_1}Everybody-Else-2009-040-Full-1-Database-IH.jpg"
+imgs: Everybody-Else-2009-040-Full-1-Database-IH.jpg
 subheading:
 year2: '2009'
 download:

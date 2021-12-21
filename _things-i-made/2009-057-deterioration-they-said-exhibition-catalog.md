@@ -17,7 +17,7 @@ live_url:
 related:
 title: Deterioration, They Said
 youtube:
-imgs: "{filedir_1}2012-057-deterioration-they-said-full-database-ih.jpg"
+imgs: 2012-057-deterioration-they-said-full-database-ih.jpg
 subheading: "(Exhibition Catalog)"
 year2: '2009'
 download:

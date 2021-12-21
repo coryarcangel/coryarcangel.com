@@ -15,7 +15,7 @@ live_url:
 related:
 title: A Few Casuals
 youtube:
-imgs: "{filedir_1}a-few-casuals-2011-114-full-database-ih.jpg"
+imgs: a-few-casuals-2011-114-full-database-ih.jpg
 subheading:
 year2: '2011'
 download:

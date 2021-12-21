@@ -16,7 +16,7 @@ related:
 title: 'Photoshop CS: 40 by 30 inches, 300 DPI, RGB, square pixels, default gradient
   "Grey Value Stripes" (turn reverse on), mousedown y=11880 x=100, mouseup y=100 x=8860'
 youtube:
-imgs: "{filedir_1}photoshop-cs-2011-003-full-database-AR.jpg"
+imgs: photoshop-cs-2011-003-full-database-AR.jpg
 subheading:
 year2: '2011'
 download:

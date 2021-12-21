@@ -15,7 +15,7 @@ live_url:
 related:
 title: Regular Flex
 youtube:
-imgs: "{filedir_1}regular-flex-2011-119-full-database-ka_1.jpg"
+imgs: regular-flex-2011-119-full-database-ka_1.jpg
 subheading:
 year2: '2011'
 download:

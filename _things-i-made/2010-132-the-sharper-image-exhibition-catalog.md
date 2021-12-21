@@ -15,7 +15,7 @@ live_url:
 related:
 title: The Sharper Image
 youtube:
-imgs: "{filedir_1}2010-132-sharper-image-catalog-full-1-database-ih.jpg"
+imgs: 2010-132-sharper-image-catalog-full-1-database-ih.jpg
 subheading: "(Exhibition Catalog)"
 year2: '2010'
 download:

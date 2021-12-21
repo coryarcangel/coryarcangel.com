@@ -15,7 +15,7 @@ live_url:
 related:
 title: Real Taste
 youtube:
-imgs: "{filedir_1}real-taste-2011-117-full-database-KA.jpg"
+imgs: real-taste-2011-117-full-database-KA.jpg
 subheading:
 year2: '2011'
 download:

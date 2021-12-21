@@ -20,7 +20,7 @@ related: |-
 title: 'Photoshop CS: 84 by 66 inches, 300 DPI, RGB, square pixels, default gradient
   "Blue, Red, Yellow", mousedown y=6600 x=8600, mouseup y=6900 x=8600'
 youtube:
-imgs: "{filedir_1}photoshop-2011-113-full-cropped-database-KA.jpg"
+imgs: photoshop-2011-113-full-cropped-database-KA.jpg
 subheading:
 year2: '2011'
 download:

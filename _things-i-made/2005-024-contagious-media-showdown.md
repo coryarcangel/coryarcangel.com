@@ -18,7 +18,7 @@ live_url: http://showdown.contagiousmedia.org/
 related:
 title: Contagious Media Showdown
 youtube:
-imgs: "{filedir_1}Contagious_Media_Showdown_2005_024_screenshot_database_IH.jpg"
+imgs: Contagious_Media_Showdown_2005_024_screenshot_database_IH.jpg
 subheading:
 year2: '2005'
 download:

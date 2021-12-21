@@ -15,7 +15,7 @@ live_url:
 related: "[120] 2011-114 A Few Casuals - 2011-114-a-few-casuals"
 title: A Few Casuals
 youtube:
-imgs: "{filedir_1}a-few-casuals-2012-022-full-1-skur2-database-ESJ.jpg"
+imgs: a-few-casuals-2012-022-full-1-skur2-database-ESJ.jpg
 subheading:
 year2: '2012'
 download:

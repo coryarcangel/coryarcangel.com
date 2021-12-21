@@ -19,7 +19,7 @@ live_url:
 related:
 title: Dirtstyle Design
 youtube:
-imgs: "{filedir_1}Dirtstyle-Design-2002-009-screenshot-database-ih.jpg"
+imgs: Dirtstyle-Design-2002-009-screenshot-database-ih.jpg
 subheading:
 year2: '2002'
 download:

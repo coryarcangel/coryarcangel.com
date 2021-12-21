@@ -16,7 +16,7 @@ live_url:
 related:
 title: Jay-Z Blue
 youtube:
-imgs: "{filedir_1}jay-z-blue-2011-105-full-2-database-SC.jpg"
+imgs: jay-z-blue-2011-105-full-2-database-SC.jpg
 subheading:
 year2: '2011'
 download:

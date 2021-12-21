@@ -16,7 +16,7 @@ live_url:
 related:
 title: Volume Management
 youtube:
-imgs: "{filedir_1}volume-management-2011-021-full-database-SC.jpg"
+imgs: volume-management-2011-021-full-database-SC.jpg
 subheading:
 year2: '2011'
 download:

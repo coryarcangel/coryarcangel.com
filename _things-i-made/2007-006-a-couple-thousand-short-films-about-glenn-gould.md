@@ -21,7 +21,7 @@ related: |-
   [101] 2011-022 Paganini Caprice No. 5 - 2011-022-paganini-caprice-no-5
 title: A Couple Thousand Short Films About Glenn Gould
 youtube:
-imgs: "{filedir_1}gould-2007-006-install-1-database-NGCA.jpg"
+imgs: gould-2007-006-install-1-database-NGCA.jpg
 subheading:
 year2: '2007'
 download:

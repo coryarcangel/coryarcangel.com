@@ -18,7 +18,7 @@ live_url: http://splash.coryarcangel.com/
 related:
 title: Splash Page
 youtube:
-imgs: "{filedir_1}2008_021_Splash_Page_Still_Database_IH.jpg"
+imgs: 2008_021_Splash_Page_Still_Database_IH.jpg
 subheading:
 year2: '2008'
 download:

@@ -15,7 +15,7 @@ live_url:
 related:
 title: 'Photoshop Gradient and Smudge Tool Demonstration '
 youtube:
-imgs: "{filedir_1}photoshop-smudge-2007-015-digital-database-ih.jpg"
+imgs: photoshop-smudge-2007-015-digital-database-ih.jpg
 subheading:
 year2: '2007'
 download:

@@ -15,7 +15,7 @@ live_url: http://www.burncopy.com/bestoftheweb.html
 related: "[23] 2006-020 The Year in the Internet (2006) - the-year-in-the-internet1"
 title: The Year in the Internet (2005)
 youtube:
-imgs: "{filedir_1}The_Year_in_the_Internet_2005_025_screenshot_database_IH.jpg"
+imgs: The_Year_in_the_Internet_2005_025_screenshot_database_IH.jpg
 subheading:
 year2: '2005'
 download:

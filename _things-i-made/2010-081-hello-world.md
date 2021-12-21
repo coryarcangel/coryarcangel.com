@@ -15,7 +15,7 @@ live_url:
 related:
 title: Hello World
 youtube:
-imgs: "{filedir_1}hello-world-2010-081-full-database-ropac.jpg"
+imgs: hello-world-2010-081-full-database-ropac.jpg
 subheading:
 year2: '2010'
 download:

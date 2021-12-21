@@ -16,7 +16,7 @@ live_url:
 related:
 title: Another One Bites The Dust
 youtube:
-imgs: "{filedir_1}Another_One_Bites_the_Dust_2007_039_full_database_IH_1.jpg"
+imgs: Another_One_Bites_the_Dust_2007_039_full_database_IH_1.jpg
 subheading:
 year2: '2007'
 download:

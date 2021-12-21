@@ -15,7 +15,7 @@ live_url:
 related:
 title: 'Monoprint 1 '
 youtube:
-imgs: "{filedir_1}Monotprint-1-2008-012-full-press-IH.jpg"
+imgs: Monotprint-1-2008-012-full-press-IH.jpg
 subheading:
 year2: '2008'
 download:

@@ -15,7 +15,7 @@ live_url:
 related:
 title: 'Research in Motion (Kinetic Sculpture #1)'
 youtube:
-imgs: "{filedir_1}research-in-motion-2010-018-full-2-database-team_1.jpg"
+imgs: research-in-motion-2010-018-full-2-database-team_1.jpg
 subheading:
 year2: '2010'
 download:

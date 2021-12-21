@@ -17,7 +17,7 @@ title: 'Photoshop CS: 84 by 66 inches, 300 DPI, RGB, square pixels, default grad
   "Russell''s Rainbow" (turn transparency off), mousedown y=18000 x=14200, mouseup
   y=18000 x=17450'
 youtube:
-imgs: "{filedir_1}photoshop-cs-2010-044-full-cropped-database-ropac.jpg"
+imgs: photoshop-cs-2010-044-full-cropped-database-ropac.jpg
 subheading:
 year2: '2010'
 download:

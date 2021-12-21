@@ -15,7 +15,7 @@ live_url:
 related:
 title: Monoprint 3
 youtube:
-imgs: "{filedir_1}Monoprint-3-2008-014-full-press-ih.jpg"
+imgs: Monoprint-3-2008-014-full-press-ih.jpg
 subheading:
 year2: '2008'
 download:

@@ -15,7 +15,7 @@ live_url:
 related:
 title: Samsung PS42Q7H Plasma Screen Burn
 youtube:
-imgs: "{filedir_1}samsung-PS42Q7H-plasma-burn-2007-005-full-database_1.jpg"
+imgs: samsung-PS42Q7H-plasma-burn-2007-005-full-database_1.jpg
 subheading:
 year2: '2007'
 download:

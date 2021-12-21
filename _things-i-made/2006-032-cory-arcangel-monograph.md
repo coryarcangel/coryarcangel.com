@@ -15,7 +15,7 @@ live_url:
 related:
 title: 'Cory Arcangel '
 youtube:
-imgs: "{filedir_1}2005-032-migros-monograph-full-database-ih.jpg"
+imgs: 2005-032-migros-monograph-full-database-ih.jpg
 subheading: "(Monograph)"
 year2: '2006'
 download:

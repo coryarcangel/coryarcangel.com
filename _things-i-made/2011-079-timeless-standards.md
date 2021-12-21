@@ -15,7 +15,7 @@ live_url:
 related:
 title: Timeless Standards
 youtube:
-imgs: "{filedir_1}timeless-standards-2011-079-full-cropped-database-KA.jpg"
+imgs: timeless-standards-2011-079-full-cropped-database-KA.jpg
 subheading:
 year2: '2011'
 download:

@@ -20,7 +20,7 @@ live_url:
 related:
 title: Video Painting
 youtube:
-imgs: "{filedir_1}video-painting-2008-002-still-3-database-ih.jpg"
+imgs: video-painting-2008-002-still-3-database-ih.jpg
 subheading:
 year2: '2008'
 download:

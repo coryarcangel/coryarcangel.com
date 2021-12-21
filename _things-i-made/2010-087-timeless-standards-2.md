@@ -15,7 +15,7 @@ live_url:
 related:
 title: Timeless Standards
 youtube:
-imgs: "{filedir_1}timeless-standards-2010-087-full-cropped-database-ropac.jpg"
+imgs: timeless-standards-2010-087-full-cropped-database-ropac.jpg
 subheading:
 year2: '2010'
 download:

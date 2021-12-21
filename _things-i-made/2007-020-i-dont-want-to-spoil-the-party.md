@@ -16,7 +16,7 @@ live_url:
 related:
 title: I don't want to spoil the party
 youtube:
-imgs: "{filedir_1}spoil-party-2007-020-install-database-ih_1.jpg"
+imgs: spoil-party-2007-020-install-database-ih_1.jpg
 subheading:
 year2: '2007'
 download:

@@ -26,7 +26,7 @@ live_url:
 related:
 title: Whitney Brochure
 youtube:
-imgs: "{filedir_1}whitney-brochure-2011-092-detail-database.jpg"
+imgs: whitney-brochure-2011-092-detail-database.jpg
 subheading:
 year2: '2011'
 download: "{filedir_4}arcangel_brochure.pdf"

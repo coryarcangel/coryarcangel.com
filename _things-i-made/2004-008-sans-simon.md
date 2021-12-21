@@ -15,7 +15,7 @@ live_url:
 related: "[40] 2004-014 Sans Simon - 2004-014-sans-simon"
 title: Sans Simon
 youtube:
-imgs: "{filedir_1}sans-simon-2004-008-database-still-2_1.jpg"
+imgs: sans-simon-2004-008-database-still-2_1.jpg
 subheading: "(Video)"
 year2: '2004'
 download:

@@ -17,7 +17,7 @@ related: |-
   [43] 2007-007 On C - 2007-007-on-c
 title: 'A Couple Thousand Short Films about Glenn Gould '
 youtube:
-imgs: "{filedir_1}glenn-gould-2008-082-full-1-press-ih.jpg"
+imgs: glenn-gould-2008-082-full-1-press-ih.jpg
 subheading: "(Publication)"
 year2: '2008'
 download:

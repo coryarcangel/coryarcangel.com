@@ -18,7 +18,7 @@ live_url:
 related:
 title: Whitney Teen Night
 youtube:
-imgs: "{filedir_1}whitney-teen-night-2004-011-still-6-database-ih.jpg"
+imgs: whitney-teen-night-2004-011-still-6-database-ih.jpg
 subheading:
 year2: '2004'
 download:

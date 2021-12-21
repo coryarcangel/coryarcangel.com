@@ -26,7 +26,7 @@ live_url:
 related:
 title: Old Friends
 youtube:
-imgs: "{filedir_1}Old_Friends_2005_011_still_database_IH.jpg"
+imgs: Old_Friends_2005_011_still_database_IH.jpg
 subheading:
 year2: '2005'
 download:

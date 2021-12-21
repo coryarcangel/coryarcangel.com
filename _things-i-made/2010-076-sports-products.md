@@ -15,7 +15,7 @@ live_url:
 related:
 title: Sports Products
 youtube:
-imgs: "{filedir_1}sports-products-2010-076-full-database-ropac_1.jpg"
+imgs: sports-products-2010-076-full-database-ropac_1.jpg
 subheading:
 year2: '2010'
 download:

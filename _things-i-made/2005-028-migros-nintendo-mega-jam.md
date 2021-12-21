@@ -18,7 +18,7 @@ live_url:
 related: "[20] 2005-001 Super Mario Movie - supermariomovie"
 title: Migros MEGA JAM
 youtube:
-imgs: "{filedir_1}migros-jam-2005-028-full-database-ih.jpg"
+imgs: migros-jam-2005-028-full-database-ih.jpg
 subheading:
 year2: '2005'
 download:

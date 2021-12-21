@@ -35,34 +35,44 @@ layout: things-i-made
 	
 	{{ page.medium }}
 	<br>
-	
+
+	{% if page.pitch %}
 	{{ page.pitch }}
 	<br>
-	
-	{{ page.ps }}
+	{% endif %}		
+
+	{% if page.dpsims %}
+	ps: {{ page.ps }}
 	<br>
-	
+	{% endif %}		
+
+	{% if page.commission %}
 	{{ page.commission }}
 	<br>
-	
+	{% endif %}		
+
+	{% if page.add_credit %}
 	{{ page.add_credit }}
 	<br>
-	
+	{% endif %}		
+
+	{% if page.dims %}
 	{{ page.dims }}
 	<br>
-	
+	{% endif %}		
+
 	{% if page.live_url %}
-	{{ page.live_url }}
+	<a href="{{ page.live_url }}">{{ page.live_url }}</a>
 	<br>
 	{% endif %}	
 
 	{% if page.download %}
-	Download: {{ page.download }}
+	{{ page.download }}
 	<br>
 	{% endif %}	
 	
 	{% if page.youtube %}
-	Utube: {{ page.youtube }}
+	{{ page.youtube }}
 	{% endif %}	
 
 

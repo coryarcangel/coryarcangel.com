@@ -20,9 +20,9 @@ related:
 title: More Detials
 youtube:
 imgs: |-
-  {filedir_1}more-details-2012-027-detail-2-database-JT-Moca.jpg
-  {filedir_1}more-details-2012-027-detail-database-PC.jpg
-  {filedir_1}more-details-2012-027-full-1-database-SK.jpg
+  more-details-2012-027-detail-2-database-JT-Moca.jpg
+  more-details-2012-027-detail-database-PC.jpg
+  more-details-2012-027-full-1-database-SK.jpg
 subheading:
 year2: '2012'
 download:

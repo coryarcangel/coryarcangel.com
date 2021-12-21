@@ -24,7 +24,7 @@ youtube: '{"id":"JjVIwJJPGws","url":"http:\/\/www.youtube.com\/embed\/JjVIwJJPGw
   www.coryarcangel.com","thumbnail_small":"http:\/\/img.youtube.com\/vi\/JjVIwJJPGws\/2.jpg","thumbnail_large":"http:\/\/img.youtube.com\/vi\/JjVIwJJPGws\/0.jpg","author":"coryarcangel","length":"222","embed":"%3Ciframe%20src%3D%22http%3A\/\/www.youtube.com\/embed\/JjVIwJJPGws%3Frel%3D0%26wmode%3Dopaque%26hd%3D1%22%20border%3D%220%22%20height%3D%22480%22%20width%3D%22640%22%3E%3C\/iframe%3E"}
 
   '
-imgs: "{filedir_1}paganini-2011-022-still-1-database-ih_1.jpg"
+imgs: paganini-2011-022-still-1-database-ih_1.jpg
 subheading:
 year2: '2011'
 download:

@@ -15,7 +15,7 @@ live_url:
 related:
 title: Untitled Translation Exercise
 youtube:
-imgs: "{filedir_1}translation-2006-002-install-6-database.jpg"
+imgs: translation-2006-002-install-6-database.jpg
 subheading:
 year2: '2006'
 download:

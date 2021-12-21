@@ -15,7 +15,7 @@ live_url:
 related:
 title: Hello World
 youtube:
-imgs: "{filedir_1}hello-world-2009-035-digital-database-ih.jpg"
+imgs: hello-world-2009-035-digital-database-ih.jpg
 subheading:
 year2: '2009'
 download:

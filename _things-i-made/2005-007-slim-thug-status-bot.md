@@ -16,7 +16,7 @@ live_url:
 related:
 title: Slim Thug Status Bot
 youtube:
-imgs: "{filedir_1}slim-thug-2005-007-screenshot-database-ih.jpg"
+imgs: slim-thug-2005-007-screenshot-database-ih.jpg
 subheading:
 year2: '2005'
 download:

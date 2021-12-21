@@ -15,7 +15,7 @@ live_url:
 related:
 title: 'Research in Motion (Kinetic Sculpture #3)'
 youtube:
-imgs: "{filedir_1}research-2010-037-full-database-banhof.jpg"
+imgs: research-2010-037-full-database-banhof.jpg
 subheading:
 year2: '2010'
 download:

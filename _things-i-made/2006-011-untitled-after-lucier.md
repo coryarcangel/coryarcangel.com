@@ -16,7 +16,7 @@ related: "[13] 2004-004 Iron Maidens “The Number of the Beast” compressed ov
   over as an mp3 666 times - maiden"
 title: Untitled After Lucier
 youtube:
-imgs: "{filedir_1}untitled-after-lucier-2006-011-still-1-database-ih.jpg"
+imgs: untitled-after-lucier-2006-011-still-1-database-ih.jpg
 subheading:
 year2: '2006'
 download:

@@ -17,7 +17,7 @@ live_url:
 related:
 title: Epic Line Rider Fail
 youtube:
-imgs: "{filedir_1}Epic-Line-Rider-Fail-2009-053-still-2-database-ih.jpg"
+imgs: Epic-Line-Rider-Fail-2009-053-still-2-database-ih.jpg
 subheading:
 year2: '2009'
 download: "{filedir_4}arcangel-epic-line-rider-fail-2009-053-video-web.mp4"

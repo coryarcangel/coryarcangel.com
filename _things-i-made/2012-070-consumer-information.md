@@ -15,7 +15,7 @@ live_url:
 related:
 title: Consumer Information
 youtube:
-imgs: "{filedir_1}consumer-information-2012-070-full-database-ih.jpg"
+imgs: consumer-information-2012-070-full-database-ih.jpg
 subheading:
 year2: '2012'
 download:

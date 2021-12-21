@@ -15,7 +15,7 @@ live_url:
 related:
 title: Sony FWD-42PV1 Plasma Burn
 youtube:
-imgs: "{filedir_1}burn-2008-057-full-database-UG.jpg"
+imgs: burn-2008-057-full-database-UG.jpg
 subheading:
 year2: '2008'
 download:

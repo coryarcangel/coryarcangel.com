@@ -19,7 +19,7 @@ title: 'Photoshop CS: 60 by 60 inches, 300 DPI, RGB, square pixels, default grad
   gradient "Transparent Stripes" (turn transparency on), mousedown y=2650 x=15450,
   mouseup y=6840'
 youtube:
-imgs: "{filedir_1}photoshop-cs-2012-092-full-database-Team.jpg"
+imgs: photoshop-cs-2012-092-full-database-Team.jpg
 subheading:
 year2: '2012'
 download:

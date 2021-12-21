@@ -54,8 +54,8 @@ related:
 title: Gif
 youtube:
 imgs: |-
-  {filedir_1}Gif_2006_019_full-2-database_qqq.jpg
-  {filedir_1}cory_arcangel_gif.gif
+  Gif_2006_019_full-2-database_qqq.jpg
+  cory_arcangel_gif.gif
 subheading:
 year2: '2006'
 download:

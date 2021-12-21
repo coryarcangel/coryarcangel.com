@@ -21,9 +21,9 @@ related:
 title: 'Composition #7'
 youtube:
 imgs: |-
-  {filedir_1}composition-7-2010-023-still-database-ih.jpg
-  {filedir_1}composition-7-2010-023-install-database-HBM.jpg
-  {filedir_1}composition-7-2010-023-detail-database-studio_1.jpg
+  composition-7-2010-023-still-database-ih.jpg
+  composition-7-2010-023-install-database-HBM.jpg
+  composition-7-2010-023-detail-database-studio_1.jpg
 subheading:
 year2: '2010'
 download: "{filedir_4}arcangel_composition_7.zip"

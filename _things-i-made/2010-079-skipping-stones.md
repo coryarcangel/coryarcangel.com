@@ -15,7 +15,7 @@ live_url:
 related:
 title: Skipping Stones
 youtube:
-imgs: "{filedir_1}skipping-stones-2010-079-full-database-ropac.jpg"
+imgs: skipping-stones-2010-079-full-database-ropac.jpg
 subheading:
 year2: '2010'
 download:

@@ -18,7 +18,7 @@ live_url:
 related:
 title: Genealogies
 youtube:
-imgs: "{filedir_1}2008_074_Genealogies_Full_Database_IH.jpg"
+imgs: 2008_074_Genealogies_Full_Database_IH.jpg
 subheading:
 year2: '2008'
 download:

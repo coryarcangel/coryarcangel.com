@@ -16,7 +16,7 @@ live_url: http://sorry.coryarcangel.com/
 related:
 title: Sorry I Haven't Posted
 youtube:
-imgs: "{filedir_1}sorry-2010-020-digital-4-database-ih.jpg"
+imgs: sorry-2010-020-digital-4-database-ih.jpg
 subheading:
 year2: '2010'
 download:

@@ -16,7 +16,7 @@ live_url:
 related:
 title: Forward Attitudes
 youtube:
-imgs: "{filedir_1}forward-attitudes-2011-118-full-database-ih_1.jpg"
+imgs: forward-attitudes-2011-118-full-database-ih_1.jpg
 subheading:
 year2: '2011'
 download:

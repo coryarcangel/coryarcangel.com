@@ -15,7 +15,7 @@ live_url:
 related:
 title: Another 5-minute Romp thru the IP
 youtube:
-imgs: "{filedir_1}romp-ip-2011-020-still-1-database-ih.jpg"
+imgs: romp-ip-2011-020-still-1-database-ih.jpg
 subheading:
 year2: '2011'
 download:

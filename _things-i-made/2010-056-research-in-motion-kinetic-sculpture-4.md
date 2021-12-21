@@ -15,7 +15,7 @@ live_url:
 related:
 title: 'Research in Motion (Kinetic Sculpture #4)'
 youtube:
-imgs: "{filedir_1}research-in-motion-2010-056-full-database-Ropac.jpg"
+imgs: research-in-motion-2010-056-full-database-Ropac.jpg
 subheading:
 year2: '2010'
 download:

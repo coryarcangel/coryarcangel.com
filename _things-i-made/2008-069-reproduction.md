@@ -17,7 +17,7 @@ related: "[2147] 2008-082 A Couple Thousand Short Films about Glenn Gould (Publi
   - 2008-082-a-couple-thousand-short-films-about-glenn-gould-publication"
 title: Reproduction
 youtube:
-imgs: "{filedir_1}reproduction-dj-set-2008-069-performance-view-excursus-3-database-ak.jpg"
+imgs: reproduction-dj-set-2008-069-performance-view-excursus-3-database-ak.jpg
 subheading:
 year2: '2012'
 download:

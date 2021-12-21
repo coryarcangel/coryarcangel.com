@@ -15,7 +15,7 @@ live_url:
 related:
 title: Timeless Standards
 youtube:
-imgs: "{filedir_1}timeless-standards-2012-058-full-1-database-Lisson.jpg"
+imgs: timeless-standards-2012-058-full-1-database-Lisson.jpg
 subheading:
 year2: '2012'
 download:

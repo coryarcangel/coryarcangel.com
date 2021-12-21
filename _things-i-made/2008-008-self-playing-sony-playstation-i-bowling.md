@@ -20,8 +20,8 @@ related: "[87] 2011-009 Various Self Playing Bowling Games - 2011-009-various-se
 title: Self Playing Sony Playstation I Bowling
 youtube:
 imgs: |-
-  {filedir_1}ps1-bowling-2008-008-still-database-ih.jpg
-  {filedir_1}ps1-bowling-2008-008-controller-database-ih_1.jpg
+  ps1-bowling-2008-008-still-database-ih.jpg
+  ps1-bowling-2008-008-controller-database-ih_1.jpg
 subheading:
 year2: '2008'
 download:

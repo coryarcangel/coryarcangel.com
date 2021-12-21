@@ -15,7 +15,7 @@ live_url:
 related:
 title: HITACHI P42H01U Plasma Burn, 2007
 youtube:
-imgs: "{filedir_1}burn-2007-033-full-1-database-unknown_1.jpg"
+imgs: burn-2007-033-full-1-database-unknown_1.jpg
 subheading:
 year2: '2007'
 download:

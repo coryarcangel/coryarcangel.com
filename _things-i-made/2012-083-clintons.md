@@ -15,7 +15,7 @@ live_url:
 related:
 title: Clintons
 youtube:
-imgs: "{filedir_1}clinton-diptych-2012-083-full-1-database-AR.jpg"
+imgs: clinton-diptych-2012-083-full-1-database-AR.jpg
 subheading:
 year2: '2012'
 download:

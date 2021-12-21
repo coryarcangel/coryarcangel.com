@@ -15,7 +15,7 @@ live_url:
 related:
 title: Real Talk
 youtube:
-imgs: "{filedir_1}real-talk-2011-132-detail-2-database-SC.jpg"
+imgs: real-talk-2011-132-detail-2-database-SC.jpg
 subheading:
 year2: '2011'
 download:

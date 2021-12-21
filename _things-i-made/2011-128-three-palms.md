@@ -15,7 +15,7 @@ live_url:
 related:
 title: Three Palms
 youtube:
-imgs: "{filedir_1}three-palms-2011-128-digital-database-ih.jpg"
+imgs: three-palms-2011-128-digital-database-ih.jpg
 subheading:
 year2: '2011'
 download:

@@ -15,7 +15,7 @@ live_url:
 related:
 title: Increased Stress
 youtube:
-imgs: "{filedir_1}increased-stress-2012-044-full-database-ih.jpg"
+imgs: increased-stress-2012-044-full-database-ih.jpg
 subheading:
 year2: '2012'
 download:

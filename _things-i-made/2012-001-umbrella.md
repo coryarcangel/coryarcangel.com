@@ -16,7 +16,7 @@ live_url:
 related:
 title: Umbrella
 youtube:
-imgs: "{filedir_1}umbrella-2012-001-digital-database-ih.jpg"
+imgs: umbrella-2012-001-digital-database-ih.jpg
 subheading:
 year2: '2012'
 download:

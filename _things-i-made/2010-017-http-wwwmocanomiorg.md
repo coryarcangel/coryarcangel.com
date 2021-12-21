@@ -16,7 +16,7 @@ live_url:
 related:
 title: http:// www. mocanomi. org/
 youtube:
-imgs: "{filedir_1}mocanomi-2010-017-screenshot-1-database-ih.jpg"
+imgs: mocanomi-2010-017-screenshot-1-database-ih.jpg
 subheading:
 year2: '2010'
 download:

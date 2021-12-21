@@ -15,7 +15,7 @@ live_url:
 related:
 title: Super Chilled
 youtube:
-imgs: "{filedir_1}super-chilled-2012-069-full-database-ih.jpg"
+imgs: super-chilled-2012-069-full-database-ih.jpg
 subheading:
 year2: '2012'
 download:

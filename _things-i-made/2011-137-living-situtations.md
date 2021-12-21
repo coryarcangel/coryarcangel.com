@@ -21,7 +21,7 @@ live_url:
 related:
 title: Living Situtations
 youtube:
-imgs: "{filedir_1}living-situations-2011-137-full-database-Team.jpg"
+imgs: living-situations-2011-137-full-database-Team.jpg
 subheading:
 year2: '2011'
 download: "{filedir_4}arcangel-living-situtations.mp3"

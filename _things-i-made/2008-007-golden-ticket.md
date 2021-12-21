@@ -17,7 +17,7 @@ live_url:
 related:
 title: Golden Ticket
 youtube:
-imgs: "{filedir_1}golden-ticket-2008-007-detail-2-database-DT_1.jpg"
+imgs: golden-ticket-2008-007-detail-2-database-DT_1.jpg
 subheading:
 year2: '2008'
 download:

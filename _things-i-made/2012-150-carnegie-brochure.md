@@ -16,7 +16,7 @@ live_url:
 related:
 title: Carnegie Brochure
 youtube:
-imgs: "{filedir_1}carnegie-brochure-booklet-2012-150-full-1-database-ih.jpg"
+imgs: carnegie-brochure-booklet-2012-150-full-1-database-ih.jpg
 subheading:
 year2: '2012'
 download:
