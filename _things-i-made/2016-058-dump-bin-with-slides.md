@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: "2016-058\tDump Bin with slides"
 url: 2016-058-dump-bin-with-slides
+title: Dump Bin with slides
 year: '2016'
 medium: Palay Display Industries folding dump table, Fuck Negativity Slides (SRF-032)
 commission:
@@ -14,7 +15,6 @@ ps:
 live_url:
 related: "[4305] [2015-164-fuck-negativity-slides-srf-032] 2015-164 Fuck Negativity
   Slides (SRF-032)"
-title: Dump Bin with slides
 youtube:
 imgs: dunks-slides-2016-058-full-database-ih.jpg
 subheading:
@@ -22,6 +22,5 @@ year2: '2016'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

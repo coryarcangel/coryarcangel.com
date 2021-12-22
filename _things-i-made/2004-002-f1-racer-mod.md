@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2004-002 F1 Racer Mod (aka Japanese Driving Game)
 url: 2004-002-f1-racer-mod
+title: F1 Racer Mod (aka Japanese Driving Game)
 year: '2004'
 medium: Modded FamiCom game cartridge.
 commission:
@@ -17,19 +18,12 @@ ps: "​This is a simple mod I did of the old Japanese Famicom driving game F1 R
   titled ‘F2′….check below for the ROM."
 live_url:
 related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
-title: F1 Racer Mod (aka Japanese Driving Game)
 youtube:
-imgs: |-
-  f1-racer-2004-002-screen-shot-1-database-ih.jpg
-  f1-racer-2004-002-cartridge-1-database-ih_1.jpg
-  f1-racer-2004-002-screen-shot-2-database-ih.jpg
-  f1-racer-2004-002-screen-shot-3-database-ih.jpg
-  f1-racer-2004-002-screen-shot-4-database-ih.jpg
+imgs: f1-racer-2004-002-screen-shot-1-database-ih.jpg,f1-racer-2004-002-cartridge-1-database-ih_1.jpg,f1-racer-2004-002-screen-shot-2-database-ih.jpg,f1-racer-2004-002-screen-shot-3-database-ih.jpg,f1-racer-2004-002-screen-shot-4-database-ih.jpg
 subheading:
 year2: '2004'
-download: arcangel-f1-racer.nes.zip
+download:
 add_credits:
-related_code: "[2195] [code-f1-racer] F1 Racer (Code)"
-! '':
+related_code: https://github.com/coryarcangel/F1-Racer
 layout: things-i-made
 ---

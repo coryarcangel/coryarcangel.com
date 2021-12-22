@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2012-149 Not Yet Titled
 url: 2012-149-not-yet-titled
+title: Not Yet Titled
 year: '2012'
 medium: Realtime tele-performance
 commission:
@@ -17,7 +18,6 @@ ps: "​This was a live performance where I watched TV in NYC, and broadcast it 
   America to an audience - the ultimate low stress / stay at home performance."
 live_url:
 related:
-title: Not Yet Titled
 youtube:
 imgs: untitled-2012-149-western-front-perf-view-2-database-BW.jpg
 subheading:
@@ -25,6 +25,5 @@ year2: '2012'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

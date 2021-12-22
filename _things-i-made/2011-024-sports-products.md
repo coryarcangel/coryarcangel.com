@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2011-024 Sports Products
 url: 2011-024-sports-products
+title: Sports Products
 year: '2011'
 medium: Painted bronze, rubber, Oakley M-Frame lenses, and display unit
 commission: 'Comissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
@@ -14,7 +15,6 @@ pitch:
 ps:
 live_url:
 related:
-title: Sports Products
 youtube:
 imgs: sports-products-2011-024-full-database-AR.jpg
 subheading:
@@ -22,6 +22,5 @@ year2: '2011'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

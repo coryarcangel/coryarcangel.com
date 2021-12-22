@@ -1,0 +1,45 @@
+---
+layout: shows
+---
+<!doctype html>
+<html>
+  <head>
+	{% include meta.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+	Cory Arcangel
+	<br>
+	¯\_(ツ)_/¯
+	<br>
+	<a href="../shows/">↩ Shows </a>
+  	{% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}"><</a>
+  	{% endif %}
+  	{% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">></a>
+  	{% endif %}	
+	<br>
+    {{ page.venue }}
+	<br>
+    {{ page.title }}
+    <br>
+    {{ page.year }}
+    <br>
+	{% if page.pitch %}
+	{{ page.pitch }}
+	<br>
+	{% endif %}	
+	{% if page.ps %}
+	{{ page.ps }}
+	<br>
+	{% endif %}		
+	{% assign images = page.imgs | split: ',' %}
+	{% for image in images %}
+  	<img src="../assets/imgs/{{ image }}">
+  	<br>
+	{% endfor %}
+	{% include puke.html %}
+	©
+  </body>
+</html>

@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2005-032 Cory Arcangel (Monograph)
 url: 2006-032-cory-arcangel-monograph
+title: 'Cory Arcangel '
 year: '2006'
 medium:
 commission:
@@ -13,7 +14,6 @@ pitch:
 ps:
 live_url:
 related:
-title: 'Cory Arcangel '
 youtube:
 imgs: 2005-032-migros-monograph-full-database-ih.jpg
 subheading: "(Monograph)"
@@ -21,6 +21,5 @@ year2: '2006'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

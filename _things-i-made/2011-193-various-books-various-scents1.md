@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2011-193 Various Books, Various Scents
 url: 2011-193-various-books-various-scents1
+title: Various Books, Various Scents
 year: '2011'
 medium: Books paired with perfume on table.
 commission:
@@ -22,7 +23,6 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
   Montana "
 live_url:
 related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
-title: Various Books, Various Scents
 youtube:
 imgs: various-books-scents-2011-193-full-database-Team.jpg
 subheading:
@@ -30,6 +30,5 @@ year2: '2011'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

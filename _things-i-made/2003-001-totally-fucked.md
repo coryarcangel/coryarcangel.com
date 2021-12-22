@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2003-001 Totally Fucked
 url: 2003-001-totally-fucked
+title: Totally Fucked
 year: '2003'
 medium: Modded Super Mario Brothers cartridge
 commission:
@@ -22,17 +23,12 @@ ps: "​This one is an infinite loop of Mario stuck on a cube. A year later I cr
   file. Thx again guys!&nbsp;"
 live_url:
 related: "[20] [2005-001-super-mario-movie] 2005-001 Super Mario Movie"
-title: Totally Fucked
 youtube:
-imgs: |-
-  fucked-2003-001-cartridge-database-ih.jpg
-  fucked-2003-001-still-2-database-ih.jpg
-  fucked-2003-001-still-3-database-ih.jpg
+imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database-ih.jpg,fucked-2003-001-still-3-database-ih.jpg
 subheading:
 year2: '2003'
-download: totally-fucked-2003-001-master.nes.zip
+download:
 add_credits:
-related_code: "[4511] [totally-fucked] Totally Fucked (Code)"
-! '':
+related_code: https://github.com/coryarcangel/Totally-Fucked
 layout: things-i-made
 ---

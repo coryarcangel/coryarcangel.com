@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2005-024 Contagious Media Showdown
 url: 2005-024-contagious-media-showdown
+title: Contagious Media Showdown
 year: '2005'
 medium: Event
 commission:
@@ -16,7 +17,6 @@ ps: Random facts --> this is kinda related to the Huffington Post, LOL, seriousl
   here</a>.&nbsp;
 live_url: http://showdown.contagiousmedia.org/
 related:
-title: Contagious Media Showdown
 youtube:
 imgs: Contagious_Media_Showdown_2005_024_screenshot_database_IH.jpg
 subheading:
@@ -24,6 +24,5 @@ year2: '2005'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2015-004 First Class
 url: 2015-004-first-class
+title: First Class
 year: '2015'
 medium: 'Foam pool noodles, necklace, sock, armbands, sleeve jewelry '
 commission:
@@ -13,16 +14,12 @@ pitch:
 ps:
 live_url:
 related:
-title: First Class
 youtube:
-imgs: |-
-  first-class-2015-004-full-database-JH.jpg
-  first-class-2015-004-detail-1-database-JH.jpg
+imgs: first-class-2015-004-full-database-JH.jpg,first-class-2015-004-detail-1-database-JH.jpg
 subheading:
 year2: '2015'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

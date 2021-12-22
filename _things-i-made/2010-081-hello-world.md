@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2010-081 Hello World
 url: 2010-081-hello-world
+title: Hello World
 year: '2010'
 medium: powder coated CNC bent stainless steel
 commission:
@@ -13,14 +14,12 @@ pitch:
 ps:
 live_url:
 related:
-title: Hello World
 youtube:
 imgs: hello-world-2010-081-full-database-ropac.jpg
 subheading:
 year2: '2010'
 download:
 add_credits:
-related_code: "[2202] Desktop Wireform (Code) - desktop-wireform-code"
-! '':
+related_code: https://github.com/coryarcangel/Desktop-Wireform
 layout: things-i-made
 ---

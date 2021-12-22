@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2008-079 Sans Comic
 url: 2008-079-sans-comic
+title: Sans Comic
 year: '2008'
 medium: PDF
 commission:
@@ -16,7 +17,6 @@ ps: "​Made as part of Dexter Sinister’s True Mirror reflections on the 2008 
   font. LOL. :)"
 live_url:
 related: "[94] [2010-017-http-www.mocanomi.org] 2010-017 http://www.mocanomi.org/"
-title: Sans Comic
 youtube:
 imgs: 2008_079_Sans_Comic_Full_Database_IH_1.jpg
 subheading:
@@ -24,6 +24,5 @@ year2: '2008'
 download: arcangel-sans-comic.pdf
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

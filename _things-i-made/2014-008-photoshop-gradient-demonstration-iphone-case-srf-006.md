@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2014-008 Photoshop Gradient Demonstration iPhone Case (SRF-006)
 url: 2014-008-photoshop-gradient-demonstration-iphone-case-srf-006
+title: Photoshop Gradient Demonstration iPhone Case (SRF-006)
 year: '2014'
 medium: iPhone Case
 commission:
@@ -14,7 +15,6 @@ pitch: Plastic iPhone 5 case printed with an image from the Photoshop Gradient D
 ps:
 live_url:
 related:
-title: Photoshop Gradient Demonstration iPhone Case (SRF-006)
 youtube:
 imgs: srf-006-iphone-case-2014-008-full-1-database-ih.jpg
 subheading:
@@ -22,6 +22,5 @@ year2: '2014'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

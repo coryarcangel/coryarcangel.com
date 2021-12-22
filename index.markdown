@@ -2,17 +2,15 @@
 layout: default
 title: Home
 ---
-Cory Arcangel  
-¯\_(ツ)_/¯  
 Irl: Stavanger, Norway  
+[Things I Made](things-i-made)  
+[Shows](shows)  
 Youtube: [1](https://www.youtube.com/user/coryarcangel), 
 [2](https://www.youtube.com/channel/UC_LfMr7ffUG9q5M3UuxmF0Q), 
 [3](https://www.youtube.com/channel/UCYBrqFro8YOq5IPGSoVQycg)  
 Twitter: [1](https://twitter.com/cory_arcangel), [2](https://twitter.com/RodeoComputer), [3](https://twitter.com/SolitaireWeekly)  
 Are.na:️ [Me](https://www.are.na/cory-arcangel), eg. [Nice pics](https://www.are.na/cory-arcangel/nice-pics), 
 [Wish I Made This](https://www.are.na/cory-arcangel/wish-i-made-this), etc, etc  
-Old site [here](https://conifer.rhizome.org/cory_arcangel/coryarcangelcom/20211205113448/https://coryarcangel.com/) :-/ 
-
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://coryarcangel.us4.list-manage.com/subscribe/post?u=2cf1d91d0205ec3dbbf82a5f5&amp;id=fa33c68331" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -44,8 +42,7 @@ Old site [here](https://conifer.rhizome.org/cory_arcangel/coryarcangelcom/202112
     </div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
 
-<img src="assets/puke.png" class="fix"/>
+
 

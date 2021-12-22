@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2013-136 The Source Issue 5 Space Invader  (SRF-20)
 url: 2013-136-the-source-issue-5-space-invader
+title: 'The Source Issue #5: Space Invader (SRF-20)'
 year: '2015'
 medium: Zine
 commission: Creative Capital
@@ -15,14 +16,12 @@ pitch: Source code for “Space Invader” Atari mod (a collaboration with RSG) 
 ps:
 live_url:
 related: "[14] [2004-001-space-invader] 2004-001 Space Invader"
-title: 'The Source Issue #5: Space Invader (SRF-20)'
 youtube:
 imgs: source-space-2013-136-detail-01-database-ih.jpg
 subheading:
 year2: '2015'
 download: the-source-space-invader-2013-168-digital-master-ih.pdf
 add_credits:
-related_code: "[4212] [code-space-invader] Space Invader (Code)"
-! '':
+related_code: https://github.com/coryarcangel/Space-Invader
 layout: things-i-made
 ---

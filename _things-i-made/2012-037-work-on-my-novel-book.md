@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2012-037 Work On My Novel (book)
 url: 2012-037-work-on-my-novel-book
+title: Working On My Novel
 year: '2014'
 medium: Fiction novel
 commission:
@@ -18,19 +19,12 @@ live_url: http://novel.coryarcangel.com/
 related: |-
   [54] [2009-032-working-on-my-novel] 2009-032 Working On My Novel (Twitter Search)
   [2205] [2012-066-working-on-my-novel] 2012-066 Working On My Novel (Twitter Feed)
-title: Working On My Novel
 youtube:
-imgs: |-
-  working-on-my-novel-2012-037-full-01-database-ih.jpg
-  working-on-my-novel-2012-037-full-02-database-ih.jpg
-  working-on-my-novel-2012-037-full-04-database-ih.jpg
-  working-on-my-novel-2012-037-full-03-database-ih.jpg
-  working-on-my-novel-2012-037-full-05-database-ih.jpg
+imgs: working-on-my-novel-2012-037-full-01-database-ih.jpg,working-on-my-novel-2012-037-full-02-database-ih.jpg,working-on-my-novel-2012-037-full-04-database-ih.jpg,working-on-my-novel-2012-037-full-03-database-ih.jpg,working-on-my-novel-2012-037-full-05-database-ih.jpg
 subheading: "(Book)"
 year2: '2014'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

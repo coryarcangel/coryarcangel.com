@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2012 068 Solitaire Weekly
 url: 2012-068-solitaire-weekly
+title: Solitaire Weekly
 year: '2012'
 medium: 'Webisode series, Tumblr, Youtube, Facebook, & Twitter accounts. '
 commission:
@@ -20,7 +21,6 @@ related: |-
   [4130] [2014-032-so-shines-a-good-deed-in-a-weary-world] 2014-032 So shines a good deed in a weary world
   [4131] [2014-31-max-perks] 2014--31 Max Perks
   [4132] [2014-030-ideas-in-action] 2014-030 Ideas In Action
-title: Solitaire Weekly
 youtube:
 imgs: solitaire-weekly-2012-068-full-database-ih.jpg
 subheading:
@@ -28,6 +28,5 @@ year2: '2013'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

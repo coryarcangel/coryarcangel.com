@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2014-128 Behavioral Targeting
 url: 2014-128-behavioral-targeting
+title: Behavioral Targeting
 year: '2014'
 medium: Search engine optimized institutional press release
 commission:
@@ -13,19 +14,12 @@ pitch: "​Seo’d press release for the “Darknet” show at Kunst Halle Sankt
 ps:
 live_url: http://www.kunsthallesanktgallen.ch/en/exhibitions/current.html
 related:
-title: Behavioral Targeting
 youtube:
-imgs: |-
-  behavorial-targeting-2014-128-detail-3-database-ih.jpg
-  behavorial-targeting-2014-128-detail-2-database-ih.jpg
-  behavorial-targeting-2014-128-detail-1-database-ih.jpg
-  behavorial-targeting-2014-128-detail-4-database-ih.jpg
-  behavorial-targeting-2014-128-detail-5-database-ih.jpg
+imgs: behavorial-targeting-2014-128-detail-3-database-ih.jpg,behavorial-targeting-2014-128-detail-2-database-ih.jpg,behavorial-targeting-2014-128-detail-1-database-ih.jpg,behavorial-targeting-2014-128-detail-4-database-ih.jpg,behavorial-targeting-2014-128-detail-5-database-ih.jpg
 subheading:
 year2: '2014'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

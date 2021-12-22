@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2011-099 Hello World
 url: 2011-099-hello-world
+title: Hello World
 year: '2011'
 medium: CNC bent stainless steel with electro-polish finish
 commission:
@@ -13,14 +14,12 @@ pitch:
 ps:
 live_url:
 related:
-title: Hello World
 youtube:
 imgs: hello-world-2011-099-full-database-Team.jpg
 subheading:
 year2: '2011'
 download:
 add_credits:
-related_code: "[2202] Desktop Wireform (Code) - desktop-wireform-code"
-! '':
+related_code: https://github.com/coryarcangel/Desktop-Wireform
 layout: things-i-made
 ---

@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2009-046 What a Misunderstanding!
 url: 2009-046-what-a-misunderstanding-art
+title: What a Misunderstanding!
 year: '2009'
 medium: Tumblr/artist software
 commission:
@@ -15,14 +16,12 @@ ps:
 live_url: http://www.what-a-misunderstanding.com/
 related: "[4409] [2013-141-the-source-issue-10-what-a-misunderstanding] 2013-141 The
   Source  Issue #10: What a misunderstanding!"
-title: What a Misunderstanding!
 youtube:
 imgs: what-a-mistunderstanding-2009-046-digital-database-ih.jpg
 subheading:
 year2: '2014'
 download:
 add_credits:
-related_code: "[2201] [code-what-a-misunderstanding] What A Misunderstanding! (Code)"
-! '':
+related_code: https://github.com/coryarcangel/What-a-Misunderstanding
 layout: things-i-made
 ---

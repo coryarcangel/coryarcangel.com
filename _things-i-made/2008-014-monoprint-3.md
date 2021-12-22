@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2008-014 Monoprint 3
 url: 2008-014-monoprint-3
+title: Monoprint 3
 year: '2008'
 medium: Unique three-color process silkscreen on custom watermarked paper
 commission:
@@ -13,7 +14,6 @@ pitch:
 ps:
 live_url:
 related:
-title: Monoprint 3
 youtube:
 imgs: Monoprint-3-2008-014-full-press-ih.jpg
 subheading:
@@ -21,6 +21,5 @@ year2: '2008'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

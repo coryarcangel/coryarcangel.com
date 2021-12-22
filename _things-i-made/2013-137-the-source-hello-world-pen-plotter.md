@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2013-137 The Source Issue 6  Hello World Pen Plotter (SRF-22)
 url: 2013-137-the-source-hello-world-pen-plotter
+title: 'The Source Issue #6: HP Pen Plotter Hello World (SRF-22)'
 year: '2015'
 medium: Zine
 commission: Creative Capital
@@ -21,15 +22,12 @@ related: |-
   [59] [2009-036-hello-world] 2009-036 Hello World
   [60] [2009-037-hello-world] 2009-037 Hello World
   [149] [2010-081-hello-world] 2010-081 Hello World
-title: 'The Source Issue #6: HP Pen Plotter Hello World (SRF-22)'
 youtube:
 imgs: source-hp-2013-137-detail-database-ih.jpg
 subheading:
 year2: '2015'
 download: the-source-hp-hello-world-2013-137-digital-master-ih.pdf
 add_credits:
-related_code: "[2200] [code-hp-pen-plotter-hello-world] Hp-Pen-Plotter-Hello-World
-  (Code)"
-! '':
+related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 layout: things-i-made
 ---

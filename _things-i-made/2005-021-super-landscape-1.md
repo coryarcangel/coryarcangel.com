@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: '2005-021 Super Landscape #1'
 url: 2005-021-super-landscape-1
+title: 'Super Landscape #1'
 year: '2005'
 medium: NES and Famicom Cartridge mods
 commission:
@@ -19,7 +20,6 @@ related: |-
   [15] [2004-002-f1-racer-mod] 2004-002 F1 Racer Mod (aka Japanese Driving Game)
   [4228] [2013-196-quickoffice] 2013-196 QuickOffice
   [4281] [2015-068-quickoffice] 2015-068 QuickOffice
-title: 'Super Landscape #1'
 youtube:
 imgs: super-landscape-2005-021-install-database-migros-unknown.jpg
 subheading:
@@ -27,6 +27,5 @@ year2: '2005'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

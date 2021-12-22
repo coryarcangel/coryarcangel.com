@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2003-002 Data Diaries
 url: 2003-002-data-diaries
+title: Data Diaries
 year: '2003'
 medium: 64 Videos
 commission: Commissioned by New Radio and Performing Arts, Inc., (aka Ether-Ore),
@@ -16,7 +17,6 @@ ps: Rhizome got this working again! OMG. Info <a href="https://anthology.rhizome
   target="_blank">here</a>.&nbsp;
 live_url: http://archive.rhizome.org/anthology/data-diaries.html
 related:
-title: Data Diaries
 youtube:
 imgs: data-diaries-2003-002-still-1-database-ih.jpg
 subheading:
@@ -24,6 +24,5 @@ year2: '2003'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

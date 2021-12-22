@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2020-035 NYARTIST
 url: 2020-035-nyartist
+title: NYARTIST
 year: '2020'
 medium: Cassette tape.
 commission:
@@ -19,7 +20,6 @@ ps: NYARTIST is documentation of a project by Cory Arcangel which was exhibited 
   14.
 live_url:
 related: "[4476] [2018-134] 2018-134 NYARTIST"
-title: NYARTIST
 youtube:
 imgs: nyartist-2020-035-db-ih--UHyo.jpg
 subheading:
@@ -27,6 +27,5 @@ year2: '2020'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

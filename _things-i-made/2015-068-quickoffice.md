@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2015-068 QuickOffice
 url: 2015-068-quickoffice
+title: QuickOffice
 year: '2015'
 medium: 'Samsung Galaxy Tab 3 (SM-T310), three BLU Advance 4.0 3G (A260a) cell phones,
   Newisland N9000 Quad Core H20 cell phone, cell phone display security devices, table,
@@ -22,16 +23,12 @@ related: |-
   [185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1
   [4173] [2014-121-room-for-squares] 2014-121 Room for Squares
   [4228] [2013-196-quickoffice] 2013-196 QuickOffice
-title: QuickOffice
 youtube:
-imgs: |-
-  quickoffice-2015-068-install-database-CK.jpg
-  quickoffice-2015-068-install-detail-database-2-CK.jpg
+imgs: quickoffice-2015-068-install-database-CK.jpg,quickoffice-2015-068-install-detail-database-2-CK.jpg
 subheading:
 year2: '2015'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

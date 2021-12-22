@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2011-092 Whitney Brochure
 url: 2011-092-whitney-brochure
+title: Whitney Brochure
 year: '2011'
 medium: Brochure
 commission:
@@ -24,14 +25,12 @@ ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This
   power to whoever took them and kept them. :)
 live_url:
 related:
-title: Whitney Brochure
 youtube:
 imgs: whitney-brochure-2011-092-detail-database.jpg
 subheading:
 year2: '2011'
-download: "{filedir_4}arcangel_brochure.pdf"
+download: arcangel_brochure.pdf
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

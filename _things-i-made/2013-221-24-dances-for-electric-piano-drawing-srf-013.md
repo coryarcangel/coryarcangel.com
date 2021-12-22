@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2013-221 24 Dances for Electric Piano (Drawing) (SRF-013)
 url: 2013-221-24-dances-for-electric-piano-drawing-srf-013
+title: 24 Dances for Electric Piano (SRF-013)
 year: '2013'
 medium: Pencil on paper
 commission:
@@ -15,7 +16,6 @@ ps:
 live_url:
 related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances For
   The Electric Piano (SRF-001)"
-title: 24 Dances for Electric Piano (SRF-013)
 youtube:
 imgs: 24-dances-drawing-2013-221-full-1-database-ih.jpg
 subheading: "(Drawing)"
@@ -23,6 +23,5 @@ year2: '2014'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

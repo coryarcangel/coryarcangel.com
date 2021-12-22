@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2014-121 Room for Squares
 url: 2014-121-room-for-squares
+title: Room for Squares
 year: '2014'
 medium: "(From left to right) Store Supply Warehouse® Maple Melamine Horizontal Slat-wall
   Panels, Store Supply Warehouse® Maple 12-inch Rotating Slat-wall Tower, Gaylord®
@@ -59,27 +60,12 @@ related: |-
   [4228] [2013-196-quickoffice] 2013-196 QuickOffice
   [4281] [2015-068-quickoffice] 2015-068 QuickOffice
   [4304] [2016-117-dump-bin] 2016-117 Dump Bin
-title: Room for Squares
 youtube:
-imgs: |-
-  room-for-squares-2014-121-09-install-team-2-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-5-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-9-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-7-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-10-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-13-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-11-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-14-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-15-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-19-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-22-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-21-database-jm.jpg
-  room-for-squares-2014-121-09-install-team-20-database-jm.jpg
+imgs: room-for-squares-2014-121-09-install-team-2-database-jm.jpg,room-for-squares-2014-121-09-install-team-5-database-jm.jpg,room-for-squares-2014-121-09-install-team-9-database-jm.jpg,room-for-squares-2014-121-09-install-team-7-database-jm.jpg,room-for-squares-2014-121-09-install-team-10-database-jm.jpg,room-for-squares-2014-121-09-install-team-13-database-jm.jpg,room-for-squares-2014-121-09-install-team-11-database-jm.jpg,room-for-squares-2014-121-09-install-team-14-database-jm.jpg,room-for-squares-2014-121-09-install-team-15-database-jm.jpg,room-for-squares-2014-121-09-install-team-19-database-jm.jpg,room-for-squares-2014-121-09-install-team-22-database-jm.jpg,room-for-squares-2014-121-09-install-team-21-database-jm.jpg,room-for-squares-2014-121-09-install-team-20-database-jm.jpg
 subheading:
 year2: '2014'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

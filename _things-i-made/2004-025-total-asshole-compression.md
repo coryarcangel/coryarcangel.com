@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2004-025 Total Asshole Compression
 url: 2004-025-total-asshole-compression
+title: Total Asshole Compression
 year: '2004'
 medium: Sharpie on CD-Rom and AOL booklets
 commission:
@@ -19,7 +20,6 @@ related: |-
   [13] [2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over] 2004-004 Iron Maidens “The Number of the Beast” compressed over and over as an mp3 666 times
   [18] [2004-010-total-asshole-compression] 2004-010 T.A.C. - Total Asshole Compression
   [43] [2007-007-on-c] 2007-007 On C
-title: Total Asshole Compression
 youtube:
 imgs: tac-booklet-2005-025-full-database-ih.jpg
 subheading: Booklet
@@ -27,6 +27,5 @@ year2: '2005'
 download:
 add_credits: Radical Software Group
 related_code:
-! '':
 layout: things-i-made
 ---

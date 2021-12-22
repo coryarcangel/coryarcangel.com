@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2009-032 Working On My Novel (Twitter Search)
 url: 2009-032-working-on-my-novel
+title: Working On My Novel
 year: '2009'
 medium: Social network search
 commission:
@@ -17,7 +18,6 @@ live_url: https://web.archive.org/web/20110903012902/http://www.buzzfeed.com/arc
 related: |-
   [2205] [2012-066-working-on-my-novel] 2012-066 Working On My Novel (Twitter Feed)
   [4127] [2012-037-work-on-my-novel-book] 2012-037 Work On My Novel (book)
-title: Working On My Novel
 youtube:
 imgs: working-on-my-novel-2009-032-digital-database-1-ih.jpg
 subheading: "(Twitter Search)"
@@ -25,6 +25,5 @@ year2: '2009'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

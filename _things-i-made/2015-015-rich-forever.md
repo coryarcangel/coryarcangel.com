@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2015-015 Rich Forever
 url: 2015-015-rich-forever
+title: Rich Forever
 year: '2015'
 medium: Foam pool noodle, blue Beats Solo HD On-Ear Headphones, iPod Nano and charger,
   iPod Nano 7 Shocksock Reflective Sports Armband, Lil Wayne Bravado wristband, Nike
@@ -16,16 +17,12 @@ pitch:
 ps:
 live_url:
 related:
-title: Rich Forever
 youtube:
-imgs: |-
-  rich-forever-2015-015-full-database-team-JL.jpg
-  rich-forever-2015-015-detail-database-EK.jpg
+imgs: rich-forever-2015-015-full-database-team-JL.jpg,rich-forever-2015-015-detail-database-EK.jpg
 subheading:
 year2: '2015'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

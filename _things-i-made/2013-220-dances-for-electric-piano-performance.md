@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2013-220 Dances for Electric Piano (Performance)
 url: 2013-220-dances-for-electric-piano-performance
+title: 'Dances for Electric Piano '
 year: '2013'
 medium: Performance for Korg M1, PA, pianist, concert hall
 commission:
@@ -19,17 +20,12 @@ related: |-
   [4140] [2013-221-24-dances-for-electric-piano-drawing-srf-013] 2013-221 24 Dances for Electric Piano (Drawing) (SRF-013)
   [4194] [2013-218-24-dances-for-the-electric-piano] 2013-218 24 Dances For The Electric Piano (Composition)
   [4195] [2013-24-dances-for-the-electric-piano] 2013 ??? 24 Dances For The Electric Piano (Sound)
-title: 'Dances for Electric Piano '
 youtube:
-imgs: |-
-  24-dances-2013-220-Berlin-02-database-SD.jpg
-  24-dances-2013-220-MET-01-database-ih.jpg
-  24-dances-2013-220-ICA-London-2.JPG
+imgs: 24-dances-2013-220-Berlin-02-database-SD.jpg,24-dances-2013-220-MET-01-database-ih.jpg,24-dances-2013-220-ICA-London-2.JPG
 subheading: "(Performance) "
 year2: '2015'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

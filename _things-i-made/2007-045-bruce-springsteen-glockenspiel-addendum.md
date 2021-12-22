@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2007-045 The Bruce Springsteen 'Born to Run' Glockenspiel Addendum (CD ROM)
 url: 2007-045-bruce-springsteen-glockenspiel-addendum
+title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 year: '2007'
 medium: Audio CDs. Unlimited edition.
 commission:
@@ -17,7 +18,6 @@ ps: "​Cd’s given away with a mix version of my composition The Bruce Springs
   would eventually get circulated as Bruce’s record. :)"
 live_url:
 related:
-title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 youtube:
 imgs: born-to-run-2007-045-cd-install-database_1.jpg
 subheading: "(CD Edition)"
@@ -25,6 +25,5 @@ year2: '2010'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

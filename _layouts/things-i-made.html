@@ -1,90 +1,79 @@
 ---
 layout: things-i-made
 ---
-
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
+	{% include meta.html %}
     <title>{{ page.title }}</title>
-    <style>
-      body 
-      {
-        font-family: 'Tangerine', serif;
-        font-size: 36px;
-      }
-      p 
-      {
-		margin: 0px;
-		}
-	.fix
-	{
-    position:fixed;
-    bottom:5%;
-    right:5%;
-    width:15%;
-	}		
-	 </style>
   </head>
   <body>
+	Cory Arcangel
+	<br>
+	¯\_(ツ)_/¯
+	<br>
+	<a href="../things-i-made/">↩ Things I Made</a>  
+  	{% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}"><</a>
+  	{% endif %}
+  	{% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">></a>
+  	{% endif %}
+	<br>
     {{ page.title }}
     <br>
-    
     {{ page.year }}
-	<br>
-	
+    <br>
+	{% if page.medium %}
 	{{ page.medium }}
 	<br>
-
+	{% endif %}	
+	{% if page.dims %}
+	{{ page.dims }}
+	<br>
+	{% endif %}	
 	{% if page.pitch %}
 	{{ page.pitch }}
 	<br>
 	{% endif %}		
-
-	{% if page.dpsims %}
+	{% if page.ps %}
 	ps: {{ page.ps }}
 	<br>
 	{% endif %}		
-
 	{% if page.commission %}
-	{{ page.commission }}
+	commission: {{ page.commission }}
 	<br>
 	{% endif %}		
-
 	{% if page.add_credit %}
-	{{ page.add_credit }}
+	w/ {{ page.add_credit }}
 	<br>
-	{% endif %}		
-
-	{% if page.dims %}
-	{{ page.dims }}
-	<br>
-	{% endif %}		
-
+	{% endif %}			
 	{% if page.live_url %}
 	<a href="{{ page.live_url }}">{{ page.live_url }}</a>
 	<br>
 	{% endif %}	
-
 	{% if page.download %}
-	{{ page.download }}
+	<a href="../downloads/{{ page.download }}">{{ page.download }}</a>
 	<br>
 	{% endif %}	
-	
 	{% if page.youtube %}
-	{{ page.youtube }}
+	<a href="{{ page.youtube }}">{{ page.youtube }}</a>
+	<br>
 	{% endif %}	
-
-
-
-
-	{% assign images = page.imgs | newline_to_br | split: '<br />' %}
+	{% if page.related_code %}
+	<a href="{{ page.related_code }}">{{ page.related_code }}</a>
+	<br>
+	{% endif %}	
+	{% if page.imgs %}
+	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
-  	<img src="{{ site.url }}/assets/imgs/{{ image }}">
+  	<img src="../assets/imgs/{{ image }}">
 	{% endfor %}
-	
-
-	
+	{% else %}	
+	<img src="../assets/x.svg" width=1080>
+	{% endif %}	
+	<br>
 	{% include puke.html %}
+	©
   </body>
 </html>

@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2011-156 The AUDMCRS Underground Dance Music Collection of Recorded Sound
 url: 2011-156-audmcrs-installation
+title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2011'
 medium: '800+ trance records, MARC formatted database. '
 commission:
@@ -20,31 +21,12 @@ live_url: http://audmcrs.coryarcangel.com/
 related: |-
   [2228] [2012-065-audmcrs-essay] 2012-065 AUDMCRS Essay
   [2242] [2013-063-audmcrs-website] 2013-063 AUDMCRS website
-title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 youtube:
-imgs: |-
-  carnegie-pittsburgh-2012-09-install-14-database-TL.jpg
-  AUDMCRS-2011-156-detail-Heart-02-database-SM.jpg
-  AUDMCRS-2011-156-detail-Heart-01-database-SM.jpg
-  AUDMCRS-2011-156-binders-database-ih.jpg
-  AUDMCRS-2011-156-detail-Heart-03-database-SM.jpg
-  AUDMCRS-2011-156-detail-Heart-05-database-SM.jpg
-  AUDMCRS-2011-156-detail-Heart-04-database-SM.jpg
-  AUDMCRS-2011-156-install-Carnegie-02-database-TL.jpg
-  AUDMCRS-2011-156-install-DHC-01-database-RMT.jpg
-  AUDMCRS-2011-156-install-Carnegie-01-database-TL.jpg
-  AUDMCRS-2011-156-install-DHC-02-database-RMT.jpg
-  AUDMCRS-2011-156-install-Heart-01-database-SM.jpg
-  AUDMCRS-2011-156-install-Heart-02-database-SM.jpg
-  AUDMCRS-2011-156-install-ropac-01-database.jpg
-  AUDMCRS-2011-156-install-ropac-02-database.jpg
-  AUDMCRS-2011-156-install-ropac-03-database.jpg
-  AUDMCRS-2011-156-install-ropac-04-database.jpg
+imgs: carnegie-pittsburgh-2012-09-install-14-database-TL.jpg,AUDMCRS-2011-156-detail-Heart-02-database-SM.jpg,AUDMCRS-2011-156-detail-Heart-01-database-SM.jpg,AUDMCRS-2011-156-binders-database-ih.jpg,AUDMCRS-2011-156-detail-Heart-03-database-SM.jpg,AUDMCRS-2011-156-detail-Heart-05-database-SM.jpg,AUDMCRS-2011-156-detail-Heart-04-database-SM.jpg,AUDMCRS-2011-156-install-Carnegie-02-database-TL.jpg,AUDMCRS-2011-156-install-DHC-01-database-RMT.jpg,AUDMCRS-2011-156-install-Carnegie-01-database-TL.jpg,AUDMCRS-2011-156-install-DHC-02-database-RMT.jpg,AUDMCRS-2011-156-install-Heart-01-database-SM.jpg,AUDMCRS-2011-156-install-Heart-02-database-SM.jpg,AUDMCRS-2011-156-install-ropac-01-database.jpg,AUDMCRS-2011-156-install-ropac-02-database.jpg,AUDMCRS-2011-156-install-ropac-03-database.jpg,AUDMCRS-2011-156-install-ropac-04-database.jpg
 subheading: "(Installation)"
 year2: '2012'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

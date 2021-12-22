@@ -4,13 +4,14 @@ site: '1'
 type: '2'
 long_id: 2005-011 Old Friends
 url: 2005-011-old-friends
+title: Old Friends
 year: '2005'
 medium: Modded DVD
 commission:
 add_credit:
 dims:
-pitch: "<p>​Simon and Garfunkel DVD where chapter markers have been moved to places
-  where one can see tension between the two.</p>"
+pitch: "​Simon and Garfunkel DVD where chapter markers have been moved to places where
+  one can see tension between the two."
 ps: "<p>​This isn't exactly a video, but actually a modified DVD. The only difference
   between this DVD, and the one you can (or could) buy in stores, is that the chapter
   markers have been moved on this one to places where you can see Simon and Garfunkel
@@ -21,10 +22,9 @@ ps: "<p>​This isn't exactly a video, but actually a modified DVD. The only dif
   chapter markers. It took me all summer to figure out how to re-program a DVD, and
   to this day this project is one of the stupider things I ever spent an insane amount
   of time and energy doing. Especially since it was virtually impossible to show in
-  any traditional sense (hence comedy clubs).&nbsp; </p>"
+  any traditional sense (hence comedy clubs).&nbsp; "
 live_url:
 related:
-title: Old Friends
 youtube:
 imgs: Old_Friends_2005_011_still_database_IH.jpg
 subheading:
@@ -32,6 +32,5 @@ year2: '2005'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

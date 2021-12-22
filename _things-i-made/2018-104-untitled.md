@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2018-104 Untitled
 url: 2018-104-untitled
+title: Untitled
 year: '2018'
 medium: Raspberry on Somerset paper
 commission:
@@ -13,7 +14,6 @@ pitch:
 ps:
 live_url:
 related:
-title: Untitled
 youtube:
 imgs: untitled-2018-104-db-ih--2kAV.jpg
 subheading:
@@ -21,6 +21,5 @@ year2: '2018'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---

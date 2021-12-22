@@ -4,6 +4,7 @@ site: '1'
 type: '2'
 long_id: 2012-160 Euphoria
 url: 2012-160-euphoria
+title: Euphoria
 year: '2012'
 medium: Acer laptop running Light O Rama S3 Software Suite Pro, three Light O Rama
   CTB16PC controllers, one Cosmic Color Ribbon LED Strip and controller, eight DMX512
@@ -16,7 +17,6 @@ pitch: "​Christmas Light animation......."
 ps:
 live_url: http://www.dailymotion.com/video/x1z2ci8_arcangel-surfware-yolo-pop-up-shop-holiday-inn_creation#from=embediframe
 related:
-title: Euphoria
 youtube:
 imgs: yolo-2014-03-install-008-database-DG.jpg
 subheading:
@@ -24,6 +24,5 @@ year2: '2014'
 download:
 add_credits:
 related_code:
-! '':
 layout: things-i-made
 ---
