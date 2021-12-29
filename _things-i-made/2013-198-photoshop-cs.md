@@ -9,7 +9,6 @@ title: 'Photoshop CS: 25800 by 9400 centimeters, 30 DPI, RGB, square pixels, def
 year: '2013'
 medium: Carpet
 commission:
-add_credit: 'Produced by egg carpets, Denmark. '
 dims:
 pitch: "​... digital carpet ... (!!!)"
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: gradient-carpet-2013-198-install-Heart-01-database-SM.jpg,gradient-carpet-2013-198-detail-Heart-01-database-SM.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: 'Produced by egg carpets, Denmark. '
 add_credits:
 related_code:
 layout: things-i-made

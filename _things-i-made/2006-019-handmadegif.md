@@ -8,7 +8,6 @@ title: Gif
 year: '2006'
 medium: 'Pen on paper. '
 commission:
-add_credit:
 dims:
 pitch: "​Gif file written by hand. "
 ps: "<p>​Handmade Gif is a Gif file I wrote by hand in binary. This of course is pointless,
@@ -32,8 +31,9 @@ related:
 youtube:
 imgs: Gif_2006_019_full-2-database_qqq.jpg,cory_arcangel_gif.gif
 subheading:
-year2: '2006'
+display_year: '2006'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Colors Personal Edition
 year: '2009'
 medium: OSX Software
 commission:
-add_credit:
 dims:
 pitch: Software 2 play a quicktime movie one horizontal line of pixels at a time.
 ps:
@@ -17,8 +16,9 @@ related: "[33] 2006-004 Colors - 2006-004-colors"
 youtube:
 imgs: colors-2009-054-detail-2-database-ih.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/Colors-Personal-Edition
 layout: things-i-made

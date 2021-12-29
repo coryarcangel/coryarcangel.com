@@ -9,7 +9,6 @@ year: '2011'
 medium: Youtube video
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
-add_credit:
 dims: 3:41 minutes
 pitch: "​Paganini's 5th re-constructed from YouTube vidz"
 ps: '<p>It''s embarrassing to admit, but I was really trying to make like a massive
@@ -21,8 +20,9 @@ related:
 youtube: https://www.youtube.com/watch?v=JjVIwJJPGws
 imgs: paganini-2011-022-still-1-database-ih_1.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/Gould-Pro
 layout: things-i-made

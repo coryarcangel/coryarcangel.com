@@ -17,20 +17,20 @@ medium: 'Custom built high performance computer rig (AMD Ryzen 9 5950X 16-core 3
   Hollywood casual free-to-play role-playing Android game, Android phone, amplifier
   & speakers, various cables. '
 commission:
-add_credit:
 dims: Variable
 pitch: 'A custom built & programmed high performance machine learning computer which
   plays (& learns as it is plays) Kim Kardashian: Hollywood — a casual free-to-play
   role-playing Android game where players aim to increase their reputation by gaining
   fans in order to become A-List celebrities. '
 ps: 'All details at micosite! '
-live_url: https://rodeo.copmuter/
+live_url: https://rodeo.computer/
 related:
 youtube:
 imgs:
 subheading:
-year2:
+display_year: '2021'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

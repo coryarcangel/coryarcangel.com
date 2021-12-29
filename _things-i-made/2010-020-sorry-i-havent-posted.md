@@ -8,7 +8,6 @@ title: Sorry I Haven't Posted
 year: '2010'
 medium: Website
 commission:
-add_credit:
 dims:
 pitch: "​Blog which re-posts the best blog posts of people apologizing for not posting
   to their blogs"
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: sorry-2010-020-digital-4-database-ih.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

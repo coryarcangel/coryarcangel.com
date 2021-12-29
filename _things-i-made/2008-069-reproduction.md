@@ -8,7 +8,6 @@ title: Reproduction
 year: '2008'
 medium: One turntable Dj Set
 commission:
-add_credit:
 dims:
 pitch: "​Dj Set performed Nov 17th, 2012 @ ICA Phillie as part of Ooga Booga’s Excursus
   installation."
@@ -19,8 +18,9 @@ related: "[2147] 2008-082 A Couple Thousand Short Films about Glenn Gould (Publi
 youtube:
 imgs: reproduction-dj-set-2008-069-performance-view-excursus-3-database-ak.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

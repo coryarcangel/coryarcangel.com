@@ -8,7 +8,6 @@ title: Untitled
 year: '2018'
 medium: Blueberry, Rasberry on Somerset paper
 commission:
-add_credit:
 dims: 11 x 7.5 in
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: untitled-2018-098-db-ih--qTwf.jpg
 subheading:
-year2: '2018'
+display_year: '2018'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

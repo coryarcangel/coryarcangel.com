@@ -8,7 +8,6 @@ title: Old Friends
 year: '2005'
 medium: Modded DVD
 commission:
-add_credit:
 dims:
 pitch: "​Simon and Garfunkel DVD where chapter markers have been moved to places where
   one can see tension between the two."
@@ -28,8 +27,9 @@ related:
 youtube:
 imgs: Old_Friends_2005_011_still_database_IH.jpg
 subheading:
-year2: '2005'
+display_year: '2005'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

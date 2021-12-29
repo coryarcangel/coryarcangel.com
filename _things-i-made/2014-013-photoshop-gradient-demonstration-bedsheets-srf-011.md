@@ -8,7 +8,6 @@ title: Photoshop Gradient Demonstration Bedsheets (SRF-011)
 year: '2014'
 medium: Bedsheets
 commission:
-add_credit: Cory Arcangel for Arcangel Surfware
 dims: Queen
 pitch: A Photoshop Gradient Demonstration rendered on high-quality bedsheets. Lets
   do this!
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: spectrum-queen-2014-013-full-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Cory Arcangel for Arcangel Surfware
 add_credits:
 related_code:
 layout: things-i-made

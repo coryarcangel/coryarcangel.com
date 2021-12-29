@@ -8,7 +8,6 @@ title: Designed by Apple in California Assembled in China Model A1457
 year: '2017'
 medium: 'Embossed arches paper. '
 commission:
-add_credit:
 dims:
 pitch: Ran an iphone through a printing press, LOL.&nbsp;
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: iphone-emboss-2017-059-full-database-ih.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

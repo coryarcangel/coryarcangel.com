@@ -8,7 +8,6 @@ title: Deterioration, They Said
 year: '2009'
 medium: Exhibition Catalog
 commission:
-add_credit:
 dims: 11.5 x 8.5 x 0.75 inches
 pitch: "​Group show catalog @ the Migros.&nbsp;"
 ps: "<p>​This isn't specifically a catalog of mine, but of a group show at the Migros
@@ -19,8 +18,9 @@ related:
 youtube:
 imgs: 2012-057-deterioration-they-said-full-database-ih.jpg
 subheading: "(Exhibition Catalog)"
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

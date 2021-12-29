@@ -8,7 +8,6 @@ title: Genealogies
 year: '2008'
 medium: Pen on paper
 commission:
-add_credit:
 dims:
 pitch: "​A drawing of my influences."
 ps: <p>Part of the Genealogies project at the <a title="" href="http://www.lux.org.uk/blog/genealogies-cory-arcangel">Lux</a>
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: 2008_074_Genealogies_Full_Database_IH.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

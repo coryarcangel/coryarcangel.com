@@ -8,7 +8,6 @@ title: Umbrella
 year: '2012'
 medium: Photograph
 commission:
-add_credit:
 dims: 3 X 5
 pitch: Photograph of a mis-shelved Rhianna CD.&nbsp;
 ps: "<p>​​I took this photo in a Norwegian supermark (in the ice cream section). Sometimes
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: umbrella-2012-001-digital-database-ih.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

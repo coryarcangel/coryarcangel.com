@@ -8,7 +8,6 @@ title: 24 Dances For The Electric Piano (SRF-001)
 year: '2013'
 medium: 12" LP vinyl disk, score, laptop sticker.
 commission:
-add_credit: Arcangel Surfware
 dims: 12 in x 12 in
 pitch: "​Vinyl release of my suite of 24 piano compositions. Don’t sleep on it. It’s
   sick!"
@@ -21,8 +20,9 @@ related: |-
 youtube:
 imgs: 24-dances-record-2013-015-full-1-database-ih.jpg,24-dances-record-2013-015-full-6-database-ih.jpg,24-dances-record-2013-015-full-5-database-ih.jpg,24-dances-record-2013-015-full-2-database-ih.jpg
 subheading: "(Vinyl)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Arcangel Surfware
 add_credits:
 related_code:
 layout: things-i-made

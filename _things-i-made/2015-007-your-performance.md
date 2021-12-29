@@ -8,7 +8,6 @@ title: Your Performance
 year: '2015'
 medium: Foam noodles, tailored Adidas tracksuits
 commission:
-add_credit:
 dims: 140 cm x variable width x variable depth
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: your-performance-2015-007-full-database-JH.jpg,your-performance-2015-007-detail-database-JH.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

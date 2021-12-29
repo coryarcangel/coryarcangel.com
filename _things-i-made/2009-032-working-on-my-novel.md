@@ -8,7 +8,6 @@ title: Working On My Novel
 year: '2009'
 medium: Social network search
 commission:
-add_credit:
 dims:
 pitch: "​Search for “working on my novel” on the social network Twitter."
 ps: 'Original link (which doesn’t work anymore) was: http://twitter.com/#search?q=“working
@@ -21,8 +20,9 @@ related: |-
 youtube:
 imgs: working-on-my-novel-2009-032-digital-database-1-ih.jpg
 subheading: "(Twitter Search)"
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

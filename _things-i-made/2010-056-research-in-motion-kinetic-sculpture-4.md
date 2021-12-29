@@ -8,7 +8,6 @@ title: 'Research in Motion (Kinetic Sculpture #4)'
 year: '2010'
 medium: Modified chrome dancing stands
 commission:
-add_credit:
 dims:
 pitch: "​Four Dancing Stands modded to sync."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: research-in-motion-2010-056-full-database-Ropac.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

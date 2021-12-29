@@ -5,7 +5,7 @@ type: '5'
 title: Nerdzone Version 1
 url: nerdzone-version-1
 year: '2005'
-venue: Migros Museum, Zurich, Switzerland
+venue: Migros Museum für Gegenwartskunst
 pitch: "<p>​Kinda a pixel show. Lotsa game / software stuff. </p>"
 ps:
 imgs: migros-zurich-2005-04-install-1-database-qm.jpg,migros-zurich-2005-04-install-2-database-qm.jpg,migros-zurich-2005-04-install-3-database-qm.jpg

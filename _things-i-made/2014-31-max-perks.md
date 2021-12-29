@@ -8,7 +8,6 @@ title: Max Perks (officemax.com)
 year: '2014'
 medium: Single channel video
 commission:
-add_credit:
 dims: Variable
 pitch: "​Surfing around officemax.com....."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: max-perks-2014-031-digital-1-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

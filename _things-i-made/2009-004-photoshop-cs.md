@@ -9,7 +9,6 @@ title: 'Photoshop CS: 72 by 110 inches, 300 DPI, RGB, square pixels, default gra
 year: '2009'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 72 x 110 inches
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: photoshop-cs-2009-004-full-database-sb.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

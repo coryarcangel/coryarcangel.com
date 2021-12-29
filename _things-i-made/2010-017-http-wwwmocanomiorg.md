@@ -8,7 +8,6 @@ title: http://www.mocanomi.org/
 year: '2010'
 medium: Modified museum website
 commission:
-add_credit:
 dims:
 pitch: "​MOCA Miami's website re-done in comic sans"
 ps: "<p>​Yes, this <i>IS</i> what the MOCA Miami website looked like during the duration
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: mocanomi-2010-017-screenshot-1-database-ih.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

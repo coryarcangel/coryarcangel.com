@@ -8,7 +8,6 @@ title: Weekend at Bernie's Screening at the Whitney Museum
 year: '2011'
 medium:
 commission:
-add_credit:
 dims: Variable
 pitch: "​Weekend at Bernie’s screening at the Whitney Museum."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: Weekend-at-Bernies-Screening-at-Whitney-2011-127-performance-view-2-database-TO.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

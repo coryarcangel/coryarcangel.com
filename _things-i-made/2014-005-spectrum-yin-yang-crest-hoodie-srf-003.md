@@ -8,7 +8,6 @@ title: Spectrum Yin-Yang Crest Hoodie (SRF-003)
 year: '2014'
 medium: Hoodie
 commission:
-add_credit: Cory Arcangel for Arcangel Surfware
 dims: Small, Medium, Large, X-Large, XX-Large
 pitch: Hooded white sweatshirt with a large Arcangel Surfware Spectrum Yin-Yang Crest
   on the back and a smaller one on the front.
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: srf-003-crest-hoodie-2014-005-full-1-database-ih.jpg,srf-003-crest-hoodie-2014-005-full-2-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Cory Arcangel for Arcangel Surfware
 add_credits:
 related_code:
 layout: things-i-made

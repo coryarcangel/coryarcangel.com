@@ -8,7 +8,6 @@ title: Arcangel Surfware / Webmaster Summer Beach Towel
 year: '2017'
 medium: Beach towel with dye-sublimated digital graphic
 commission:
-add_credit: w/ Olia Lialina
 dims: 58 x 28 in
 pitch:
 ps:
@@ -18,8 +17,9 @@ related: "[4386] [2017-030-arcangel-surfware-webmaster-summer-flip-flops] 2017-0
 youtube:
 imgs: as-ws-towell-2017-029-database-ih--I5us.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit: w/ Olia Lialina
 add_credits:
 related_code:
 layout: things-i-made

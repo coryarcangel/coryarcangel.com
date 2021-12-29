@@ -8,7 +8,6 @@ title: A Few Casuals
 year: '2012'
 medium: Pink Ugg® footware, 99.9% pure lead ingots
 commission:
-add_credit:
 dims:
 pitch: "​Uggs with a lead ignot in them"
 ps:
@@ -17,8 +16,9 @@ related: "[120] 2011-114 A Few Casuals - 2011-114-a-few-casuals"
 youtube:
 imgs: a-few-casuals-2012-022-full-1-skur2-database-ESJ.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

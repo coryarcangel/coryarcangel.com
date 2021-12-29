@@ -8,7 +8,6 @@ title: Drei Klavierstücke op. 11
 year: '2009'
 medium: 3 Youtube videos
 commission:
-add_credit:
 dims:
 pitch: "​Schoenberg’s op11 as played by cats."
 ps: |-
@@ -27,8 +26,9 @@ related:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZSRQMwlT0jauk6H8l64G6oU
 imgs: drei-klavierstucke-2009-003-still-6-database-ih.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/Gould-Pro
 layout: things-i-made

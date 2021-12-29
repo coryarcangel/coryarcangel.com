@@ -12,7 +12,6 @@ title: 'Photoshop CS: 84by 144 inches, 300 DPI, RGB, square pixels, default grad
 year: '2017'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 84 x 144 in
 pitch:
 ps:
@@ -21,8 +20,9 @@ related:
 youtube:
 imgs: photoshop-cs-2017-060-database-02-ug.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

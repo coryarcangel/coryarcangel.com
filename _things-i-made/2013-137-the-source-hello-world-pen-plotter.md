@@ -8,7 +8,6 @@ title: 'The Source Issue #6: HP Pen Plotter Hello World (SRF-22)'
 year: '2015'
 medium: Zine
 commission: Creative Capital
-add_credit:
 dims: 11 x 8.5
 pitch: Source code for my HP pen plotter hello worlds printed on archival inks and
   paper, footnoted with artist txt, writing, poetry, whatevz, etc, etc, .........
@@ -25,8 +24,9 @@ related: |-
 youtube:
 imgs: source-hp-2013-137-detail-database-ih.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download: the-source-hp-hello-world-2013-137-digital-master-ih.pdf
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 layout: things-i-made

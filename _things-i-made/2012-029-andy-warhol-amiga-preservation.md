@@ -8,7 +8,6 @@ title: Andy Warhol Amiga Preservation
 year: '2011'
 medium: Multi-year preservation project
 commission:
-add_credit:
 dims:
 pitch: Worked with a super chill team to discover and preserve Andy Warhol’s Amiga
   1000 experiments.
@@ -22,8 +21,9 @@ related: "[4153] [2014-024-the-warhol-files] 2014-024 The Warhol Files"
 youtube: https://vimeo.com/92583299
 imgs: warhol-proposal-2012-029-digital-still-2-database-aw.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
   STUDIO for Creative Inquiry
 related_code:

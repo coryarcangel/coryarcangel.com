@@ -8,7 +8,6 @@ title: All The Small Things
 year: '2014'
 medium: Digitally Printed Tshirt
 commission:
-add_credit:
 dims:
 pitch: T made for my All The Small Things showz.
 ps:
@@ -20,8 +19,9 @@ related: |-
 youtube:
 imgs: 2014-114-allthesmallthings-shirt-database-ih.jpg
 subheading: "(Tee shirt)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

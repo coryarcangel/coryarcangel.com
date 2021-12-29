@@ -8,7 +8,6 @@ title: Art Since 1960 According to the Internet
 year: '2008'
 medium: Lecture
 commission:
-add_credit:
 dims:
 pitch: "​Performance featuring surfing Youtube for artist last names, and clocking
   on the most random results."
@@ -18,9 +17,10 @@ related:
 youtube:
 imgs: 2008_010_Art_Since_1960_Performance_View_Database_IH.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
-add_credits: Hanne Mugaas
+add_credit: w Hanne Mugaas
+add_credits:
 related_code:
 layout: things-i-made
 ---

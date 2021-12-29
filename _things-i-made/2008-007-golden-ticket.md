@@ -8,7 +8,6 @@ title: Golden Ticket
 year: '2008'
 medium:
 commission: Frieze Art Fair
-add_credit:
 dims:
 pitch: As part of a Frieze commission, I had them send out candy bars to all galleries
   who were unsuccessful in their application to their fair, ... one had a golden ticket,
@@ -19,8 +18,9 @@ related:
 youtube:
 imgs: golden-ticket-2008-007-detail-2-database-DT_1.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

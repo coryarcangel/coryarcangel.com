@@ -8,7 +8,6 @@ title: All The Small Things
 year: '2014'
 medium: Single channel video
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -20,8 +19,9 @@ related: |-
 youtube: https://www.youtube.com/watch?v=isQFqxxrC4M
 imgs: all-the-small-things-2014-126-digital-database-ih.jpg
 subheading: "(Trailer)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Super Chilled
 year: '2012'
 medium: Wastebasket, Rockstar Energy cans.
 commission:
-add_credit:
 dims: 15 x 11 x 11in
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: super-chilled-2012-069-full-database-ih.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

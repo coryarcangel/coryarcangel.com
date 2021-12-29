@@ -12,7 +12,6 @@ medium: 'Samsung Galaxy Tab 3 (SM-T310), three HTC Wildfile S (Metro PCS) cell p
   #1 (2005) Nintendo Entertainment System .nes Roms, Android OS Nintendo Entertainment
   System emulators'
 commission:
-add_credit:
 dims:
 pitch: 'Re-staging of my old(ish) NES works on emulators running on cell phones. Actually,...
   re-staging of Super Landscape #1 which is Super Mario Clouds and F1 Racer smashed
@@ -26,8 +25,9 @@ related: |-
 youtube:
 imgs: quickoffice-2013-196-detail-Heart-02-database-SM.jpg,quickoffice-2013-196-detail-Heart-01-database-SM.jpg,quickoffice-2013-196-install-Heart-01-database-SM.jpg
 subheading:
-year2: '2013'
+display_year: '2013'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

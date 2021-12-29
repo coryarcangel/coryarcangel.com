@@ -8,7 +8,6 @@ title: 'Strictly Formal '
 year: '2010'
 medium: Website
 commission:
-add_credit:
 dims:
 pitch: "​Interview blog"
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: 2010-027-Strictly-Formal-Screenshot-Database-IH.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

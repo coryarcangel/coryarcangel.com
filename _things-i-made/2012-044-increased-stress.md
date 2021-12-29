@@ -8,7 +8,6 @@ title: Increased Stress
 year: '2012'
 medium: Wastebasket, Red Bull Cans
 commission:
-add_credit:
 dims: 15 x 11 x 11in
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: increased-stress-2012-044-full-database-ih.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

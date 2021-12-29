@@ -8,7 +8,6 @@ title: Cory Arcangel for New Jerseyy
 year: '2010'
 medium: Website
 commission:
-add_credit:
 dims:
 pitch: "​New Jerseyy website redesigned to look like the website of Pace Gallery"
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

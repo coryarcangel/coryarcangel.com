@@ -8,7 +8,6 @@ title: 'Composition #7'
 year: '2010'
 medium: Frets on Fire software mod
 commission:
-add_credit:
 dims:
 pitch: "​La Monte Young's Composition #7 as a guitar hero style game."
 ps: '<p>​This is a mod file for the desktop game Frets on Fire, which is an open source
@@ -22,8 +21,9 @@ related:
 youtube:
 imgs: composition-7-2010-023-still-database-ih.jpg,composition-7-2010-023-install-database-HBM.jpg,composition-7-2010-023-detail-database-studio_1.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download: arcangel_composition_7.zip
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: 'Research in Motion (Kinetic Sculpture #2)'
 year: '2010'
 medium: Modified chrome dancing stands
 commission:
-add_credit:
 dims: 70 x 18 x 18 in
 pitch: "​2 dancing stands modded to spin a slightly different speeds"
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: research-in-motion-2010-039-full-1-database-bahnhof.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

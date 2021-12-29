@@ -8,7 +8,6 @@ title: My Top Ten Youtube Videos
 year: '2008'
 medium: Webpage
 commission:
-add_credit:
 dims:
 pitch: Youtube videos to be permanently embedded in a non maintained web-page.
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: 2008_078_My_Top_Ten_Youtube_Videos_Screenshot_Database_IH.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

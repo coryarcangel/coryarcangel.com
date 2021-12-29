@@ -8,7 +8,6 @@ title: Bomb Iraq
 year: '2005'
 medium: Hyercard Readymade
 commission:
-add_credit:
 dims:
 pitch: "​Actual hyper-card program I found on a computer I bought at the Salvation
   Army. Click on the link above 2 c the (great) 2014 online restoration of this work
@@ -19,8 +18,9 @@ related:
 youtube:
 imgs: bomb-iraq-2005-020-screenshot-database-ih--ej80.jpg
 subheading:
-year2: '2005'
+display_year: '2005'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

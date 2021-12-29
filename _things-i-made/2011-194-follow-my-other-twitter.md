@@ -8,7 +8,6 @@ title: Follow My Other Twitter
 year: '2011'
 medium: 'Search for social media network. '
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: follow-my-other-twitter-2011-194-screenshot-database-ih.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

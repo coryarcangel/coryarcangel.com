@@ -8,7 +8,6 @@ title: '24 Dances For The Electric Piano '
 year: '2013'
 medium: Piano suite
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -18,8 +17,9 @@ related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances 
 youtube:
 imgs: 24-dances-2013-218-sheet-music-database-ih.jpg
 subheading: "(Composition)"
-year2: '2013'
+display_year: '2013'
 download: 24-dances-2013-015-sheet-music-master.pdf
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

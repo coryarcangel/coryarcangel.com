@@ -8,7 +8,6 @@ title: 'A Couple Thousand Short Films about Glenn Gould '
 year: '2008'
 medium: Publication
 commission:
-add_credit:
 dims: 7.75 x 5 x 0.75
 pitch:
 ps:
@@ -19,8 +18,9 @@ related: |-
 youtube:
 imgs: glenn-gould-2008-082-full-1-press-ih.jpg
 subheading: "(Publication)"
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits: Dexter Sinister
 related_code: https://github.com/coryarcangel/Gould-Pro
 layout: things-i-made

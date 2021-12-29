@@ -9,7 +9,6 @@ year: '2018'
 medium: International Association for Research and Testing in the Field of Textile
   and Leather Ecology certified cotton scarf
 commission:
-add_credit:
 dims: Variable
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: flagship-2017-062-db-jih--eQIH.jpg
 subheading:
-year2: '2018'
+display_year: '2018'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

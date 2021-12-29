@@ -8,7 +8,6 @@ title: 'Arcangel Surfware x NYABF 2015: The Source'
 year: '2015'
 medium: Tradeshow booth
 commission:
-add_credit:
 dims:
 pitch: '1st big time booth at NYABF. '
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: nyabf-2015-173-database-ek--oSA4.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

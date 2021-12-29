@@ -8,7 +8,6 @@ title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2013'
 medium: Website
 commission:
-add_credit:
 dims:
 pitch: "​Website 4 my touring trance record collection."
 ps:
@@ -19,8 +18,9 @@ related: |-
 youtube:
 imgs: audmcrs-website-2013-063-digital-database-ih.jpg
 subheading: "(Website)"
-year2: '2013'
+display_year: '2013'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

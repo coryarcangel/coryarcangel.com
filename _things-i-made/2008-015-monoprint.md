@@ -8,7 +8,6 @@ title: Monoprint 4
 year: '2008'
 medium: Unique three-color process silkscreen on custom watermarked paper
 commission:
-add_credit:
 dims: 42 x 32 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: monoprint-4-2008-015-full-1-database-ih.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

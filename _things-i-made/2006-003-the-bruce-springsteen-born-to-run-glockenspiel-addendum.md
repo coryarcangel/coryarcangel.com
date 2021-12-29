@@ -8,7 +8,6 @@ title: 'The Bruce Springsteen ''Born to Run'' Glockenspiel Addendum '
 year: '2006'
 medium: 12" LP. Edition of 300.
 commission:
-add_credit:
 dims:
 pitch: "​LP featuring a Glockenspiel addendum to Springsteen’s Born To Run record."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: born-to-run-2006-003-full-database-ih.jpg
 subheading: "(LP)"
-year2: '2006'
+display_year: '2006'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

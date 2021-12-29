@@ -9,7 +9,6 @@ year: '2015'
 medium: Foam pool noodles, one The Broodle, sweatband, tube-socks, tailored Hooters
   sweatpant leg, Coors Light beer can, tailored legging
 commission:
-add_credit:
 dims: 140 cm x variable width x variable depth
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: high-lyfe-2015-001-full-database-JH.jpg,high-lyfe-2015-001-detail-2-database-JH.jpg,high-lyfe-2015-001-detail-1-database-JH.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

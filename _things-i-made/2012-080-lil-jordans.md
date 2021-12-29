@@ -8,7 +8,6 @@ title: 'Not Yet Titled (working title: Lil Jordan''s)'
 year: '2012'
 medium: 'Baby Air Jordans, shoe rack. '
 commission:
-add_credit:
 dims: 'Variable. '
 pitch: "​..."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: air-jordans-2012-080-detail-database-ih.jpg,air-jordans-2012-080-full-database-ih.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

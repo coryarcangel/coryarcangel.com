@@ -8,7 +8,6 @@ title: Working On My Novel
 year: '2012'
 medium: Twitter Account
 commission:
-add_credit:
 dims:
 pitch: "​Twitter Feed which re-tweets the best posts featuring the phrase “working
   on my novel”."
@@ -23,8 +22,9 @@ related: |-
 youtube:
 imgs: working-on-my-novel-2012-066-digital-screenshot-1-database-ih.jpg
 subheading: "(Twitter Account)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

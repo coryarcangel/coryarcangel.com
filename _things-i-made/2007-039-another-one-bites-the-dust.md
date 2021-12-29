@@ -8,7 +8,6 @@ title: Another One Bites The Dust
 year: '2007'
 medium: Poster.
 commission:
-add_credit:
 dims:
 pitch: "​Poster featuring Axl's shoes taken from he interior of GNR's Spaghetti Incident
   EP."
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: Another_One_Bites_the_Dust_2007_039_full_database_IH_1.jpg
 subheading:
-year2: '2007'
+display_year: '2007'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Jay-Z Blue
 year: '2011'
 medium: General Motors custom blue paint on wall
 commission:
-add_credit:
 dims: Dimensions Variable
 pitch: Licensed Jay-Z blue color.​
 ps: "<p>​Jay-Z has his own color blue FYI, and I&nbsp;licensed it from his company
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: jay-z-blue-2011-105-full-2-database-SC.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

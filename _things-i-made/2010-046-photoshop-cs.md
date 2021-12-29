@@ -9,7 +9,6 @@ title: 'Photoshop CS: 110 by 72 inches, 300 DPI, RGB, square pixels, default gra
 year: '2010'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 110 x 72 inches
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: photoshop-cs-2010-046-full-cropped-database-ropac.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

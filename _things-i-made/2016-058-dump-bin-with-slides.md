@@ -8,7 +8,6 @@ title: Dump Bin with slides
 year: '2016'
 medium: Palay Display Industries folding dump table, Fuck Negativity Slides (SRF-032)
 commission:
-add_credit:
 dims: 30.75 x 47 x 24 in
 pitch:
 ps:
@@ -18,8 +17,9 @@ related: "[4305] [2015-164-fuck-negativity-slides-srf-032] 2015-164 Fuck Negativ
 youtube:
 imgs: dunks-slides-2016-058-full-database-ih.jpg
 subheading:
-year2: '2016'
+display_year: '2016'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

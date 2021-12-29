@@ -8,7 +8,6 @@ title: Whitney Teen Night
 year: '2004'
 medium: Live green screen event
 commission:
-add_credit: 'Collaboration with Paper Rad '
 dims:
 pitch:
 ps: "<p>A karaoke set up / live video green screen was installed in the basement of
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: whitney-teen-night-2004-011-still-6-database-ih.jpg
 subheading:
-year2: '2004'
+display_year: '2004'
 download:
+add_credit: 'Collaboration with Paper Rad '
 add_credits: Paper Rad
 related_code:
 layout: things-i-made

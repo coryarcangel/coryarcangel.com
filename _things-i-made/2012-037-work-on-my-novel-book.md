@@ -8,7 +8,6 @@ title: Working On My Novel
 year: '2014'
 medium: Fiction novel
 commission:
-add_credit: Published by Penguin
 dims:
 pitch: "​Novel featuring the best tweets which include the phase “working on my novel”."
 ps: "INFORMATION:\n Author: <a href=\"http://coryarcangel.com/\" title=\"\">Cory Arcangel</a>\n
@@ -22,8 +21,9 @@ related: |-
 youtube:
 imgs: working-on-my-novel-2012-037-full-01-database-ih.jpg,working-on-my-novel-2012-037-full-02-database-ih.jpg,working-on-my-novel-2012-037-full-04-database-ih.jpg,working-on-my-novel-2012-037-full-03-database-ih.jpg,working-on-my-novel-2012-037-full-05-database-ih.jpg
 subheading: "(Book)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Published by Penguin
 add_credits:
 related_code:
 layout: things-i-made

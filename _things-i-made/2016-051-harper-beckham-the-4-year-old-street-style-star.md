@@ -8,7 +8,6 @@ title: Harper Beckham, the 4-Year-Old Street-Style Star
 year: '2016'
 medium: ".warc.gz web archive (produced with web recorder)"
 commission:
-add_credit:
 dims: Dimensions variable
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: beckam-2018-051-web-ih--vyfJ.jpg
 subheading:
-year2: '2018'
+display_year: '2018'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

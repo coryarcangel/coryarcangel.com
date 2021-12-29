@@ -9,7 +9,6 @@ year: '2011'
 medium: Ten Vizio 55-inch back lit LCD HDTVs in original packaging
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
-add_credit:
 dims: Dimensions variable
 pitch: "​Arrangement of flat-screen TV's in boxes. "
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: volume-management-2011-021-full-database-SC.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

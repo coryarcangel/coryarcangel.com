@@ -8,7 +8,6 @@ title: What a Misunderstanding!
 year: '2009'
 medium: Tumblr/artist software
 commission:
-add_credit:
 dims:
 pitch: "​New Yorker “Caption This Cartoon” contest always captioned with the phrase
   “What a misunderstanding!”. Updated every week automatically."
@@ -19,8 +18,9 @@ related: "[4409] [2013-141-the-source-issue-10-what-a-misunderstanding] 2013-141
 youtube:
 imgs: what-a-mistunderstanding-2009-046-digital-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/What-a-Misunderstanding
 layout: things-i-made

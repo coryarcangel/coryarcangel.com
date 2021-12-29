@@ -8,7 +8,6 @@ title: 'Super Landscape #1'
 year: '2005'
 medium: NES and Famicom Cartridge mods
 commission:
-add_credit:
 dims:
 pitch: "​Landscape made from my projects Super Mario Clouds and F1 Racer."
 ps: "​This wasn’t supposed to be a new thing, but after installing two of my projects
@@ -23,8 +22,9 @@ related: |-
 youtube:
 imgs: super-landscape-2005-021-install-database-migros-unknown.jpg
 subheading:
-year2: '2005'
+display_year: '2005'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

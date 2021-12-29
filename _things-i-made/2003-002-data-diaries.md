@@ -9,7 +9,6 @@ year: '2003'
 medium: 64 Videos
 commission: Commissioned by New Radio and Performing Arts, Inc., (aka Ether-Ore),
   for its Turbulence website
-add_credit:
 dims:
 pitch: "​Computer memory interpreted as video. ps - Site doesn’t work anymore, so
   click at your own peril! SMH. "
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: data-diaries-2003-002-still-1-database-ih.jpg
 subheading:
-year2: '2003'
+display_year: '2003'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

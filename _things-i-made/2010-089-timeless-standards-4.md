@@ -8,7 +8,6 @@ title: Timeless Standards
 year: '2010'
 medium: Inkjet on Comtex
 commission:
-add_credit:
 dims: 56 x 40 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: timeless-standards-2010-089-full-cropped-database-ropac.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

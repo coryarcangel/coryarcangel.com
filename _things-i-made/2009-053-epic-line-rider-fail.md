@@ -8,7 +8,6 @@ title: Epic Line Rider Fail
 year: '2009'
 medium: "(~Youtube) video"
 commission:
-add_credit:
 dims:
 pitch: 'My contribution to the genre of utube "Line Rider Fails". '
 ps: "<p>​Uuuugh, youtube took this one down, so it doesn't make as much sense now,
@@ -19,8 +18,9 @@ related:
 youtube:
 imgs: Epic-Line-Rider-Fail-2009-053-still-2-database-ih.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download: arcangel-epic-line-rider-fail-2009-053-video-web.mp4
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

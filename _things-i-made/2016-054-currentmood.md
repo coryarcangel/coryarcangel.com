@@ -9,7 +9,6 @@ year: '2016'
 medium: MacBook Air running Ableton Live & Native Instruments Massive synth, hanging
   line array public address sound system
 commission:
-add_credit:
 dims: Dimensions variable
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: currentmood-054-2016-install-01-database-JH.jpg,currentmood-054-2016-install-02-database-JH.jpg
 subheading: "(Sculpture)"
-year2: '2016'
+display_year: '2016'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

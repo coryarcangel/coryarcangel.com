@@ -8,7 +8,6 @@ title: Self Playing Sony Playstation I Bowling
 year: '2008'
 medium: Modded ps1 controller
 commission:
-add_credit:
 dims: Dimensions variable
 pitch: PS1 "Bowling" game programmed to roll endless gutter balls via a modded controller.
 ps: '<p>​This was only the second "Self Playing Game" I ever made. Note the early
@@ -20,8 +19,9 @@ related: "[87] 2011-009 Various Self Playing Bowling Games - 2011-009-various-se
 youtube:
 imgs: ps1-bowling-2008-008-still-database-ih.jpg,ps1-bowling-2008-008-controller-database-ih_1.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

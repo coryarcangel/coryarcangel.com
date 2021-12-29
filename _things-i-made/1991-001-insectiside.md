@@ -8,7 +8,6 @@ title: Insectiside
 year: '1991'
 medium: Video
 commission:
-add_credit:
 dims:
 pitch: "​Live concert by my sister and I's band."
 ps: "<p>​Yeah,....this is how we used to spend our time in the suburbs of Buffalo
@@ -18,8 +17,9 @@ related:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZRXnGdIy4PaG-tbbj-T6bkz
 imgs: insectiside-1991-001-still-3-database-ih.jpg
 subheading:
-year2: '1991'
+display_year: '1991'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

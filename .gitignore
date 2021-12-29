@@ -1,8 +1,22 @@
+# Logs and databases #
+######################
+*.log
+*.sqlite
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-.DS_Store
 _data/.~lock.things.csv#
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
 .DS_Store

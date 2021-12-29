@@ -11,7 +11,6 @@ title: 'Photoshop CS: 84 by 240 inches, 300 DPI, RGB, square pixels, default gra
 year: '2018'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 84 x 240 inches
 pitch:
 ps:
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: photoshop-cs--2018-029-db-ih--YRBL.jpg
 subheading:
-year2: '2018'
+display_year: '2018'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

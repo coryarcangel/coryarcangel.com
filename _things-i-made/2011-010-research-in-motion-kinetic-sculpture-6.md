@@ -9,7 +9,6 @@ year: '2011'
 medium: Modified silver dancing stands
 commission: 'Comissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
-add_credit:
 dims:
 pitch: "​10 Dancing stands modded to run at the same speed."
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: research-in-motion-2011-10-install-database-SC.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: HITACHI P42H01U Plasma Burn, 2007
 year: '2007'
 medium: HITACHI P42H01 and DVD player
 commission:
-add_credit:
 dims:
 pitch: "​Label information being burned into a plasma monitor."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: burn-2007-033-full-1-database-unknown_1.jpg
 subheading:
-year2: '2007'
+display_year: '2007'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

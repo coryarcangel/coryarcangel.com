@@ -11,7 +11,6 @@ medium: Acer laptop running Light O Rama S3 Software Suite Pro, three Light O Ra
   lights, two grid wall floor standing display fixtures, two Roman Lights Holographic
   Ropelight Palm Trees, white Ikea table, extension cords, zip-ties
 commission:
-add_credit:
 dims: 'Variable. '
 pitch: 'Lightshow 4 Arcangel Surfware pop-up #2. Shout out to Dragon Force. ;-)'
 ps:
@@ -20,8 +19,9 @@ related: "[4149] [2012-160-euphoria] 2012-160 Euphoria"
 youtube:
 imgs: nyabf-dap-newyork-2014-10-install-1-database-ek.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

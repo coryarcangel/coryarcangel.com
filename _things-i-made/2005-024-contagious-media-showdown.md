@@ -8,7 +8,6 @@ title: Contagious Media Showdown
 year: '2005'
 medium: Event
 commission:
-add_credit:
 dims:
 pitch: "​Festival & competition I helped organize with the Eyebeam Contagious Media
   Group about memes back in the early days of viral net trash (eeek! – pre youtube………..)"
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: Contagious_Media_Showdown_2005_024_screenshot_database_IH.jpg
 subheading:
-year2: '2005'
+display_year: '2005'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

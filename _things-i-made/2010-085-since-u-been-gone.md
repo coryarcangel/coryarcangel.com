@@ -8,7 +8,6 @@ title: Since U Been Gone
 year: '2010'
 medium: Case Logic CD binder filled with CDs
 commission:
-add_credit:
 dims: 2 x 12 x 7 inches
 pitch: "​CD binder filled with CD’s relating to Kelly Clarkson’s hit single “Since
   U Been Gone”. "
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: since-u-been-gone-2010-085-full-database-ropac.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Three Palms
 year: '2011'
 medium: Pencil on paper (produced with Mutoh XP-300 Series printer)
 commission:
-add_credit:
 dims: 20 x 31 inches
 pitch: "​Plotter-drawn palm trees, produced in an edition of 6. "
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: three-palms-2011-128-digital-database-ih.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

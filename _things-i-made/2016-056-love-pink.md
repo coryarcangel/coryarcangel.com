@@ -8,7 +8,6 @@ title: love pink
 year: '2016'
 medium: Inkjet on Angelica Universal Photomatte 230
 commission:
-add_credit:
 dims: 168 x 95.8 x 4 cm
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: love-pink-2016-056-full-database-JH.jpg
 subheading:
-year2: '2016'
+display_year: '2016'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

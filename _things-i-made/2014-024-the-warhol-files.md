@@ -8,7 +8,6 @@ title: The Warhol Files
 year: '2014'
 medium: Essay
 commission:
-add_credit:
 dims:
 pitch: "​Text about the super fun Warhol Amiga preservation project I did (w / The
   Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye STUDIO for
@@ -21,8 +20,9 @@ related: "[4103] [2012-029-andy-warhol-amiga-preservation] 2012-029 Andy Warhol 
 youtube:
 imgs: the-warhol-files-2014-024-digital-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Signature Front/Back Sweatpants (SRF-004)
 year: '2014'
 medium: Sweatpants
 commission:
-add_credit: Cory Arcangel for Arcangel Surfware
 dims: Sweatpants with a gradient pattern text along the leg.
 pitch: Arcangel Surfware sweatpants with a gradient pattern text along the leg.
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: srf-004-signature-sweats-2014-006-full-2-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Cory Arcangel for Arcangel Surfware
 add_credits:
 related_code:
 layout: things-i-made

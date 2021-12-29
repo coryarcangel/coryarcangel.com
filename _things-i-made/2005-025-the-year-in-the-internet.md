@@ -8,7 +8,6 @@ title: The Year in the Internet (2005)
 year: '2005'
 medium: Website
 commission:
-add_credit:
 dims:
 pitch: "​Website featuring the best links of the year from various net people."
 ps:
@@ -17,8 +16,9 @@ related: "[23] 2006-020 The Year in the Internet (2006) - the-year-in-the-intern
 youtube:
 imgs: The_Year_in_the_Internet_2005_025_screenshot_database_IH.jpg
 subheading:
-year2: '2005'
+display_year: '2005'
 download:
+add_credit:
 add_credits: Michael Bell Smith
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Skipping Stones
 year: '2010'
 medium: FLOR carpet squares
 commission:
-add_credit:
 dims: Dimensions variable
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: skipping-stones-2010-079-full-database-ropac.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

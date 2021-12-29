@@ -8,7 +8,6 @@ title: Timeless Standards
 year: '2012'
 medium: Inkjet on Canvas
 commission:
-add_credit:
 dims: 56 x 40 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: timeless-standards-2012-060-full-1-database-Lisson.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

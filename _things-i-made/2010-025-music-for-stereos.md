@@ -8,7 +8,6 @@ title: Music For Stereos
 year: '2010'
 medium: Performance for home electronics and found Audio CDs
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -18,8 +17,9 @@ related: "[4240] [2013-197-since-u-been-gone-music-for-stereos] 2013-197 Since U
 youtube:
 imgs: MusicForStereos-2010-025-performance-chicago-9-database-TR.jpg,MusicForStereos-2010-025-performance-chicago-12-database-TR.jpg,music-for-stereos-2010-025-performance-berlin-1-database-VJ.jpg,MusicForStereos-2010-025-performance-chicago-5-database-TR.jpg,MusicForStereos-2010-025-performance-chicago-13-database-TR.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

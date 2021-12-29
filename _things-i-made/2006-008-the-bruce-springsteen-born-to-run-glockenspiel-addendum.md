@@ -8,7 +8,6 @@ title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 year: '2006'
 medium: Performance for solo glockenspiel and optional electronics
 commission:
-add_credit:
 dims:
 pitch: "​Live performances of The Bruce Springsteen Glockenspiel Addendum."
 ps: '<p>Above: performance of the complete 43 minute The Bruce Springsteen Born to
@@ -19,8 +18,9 @@ related:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZT0iTIRgMD397O33Mgueva5
 imgs: glockenspiel-2006-008-light-industry-performance-view-1-database-DC.jpg
 subheading: "(Performance)"
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

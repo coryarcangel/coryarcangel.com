@@ -8,7 +8,6 @@ title: 3 Celebs Who Treat Their Fans Like Trash (SRF-047)
 year: '2017'
 medium: Fidigit spinner
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: celebs-2017-049-database-jih--d17f.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

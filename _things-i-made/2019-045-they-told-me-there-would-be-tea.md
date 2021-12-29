@@ -8,7 +8,6 @@ title: They told me there would be tea
 year: '2019'
 medium: Audio mixtape (for NTS radio)
 commission:
-add_credit: Cory Arcangel & Hampus Lindwall
 dims:
 pitch: Mixtape for NTS radio (kinda wild TBH)
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: tea-mix-2019-045-db-ih--cIDu.jpg
 subheading:
-year2: '2019'
+display_year: '2019'
 download:
+add_credit: Cory Arcangel & Hampus Lindwall
 add_credits:
 related_code:
 layout: things-i-made

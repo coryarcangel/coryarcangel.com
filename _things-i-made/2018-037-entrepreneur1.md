@@ -8,7 +8,6 @@ title: en·tre·pre·neur
 year: '2018'
 medium: Web search archived as .warc w/ web recorder.
 commission:
-add_credit:
 dims:
 pitch: Using google 2 remem how to spell en·tre·pre·neur
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: entreprenuer-2018-037-web-ih--fL9T.jpg
 subheading:
-year2: '2018'
+display_year: '2018'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Destiny 97 (notes on the AUDMCRS collection of recorded sound)
 year: '2012'
 medium:
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -19,8 +18,9 @@ related: |-
 youtube:
 imgs: audmcrs-essay-2012-065-full-database-ih.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

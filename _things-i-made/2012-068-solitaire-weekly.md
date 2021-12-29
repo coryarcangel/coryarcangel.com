@@ -8,7 +8,6 @@ title: Solitaire Weekly
 year: '2012'
 medium: 'Webisode series, Tumblr, Youtube, Facebook, & Twitter accounts. '
 commission:
-add_credit:
 dims:
 pitch: "​Webisode series (featuring screen cast computer solitaire), and associated
   social media accounts :/"
@@ -24,8 +23,9 @@ related: |-
 youtube:
 imgs: solitaire-weekly-2012-068-full-database-ih.jpg
 subheading:
-year2: '2013'
+display_year: '2013'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

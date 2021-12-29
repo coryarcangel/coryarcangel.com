@@ -8,7 +8,6 @@ title: T.A.C. - Total Asshole Compression
 year: '2004'
 medium: OSX software
 commission:
-add_credit: In collaboration with the Radical Software Group
 dims:
 pitch: "​Compression software that makes files bigger."
 ps: "​Check the “official” website above to download the software, etc, etc. "
@@ -20,8 +19,9 @@ related: |-
 youtube:
 imgs: total-asshole-compression-screenshot-database-ih.jpg
 subheading:
-year2: '2004'
+display_year: '2004'
 download:
+add_credit: In collaboration with the Radical Software Group
 add_credits:
 related_code:
 layout: things-i-made

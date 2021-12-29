@@ -8,7 +8,6 @@ title: Destroyed Jeans
 year: '2019'
 medium: Vinyl prints onto 8 hanging banners
 commission: Sharjah Art Foundation
-add_credit: Sharjah Art Foundation
 dims: 650 x 250 cm
 pitch: 'Went big 4 this! '
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: destroyed-jeans-2018-125-db-saf--wbBE.jpg,destroyed-jeans-2018-125-db-saf--2s34.jpg
 subheading:
-year2: '2019'
+display_year: '2019'
 download:
+add_credit: Sharjah Art Foundation
 add_credits:
 related_code:
 layout: things-i-made

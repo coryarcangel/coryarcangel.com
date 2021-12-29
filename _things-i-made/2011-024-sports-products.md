@@ -9,7 +9,6 @@ year: '2011'
 medium: Painted bronze, rubber, Oakley M-Frame lenses, and display unit
 commission: 'Comissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
-add_credit:
 dims: 74 x 17.75 x 17.75 inches
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: sports-products-2011-024-full-database-AR.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

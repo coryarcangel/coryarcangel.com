@@ -8,7 +8,6 @@ title: Last Night I Had The Strangest Dream
 year: '2009'
 medium:
 commission:
-add_credit:
 dims:
 pitch: Me playing folk music and singing through auto-tune. Uuugh.
 ps:
@@ -17,8 +16,9 @@ related: "[36] 2007-003 Apple GarageBand Auto Tune Demonstration - appleautotune
 youtube: https://www.youtube.com/watch?v=Kow3MR2kTVs
 imgs: Last-Night-I-Had-Strangest-Dream-2009-041-Perf-View-1-database-NL.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

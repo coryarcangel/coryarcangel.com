@@ -8,7 +8,6 @@ title: 'Racks, Freaks, etc, etc. '
 year: '2012'
 medium: 'Youtube video. '
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs:
 subheading: "(youtube)"
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

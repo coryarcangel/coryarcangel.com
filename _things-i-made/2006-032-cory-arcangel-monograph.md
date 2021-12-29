@@ -8,7 +8,6 @@ title: 'Cory Arcangel '
 year: '2006'
 medium:
 commission:
-add_credit:
 dims: 9.25 x 6.5 x 0.35 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: 2005-032-migros-monograph-full-database-ih.jpg
 subheading: "(Monograph)"
-year2: '2006'
+display_year: '2006'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

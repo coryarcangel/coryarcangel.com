@@ -8,7 +8,6 @@ title: Continuous Partial Awareness
 year: '2008'
 medium: Lecture
 commission:
-add_credit:
 dims:
 pitch: "​Performance listing some ideas for projects."
 ps:
@@ -18,8 +17,9 @@ related: "[70] [2009-049-continuous-partial-awareness-pdf] 2009-049 Continuous P
 youtube:
 imgs: 2008-020-Continuous-Play-Perf-View-2-database-IH.jpg
 subheading: "(Performance)"
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Real Taste
 year: '2011'
 medium: AIR-O-SWISS 7135 Ultrasonic Humidifier, Diet Sprite Soda.
 commission:
-add_credit:
 dims: 16 x 15  x 8 inches
 pitch: "​Humidifier filled with Diet Sprite soda"
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: real-taste-2011-117-full-database-KA.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

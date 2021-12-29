@@ -8,7 +8,6 @@ title: Masters Trailer
 year: '2012'
 medium: Single Channel Video
 commission:
-add_credit:
 dims:
 pitch: '​Trailer for my exhibition <a href="http://www.coryarcangel.com/shows/masters/">Masters</a>
   at the Carnegie Museum of Art. '
@@ -18,8 +17,9 @@ related:
 youtube: https://www.youtube.com/watch?v=OPGOEq7Ae-w
 imgs: masters-trailer-2012-135-still-1-database-ih.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

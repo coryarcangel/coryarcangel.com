@@ -8,7 +8,6 @@ title: Dirtstyle Design
 year: '2002'
 medium: Lecture
 commission:
-add_credit:
 dims:
 pitch: "​Lecture about default and vernacular computer design."
 ps: '<p>​This was a lecture / course I performaned / taught a bunch of times for many
@@ -21,8 +20,9 @@ related:
 youtube:
 imgs: Dirtstyle-Design-2002-009-screenshot-database-ih.jpg
 subheading:
-year2: '2002'
+display_year: '2002'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

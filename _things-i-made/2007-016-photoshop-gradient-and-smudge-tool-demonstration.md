@@ -8,7 +8,6 @@ title: 'Photoshop Gradient and Smudge Tool Demonstration '
 year: '2007'
 medium: Inkjet on laminate.
 commission:
-add_credit:
 dims: 43 x 43 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: photoshop-smudge-2007-016-digital-database-ih.jpg
 subheading:
-year2: '2007'
+display_year: '2007'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -9,7 +9,6 @@ year: '2010'
 medium: Performance done in collaboration with the University of Michigan Digital
   Music Ensemble under the direction of Steve Rush
 commission:
-add_credit:
 dims:
 pitch: "​Performance for unknown electronics"
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: master-class-2010-054-performance-3-database-AK.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

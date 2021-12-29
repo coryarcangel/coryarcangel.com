@@ -8,7 +8,6 @@ title: Super Mario Clouds
 year: '2002'
 medium: Modded Super Mario Bros. cartridge
 commission:
-add_credit:
 dims: Dimensions variable
 pitch: "​Super Mario Brothers, ... but with just the clouds."
 ps: 'Super Mario Clouds is an old Mario Brothers cartridge which I modified to erase
@@ -25,8 +24,9 @@ related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 youtube:
 imgs: mario-clouds-2002-001-cartridge-2-database-ih.jpg
 subheading:
-year2: '2002'
+display_year: '2002'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/Super-Mario-Clouds
 layout: things-i-made

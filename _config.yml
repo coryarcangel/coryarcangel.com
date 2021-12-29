@@ -35,7 +35,7 @@ collections:
     source: things.csv
     id_key: url
     layout: things-i-made
-    sort_by: year
+    sort_by: display_year
     
   shows:
     output: true

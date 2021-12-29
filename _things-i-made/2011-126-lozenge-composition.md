@@ -9,7 +9,6 @@ title: Lozenge Composition, 1924 / Tableau No.IV. Losangique Pyramidal, 1925, wi
 year: '2011'
 medium: Lithograph on paper
 commission: Studio Voltaire
-add_credit:
 dims: 280mm x 215mm
 pitch: "​Page ripped from Mondrain book,... flipped. :)"
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: lozenge-2011-176-digital-database-ih.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

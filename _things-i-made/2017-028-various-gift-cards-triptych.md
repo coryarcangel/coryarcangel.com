@@ -8,7 +8,6 @@ title: Various Gift Cards Triptych
 year: '2017'
 medium: Inkjet print on paper
 commission:
-add_credit:
 dims: 11 x 25.5 in
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: 2017-028-gift-card-triptych-scan-database.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

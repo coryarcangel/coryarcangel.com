@@ -8,7 +8,6 @@ title: Apple GarageBand Auto Tune Demonstration
 year: '2007'
 medium: Video
 commission:
-add_credit:
 dims:
 pitch: "​GarageBand auto-tune applied to Jimi Hendrix’s Woodstock Star Spangled Banner."
 ps:
@@ -20,8 +19,9 @@ youtube: 'https://www.youtube.com/watch?v=9zWqUnW66wY
   '
 imgs: auto-tune-demo-2007-003-still-2-database-ih.jpg
 subheading:
-year2: '2007'
+display_year: '2007'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

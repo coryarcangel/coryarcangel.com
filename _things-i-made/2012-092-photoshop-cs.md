@@ -11,7 +11,6 @@ title: 'Photoshop CS: 60 by 60 inches, 300 DPI, RGB, square pixels, default grad
 year: '2012'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 60 x 60
 pitch: A ​"Double Click" photoshop. Part of my new series. LOL. :)
 ps: "<p>​Decided to up the amount of clicks it takes to make my Photoshop paintings
@@ -21,8 +20,9 @@ related:
 youtube:
 imgs: photoshop-cs-2012-092-full-database-Team.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

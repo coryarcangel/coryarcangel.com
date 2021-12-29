@@ -8,7 +8,6 @@ title: The Sharper Image
 year: '2010'
 medium: Publication
 commission:
-add_credit:
 dims: 6 x 9 x 0.35 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: 2010-132-sharper-image-catalog-full-1-database-ih.jpg
 subheading: "(Exhibition Catalog)"
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

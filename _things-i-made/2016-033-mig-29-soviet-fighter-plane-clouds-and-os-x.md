@@ -10,7 +10,6 @@ medium: Mig 29 Soviet Fighter Plane and Clouds (2005) Nintendo Entertainment Sys
   .nes Roms, Macmini running OS X, Nintendo emulator (Open Emu), variable multi-channel
   presentation
 commission:
-add_credit:
 dims: Dimensions variable
 pitch:
 ps:
@@ -19,8 +18,9 @@ related:
 youtube:
 imgs: mig-29-soviet-fighter-plane-and-clouds-2016-033-full-database-JH.jpg,mig-29-soviet-fighter-plane-and-clouds-osx-2016-033-full-database-ih-1-150.jpg,mig-29-soviet-fighter-plane-and-clouds-2016-033-install-database-01-AV.jpg,mig-29-soviet-fighter-plane-and-clouds-osx-2016-033-full-database-ih-4-150.jpg,mig-29-soviet-fighter-plane-and-clouds-osx-2016-033-full-database-ih-3-150.jpg,mig-osx-2016-033-full-database-ih-11241.jpg
 subheading:
-year2: '2016'
+display_year: '2016'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

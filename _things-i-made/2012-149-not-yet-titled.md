@@ -8,7 +8,6 @@ title: Not Yet Titled
 year: '2012'
 medium: Realtime tele-performance
 commission:
-add_credit:
 dims:
 pitch: Live tele-performance of me watching TV (and having a glass of white wine).
 ps: "​This was a live performance where I watched TV in NYC, and broadcast it live
@@ -21,8 +20,9 @@ related:
 youtube:
 imgs: untitled-2012-149-western-front-perf-view-2-database-BW.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

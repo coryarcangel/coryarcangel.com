@@ -9,7 +9,6 @@ title: 24 Dances For The Electric Piano Long-Sleeve Silkscreened T-Shirt (SRF-01
 year: '2013'
 medium: Shirt
 commission:
-add_credit: Cory Arcangel for Arcangel Surfware
 dims: One size fits mosts
 pitch: Tee for the 24 Dances suite of piano compositions.
 ps:
@@ -19,8 +18,9 @@ related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances 
 youtube:
 imgs: 24-dances-shirt-2013-219-full-1-database-ih.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Cory Arcangel for Arcangel Surfware
 add_credits:
 related_code:
 layout: things-i-made

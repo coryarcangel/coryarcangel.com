@@ -9,7 +9,6 @@ title: 'Photoshop CS: 65 by 36.5 inches, 300 DPI, RGB, square pixels, default gr
 year: '2016'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 65 x 36.5 in
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: photoshop-cs-2016-057-full-database-JH.jpg
 subheading:
-year2: '2016'
+display_year: '2016'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

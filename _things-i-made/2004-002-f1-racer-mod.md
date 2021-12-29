@@ -8,7 +8,6 @@ title: F1 Racer Mod (aka Japanese Driving Game)
 year: '2004'
 medium: Modded FamiCom game cartridge.
 commission:
-add_credit:
 dims:
 pitch: "​Just the road from a racing game."
 ps: "​This is a simple mod I did of the old Japanese Famicom driving game F1 Racer.
@@ -21,8 +20,9 @@ related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 youtube:
 imgs: f1-racer-2004-002-screen-shot-1-database-ih.jpg,f1-racer-2004-002-cartridge-1-database-ih_1.jpg,f1-racer-2004-002-screen-shot-2-database-ih.jpg,f1-racer-2004-002-screen-shot-3-database-ih.jpg,f1-racer-2004-002-screen-shot-4-database-ih.jpg
 subheading:
-year2: '2004'
+display_year: '2004'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/F1-Racer
 layout: things-i-made

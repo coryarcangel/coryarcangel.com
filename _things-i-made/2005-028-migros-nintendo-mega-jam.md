@@ -8,7 +8,6 @@ title: Migros MEGA JAM
 year: '2005'
 medium: Sharpie on CDs.
 commission:
-add_credit:
 dims:
 pitch: "Free CD given away during exhibition. Edition unknown. \n"
 ps: |-
@@ -20,8 +19,9 @@ related: "[20] 2005-001 Super Mario Movie - supermariomovie"
 youtube:
 imgs: migros-jam-2005-028-full-database-ih.jpg
 subheading:
-year2: '2005'
+display_year: '2005'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

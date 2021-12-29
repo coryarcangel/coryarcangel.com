@@ -9,7 +9,6 @@ title: 'Photoshop CS: 86 by 60 inches, 300 DPI, RGB, square pixels, default grad
 year: '2014'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: 86 x 60 in
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: photoshop-cs-2014-017-full-database-FA.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

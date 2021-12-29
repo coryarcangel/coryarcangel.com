@@ -8,7 +8,6 @@ title: 'Dances for Electric Piano '
 year: '2013'
 medium: Performance for Korg M1, PA, pianist, concert hall
 commission:
-add_credit:
 dims:
 pitch: "​Performance version of my dances record. Very very sick if you were able
   to catch it! OMG. Also .... soooo loud."
@@ -23,8 +22,9 @@ related: |-
 youtube:
 imgs: 24-dances-2013-220-Berlin-02-database-SD.jpg,24-dances-2013-220-MET-01-database-ih.jpg,24-dances-2013-220-ICA-London-2.JPG
 subheading: "(Performance) "
-year2: '2015'
+display_year: '2015'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

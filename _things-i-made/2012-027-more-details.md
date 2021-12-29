@@ -8,7 +8,6 @@ title: More Detials
 year: '2012'
 medium: Tic-tacs, Mercedes-Benz Concept Style Coupé
 commission:
-add_credit:
 dims: Variable
 pitch: "​A handful of tic-tacs thrown under the front seat of a Mercedes,....:)"
 ps: "<p>So yeah, this was just some tic tacs thrown under the front seat of a Mercedes,..
@@ -21,8 +20,9 @@ related:
 youtube:
 imgs: more-details-2012-027-detail-2-database-JT-Moca.jpg,more-details-2012-027-detail-database-PC.jpg,more-details-2012-027-full-1-database-SK.jpg
 subheading:
-year2: '2012'
+display_year: '2012'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

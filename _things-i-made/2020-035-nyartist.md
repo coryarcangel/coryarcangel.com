@@ -8,7 +8,6 @@ title: NYARTIST
 year: '2020'
 medium: Cassette tape.
 commission:
-add_credit:
 dims:
 pitch: Benefit limited edition cassette tape done for Issue Project Room.
 ps: NYARTIST is documentation of a project by Cory Arcangel which was exhibited and
@@ -23,8 +22,9 @@ related: "[4476] [2018-134] 2018-134 NYARTIST"
 youtube:
 imgs: nyartist-2020-035-db-ih--UHyo.jpg
 subheading:
-year2: '2020'
+display_year: '2020'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

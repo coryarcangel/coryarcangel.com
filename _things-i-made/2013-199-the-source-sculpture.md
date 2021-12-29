@@ -8,7 +8,6 @@ title: The Source
 year: '2013'
 medium: Flex 6xA4 Brochure Stand, various The Source zines
 commission:
-add_credit:
 dims: 145 x 27 x 36
 pitch:
 ps:
@@ -25,8 +24,9 @@ related: |-
 youtube:
 imgs: the-source-2013-199-full-Heart-01-database-SM.jpg
 subheading: "(sculpture)"
-year2:
+display_year: '2013'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

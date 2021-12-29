@@ -8,7 +8,6 @@ title: Continuous Partial Awareness (PDF)
 year: '2009'
 medium: PDF
 commission:
-add_credit:
 dims:
 pitch: A list of ideas for artworks, rated. Made originally for a performance. ps
   - Some I ended up making.
@@ -19,8 +18,9 @@ related: "[49] [2008-020-continuous-partial-awareness-performance] 2008-020 Cont
 youtube:
 imgs: Continuous-Partial-Awareness-2009-049-Full-db-OL.jpg,Continuous-Partial-Awareness-2009-049-install-2-db-OL.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download: arcangel-CPA.pdf
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 year: '2006'
 medium: 'Composition for solo glockenspiel and optional electronics. '
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: The-Bruce-Springsteen-Born-to-Run-Glockenspiel-Addendum-2006-006-db-1-IH.jpg
 subheading: "(Composition)"
-year2: '2006'
+display_year: '2006'
 download: cory-arcangel-2006-006-glock-addendum-web.pdf
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

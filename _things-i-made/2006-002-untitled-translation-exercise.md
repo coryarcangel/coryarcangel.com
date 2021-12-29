@@ -8,7 +8,6 @@ title: Untitled Translation Exercise
 year: '2006'
 medium: Video
 commission:
-add_credit:
 dims: 1:41:53 minutes
 pitch: Dazed and Confused dubbed back into English via an outsource firm in Bangalore.
 ps: "<p>​So......yes the dialog in the film is still in English. :)"
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: translation-2006-002-install-6-database.jpg
 subheading:
-year2: '2006'
+display_year: '2006'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

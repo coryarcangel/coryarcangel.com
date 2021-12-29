@@ -8,7 +8,6 @@ title: Responce
 year: '2019'
 medium: CYMK print on magistra deluxe blueback 125gr. paper
 commission:
-add_credit:
 dims:
 pitch:
 ps: Print for Lorenzo Sennis Presto label's 10th anniversary
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: responce-2019-027-db-ih--oHP0.jpg
 subheading:
-year2: '2019'
+display_year: '2019'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

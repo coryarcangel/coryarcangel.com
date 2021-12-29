@@ -8,7 +8,6 @@ title: All The Small Things
 year: '2014'
 medium: Exhibition Catalog
 commission:
-add_credit: 'Published by WALTHER KöNIG, KöLN, Design by Dave Yun, Photos: Sasha Maric'
 dims:
 pitch:
 ps:
@@ -20,8 +19,9 @@ related: |-
 youtube:
 imgs: allthesmallthingscatalog-2014-125-full-01-database-ih.jpg,allthesmallthingscatalog-2014-125-full-02-database-ih.jpg,allthesmallthingscatalog-2014-125-full-03-database-ih.jpg,allthesmallthingscatalog-2014-125-full-05-database-ih.jpg,allthesmallthingscatalog-2014-125-full-06-database-ih.jpg,allthesmallthingscatalog-2014-125-full-07-database-ih.jpg,allthesmallthingscatalog-2014-125-full-04-database-ih.jpg,allthesmallthingscatalog-2014-125-full-08-database-ih.jpg,allthesmallthingscatalog-2014-125-full-09-database-ih.jpg,allthesmallthingscatalog-2014-125-full-11-database-ih.jpg,allthesmallthingscatalog-2014-125-full-12-database-ih.jpg,allthesmallthingscatalog-2014-125-full-13-database-ih.jpg,allthesmallthingscatalog-2014-125-full-10-database-ih.jpg,allthesmallthingscatalog-2014-125-full-15-database-ih.jpg,allthesmallthingscatalog-2014-125-full-14-database-ih.jpg
 subheading: "(Catalog)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: 'Published by WALTHER KöNIG, KöLN, Design by Dave Yun, Photos: Sasha Maric'
 add_credits:
 related_code:
 layout: things-i-made

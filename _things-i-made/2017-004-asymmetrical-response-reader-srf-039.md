@@ -9,7 +9,6 @@ year: '2017'
 medium: Black tape bound booklet, hand-embossed with the Arcangel Surfware Yin-Yang
   Crest.
 commission:
-add_credit: w/ Olia Lialina
 dims:
 pitch:
 ps:
@@ -19,8 +18,9 @@ related: "[4390] [2017-041-asymmetrical-response-reader-ibiza] 2017-041 Asymmetr
 youtube:
 imgs: ar-reader-2017-004-web-ih--ComI.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit: w/ Olia Lialina
 add_credits:
 related_code:
 layout: things-i-made

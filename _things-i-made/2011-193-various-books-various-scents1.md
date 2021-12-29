@@ -8,7 +8,6 @@ title: Various Books, Various Scents
 year: '2011'
 medium: Books paired with perfume on table.
 commission:
-add_credit:
 dims: '35 x 99 x 35.5 inches '
 pitch: "​Books paired w/ celeb perfumes. "
 ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and Cricket
@@ -26,8 +25,9 @@ related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
 youtube:
 imgs: various-books-scents-2011-193-full-database-Team.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -12,7 +12,6 @@ medium: 'Samsung Galaxy Tab 3 (SM-T310), three BLU Advance 4.0 3G (A260a) cell p
   (2005) Nintendo Entertainment System .nes Roms, Android OS Nintendo Entertainment
   System emulators'
 commission:
-add_credit:
 dims:
 pitch: 'Re-staging of my old(ish) NES works on emulators running on cell phones. Actually,...
   re-staging of Super Landscape #1 which is Super Mario Clouds and F1 Racer smashed
@@ -26,8 +25,9 @@ related: |-
 youtube:
 imgs: quickoffice-2015-068-install-database-CK.jpg,quickoffice-2015-068-install-detail-database-2-CK.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

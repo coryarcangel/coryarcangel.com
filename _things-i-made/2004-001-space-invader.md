@@ -8,7 +8,6 @@ title: Space Invader
 year: '2004'
 medium: Modded Space Invaders cartridge
 commission:
-add_credit: Code by Alex Galloway of the Radical Software Group
 dims:
 pitch: "​Space Invaders with only one invader."
 ps: "​Space Invader is a mod of the Atari game Space Invaders which has been turned
@@ -25,8 +24,9 @@ youtube: 'https://www.youtube.com/watch?v=XaoiBidAgv4
   '
 imgs: space-invader-2004-001-cartridge-database-ih.jpg,space-invader-2004-001-still-2-database-ih.jpg,space-invader-2004-001-still-4-database-ih.jpg,space-invader-2004-001-still-5-database-ih.jpg,space-invader-2004-001-still-6-database-ih.jpg,space-invader-2004-001-still-7-database-ih.jpg
 subheading:
-year2: '2004'
+display_year: '2004'
 download:
+add_credit: Code by Alex Galloway of the Radical Software Group
 add_credits:
 related_code: https://github.com/coryarcangel/Space-Invader
 layout: things-i-made

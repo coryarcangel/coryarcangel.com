@@ -8,7 +8,6 @@ title: Everybody Else
 year: '2009'
 medium: 'Intro for Digital Folklore Book. '
 commission:
-add_credit:
 dims:
 pitch: "​Txt about digital folklore."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: Everybody-Else-2009-040-Full-1-Database-IH.jpg
 subheading:
-year2: '2009'
+display_year: '2009'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

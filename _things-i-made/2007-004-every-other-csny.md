@@ -8,7 +8,6 @@ title: Every Other C.S.N.Y.
 year: '2007'
 medium: Pen on paper.
 commission:
-add_credit:
 dims:
 pitch: "​Every single possible combination of CSNY."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: every-other-csny-2007-004-full-database-ih.jpg
 subheading:
-year2: '2007'
+display_year: '2007'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

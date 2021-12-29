@@ -9,7 +9,6 @@ title: 'Photoshop CS: 684 by 4600 centimeters, 10 DPC, RGB, square pixels, defau
 year: '2015'
 medium: Carpet
 commission:
-add_credit: Produced by ege carpets
 dims:
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: photoshop-cs-2015-055-install-2-database-CK.jpg,photoshop-cs-2015-055-install-1-database-CK.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download:
+add_credit: Produced by ege carpets
 add_credits:
 related_code:
 layout: things-i-made

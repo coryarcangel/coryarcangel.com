@@ -11,7 +11,6 @@ medium: Acer laptop running Light O Rama S3 Software Suite Pro, three Light O Ra
   decoders, RGB LED strips, thirteen LED string lights, three Roman Lights Holographic
   Ropelight Palm Trees, clip-lamps with LED bulbs, extension cords, zip-ties
 commission:
-add_credit: Arcangel Surfware R & D team
 dims: Variable
 pitch: "​Christmas Light animation......."
 ps:
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: yolo-2014-03-install-008-database-DG.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Arcangel Surfware R & D team
 add_credits:
 related_code:
 layout: things-i-made

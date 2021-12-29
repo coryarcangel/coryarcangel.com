@@ -8,7 +8,6 @@ title: Real Talk
 year: '2011'
 medium: Cell phone signal booster
 commission: The Whitney Museum of American Art
-add_credit:
 dims: Dimensions variable
 pitch: "​Boosted cell phone signal in a gallery..."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: real-talk-2011-132-detail-2-database-SC.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: 'coming soon: blogs, paypal, the internet (on the work of Paper Rad)'
 year: '2014'
 medium: Essay
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: coming-soon-2014-137-database-ih--W7yV.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download: coming-soon-2014-137-scan-ih.pdf
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

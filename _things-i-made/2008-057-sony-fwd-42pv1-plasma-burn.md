@@ -8,7 +8,6 @@ title: Sony FWD-42PV1 Plasma Burn
 year: '2008'
 medium: Sony FWD-42PV1 Monitor and DVD player
 commission:
-add_credit:
 dims: 26 x 41 x 12 inches
 pitch:
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: burn-2008-057-full-database-UG.jpg
 subheading:
-year2: '2008'
+display_year: '2008'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

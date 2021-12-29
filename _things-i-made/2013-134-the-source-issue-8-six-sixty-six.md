@@ -8,7 +8,6 @@ title: 'The Source Issue #8: Six Sixty-six (SRF-24)'
 year: '2015'
 medium: Zine
 commission: Creative Capital
-add_credit:
 dims:
 pitch: Source code for my infinate compression experiment (2004) as an archival zine.
   Def collect dem all!±±±
@@ -20,8 +19,9 @@ related: "[13] [2004-004-iron-maidens-number-of-the-beast-compressed-over-and-ov
 youtube:
 imgs: source-666-2013-134-detail-01-database-ih.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download: the-source-six-sixty-six-2013-134-digital-master-ih.pdf
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/666
 layout: things-i-made

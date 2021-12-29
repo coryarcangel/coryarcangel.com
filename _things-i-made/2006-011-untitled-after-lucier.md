@@ -8,7 +8,6 @@ title: Untitled After Lucier
 year: '2006'
 medium: Computer generated video
 commission:
-add_credit:
 dims:
 pitch: "​An infinitely compressing video of the Beatles on Ed Sullivan."
 ps:
@@ -18,8 +17,9 @@ related: "[13] 2004-004 Iron Maidens “The Number of the Beast” compressed ov
 youtube:
 imgs: untitled-after-lucier-2006-011-still-1-database-ih.jpg
 subheading:
-year2: '2006'
+display_year: '2006'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

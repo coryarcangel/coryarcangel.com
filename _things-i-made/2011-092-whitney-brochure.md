@@ -8,7 +8,6 @@ title: Whitney Brochure
 year: '2011'
 medium: Brochure
 commission:
-add_credit:
 dims:
 pitch: Brochure with 8 free prints included. Edition unknown (a few thousand?).
 ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This was
@@ -28,8 +27,9 @@ related:
 youtube:
 imgs: whitney-brochure-2011-092-detail-database.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download: arcangel_brochure.pdf
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Totally Fucked
 year: '2003'
 medium: Modded Super Mario Brothers cartridge
 commission:
-add_credit:
 dims:
 pitch: "​Super Mario stuck on a cube."
 ps: "​This one is an infinite loop of Mario stuck on a cube. A year later I cribbed
@@ -26,8 +25,9 @@ related: "[20] [2005-001-super-mario-movie] 2005-001 Super Mario Movie"
 youtube:
 imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database-ih.jpg,fucked-2003-001-still-3-database-ih.jpg
 subheading:
-year2: '2003'
+display_year: '2003'
 download:
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/Totally-Fucked
 layout: things-i-made

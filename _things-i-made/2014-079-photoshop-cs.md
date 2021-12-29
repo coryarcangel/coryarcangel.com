@@ -11,7 +11,6 @@ title: 'Photoshop CS: 50 by 50 inches, 300 DPI, RGB, square pixels, default grad
 year: '2014'
 medium: Chromogenic print
 commission:
-add_credit:
 dims: '50in x 50in '
 pitch:
 ps:
@@ -20,8 +19,9 @@ related:
 youtube:
 imgs: photoshop-cs-2014-079-full-2-database-team-jm.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

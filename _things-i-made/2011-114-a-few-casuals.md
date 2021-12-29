@@ -8,7 +8,6 @@ title: A Few Casuals
 year: '2011'
 medium: Purple Ugg® footware, 99.9% pure lead ingots
 commission:
-add_credit:
 dims: 9 x 9 x 11 inches
 pitch: "​Uggs with a lead ignot in them"
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: a-few-casuals-2011-114-full-database-ih.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

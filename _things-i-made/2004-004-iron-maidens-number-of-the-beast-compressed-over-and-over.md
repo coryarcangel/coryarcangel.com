@@ -10,7 +10,6 @@ title: Iron Maiden's “The Number of the Beast” compressed over and over as a
 year: '2004'
 medium: mp3
 commission:
-add_credit:
 dims:
 pitch: "​Iron Maiden’s “The Number of the Beast” compressed over and over as an mp3
   666 times. Click on the mp3 below to listen!"
@@ -28,8 +27,9 @@ related: |-
 youtube:
 imgs: 666-2004-004-screenshot-1-database-ih.jpg
 subheading:
-year2: '2004'
+display_year: '2004'
 download: Cory-Arcangel-666.mp3
+add_credit:
 add_credits:
 related_code: https://github.com/coryarcangel/666
 layout: things-i-made

@@ -8,7 +8,6 @@ title: Freshbuzz (www.subway.com)
 year: '2014'
 medium: Single channel video
 commission:
-add_credit:
 dims:
 pitch: On take motion picture of myself web surfing around www.subway.com
 ps:
@@ -21,8 +20,9 @@ related: |-
 youtube:
 imgs: freshbuzz-2013-169-install-Heart-01-database-SM.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

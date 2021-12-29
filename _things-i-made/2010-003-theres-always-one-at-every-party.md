@@ -8,7 +8,6 @@ title: There's Always One At Every Party
 year: '2010'
 medium: Youtube video
 commission:
-add_credit:
 dims:
 pitch: "​Seinfeld super-cut of all scenes dealing with Kramer’s coffee table about
   coffee tables."
@@ -21,8 +20,9 @@ youtube: 'https://www.youtube.com/watch?v=3QjTPA-Ib9E
   '
 imgs: one-at-every-party-2010-003-still-1-database-ih_1.jpg
 subheading:
-year2: '2010'
+display_year: '2010'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

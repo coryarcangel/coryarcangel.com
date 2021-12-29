@@ -8,7 +8,6 @@ title: Fuck Negativity T-Shirt (SRF-025)
 year: '2015'
 medium: Tee
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -17,8 +16,9 @@ related: "[4277] [2014-088-going-negative-lakes] 2014-088 Going Negative / Lakes
 youtube:
 imgs: Fuck-Negativity-T-Shirt-SRF-025-2015-157-full-database-ih.jpg
 subheading:
-year2: '2015'
+display_year: '2015'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -10,7 +10,6 @@ year: '2020'
 medium: Dual-channel screen recording of a live bot performance on Instagram, Febuary
   5th, 2020.
 commission:
-add_credit:
 dims:
 pitch:
 ps:
@@ -19,8 +18,9 @@ related:
 youtube:
 imgs: squad-2020-022-db-ih--LMgO.jpg
 subheading:
-year2: '2020'
+display_year: '2020'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: " 25 Clintons, 2 Palms, and a Taurus"
 year: '2013'
 medium: 'Sixteen pencil on paper drawings. '
 commission:
-add_credit:
 dims: "(x16) 36 x 24 in."
 pitch: "​...."
 ps:
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: 25-clintons-2013-206-full-Heart-01-database-SM.jpg,25-clintons-2013-206-detail-Heart-01-database-SM.jpg
 subheading:
-year2: '2013'
+display_year: '2013'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

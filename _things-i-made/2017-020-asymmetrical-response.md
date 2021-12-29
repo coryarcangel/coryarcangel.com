@@ -8,7 +8,6 @@ title: 'Asymmetrical Response '
 year: '2018'
 medium: '120 page book, CD, script, plastic LP sleeve.   '
 commission:
-add_credit: 'w/ Olia Lialina. Design by Manuel Berger! '
 dims: 30 x 30 cm
 pitch: MASSIVE CATALOG 4 MASSIVE SHOW
 ps:
@@ -19,8 +18,9 @@ related: |-
 youtube:
 imgs: asymmetrical-response-2017-020-database-ih--AemK.jpg
 subheading: "(Catalog)"
-year2: '2018'
+display_year: '2018'
 download:
+add_credit: 'w/ Olia Lialina. Design by Manuel Berger! '
 add_credits:
 related_code:
 layout: things-i-made

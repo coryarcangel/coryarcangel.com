@@ -8,7 +8,6 @@ title: Arcangel Surfware / Webmaster Summer Flip-Flops
 year: '2017'
 medium: Flip-flop sandals
 commission:
-add_credit: w/ Olia Lialina
 dims:
 pitch:
 ps:
@@ -18,8 +17,9 @@ related: "[4385] [2017-029-arcangel-surfware-webmaster-summer-beach-towel] 2017-
 youtube:
 imgs: as-ws-flip-flops-2017-030-database-ih--WtJY.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit: w/ Olia Lialina
 add_credits:
 related_code:
 layout: things-i-made

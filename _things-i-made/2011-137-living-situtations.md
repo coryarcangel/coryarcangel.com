@@ -9,7 +9,6 @@ year: '2011'
 medium: 'Geneva Sound System Model XL White, iPod Classic, and 24bit re-mastered recording
   of Beethoven''s Symphony No. 3 in E-Flat Major '
 commission:
-add_credit:
 dims: 35 x 99 x 35.5 inches
 pitch: Remastered orchestral recording.
 ps: "<p>For this one, I have remastered - from a 78 - a recording of Beethoven’s Symphony
@@ -23,8 +22,9 @@ related:
 youtube:
 imgs: living-situations-2011-137-full-database-Team.jpg
 subheading:
-year2: '2011'
+display_year: '2011'
 download: arcangel-living-situtations.mp3
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

@@ -8,7 +8,6 @@ title: 24 Dances for Electric Piano (SRF-013)
 year: '2013'
 medium: Pencil on paper
 commission:
-add_credit: Cory Arcangel for Arcangel Surfware
 dims: 12 in x 12 in
 pitch: "​Plotter drawing of the dunk plot on the cover of the 24 Dances for Electric
   Piano vinyl."
@@ -19,8 +18,9 @@ related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances 
 youtube:
 imgs: 24-dances-drawing-2013-221-full-1-database-ih.jpg
 subheading: "(Drawing)"
-year2: '2014'
+display_year: '2014'
 download:
+add_credit: Cory Arcangel for Arcangel Surfware
 add_credits:
 related_code:
 layout: things-i-made

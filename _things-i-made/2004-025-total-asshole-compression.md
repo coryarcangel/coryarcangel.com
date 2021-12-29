@@ -8,7 +8,6 @@ title: Total Asshole Compression
 year: '2004'
 medium: Sharpie on CD-Rom and AOL booklets
 commission:
-add_credit:
 dims: 8 x 5 inches
 pitch: "​“Edition” version of the Total Asshole Compression Software."
 ps: "​These were modified (?) AOL booklets which contained the OSX compression software
@@ -23,9 +22,10 @@ related: |-
 youtube:
 imgs: tac-booklet-2005-025-full-database-ih.jpg
 subheading: Booklet
-year2: '2005'
+display_year: '2005'
 download:
-add_credits: Radical Software Group
+add_credit: w Radical Software Group
+add_credits:
 related_code:
 layout: things-i-made
 ---

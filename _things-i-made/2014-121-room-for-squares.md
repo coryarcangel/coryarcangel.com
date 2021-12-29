@@ -41,7 +41,6 @@ medium: "(From left to right) Store Supply Warehouse® Maple Melamine Horizontal
   2004 Issue), Since U Been Gone / Music For Stereos (2014) (Sony® Speaker Dock, iPod
   Classic 160GB, Shania Twain The Woman in Me MPEG-1 Audio MPEG-1 Part 3 files)"
 commission:
-add_credit:
 dims: Variable
 pitch:
 ps:
@@ -63,8 +62,9 @@ related: |-
 youtube:
 imgs: room-for-squares-2014-121-09-install-team-2-database-jm.jpg,room-for-squares-2014-121-09-install-team-5-database-jm.jpg,room-for-squares-2014-121-09-install-team-9-database-jm.jpg,room-for-squares-2014-121-09-install-team-7-database-jm.jpg,room-for-squares-2014-121-09-install-team-10-database-jm.jpg,room-for-squares-2014-121-09-install-team-13-database-jm.jpg,room-for-squares-2014-121-09-install-team-11-database-jm.jpg,room-for-squares-2014-121-09-install-team-14-database-jm.jpg,room-for-squares-2014-121-09-install-team-15-database-jm.jpg,room-for-squares-2014-121-09-install-team-19-database-jm.jpg,room-for-squares-2014-121-09-install-team-22-database-jm.jpg,room-for-squares-2014-121-09-install-team-21-database-jm.jpg,room-for-squares-2014-121-09-install-team-20-database-jm.jpg
 subheading:
-year2: '2014'
+display_year: '2014'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

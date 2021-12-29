@@ -8,7 +8,6 @@ title: 'Arcangel Surfware x NYABF 2017: currentmood'
 year: '2017'
 medium: Tradeshow booth
 commission:
-add_credit:
 dims:
 pitch:
 ps: "​Wz on a roll, doing a booth every year."
@@ -17,8 +16,9 @@ related:
 youtube:
 imgs: nyabf-2017-052-detail-database-dt-17149.jpg
 subheading:
-year2: '2017'
+display_year: '2017'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made

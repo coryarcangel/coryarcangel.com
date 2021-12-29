@@ -9,7 +9,6 @@ year: '2016'
 medium: 1920x1080 H.264/MPEG-4 Part 10 looped digital file (from 11 lossless TIFS),
   media player, 65–75” flatscreen, armature, various cables
 commission:
-add_credit:
 dims: Dimensions variable
 pitch:
 ps:
@@ -18,8 +17,9 @@ related:
 youtube:
 imgs: jeans-lakes-2015-061-full-database-ih.jpg
 subheading:
-year2: '2016'
+display_year: '2016'
 download:
+add_credit:
 add_credits:
 related_code:
 layout: things-i-made
