@@ -8,7 +8,7 @@ year: '2014'
 venue: SOHO Holiday Inn, Grand Lafyette Conference Room
 state_country: New York
 pitch: Debut Arcangel Surfware pop-up / first show of all new work in a few years
-  in New YorkC (since my Whitney show) ...... :-/
+  in NYC (since my Whitney show) ...... :-/
 ps:
 imgs: yolo-2014-03-install-001-database-DG.jpg,yolo-2014-03-install-005-database-DG.jpg,yolo-2014-03-install-002-database-DG.jpg,yolo-2014-03-install-006-database-DG.jpg,yolo-2014-03-install-007-database-DG.jpg,yolo-2014-03-install-014-database-DG.jpg,yolo-2014-03-install-026-database-DG.jpg,yolo-2014-03-install-031-database-DG.jpg,yolo-2014-03-install-037-database-DG.jpg,yolo-2014-03-install-039-database-DG.jpg,yolo-2014-03-install-052-database-DG.jpg,yolo-2014-03-install-051-database-DG.jpg,yolo-2014-03-install-060-database-DG.jpg,yolo-2014-03-install-059-database-DG.jpg,yolo-2014-03-install-071-database-DG.jpg,yolo-2014-03-install-075-database-DG.jpg,yolo-2014-03-install-073-database-DG.jpg,yolo-2014-03-install-082-database-DG.jpg,yolo-2014-03-install-084-database-DG.jpg
 things: "[144] [2010-076-sports-products] 2010-076 Sports Products,[2213] [2011-193-various-books-various-scents1]

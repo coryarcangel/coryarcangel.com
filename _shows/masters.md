@@ -22,11 +22,11 @@ things: "[7] 2002-001 Super Mario Clouds - supermarioclouds,[11] 2003-002 Data D
   op. 11 - dreiklavierstucke,[71] 2011-021 Volume Management - volumemanagement,[63]
   2008-074 Genealogies - 2008-074-genealogies,[55] 2009-046 What a Misunderstanding!
   - 2009-046-what-a-misunderstanding-art,[97] 2010-021 Bronzer Flash! - 2010-021-bronzer-flash,[34]
-  2007-004 Every Other C.S.N.Y. - 2007-004-every-other-csNew York,[189] 2004-025 Total
-  Asshole Compression - 2004-025-total-asshole-compression,[2207] 2012-134 YOLO -
-  2012-134-yolo,[2208] 2012-135 Masters Trailer - 2012-135-masters-trailer,[2209]
-  2012-150 Carnegie Brochure - 2012-150-carnegie-brochure,[2217] 2011-156 The AUDMCRS
-  Underground Dance Music Collection of Recorded Sound - 2011-156-the-audmcrs-underground-dance-music-collection-of-recorded-sound,[2228]
+  2007-004 Every Other C.S.N.Y. - 2007-004-every-other-csny,[189] 2004-025 Total Asshole
+  Compression - 2004-025-total-asshole-compression,[2207] 2012-134 YOLO - 2012-134-yolo,[2208]
+  2012-135 Masters Trailer - 2012-135-masters-trailer,[2209] 2012-150 Carnegie Brochure
+  - 2012-150-carnegie-brochure,[2217] 2011-156 The AUDMCRS Underground Dance Music
+  Collection of Recorded Sound - 2011-156-the-audmcrs-underground-dance-music-collection-of-recorded-sound,[2228]
   2012-065 AUDMCRS Essay - 2012-065-audmcrs-essay"
 layout: shows
 ---

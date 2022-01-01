@@ -15,11 +15,11 @@ things: "[147] [2010-079-skipping-stones] 2010-079 Skipping Stones,[2217] [2011-
   2011-156 The AUDMCRS Underground Dance Music Collection of Recorded Sound,[4239]
   [2014-051-you-only-live-once] 2014-051 You Only Live Once,[4251] [2015-001-high-lyfe]
   2015-001 High Lyfe,[4253] [2015-003-clarity] 2015-003 Clarity,[4260] [2015-014-hot-topics]
-  2015-014 Hot Topics,[4263] [2015-027-fucks] 2015-027 Fucks,[4265] [2015-053-snowbunNew
-  York-lakes] 2015-053 SnowbunNew York / Lakes,[4379] [2017-001-call-of-duty] 2017-001
-  Call of Duty,[4381] [2017-005-dunk] 2017-005 Dunk,[4382] [2017-016-photoshop-cs]
-  2017-016 Photoshop CS,[4383] [2017-023-three-stripes] 2017-023 Three stripes,[4390]
-  [2017-041-asymmetrical-response-reader-ibiza] 2017-041 Asymmetrical Response Reader:
-  Ibiza (SRF-041),[4416] [2017-020-asymmetrical-response] 2017-020 Asymmetrical Response"
+  2015-014 Hot Topics,[4263] [2015-027-fucks] 2015-027 Fucks,[4265] [2015-053-snowbunny-lakes]
+  2015-053 Snowbunny / Lakes,[4379] [2017-001-call-of-duty] 2017-001 Call of Duty,[4381]
+  [2017-005-dunk] 2017-005 Dunk,[4382] [2017-016-photoshop-cs] 2017-016 Photoshop
+  CS,[4383] [2017-023-three-stripes] 2017-023 Three stripes,[4390] [2017-041-asymmetrical-response-reader-ibiza]
+  2017-041 Asymmetrical Response Reader: Ibiza (SRF-041),[4416] [2017-020-asymmetrical-response]
+  2017-020 Asymmetrical Response"
 layout: shows
 ---
