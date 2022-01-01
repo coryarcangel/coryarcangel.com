@@ -5,7 +5,8 @@ type: '5'
 title: currentmood
 url: currentmood
 year: '2016'
-venue: Lisson Gallery, London
+venue: Lisson Gallery
+state_country: London
 pitch: Liked so much how all the Lakes looked lined up in Munich, kinda wanted 2 see
   how all my work mashed together would look. Otherwise, not exactly sure what I wz
   doing, but turned out well (I thought). Also, there was kinda def (ining) audio.

@@ -5,7 +5,8 @@ type: '5'
 title: Here Comes Everybody
 url: here-comes-everybody
 year: '2010'
-venue: Hamburger Bahnhof, Berlin, Germany
+venue: Hamburger Bahnhof
+state_country: Berlin
 pitch: "<p>​Show that wz centered around music / composition.</p>"
 ps:
 imgs: Hamburger-Bahnhof-Berlin-2010-11-install-1-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-2-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-3-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-4-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-5-database-HB.jpg

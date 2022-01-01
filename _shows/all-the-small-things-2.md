@@ -6,6 +6,7 @@ title: All The Small Things
 url: all-the-small-things-2
 year: '2014'
 venue: Reykjavik Art Museum
+state_country: Reykjavik
 pitch: Traveling show (came form Denmark). Iceland was so sick. OMG. Amazing place.
 ps:
 imgs: Reykjavik-Art-Museum-2015-001-install-004-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-024-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-026-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-033-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-036-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-037-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-035-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-003-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-005-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-015-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-022-database-pt.jpg

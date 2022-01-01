@@ -5,7 +5,8 @@ type: '5'
 title: Images
 url: images
 year: '2016'
-venue: Fridericianum, Kassel
+venue: Fridericianum
+state_country: Kassel
 pitch: "​Group ... shared a room with Michel Majerus! OMG~~~~!"
 ps:
 imgs: images-2018-02-database-uk--lcbR.jpg,images-2018-02-database-uk--wvJ4.jpg

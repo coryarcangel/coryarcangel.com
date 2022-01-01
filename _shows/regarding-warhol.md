@@ -5,7 +5,8 @@ type: '5'
 title: Regarding Warhol
 url: regarding-warhol
 year: '2013'
-venue: Warhol Museum, Pittsburgh, PA
+venue: Warhol Museum
+state_country: Pittsburgh
 pitch: Silver Clouds, Super Mario Clouds ;-),,
 ps:
 imgs: Warhol-Pittsburgh-2013-02-install-05-database-Warhol_1.jpg,Warhol-Pittsburgh-2013-02-install-06-database-Warhol.jpg

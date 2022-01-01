@@ -6,6 +6,7 @@ title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 url: the-audmcrs-underground-dace-music-collection-of-recorded-sound
 year: '2013'
 venue: Newmuseum.org
+state_country: Cyberspace
 pitch: Gotta luv these virtual shows(!) Linked to the AUDMCRS Underground Dance Music
   Collection of Recorded Sound.
 ps:

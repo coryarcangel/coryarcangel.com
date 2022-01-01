@@ -5,7 +5,8 @@ type: '5'
 title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 url: the-bruce-springsteen-born-to-run-glockenspiel-addendum
 year: '2008'
-venue: Light Industry, Brooklyn, New York
+venue: Light Industry
+state_country: Brooklyn
 pitch: "​First complete performance of my (epic?) composition for Glockenspiel and
   electronics.&nbsp;"
 ps:

@@ -5,7 +5,8 @@ type: '5'
 title: Verticals
 url: verticals
 year: '2019'
-venue: Galerie Thaddaeus Ropac, Salzburg
+venue: Galerie Thaddaeus Ropac
+state_country: Salzburg
 pitch: A classic European show (maybe my last for a while?). Painting, sculpture,
   drawing, laser ;-)
 ps:

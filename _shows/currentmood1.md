@@ -5,7 +5,8 @@ type: '5'
 title: currentmood
 url: currentmood1
 year: '2017'
-venue: Independent Art Fair (w/ Triple Canopy), NY
+venue: Independent Art Fair (w/ Triple Canopy)
+state_country: New York
 pitch: "​Trade show style booth 4 my Triple Canopy edition (kinda my last Lisson show
   in a box)."
 ps:

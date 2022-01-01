@@ -5,7 +5,8 @@ type: '5'
 title: Image is Everything
 url: image-is-everything
 year: '2010'
-venue: Galerie Thaddaeus Ropac, Paris, France
+venue: Galerie Thaddaeus Ropac
+state_country: Paris
 pitch: "<p>First show of all new work I did with leaving the lights on in the gallery.
   Took the title from the Agassi book I was reading at the time. Highly recommended
   (the book)! </p>"

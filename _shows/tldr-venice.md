@@ -5,7 +5,8 @@ type: '5'
 title: tl;dr
 url: tldr-venice
 year: '2014'
-venue: Team Gallery, Venice Beach
+venue: Team Gallery
+state_country: Venice Beach
 pitch: Mini retrospective in the form of a C+ cell phone store for a gallery in a
   garage (in Venice Beach!) :/
 ps:

@@ -5,7 +5,8 @@ type: '5'
 title: Cory Arcangel + Olia Lialina and Dragan Espenschied
 url: cory-arcangel-olia-lialina-and-dragan-espenschied
 year: '2008'
-venue: And / Or Gallery, Dallas, TX, USA
+venue: And / Or Gallery
+state_country: Dallas
 pitch: "<p>.. a summer show in Texas with Olia Lialina and Dragan Espenschied! Yes!</p>"
 ps:
 imgs: and-or-tx-2008-06-24-install-database-ps.jpg,and-or-tx-2008-06-19-install-database-ps.jpg,and-or-tx-2008-06-22-install-database-ps.jpg,and-or-tx-2008-06-23-install-database-ps.jpg,and-or-tx-2008-06-1-install-database-ih.jpg,and-or-tx-2008-06-26-install-database-ps.jpg,and-or-tx-2008-06-29-install-database-ps.jpg

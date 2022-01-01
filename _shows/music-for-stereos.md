@@ -5,7 +5,8 @@ type: '5'
 title: Music For Stereos
 url: music-for-stereos
 year: '2010'
-venue: 'Art Institute of Chicago, Chicago, Il. '
+venue: Art Institute of Chicago
+state_country: Chicago
 pitch: Composition for consumer home stereos, and CD’s. :/
 ps: "​Kinda stressful,....."
 imgs: MusicForStereos-2010-025-performance-chicago-9-database-TR.jpg,MusicForStereos-2010-025-performance-chicago-12-database-TR.jpg,MusicForStereos-2010-025-performance-chicago-5-database-TR.jpg,MusicForStereos-2010-025-performance-chicago-13-database-TR.jpg

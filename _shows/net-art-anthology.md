@@ -6,6 +6,7 @@ title: Net Art Anthology
 url: net-art-anthology
 year: '2017'
 venue: http://rhizome.org
+state_country: Cyberspace
 pitch: Data Diaries in NET ART ANTHOLOGY!
 ps:
 imgs: rhizome-anthology-2017-08-database-ih-1b.jpg

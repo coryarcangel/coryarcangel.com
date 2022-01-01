@@ -5,7 +5,8 @@ type: '5'
 title: Last Night I Had The Strangest Dream
 url: last-night-i-had-the-strangest-dream
 year: '2009'
-venue: Kunsthaus Graz, Graz, Austria
+venue: Kunsthaus Graz
+state_country: Graz
 pitch: "​Auto-tune’d my way through this performance. More soon ...."
 ps:
 imgs: Last-Night-I-Had-Strangest-Dream-2009-041-Perf-View-1-database-NL.jpg,Last-Night-I-Had-Strangest-Dream-2009-041-Perf-View-2-database-NL.jpg

@@ -5,7 +5,8 @@ type: '5'
 title: Beat the Champ
 url: beat-the-champ
 year: '2011'
-venue: The Curve, Barbican Centre, London
+venue: The Curve, Barbican Centre
+state_country: London
 pitch: First time I showed Various Self Playing Bowling Games....on 14 screens. :)
 ps: ",<p>​This show was the first time I showed the monster Various Self Playing Bowling
   Games. It wz partially commissioned by the Barbican, and was shown here as 14 screens

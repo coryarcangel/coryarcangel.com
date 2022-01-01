@@ -5,7 +5,8 @@ type: '5'
 title: Difference Engine
 url: difference-engine
 year: '2018'
-venue: Lisson Gallery, NY
+venue: Lisson Gallery
+state_country: New York
 pitch: "​Curated this show w/ Tina Kukielski. Thx 2 Carol Bove, Jacob Ciocci, Aleksandra
   Domanović, Lonnie Holley, Jamian Juliano-Villani, JODI, Konrad Klapheck, Guthrie
   Lonergan, Michel Majerus, Jayson Musson, Deborah Remington, Hayley Silverman, Jessie

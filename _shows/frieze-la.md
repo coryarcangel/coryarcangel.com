@@ -5,7 +5,8 @@ type: '5'
 title: Frieze LA
 url: frieze-la
 year: '2020'
-venue: Frieze Art Fair (w Greene Naftali), LA
+venue: Frieze Art Fair (w Greene Naftali)
+state_country: LA
 pitch: "​First big show w Greene Naftali. Showed clickfarm works &amp; Ikea table
   flatware.&nbsp;"
 ps:

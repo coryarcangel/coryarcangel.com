@@ -5,7 +5,8 @@ type: '5'
 title: The Sharper Image
 url: the-sharper-image
 year: '2010'
-venue: MoCA, North Miami, FL
+venue: MoCA
+state_country: North Miami
 pitch: "<p>​Survey show, ... my best title by far. </p>"
 ps:
 imgs: MoCANoMi-Miami-2010-03-install-1-database-SB.jpg,MoCANoMi-Miami-2010-03-install-2-database-SB.jpg,MoCANoMi-Miami-2010-03-install-3-database-SB.jpg,MoCANoMi-Miami-2010-03-install-4-database-SB.jpg,MoCANoMi-Miami-2010-03-install-5-database-SB.jpg

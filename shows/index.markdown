@@ -8,7 +8,7 @@ title: Shows
 {% for shows in shows_list %}
   <li>
       <a href="{{ shows.url }}">
-      {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.year }}
+      {{ shows.venue }}, {{ shows.state_country }}, <i>{{ shows.title }}</i>, {{ shows.year }}
       </a>
   </li>
 {% endfor %}
