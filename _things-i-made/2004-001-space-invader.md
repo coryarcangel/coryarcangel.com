@@ -2,12 +2,11 @@
 ee_id: '14'
 site: '1'
 type: '2'
-long_id: 2004-001 Space Invader
 url: 2004-001-space-invader
 title: Space Invader
 year: '2004'
+display_year: '2004'
 medium: Modded Space Invaders cartridge
-commission:
 dims:
 pitch: "​Space Invaders with only one invader."
 ps: "​Space Invader is a mod of the Atari game Space Invaders which has been turned
@@ -22,12 +21,12 @@ related: "[4211] [2013-136-the-source-issue-5-space-invader] 2013-136 The Source
 youtube: 'https://www.youtube.com/watch?v=XaoiBidAgv4
 
   '
+related_code: https://github.com/coryarcangel/Space-Invader
 imgs: space-invader-2004-001-cartridge-database-ih.jpg,space-invader-2004-001-still-2-database-ih.jpg,space-invader-2004-001-still-4-database-ih.jpg,space-invader-2004-001-still-5-database-ih.jpg,space-invader-2004-001-still-6-database-ih.jpg,space-invader-2004-001-still-7-database-ih.jpg
 subheading:
-display_year: '2004'
 download:
 add_credit: Code by Alex Galloway of the Radical Software Group
 add_credits:
-related_code: https://github.com/coryarcangel/Space-Invader
+commission:
 layout: things-i-made
 ---

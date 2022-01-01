@@ -2,13 +2,12 @@
 ee_id: '2211'
 site: '1'
 type: '2'
-long_id: 2011-137 Living Situtations
 url: 2011-137-living-situtations
 title: Living Situtations
 year: '2011'
+display_year: '2011'
 medium: 'Geneva Sound System Model XL White, iPod Classic, and 24bit re-mastered recording
   of Beethoven''s Symphony No. 3 in E-Flat Major '
-commission:
 dims: 35 x 99 x 35.5 inches
 pitch: Remastered orchestral recording.
 ps: "<p>For this one, I have remastered - from a 78 - a recording of Beethovenâ€™s Symphony
@@ -20,12 +19,12 @@ ps: "<p>For this one, I have remastered - from a 78 - a recording of Beethovenâ€
 live_url:
 related:
 youtube:
+related_code:
 imgs: living-situations-2011-137-full-database-Team.jpg
 subheading:
-display_year: '2011'
 download: arcangel-living-situtations.mp3
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

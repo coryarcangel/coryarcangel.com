@@ -5,7 +5,7 @@ type: '5'
 title: 'Asymmetrical Response: Cory Arcangel and Olia Lialina'
 url: asymmetrical-response-kitchen
 year: '2017'
-venue: The Kitchen, New York
+venue: The Kitchen, NY
 pitch: Second show w/ Olia Lialina. Re-done from the WF show. Big room, big carpet,
   big LED.
 ps:

@@ -2,12 +2,11 @@
 ee_id: '45'
 site: '1'
 type: '2'
-long_id: 2008-079 Sans Comic
 url: 2008-079-sans-comic
 title: Sans Comic
 year: '2008'
+display_year: '2008'
 medium: PDF
-commission:
 dims:
 pitch: "​Whitney Biennial press release in comic sans. Distributed to biennial press
   list."
@@ -17,12 +16,12 @@ ps: "​Made as part of Dexter Sinister’s True Mirror reflections on the 2008 
 live_url:
 related: "[94] [2010-017-http-www.mocanomi.org] 2010-017 http://www.mocanomi.org/"
 youtube:
+related_code:
 imgs: 2008_079_Sans_Comic_Full_Database_IH_1.jpg
 subheading:
-display_year: '2008'
 download: arcangel-sans-comic.pdf
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

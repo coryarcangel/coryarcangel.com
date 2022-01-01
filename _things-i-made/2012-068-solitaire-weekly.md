@@ -2,12 +2,11 @@
 ee_id: '4167'
 site: '1'
 type: '2'
-long_id: 2012 068 Solitaire Weekly
 url: 2012-068-solitaire-weekly
 title: Solitaire Weekly
-year: '2012'
+year: '2013'
+display_year: '2012'
 medium: 'Webisode series, Tumblr, Youtube, Facebook, & Twitter accounts. '
-commission:
 dims:
 pitch: "​Webisode series (featuring screen cast computer solitaire), and associated
   social media accounts :/"
@@ -21,12 +20,12 @@ related: |-
   [4131] [2014-31-max-perks] 2014--31 Max Perks
   [4132] [2014-030-ideas-in-action] 2014-030 Ideas In Action
 youtube:
+related_code:
 imgs: solitaire-weekly-2012-068-full-database-ih.jpg
 subheading:
-display_year: '2013'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

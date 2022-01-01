@@ -2,12 +2,11 @@
 ee_id: '72'
 site: '1'
 type: '2'
-long_id: 2010-003 There's Always One At Every Party
 url: 2010-003-theres-always-one-at-every-party
 title: There's Always One At Every Party
 year: '2010'
+display_year: '2010'
 medium: Youtube video
-commission:
 dims:
 pitch: "​Seinfeld super-cut of all scenes dealing with Kramer’s coffee table about
   coffee tables."
@@ -18,12 +17,12 @@ related:
 youtube: 'https://www.youtube.com/watch?v=3QjTPA-Ib9E
 
   '
+related_code:
 imgs: one-at-every-party-2010-003-still-1-database-ih_1.jpg
 subheading:
-display_year: '2010'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

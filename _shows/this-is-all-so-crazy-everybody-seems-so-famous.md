@@ -5,7 +5,7 @@ type: '5'
 title: This Is All So Crazy, Everybody Seems So Famous
 url: this-is-all-so-crazy-everybody-seems-so-famous
 year: '2015'
-venue: Galleria d’Arte Moderna e Contemporanea di Bergamo, Bergamo, Italy
+venue: Galleria d’Arte Moderna e Contemporanea di Bergamo
 pitch: Absolutely ​<i>BONKERS</i> show in the oldest municipal space in Bergamo. A
   def eye popper. So fun.
 ps:

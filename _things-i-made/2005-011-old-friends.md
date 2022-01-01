@@ -2,12 +2,11 @@
 ee_id: '26'
 site: '1'
 type: '2'
-long_id: 2005-011 Old Friends
 url: 2005-011-old-friends
 title: Old Friends
 year: '2005'
+display_year: '2005'
 medium: Modded DVD
-commission:
 dims:
 pitch: "​Simon and Garfunkel DVD where chapter markers have been moved to places where
   one can see tension between the two."
@@ -25,12 +24,12 @@ ps: "<p>​This isn't exactly a video, but actually a modified DVD. The only dif
 live_url:
 related:
 youtube:
+related_code:
 imgs: Old_Friends_2005_011_still_database_IH.jpg
 subheading:
-display_year: '2005'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

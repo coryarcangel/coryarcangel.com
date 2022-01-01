@@ -2,12 +2,11 @@
 ee_id: '10'
 site: '1'
 type: '2'
-long_id: 2002-009 Dirtstyle Design
 url: 2002-009-dirtstyle-design
 title: Dirtstyle Design
 year: '2002'
+display_year: '2002'
 medium: Lecture
-commission:
 dims:
 pitch: "​Lecture about default and vernacular computer design."
 ps: '<p>​This was a lecture / course I performaned / taught a bunch of times for many
@@ -18,12 +17,12 @@ ps: '<p>​This was a lecture / course I performaned / taught a bunch of times f
 live_url:
 related:
 youtube:
+related_code:
 imgs: Dirtstyle-Design-2002-009-screenshot-database-ih.jpg
 subheading:
-display_year: '2002'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

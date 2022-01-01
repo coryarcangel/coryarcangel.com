@@ -5,7 +5,7 @@ type: '5'
 title: New Dawn
 url: new-dawn
 year: '2020'
-venue: Louis Vuitton (worldwide flagships)
+venue: Louis Vuitton (worldwide)
 pitch: Did an ad campaign 4 LV - both print &amp; in-store. Decked out their flagships
   4 July with dusk &amp; dawns.
 ps:

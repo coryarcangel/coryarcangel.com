@@ -2,25 +2,24 @@
 ee_id: '84'
 site: '1'
 type: '2'
-long_id: 2009-001 Photoshop CS
 url: 2009-001-photoshop-cs
 title: 'Photoshop CS: 110 by 72 inches, 300 DPI, RGB, square pixels, default gradient
   "Yellow, Violet, Red, Teal", mousedown y=16450 x=10750, mouseup y=18850 x=20600'
 year: '2009'
+display_year: '2009'
 medium: Chromogenic print
-commission:
 dims: 110 x 72 inches
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: photoshop-cs-2009-001-full-cropped-database-AR.jpg
 subheading:
-display_year: '2009'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

@@ -2,24 +2,23 @@
 ee_id: '217'
 site: '1'
 type: '2'
-long_id: 2008-016 Monoprint 5
 url: 2008-016-monoprint-5
 title: 'Monoprint 5 '
 year: '2008'
+display_year: '2008'
 medium: Unique three-color process silkscreen on custom watermarked paper
-commission:
 dims: 42 x 32 inches
 pitch: "​Poorly done C-M-Y silkscreens."
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: Monoprint-5-2008-016-full-database-IH_1.jpg
 subheading:
-display_year: '2008'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

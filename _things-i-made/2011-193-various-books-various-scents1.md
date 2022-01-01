@@ -2,12 +2,11 @@
 ee_id: '2213'
 site: '1'
 type: '2'
-long_id: 2011-193 Various Books, Various Scents
 url: 2011-193-various-books-various-scents1
 title: Various Books, Various Scents
 year: '2011'
+display_year: '2011'
 medium: Books paired with perfume on table.
-commission:
 dims: '35 x 99 x 35.5 inches '
 pitch: "​Books paired w/ celeb perfumes. "
 ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and Cricket
@@ -23,12 +22,12 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
 live_url:
 related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
 youtube:
+related_code:
 imgs: various-books-scents-2011-193-full-database-Team.jpg
 subheading:
-display_year: '2011'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

@@ -2,24 +2,23 @@
 ee_id: '4485'
 site: '1'
 type: '2'
-long_id: 2019-048 CREIBLEWORKUT
 url: 2019-048-creibleworkut
 title: CREIBLEWORKUT
 year: '2019'
+display_year: '2019'
 medium: IQDemy Premium UV ink on IKEA LINNMON table tops
-commission:
 dims: 118 x 59
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: creibleworkut-2019-048-db---LGoM.jpg
 subheading:
-display_year: '2019'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

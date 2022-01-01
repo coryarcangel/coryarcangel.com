@@ -2,24 +2,23 @@
 ee_id: '4257'
 site: '1'
 type: '2'
-long_id: 2015-007 Your Performance
 url: 2015-007-your-performance
 title: Your Performance
 year: '2015'
+display_year: '2015'
 medium: Foam noodles, tailored Adidas tracksuits
-commission:
 dims: 140 cm x variable width x variable depth
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: your-performance-2015-007-full-database-JH.jpg,your-performance-2015-007-detail-database-JH.jpg
 subheading:
-display_year: '2015'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

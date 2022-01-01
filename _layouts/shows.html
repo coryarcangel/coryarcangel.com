@@ -10,8 +10,6 @@ layout: shows
   <body>
 	Cory Arcangel
 	<br>
-	¯\_(ツ)_/¯
-	<br>
 	<a href="../shows/">↩ Shows</a> 
   	{% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}"><</a>
@@ -31,7 +29,7 @@ layout: shows
 	<br>
 	{% endif %}	
 	{% if page.ps %}
-	{{ page.ps }}
+	ps - {{ page.ps }}
 	<br>
 	{% endif %}		
 	{% assign images = page.imgs | split: ',' %}

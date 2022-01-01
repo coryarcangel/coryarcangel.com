@@ -2,13 +2,12 @@
 ee_id: '4179'
 site: '1'
 type: '2'
-long_id: 2014-085 Sports Products / Lakes
 url: 2014-085-sports-products-lakes
 title: Sports Products / Lakes
 year: '2014'
+display_year: '2014'
 medium: 1920x1080 H.264/MPEG-4 Part 10 looped digital file (from ​lossless ​Quicktime
   Animation master), media player, 70” flatscreen, armature, various cables
-commission:
 dims: 79 x 36 1/2 x 11 inches
 pitch:
 ps:
@@ -19,12 +18,12 @@ related: |-
   [145] [2010-077-sports-products] 2010-077 Sports Products
   [146] [2010-078-sports-products] 2010-078 Sports Products
 youtube:
+related_code:
 imgs: sports-products-lakes-2014-085-full-still-database-team.jpg
 subheading:
-display_year: '2014'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

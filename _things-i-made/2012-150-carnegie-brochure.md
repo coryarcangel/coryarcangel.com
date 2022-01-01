@@ -2,12 +2,11 @@
 ee_id: '2209'
 site: '1'
 type: '2'
-long_id: 2012-150 Carnegie Brochure
 url: 2012-150-carnegie-brochure
 title: Carnegie Brochure
 year: '2012'
+display_year: '2012'
 medium: Booklet
-commission:
 dims:
 pitch:
 ps: "<p>​Brochure made for a show at the Carnegie Museum. Unknown edition. Not for
@@ -15,12 +14,12 @@ ps: "<p>​Brochure made for a show at the Carnegie Museum. Unknown edition. Not
 live_url:
 related:
 youtube:
+related_code:
 imgs: carnegie-brochure-booklet-2012-150-full-1-database-ih.jpg
 subheading:
-display_year: '2012'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

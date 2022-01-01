@@ -2,12 +2,11 @@
 ee_id: '19'
 site: '1'
 type: '2'
-long_id: 2004-011 Whitney Teen Night
 url: 2004-011-whitney-teen-night
 title: Whitney Teen Night
 year: '2004'
+display_year: '2004'
 medium: Live green screen event
-commission:
 dims:
 pitch:
 ps: "<p>A karaoke set up / live video green screen was installed in the basement of
@@ -17,12 +16,12 @@ ps: "<p>A karaoke set up / live video green screen was installed in the basement
 live_url:
 related:
 youtube:
+related_code:
 imgs: whitney-teen-night-2004-011-still-6-database-ih.jpg
 subheading:
-display_year: '2004'
 download:
 add_credit: 'Collaboration with Paper Rad '
 add_credits: Paper Rad
-related_code:
+commission:
 layout: things-i-made
 ---

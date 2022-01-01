@@ -2,24 +2,23 @@
 ee_id: '4463'
 site: '1'
 type: '2'
-long_id: 2018-125 Destroyed Jeans
 url: 2018-125-destroyed-jeans
 title: Destroyed Jeans
 year: '2019'
+display_year: '2019'
 medium: Vinyl prints onto 8 hanging banners
-commission: Sharjah Art Foundation
 dims: 650 x 250 cm
 pitch: 'Went big 4 this! '
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: destroyed-jeans-2018-125-db-saf--wbBE.jpg,destroyed-jeans-2018-125-db-saf--2s34.jpg
 subheading:
-display_year: '2019'
 download:
 add_credit: Sharjah Art Foundation
 add_credits:
-related_code:
+commission: Sharjah Art Foundation
 layout: things-i-made
 ---

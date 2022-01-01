@@ -2,12 +2,11 @@
 ee_id: '187'
 site: '1'
 type: '2'
-long_id: 2004-003 Super Slow Tetris
 url: 2004-003-super-slow-tetris
 title: Super Slow Tetris
 year: '2004'
+display_year: '2004'
 medium: Modded Tetris game cartridge
-commission:
 dims: Dimensions variable
 pitch: "​Tetris screwed."
 ps: <p>​This was originally called "Tetris Screwed". It takes about 8 hours for the
@@ -23,12 +22,12 @@ related: |-
   [64] 2010-023 Composition #7 - 2010-023-composition-7
   [14] 2004-001 Space Invader - 2004-001-space-Invader
 youtube:
+related_code:
 imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-2004-003-screenshot-3-database-ih.jpg,super-slow-tetris-2004-003-screenshot-4-database-ih.jpg,super-slow-tetris-2004-003-screenshot-5-database-ih.jpg,super-slow-tetris-2004-003-screenshot-7-database-ih.jpg,super-slow-tetris-2004-003-screenshot-8-database-ih.jpg
 subheading:
-display_year: '2004'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

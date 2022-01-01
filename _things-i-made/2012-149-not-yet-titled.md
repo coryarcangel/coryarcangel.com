@@ -2,12 +2,11 @@
 ee_id: '2221'
 site: '1'
 type: '2'
-long_id: 2012-149 Not Yet Titled
 url: 2012-149-not-yet-titled
 title: Not Yet Titled
 year: '2012'
+display_year: '2012'
 medium: Realtime tele-performance
-commission:
 dims:
 pitch: Live tele-performance of me watching TV (and having a glass of white wine).
 ps: "​This was a live performance where I watched TV in NYC, and broadcast it live
@@ -18,12 +17,12 @@ ps: "​This was a live performance where I watched TV in NYC, and broadcast it 
 live_url:
 related:
 youtube:
+related_code:
 imgs: untitled-2012-149-western-front-perf-view-2-database-BW.jpg
 subheading:
-display_year: '2012'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

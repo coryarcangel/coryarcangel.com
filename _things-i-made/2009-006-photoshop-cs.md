@@ -2,25 +2,24 @@
 ee_id: '223'
 site: '1'
 type: '2'
-long_id: 2009-006 Photoshop CS
 url: 2009-006-photoshop-cs
 title: 'Photoshop CS: 84 by 66 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=8900 x=15600, mouseup y=13800 x=0'
 year: '2009'
+display_year: '2009'
 medium: Chromogenic print
-commission:
 dims: 84 x 66 inches
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: photoshop-cs-2009-006-full-cropped-database-Team.jpg
 subheading:
-display_year: '2009'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

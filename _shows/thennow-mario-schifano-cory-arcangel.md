@@ -5,7 +5,7 @@ type: '5'
 title: 'THENnow: Mario Schifano / Cory Arcangel'
 url: thennow-mario-schifano-cory-arcangel
 year: '2014'
-venue: MiArt, Milan Italy (w/ Studio Marconi ’65 & Lisson Gallery)
+venue: MiArt (w/ Studio Marconi ’65 & Lisson Gallery), Milan
 pitch: Really great experience working with Studio Marconi ’65 doing this show with
   the estate of Italian pop artist Mario Schifano.
 ps:

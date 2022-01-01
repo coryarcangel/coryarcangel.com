@@ -2,25 +2,24 @@
 ee_id: '4276'
 site: '1'
 type: '2'
-long_id: '2015-065 Russell''s #2 / Lakes'
 url: 2015-065-russells-2-lakes
 title: 'Russell''s #2 / Lakes'
 year: '2015'
+display_year: '2015'
 medium: 1920x1080 H.264/MPEG-4 Part 10 looped digital file (from 11 lossless TIF masters),
   media player, 70” flatscreen, armature, various cables
-commission:
 dims: 79 x 36.5 x 11 inches
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: russells-2-lakes-2015-065-full-database-CK.jpg
 subheading:
-display_year: '2015'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

@@ -10,8 +10,6 @@ layout: things-i-made
   <body>
 	Cory Arcangel
 	<br>
-	¯\_(ツ)_/¯
-	<br>
 	<a href="../things-i-made/">↩ Things I Made</a>  
   	{% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}"><</a>
@@ -25,15 +23,15 @@ layout: things-i-made
     {{ page.year }}
     <br>
 	{% if page.medium %}
-	{{ page.medium }}
+	medium: {{ page.medium }}
 	<br>
 	{% endif %}	
 	{% if page.dims %}
-	{{ page.dims }}
+	dims: {{ page.dims }}
 	<br>
 	{% endif %}	
 	{% if page.pitch %}
-	{{ page.pitch }}
+	elevator pitch: {{ page.pitch }}
 	<br>
 	{% endif %}		
 	{% if page.ps %}

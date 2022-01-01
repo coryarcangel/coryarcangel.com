@@ -2,24 +2,23 @@
 ee_id: '4402'
 site: '1'
 type: '2'
-long_id: 2018-014 Three Stripes
 url: 2018-014-three-stripes
 title: Three Stripes
 year: '2018'
+display_year: '2018'
 medium: Inkjet on canvas (x3)
-commission:
 dims: 108 x 36 in
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: three-stripes2018-014-database-02.jpg
 subheading:
-display_year: '2018'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

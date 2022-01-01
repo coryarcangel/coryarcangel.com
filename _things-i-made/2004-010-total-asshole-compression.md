@@ -2,12 +2,11 @@
 ee_id: '18'
 site: '1'
 type: '2'
-long_id: 2004-010 T.A.C. - Total Asshole Compression
 url: 2004-010-total-asshole-compression
 title: T.A.C. - Total Asshole Compression
 year: '2004'
+display_year: '2004'
 medium: OSX software
-commission:
 dims:
 pitch: "​Compression software that makes files bigger."
 ps: "​Check the “official” website above to download the software, etc, etc. "
@@ -17,12 +16,12 @@ related: |-
   [43] [2007-007-on-c] 2007-007 On C
   [189] [2004-025-total-asshole-compression] 2004-025 Total Asshole Compression
 youtube:
+related_code:
 imgs: total-asshole-compression-screenshot-database-ih.jpg
 subheading:
-display_year: '2004'
 download:
 add_credit: In collaboration with the Radical Software Group
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

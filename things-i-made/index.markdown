@@ -2,9 +2,9 @@
 layout: default
 title: Things I Made 
 ---
-<a href="../">↩ Home </a>
+<a href="../">↩ Home</a> 
 <ul>
-{% assign things_list = site.data.things | sort: "display_year" | reverse %}
+{% assign things_list = site.data.things | sort: "year" | reverse %}
 {% for things in things_list %}
   <li>
       <a href="{{ things.url }}">

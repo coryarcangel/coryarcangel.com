@@ -5,7 +5,7 @@ type: '5'
 title: Through Fire and Flames
 url: through-fire-and-flames
 year: '2014'
-venue: ARTBOOK | D.A.P. at the New York Art Book Fair, New York, NY
+venue: NYABF, NY
 pitch: "​2nd Arcangel Surfware Pop-up. Technical the launch of my All The Small Things
   catalog."
 ps:

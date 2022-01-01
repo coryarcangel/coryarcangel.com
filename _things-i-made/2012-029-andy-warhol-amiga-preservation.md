@@ -2,12 +2,11 @@
 ee_id: '4103'
 site: '1'
 type: '2'
-long_id: 2012-029 Andy Warhol Amiga Preservation
 url: 2012-029-andy-warhol-amiga-preservation
 title: Andy Warhol Amiga Preservation
-year: '2011'
+year: '2014'
+display_year: '2011'
 medium: Multi-year preservation project
-commission:
 dims:
 pitch: Worked with a super chill team to discover and preserve Andy Warhol’s Amiga
   1000 experiments.
@@ -19,13 +18,13 @@ ps: Not exactly a “thing i made”, more like a “thing i produced”, but no
 live_url:
 related: "[4153] [2014-024-the-warhol-files] 2014-024 The Warhol Files"
 youtube: https://vimeo.com/92583299
+related_code:
 imgs: warhol-proposal-2012-029-digital-still-2-database-aw.jpg
 subheading:
-display_year: '2014'
 download:
 add_credit:
 add_credits: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
   STUDIO for Creative Inquiry
-related_code:
+commission:
 layout: things-i-made
 ---

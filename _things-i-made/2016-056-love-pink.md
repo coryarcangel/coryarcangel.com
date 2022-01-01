@@ -2,24 +2,23 @@
 ee_id: '4353'
 site: '1'
 type: '2'
-long_id: "2016-056\tlove pink"
 url: 2016-056-love-pink
 title: love pink
 year: '2016'
+display_year: '2016'
 medium: Inkjet on Angelica Universal Photomatte 230
-commission:
 dims: 168 x 95.8 x 4 cm
 pitch:
 ps:
 live_url:
 related:
 youtube:
+related_code:
 imgs: love-pink-2016-056-full-database-JH.jpg
 subheading:
-display_year: '2016'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

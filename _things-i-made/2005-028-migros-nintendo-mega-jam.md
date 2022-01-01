@@ -2,12 +2,11 @@
 ee_id: '192'
 site: '1'
 type: '2'
-long_id: 2005-028 Migros Nintendo Mega Jam
 url: 2005-028-migros-nintendo-mega-jam
 title: Migros MEGA JAM
 year: '2005'
+display_year: '2005'
 medium: Sharpie on CDs.
-commission:
 dims:
 pitch: "Free CD given away during exhibition. Edition unknown. \n"
 ps: |-
@@ -17,12 +16,12 @@ ps: |-
 live_url:
 related: "[20] 2005-001 Super Mario Movie - supermariomovie"
 youtube:
+related_code:
 imgs: migros-jam-2005-028-full-database-ih.jpg
 subheading:
-display_year: '2005'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

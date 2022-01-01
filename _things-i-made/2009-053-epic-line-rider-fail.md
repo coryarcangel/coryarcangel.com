@@ -2,12 +2,11 @@
 ee_id: '53'
 site: '1'
 type: '2'
-long_id: 2009-053 Epic Line Rider Fail
 url: 2009-053-epic-line-rider-fail
 title: Epic Line Rider Fail
 year: '2009'
+display_year: '2009'
 medium: "(~Youtube) video"
-commission:
 dims:
 pitch: 'My contribution to the genre of utube "Line Rider Fails". '
 ps: "<p>​Uuuugh, youtube took this one down, so it doesn't make as much sense now,
@@ -16,12 +15,12 @@ ps: "<p>​Uuuugh, youtube took this one down, so it doesn't make as much sense 
 live_url:
 related:
 youtube:
+related_code:
 imgs: Epic-Line-Rider-Fail-2009-053-still-2-database-ih.jpg
 subheading:
-display_year: '2009'
 download: arcangel-epic-line-rider-fail-2009-053-video-web.mp4
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

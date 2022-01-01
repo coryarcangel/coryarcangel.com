@@ -5,7 +5,7 @@ type: '5'
 title: All The Small Things
 url: all-the-small-things
 year: '2014'
-venue: Herning Museum of Contemporary Art, Herning, Denmark
+venue: Herning Museum of Contemporary Art
 pitch: Wasn’t doing IRL shows of nu work 4 a few years (needed a break, lol)…. so
   this one was a chill opportunity 2 try out all the nu ideas I had since my 2011
   Whitney &amp; Lisson shows .....

@@ -2,12 +2,11 @@
 ee_id: '44'
 site: '1'
 type: '2'
-long_id: 2008-021 Splash Page
 url: 2008-021-splash-page
 title: Splash Page
 year: '2008'
+display_year: '2008'
 medium: Website Flash Splash Page
-commission:
 dims:
 pitch: "​Splash page done for my website."
 ps: This is an actual “splash page” I made for this site, which after being up for
@@ -17,12 +16,12 @@ ps: This is an actual “splash page” I made for this site, which after being 
 live_url: http://splash.coryarcangel.com/
 related:
 youtube:
+related_code:
 imgs: 2008_021_Splash_Page_Still_Database_IH.jpg
 subheading:
-display_year: '2008'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

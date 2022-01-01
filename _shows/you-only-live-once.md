@@ -5,7 +5,7 @@ type: '5'
 title: You Only Live Once
 url: you-only-live-once
 year: '2014'
-venue: SOHO Holiday Inn, Grand Lafyette conference room, New York, NY
+venue: SOHO Holiday Inn, Grand Lafyette Conference Room, NY
 pitch: Debut Arcangel Surfware pop-up / first show of all new work in a few years
   in NYC (since my Whitney show) ...... :-/
 ps:

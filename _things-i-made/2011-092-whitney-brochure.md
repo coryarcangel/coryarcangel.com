@@ -2,12 +2,11 @@
 ee_id: '108'
 site: '1'
 type: '2'
-long_id: 2011-092 Whitney Brochure
 url: 2011-092-whitney-brochure
 title: Whitney Brochure
 year: '2011'
+display_year: '2011'
 medium: Brochure
-commission:
 dims:
 pitch: Brochure with 8 free prints included. Edition unknown (a few thousand?).
 ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This was
@@ -25,12 +24,12 @@ ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This
 live_url:
 related:
 youtube:
+related_code:
 imgs: whitney-brochure-2011-092-detail-database.jpg
 subheading:
-display_year: '2011'
 download: arcangel_brochure.pdf
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

@@ -5,7 +5,7 @@ type: '5'
 title: tl;dr
 url: tldr-new-york
 year: '2014'
-venue: Team Gallery, New York, NY
+venue: Team Gallery, NY
 pitch: Tried 2 b a grown up and did a show focusing on just one series of work…. w/
   appearances from the “lake” applet, Britney, Hillary, Sport Products, On Compression,
   etc, etc.

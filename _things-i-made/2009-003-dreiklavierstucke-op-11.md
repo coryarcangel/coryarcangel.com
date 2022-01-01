@@ -2,12 +2,11 @@
 ee_id: '52'
 site: '1'
 type: '2'
-long_id: 2009-003 Drei Klavierstücke op. 11
 url: 2009-003-dreiklavierstucke-op-11
 title: Drei Klavierstücke op. 11
 year: '2009'
+display_year: '2009'
 medium: 3 Youtube videos
-commission:
 dims:
 pitch: "​Schoenberg’s op11 as played by cats."
 ps: |-
@@ -24,12 +23,12 @@ ps: |-
 live_url:
 related:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZSRQMwlT0jauk6H8l64G6oU
+related_code: https://github.com/coryarcangel/Gould-Pro
 imgs: drei-klavierstucke-2009-003-still-6-database-ih.jpg
 subheading:
-display_year: '2009'
 download:
 add_credit:
 add_credits:
-related_code: https://github.com/coryarcangel/Gould-Pro
+commission:
 layout: things-i-made
 ---

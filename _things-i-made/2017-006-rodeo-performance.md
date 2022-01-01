@@ -2,10 +2,10 @@
 ee_id: na
 site: na
 type: na
-long_id: 2017-006
 url: 2017-006-rodeo-performance
 title: "/roʊˈdeɪoʊ/ Let's Play: HOLLYWOOD"
-year: 2017-2021
+year: '2021'
+display_year: 2017-2021
 medium: 'Custom built high performance computer rig (AMD Ryzen 9 5950X 16-core 32-Thread
   Unlocked Desktop Processor central processing unit, Rog Crosshair Viii Dark Hero
   motherboard, G.SKILL 64GB (2 x 32GB) Trident Z Neo Series DDR4 PC4-21300 2666 MHz
@@ -16,7 +16,6 @@ medium: 'Custom built high performance computer rig (AMD Ryzen 9 5950X 16-core 3
   bot with system sounds by Daniel Lopatin (Oneohtrix Point Never), Kim Kardashian:
   Hollywood casual free-to-play role-playing Android game, Android phone, amplifier
   & speakers, various cables. '
-commission:
 dims: Variable
 pitch: 'A custom built & programmed high performance machine learning computer which
   plays (& learns as it is plays) Kim Kardashian: Hollywood — a casual free-to-play
@@ -26,12 +25,12 @@ ps: 'All details at micosite! '
 live_url: https://rodeo.computer/
 related:
 youtube:
+related_code:
 imgs:
 subheading:
-display_year: '2021'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

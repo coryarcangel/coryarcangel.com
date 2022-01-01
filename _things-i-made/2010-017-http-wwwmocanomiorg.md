@@ -2,12 +2,11 @@
 ee_id: '94'
 site: '1'
 type: '2'
-long_id: 2010-017 http://www.mocanomi.org/
 url: 2010-017-http-wwwmocanomiorg
 title: http://www.mocanomi.org/
 year: '2010'
+display_year: '2010'
 medium: Modified museum website
-commission:
 dims:
 pitch: "​MOCA Miami's website re-done in comic sans"
 ps: "<p>​Yes, this <i>IS</i> what the MOCA Miami website looked like during the duration
@@ -15,12 +14,12 @@ ps: "<p>​Yes, this <i>IS</i> what the MOCA Miami website looked like during th
 live_url:
 related:
 youtube:
+related_code:
 imgs: mocanomi-2010-017-screenshot-1-database-ih.jpg
 subheading:
-display_year: '2010'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

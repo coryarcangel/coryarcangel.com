@@ -2,14 +2,12 @@
 ee_id: '13'
 site: '1'
 type: '2'
-long_id: 2004-004 Iron Maiden's “The Number of the Beast” compressed over and over
-  as an mp3 666 times
 url: 2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over
 title: Iron Maiden's “The Number of the Beast” compressed over and over as an mp3
   666 times
 year: '2004'
+display_year: '2004'
 medium: mp3
-commission:
 dims:
 pitch: "​Iron Maiden’s “The Number of the Beast” compressed over and over as an mp3
   666 times. Click on the mp3 below to listen!"
@@ -25,12 +23,12 @@ related: |-
   [43] [2007-007-on-c] 2007-007 On C
   [189] [2004-025-total-asshole-compression] 2004-025 Total Asshole Compression
 youtube:
+related_code: https://github.com/coryarcangel/666
 imgs: 666-2004-004-screenshot-1-database-ih.jpg
 subheading:
-display_year: '2004'
 download: Cory-Arcangel-666.mp3
 add_credit:
 add_credits:
-related_code: https://github.com/coryarcangel/666
+commission:
 layout: things-i-made
 ---

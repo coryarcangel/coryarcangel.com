@@ -5,7 +5,7 @@ type: '5'
 title: Cory Arcangel For New Jerseyy
 url: cory-arcangel-for-new-jerseyy
 year: '2010'
-venue: New Jerseyy, Basel, Switzerland / Tate Modern, London, UK / "Cyberspace"
+venue: New Jerseyy & Tate Modern, London & "Cyberspace"
 pitch: 'FYI: This was an entirely “virtual” show…... I re-resigned New Jerseyy’s website
   for their participation in No Soul For Sale at the Tate.,,​'
 ps: "​Also possibly of interest, is this was the only participation of New Jerseyy

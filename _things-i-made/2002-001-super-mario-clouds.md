@@ -2,12 +2,11 @@
 ee_id: '7'
 site: '1'
 type: '2'
-long_id: 2002-001 Super Mario Clouds
 url: 2002-001-super-mario-clouds
 title: Super Mario Clouds
 year: '2002'
+display_year: '2002'
 medium: Modded Super Mario Bros. cartridge
-commission:
 dims: Dimensions variable
 pitch: "​Super Mario Brothers, ... but with just the clouds."
 ps: 'Super Mario Clouds is an old Mario Brothers cartridge which I modified to erase
@@ -22,12 +21,12 @@ ps: 'Super Mario Clouds is an old Mario Brothers cartridge which I modified to e
 live_url:
 related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 youtube:
+related_code: https://github.com/coryarcangel/Super-Mario-Clouds
 imgs: mario-clouds-2002-001-cartridge-2-database-ih.jpg
 subheading:
-display_year: '2002'
 download:
 add_credit:
 add_credits:
-related_code: https://github.com/coryarcangel/Super-Mario-Clouds
+commission:
 layout: things-i-made
 ---

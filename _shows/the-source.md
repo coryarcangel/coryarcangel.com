@@ -5,7 +5,7 @@ type: '5'
 title: 'Arcangel Surfware x NYABF 2015: The Source'
 url: the-source
 year: '2015'
-venue: Printed Matter's New York Art Book Fair / MOMA Ps1, New York
+venue: NYABF, NY
 pitch: "​Arcangel Surfware pop-up. Debuted a few nu issues of The Source, and showed
   them along with a few works referenced in them. Sold over a quarter of a million
   lines of source code!"

@@ -5,7 +5,7 @@ type: '5'
 title: Dances For The Electric Piano
 url: dances-for-the-electric-piano1
 year: '2014'
-venue: Berliner Philharmonie, Berlin, Germany
+venue: Berliner Philharmonie
 pitch: "​Hampus Lindwall on the ivories at the German premiere of my piano suite.
   Standing room only! ;-)"
 ps:

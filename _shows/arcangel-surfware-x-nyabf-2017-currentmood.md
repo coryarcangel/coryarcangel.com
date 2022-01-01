@@ -5,7 +5,7 @@ type: '5'
 title: 'Arcangel Surfware X NYABF 2017: currentmood'
 url: arcangel-surfware-x-nyabf-2017-currentmood
 year: '2017'
-venue: Printed Matter's New York Art Book Fair / MOMA Ps1, New York, New York
+venue: NYABF, NY
 pitch: "​Testing out a “menu” &amp; dropped the Tony Conrad bot, as well as a line
   of fidget spinners."
 ps:

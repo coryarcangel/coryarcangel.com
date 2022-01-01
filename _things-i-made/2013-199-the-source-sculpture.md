@@ -2,12 +2,11 @@
 ee_id: '4241'
 site: '1'
 type: '2'
-long_id: 2013-199 The Source (sculpture)
 url: 2013-199-the-source-sculpture
 title: The Source
 year: '2013'
+display_year: '2013'
 medium: Flex 6xA4 Brochure Stand, various The Source zines
-commission:
 dims: 145 x 27 x 36
 pitch:
 ps:
@@ -22,12 +21,12 @@ related: |-
   [4214] [2013-140-the-source-issue-7-dooogle] 2013-140 The Source Issue 7 Dooogle
   [4215] [2013-134-the-source-issue-8-six-sixty-six] 2013-134 The Source Issue 8 Six Sixty Six
 youtube:
+related_code:
 imgs: the-source-2013-199-full-Heart-01-database-SM.jpg
 subheading: "(sculpture)"
-display_year: '2013'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---

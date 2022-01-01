@@ -2,12 +2,11 @@
 ee_id: '2205'
 site: '1'
 type: '2'
-long_id: 2012-066 Working On My Novel (Twitter Feed)
 url: 2012-066-working-on-my-novel
 title: Working On My Novel
-year: '2012'
+year: '2014'
+display_year: '2012'
 medium: Twitter Account
-commission:
 dims:
 pitch: "​Twitter Feed which re-tweets the best posts featuring the phrase “working
   on my novel”."
@@ -20,12 +19,12 @@ related: |-
   [98] [2010-020-sorry-i-havent-posted] 2010-020 Sorry I Havent Posted
   [4127] [2012-037-work-on-my-novel-book] 2012-037 Work On My Novel (book)
 youtube:
+related_code:
 imgs: working-on-my-novel-2012-066-digital-screenshot-1-database-ih.jpg
 subheading: "(Twitter Account)"
-display_year: '2014'
 download:
 add_credit:
 add_credits:
-related_code:
+commission:
 layout: things-i-made
 ---
