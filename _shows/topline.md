@@ -5,7 +5,7 @@ type: '5'
 title: Topline
 url: topline
 year: '2019'
-venue: CC Foundationv
+venue: CC Foundation
 state_country: Shanghai
 pitch: Third "asset light" show. Finally got the nerve up 2 do a whole show of the
   flatware series (uuuuugh, ... took me 10 years!). Def worth the wait I think. Shanghai

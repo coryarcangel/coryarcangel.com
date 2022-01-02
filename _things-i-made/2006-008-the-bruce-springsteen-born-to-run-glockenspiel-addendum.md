@@ -9,9 +9,8 @@ display_year: '2006'
 medium: Performance for solo glockenspiel and optional electronics
 dims:
 pitch: "​Live performances of The Bruce Springsteen Glockenspiel Addendum."
-ps: '<p>Above: performance of the complete 43 minute The Bruce Springsteen Born to
-  Run Glockenspiel Addendum @ Light Industry in Brooklyn (original ‘blog’ invite <a
-  href="http://www.coryarcangel.com/news/2008/07/content-producer-new-york-august-5-8pm/">here</a>).'
+ps: 'Above: performance of the complete 43 minute The Bruce Springsteen Born to Run
+  Glockenspiel Addendum @ Light Industry in Brooklyn'
 live_url:
 related:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZT0iTIRgMD397O33Mgueva5

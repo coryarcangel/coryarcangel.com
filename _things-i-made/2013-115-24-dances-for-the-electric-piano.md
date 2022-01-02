@@ -2,7 +2,7 @@
 ee_id: '4138'
 site: '1'
 type: '2'
-url: 2013-115-24-Dances-For-The-Electric-Piano
+url: 2013-115-24-dances-for-the-electric-piano
 title: 24 Dances For The Electric Piano (SRF-001)
 year: '2014'
 display_year: '2013'
