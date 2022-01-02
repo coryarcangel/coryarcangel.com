@@ -7,7 +7,8 @@ title: Home
 * [Contact](contact)  
 * [Shows](shows)  
 * [Things I Made](things-i-made)  
-* [Subscribe](subscribe)  
+* [Subscribe](subscribe)
+* [Shop](https://arcangelsurfware.biz/)↪      
 * Social  
   * [Youtube](https://www.youtube.com/user/coryarcangel)↪ 
   * [Twitter](https://twitter.com/cory_arcangel)↪
