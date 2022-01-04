@@ -6,7 +6,7 @@ title: showsXthings
 	{%- for shows in shows_list -%}
 	{%- assign things = shows.things | split: ',' -%}
 	{% for thing in things %}
-	{{ shows.ee_id }}, {{ shows.title }},  
+	{{ shows.ee_id }},"{{ shows.title }}",  
 	{%- assign thing_clean = thing | remove: "[" | remove: "]" -%}
 	{%- assign thing_split = thing_clean | split: ' ' -%}
 	{{ thing_split.[0] }},
