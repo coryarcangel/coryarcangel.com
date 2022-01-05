@@ -22,7 +22,6 @@ imgs: f1-racer-2004-002-screen-shot-1-database-ih.jpg,f1-racer-2004-002-cartridg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

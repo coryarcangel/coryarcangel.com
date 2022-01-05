@@ -9,7 +9,7 @@ display_year: '2008'
 medium: VHS tape
 dims:
 pitch: "​2 hour video improvisation made on an assortment of video tools."
-ps: <p>​Video painting is a 2 hour (eeek!) long video edited onto a <i><b> unique</b></i>
+ps: ​Video painting is a 2 hour (eeek!) long video edited onto a <i><b> unique</b></i>
   VHS cassette tape I made using various image generation technology I had lying around
   (Amiga Toaster, Video FX Ed/it machines, vidicon cameras, Final Cut, etc, etc, etc).
   It was edited down from about 14 hours of improvisation (aka just hitting random
@@ -23,7 +23,6 @@ imgs: video-painting-2008-002-still-3-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

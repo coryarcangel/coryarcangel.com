@@ -19,7 +19,6 @@ imgs: call-of-duty-2017-001-full-database-er-1-1749.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

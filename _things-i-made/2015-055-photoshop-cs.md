@@ -19,7 +19,6 @@ imgs: photoshop-cs-2015-055-install-2-database-CK.jpg,photoshop-cs-2015-055-inst
 subheading:
 download:
 add_credit: Produced by ege carpets
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -20,7 +20,6 @@ imgs: data-diaries-2003-002-still-1-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission: Commissioned by New Radio and Performing Arts, Inc., (aka Ether-Ore),
   for its Turbulence website
 layout: things-i-made

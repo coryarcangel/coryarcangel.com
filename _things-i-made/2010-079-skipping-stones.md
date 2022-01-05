@@ -18,7 +18,6 @@ imgs: skipping-stones-2010-079-full-database-ropac.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

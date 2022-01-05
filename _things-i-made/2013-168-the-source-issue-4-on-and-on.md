@@ -20,7 +20,6 @@ imgs: the-source-on-and-on-2013-168-install-Heart-01-database-SM.jpg
 subheading:
 download: the-source-on-and-on-2013-168-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

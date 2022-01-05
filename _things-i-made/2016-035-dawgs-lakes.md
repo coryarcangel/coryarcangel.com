@@ -19,7 +19,6 @@ imgs: dawgs-lakes-2016-035-full-database-JH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -19,7 +19,6 @@ imgs: MusicForStereos-2010-025-performance-chicago-9-database-TR.jpg,MusicForSte
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

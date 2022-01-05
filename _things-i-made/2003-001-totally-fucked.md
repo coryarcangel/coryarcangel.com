@@ -27,7 +27,6 @@ imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

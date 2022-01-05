@@ -18,7 +18,6 @@ imgs: all-the-small-things-2014-078-database-2-ih.jpg
 subheading: "(Edition)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

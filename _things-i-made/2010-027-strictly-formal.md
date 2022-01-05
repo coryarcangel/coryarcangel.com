@@ -18,7 +18,6 @@ imgs: 2010-027-Strictly-Formal-Screenshot-Database-IH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

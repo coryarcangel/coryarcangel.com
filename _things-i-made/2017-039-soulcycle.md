@@ -18,7 +18,6 @@ imgs: 2018-039-soulcycle-database-01.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

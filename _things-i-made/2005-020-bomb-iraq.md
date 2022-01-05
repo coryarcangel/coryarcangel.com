@@ -20,7 +20,6 @@ imgs: bomb-iraq-2005-020-screenshot-database-ih--ej80.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

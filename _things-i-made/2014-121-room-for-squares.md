@@ -64,7 +64,6 @@ imgs: room-for-squares-2014-121-09-install-team-2-database-jm.jpg,room-for-squar
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

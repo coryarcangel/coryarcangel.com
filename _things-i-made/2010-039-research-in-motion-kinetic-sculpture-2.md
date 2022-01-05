@@ -18,7 +18,6 @@ imgs: research-in-motion-2010-039-full-1-database-bahnhof.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

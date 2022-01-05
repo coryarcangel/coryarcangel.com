@@ -18,7 +18,6 @@ imgs: born-to-run-2006-003-full-database-ih.jpg
 subheading: "(LP)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

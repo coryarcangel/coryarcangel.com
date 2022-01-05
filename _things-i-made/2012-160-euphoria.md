@@ -21,7 +21,6 @@ imgs: yolo-2014-03-install-008-database-DG.jpg
 subheading:
 download:
 add_credit: Arcangel Surfware R & D team
-add_credits:
 commission:
 layout: things-i-made
 ---

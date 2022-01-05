@@ -20,7 +20,6 @@ imgs: audmcrs-website-2013-063-digital-database-ih.jpg
 subheading: "(Website)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

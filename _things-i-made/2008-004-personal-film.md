@@ -19,7 +19,6 @@ imgs: personal-film-2008-004-still-5-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

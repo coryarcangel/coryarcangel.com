@@ -18,7 +18,6 @@ imgs: The_Boys_Are_Back_2006_007_database_IH.jpg
 subheading:
 download: cory_arcangel_boys_r_back.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

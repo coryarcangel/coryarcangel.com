@@ -18,7 +18,6 @@ imgs: great-idea-2017-026-database-ih--kt4K_1.jpg
 subheading:
 download: great-idea-2017-026-pdf-ih.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

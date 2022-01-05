@@ -18,7 +18,6 @@ imgs: three-stripes-2018-013-database-dt--Shcy.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

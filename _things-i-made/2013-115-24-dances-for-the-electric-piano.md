@@ -22,7 +22,6 @@ imgs: 24-dances-record-2013-015-full-1-database-ih.jpg,24-dances-record-2013-015
 subheading: "(Vinyl)"
 download:
 add_credit: Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

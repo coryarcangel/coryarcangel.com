@@ -18,7 +18,6 @@ imgs: server-cabinet-cooling---everything-you-need-to-know-2020-007-db-ih--bYZo.
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

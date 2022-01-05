@@ -19,7 +19,6 @@ imgs: jeans-lakes-2015-061-full-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

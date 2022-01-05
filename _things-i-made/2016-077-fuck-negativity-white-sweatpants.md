@@ -18,7 +18,6 @@ imgs: Arcangel-Surfware-fuck-negativity-white-sweatpants-2016-077-full-database.
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

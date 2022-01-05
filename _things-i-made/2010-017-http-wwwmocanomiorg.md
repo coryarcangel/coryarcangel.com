@@ -9,7 +9,7 @@ display_year: '2010'
 medium: Modified museum website
 dims:
 pitch: "​MOCA Miami's website re-done in comic sans"
-ps: "<p>​Yes, this <i>IS</i> what the MOCA Miami website looked like during the duration
+ps: "​Yes, this <i>IS</i> what the MOCA Miami website looked like during the duration
   of my show. :)"
 live_url:
 related:
@@ -19,7 +19,6 @@ imgs: mocanomi-2010-017-screenshot-1-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

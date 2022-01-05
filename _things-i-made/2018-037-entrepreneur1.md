@@ -18,7 +18,6 @@ imgs: entreprenuer-2018-037-web-ih--fL9T.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

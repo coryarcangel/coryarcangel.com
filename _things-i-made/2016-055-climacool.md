@@ -18,7 +18,6 @@ imgs: climacool-2016-055-full-database-JH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

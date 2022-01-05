@@ -23,7 +23,6 @@ imgs: sports-products-lakes-2014-085-full-still-database-team.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

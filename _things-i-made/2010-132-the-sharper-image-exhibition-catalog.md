@@ -18,7 +18,6 @@ imgs: 2010-132-sharper-image-catalog-full-1-database-ih.jpg
 subheading: "(Exhibition Catalog)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

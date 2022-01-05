@@ -19,7 +19,6 @@ imgs: gradient-carpet-2013-198-install-Heart-01-database-SM.jpg,gradient-carpet-
 subheading:
 download:
 add_credit: 'Produced by egg carpets, Denmark. '
-add_credits:
 commission:
 layout: things-i-made
 ---

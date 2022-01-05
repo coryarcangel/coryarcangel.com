@@ -19,7 +19,6 @@ imgs: since-u-been-gone-2013-197-install-Heart-01-database-SM.jpg,since-u-been-g
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

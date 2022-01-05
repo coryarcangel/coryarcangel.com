@@ -18,7 +18,6 @@ imgs: nbc-2018-035-db-ih--3H2d.jpg
 subheading:
 download: Alle-Fugler.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

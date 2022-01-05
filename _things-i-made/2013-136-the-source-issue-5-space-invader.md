@@ -20,7 +20,6 @@ imgs: source-space-2013-136-detail-01-database-ih.jpg
 subheading:
 download: the-source-space-invader-2013-168-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

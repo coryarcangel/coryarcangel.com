@@ -19,7 +19,6 @@ imgs: srf-006-iphone-case-2014-008-full-1-database-ih.jpg
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

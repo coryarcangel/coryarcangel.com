@@ -18,7 +18,6 @@ imgs: coming-soon-2014-137-database-ih--W7yV.jpg
 subheading:
 download: coming-soon-2014-137-scan-ih.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

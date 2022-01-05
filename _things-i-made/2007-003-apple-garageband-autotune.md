@@ -21,7 +21,6 @@ imgs: auto-tune-demo-2007-003-still-2-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

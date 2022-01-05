@@ -19,7 +19,6 @@ imgs: high-lyfe-2015-001-full-database-JH.jpg,high-lyfe-2015-001-detail-2-databa
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

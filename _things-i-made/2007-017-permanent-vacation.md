@@ -18,7 +18,6 @@ imgs: permanent-vacation-2007-017-install-MWG-1-database-MWG.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

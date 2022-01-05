@@ -36,3 +36,4 @@ Are.na:️ [Me](https://www.are.na/cory-arcangel), eg. [Nice pics](https://www.a
 
 
 JEKYLL_ENV=production bundle exec jekyll build
+bundle exec jekyll pagemaster --force shows things-i-made

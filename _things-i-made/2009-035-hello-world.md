@@ -18,7 +18,6 @@ imgs: hello-world-2009-035-digital-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -18,7 +18,6 @@ imgs: artney_-adid-2019-054-db---cTgi.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

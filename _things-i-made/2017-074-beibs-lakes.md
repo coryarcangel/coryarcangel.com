@@ -19,7 +19,6 @@ imgs: beibs-lakes-2017-074-digital-database-dt--ZM6W.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

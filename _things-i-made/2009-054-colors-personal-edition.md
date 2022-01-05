@@ -18,7 +18,6 @@ imgs: colors-2009-054-detail-2-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

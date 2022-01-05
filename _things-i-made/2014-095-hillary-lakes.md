@@ -19,7 +19,6 @@ imgs: asshole2-lakes-2014-095-full-still-1-database-team.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

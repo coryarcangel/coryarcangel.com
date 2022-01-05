@@ -18,7 +18,6 @@ imgs: timeless-standards-2010-092-full-cropped-database-_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

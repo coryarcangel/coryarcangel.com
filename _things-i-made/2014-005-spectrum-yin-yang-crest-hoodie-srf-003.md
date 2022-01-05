@@ -19,7 +19,6 @@ imgs: srf-003-crest-hoodie-2014-005-full-1-database-ih.jpg,srf-003-crest-hoodie-
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

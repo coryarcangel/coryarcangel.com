@@ -18,7 +18,6 @@ imgs: started-at-the-bottom-2015-005-full-database-JH.jpg,started-at-the-bottom-
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

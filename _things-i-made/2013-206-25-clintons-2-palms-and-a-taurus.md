@@ -18,7 +18,6 @@ imgs: 25-clintons-2013-206-full-Heart-01-database-SM.jpg,25-clintons-2013-206-de
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

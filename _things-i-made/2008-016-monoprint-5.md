@@ -18,7 +18,6 @@ imgs: Monoprint-5-2008-016-full-database-IH_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

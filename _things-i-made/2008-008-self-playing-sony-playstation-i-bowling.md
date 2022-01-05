@@ -9,10 +9,10 @@ display_year: '2008'
 medium: Modded ps1 controller
 dims: Dimensions variable
 pitch: PS1 "Bowling" game programmed to roll endless gutter balls via a modded controller.
-ps: '<p>​This was only the second "Self Playing Game" I ever made. Note the early
-  design of the Video Game TIVO TM. If you check out a later work, like Various Self
-  Playing Bowling Games, you can see the final version of the TIVO. This was still
-  in the middle of R + D on that device. '
+ps: '​This was only the second "Self Playing Game" I ever made. Note the early design
+  of the Video Game TIVO TM. If you check out a later work, like Various Self Playing
+  Bowling Games, you can see the final version of the TIVO. This was still in the
+  middle of R + D on that device. '
 live_url:
 related: "[87] 2011-009 Various Self Playing Bowling Games - 2011-009-various-self-playing-bowling-games"
 youtube:
@@ -21,7 +21,6 @@ imgs: ps1-bowling-2008-008-still-database-ih.jpg,ps1-bowling-2008-008-controller
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -18,7 +18,6 @@ imgs: body-talk-2011-138-install-database-dv.jpg,body-talk-2011-138-detail-1-dat
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

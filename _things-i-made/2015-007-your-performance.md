@@ -18,7 +18,6 @@ imgs: your-performance-2015-007-full-database-JH.jpg,your-performance-2015-007-d
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

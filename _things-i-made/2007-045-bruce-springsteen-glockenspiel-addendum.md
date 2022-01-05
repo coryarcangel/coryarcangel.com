@@ -22,7 +22,6 @@ imgs: born-to-run-2007-045-cd-install-database_1.jpg
 subheading: "(CD Edition)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

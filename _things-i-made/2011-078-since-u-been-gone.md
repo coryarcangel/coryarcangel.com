@@ -19,7 +19,6 @@ imgs: Since-U-Been-Gone-2012-078-detail-print-1-database-KA.jpg,Since-U-Been-Gon
 subheading: Prints
 download:
 add_credit:
-add_credits:
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
 layout: things-i-made

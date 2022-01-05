@@ -18,7 +18,6 @@ imgs: 2017-037-three-stripes-press-lisson-database-03.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

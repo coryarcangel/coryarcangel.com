@@ -26,7 +26,6 @@ imgs: space-invader-2004-001-cartridge-database-ih.jpg,space-invader-2004-001-st
 subheading:
 download:
 add_credit: Code by Alex Galloway of the Radical Software Group
-add_credits:
 commission:
 layout: things-i-made
 ---

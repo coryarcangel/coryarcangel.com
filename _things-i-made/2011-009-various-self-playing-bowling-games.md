@@ -28,7 +28,6 @@ imgs: bowling-2011-009-curve-detail-database-EW_1.jpg,bowling-2011-009-whitney-d
 subheading:
 download:
 add_credit: Coding by narrat1ve.com
-add_credits:
 commission: 'The Whitney Museum of American Art, New York and The Barbican, London. '
 layout: things-i-made
 ---

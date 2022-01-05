@@ -18,7 +18,6 @@ imgs: source-wam-2013-141-database-ih--l1vt.jpg
 subheading:
 download: the-source-wam-2013-141-digital-master-ih-2018.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -18,7 +18,6 @@ imgs: max-perks-2014-031-digital-1-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

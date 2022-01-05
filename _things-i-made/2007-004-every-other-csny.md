@@ -18,7 +18,6 @@ imgs: every-other-csny-2007-004-full-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

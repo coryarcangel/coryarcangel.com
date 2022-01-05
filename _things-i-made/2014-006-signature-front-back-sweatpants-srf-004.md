@@ -18,7 +18,6 @@ imgs: srf-004-signature-sweats-2014-006-full-2-database-ih.jpg
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

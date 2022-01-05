@@ -19,7 +19,6 @@ imgs: untitled-after-lucier-2006-011-still-1-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

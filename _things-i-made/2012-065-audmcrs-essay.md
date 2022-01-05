@@ -20,7 +20,6 @@ imgs: audmcrs-essay-2012-065-full-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

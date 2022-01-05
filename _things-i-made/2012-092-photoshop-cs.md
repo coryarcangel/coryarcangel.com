@@ -12,8 +12,8 @@ display_year: '2012'
 medium: Chromogenic print
 dims: 60 x 60
 pitch: A ​"Double Click" photoshop. Part of my new series. LOL. :)
-ps: "<p>​Decided to up the amount of clicks it takes to make my Photoshop paintings
-  / photos / whatever they r. :)"
+ps: "​Decided to up the amount of clicks it takes to make my Photoshop paintings /
+  photos / whatever they r. :)"
 live_url:
 related:
 youtube:
@@ -22,7 +22,6 @@ imgs: photoshop-cs-2012-092-full-database-Team.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

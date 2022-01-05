@@ -26,7 +26,6 @@ imgs: source-hp-2013-137-detail-database-ih.jpg
 subheading:
 download: the-source-hp-hello-world-2013-137-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

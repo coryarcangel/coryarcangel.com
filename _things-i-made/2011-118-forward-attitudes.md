@@ -19,7 +19,6 @@ imgs: forward-attitudes-2011-118-full-database-ih_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

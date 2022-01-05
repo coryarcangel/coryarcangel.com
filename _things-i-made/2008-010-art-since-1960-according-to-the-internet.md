@@ -18,8 +18,7 @@ related_code:
 imgs: 2008_010_Art_Since_1960_Performance_View_Database_IH.jpg
 subheading:
 download:
-add_credit: w Hanne Mugaas
-add_credits:
+add_credit: Hanne Mugaas
 commission:
 layout: things-i-made
 ---

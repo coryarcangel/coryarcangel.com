@@ -8,7 +8,7 @@ year: '2008'
 display_year: '2008'
 medium: Unique three-color process silkscreen on custom watermarked paper
 dims: 42 x 32 inches
-pitch:
+pitch: Poorly done C-M-Y silkscreens.
 ps:
 live_url:
 related:
@@ -18,7 +18,6 @@ imgs: monoprint-4-2008-015-full-1-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

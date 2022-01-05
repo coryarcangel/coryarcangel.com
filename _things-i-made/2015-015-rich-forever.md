@@ -21,7 +21,6 @@ imgs: rich-forever-2015-015-full-database-team-JL.jpg,rich-forever-2015-015-deta
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

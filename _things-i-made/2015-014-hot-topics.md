@@ -18,7 +18,6 @@ imgs: hot-topics-2015-014-full-database-team-JL.jpg,hot-topics-2015-014-detail-d
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

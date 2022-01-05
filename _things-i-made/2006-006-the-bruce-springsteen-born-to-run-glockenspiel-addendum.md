@@ -18,7 +18,6 @@ imgs: The-Bruce-Springsteen-Born-to-Run-Glockenspiel-Addendum-2006-006-db-1-IH.j
 subheading: "(Composition)"
 download: cory-arcangel-2006-006-glock-addendum-web.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -19,7 +19,6 @@ imgs: spoil-party-2007-020-install-database-ih_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

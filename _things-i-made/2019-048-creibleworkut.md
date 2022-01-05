@@ -18,7 +18,6 @@ imgs: creibleworkut-2019-048-db---LGoM.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

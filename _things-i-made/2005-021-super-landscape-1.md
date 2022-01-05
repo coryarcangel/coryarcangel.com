@@ -24,7 +24,6 @@ imgs: super-landscape-2005-021-install-database-migros-unknown.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

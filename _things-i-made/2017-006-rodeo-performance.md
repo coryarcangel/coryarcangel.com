@@ -30,7 +30,6 @@ imgs:
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

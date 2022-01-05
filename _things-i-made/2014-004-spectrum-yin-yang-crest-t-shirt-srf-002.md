@@ -18,7 +18,6 @@ imgs: srf-002-crest-tshirt-2014-004-full-1-database-ih.jpg
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

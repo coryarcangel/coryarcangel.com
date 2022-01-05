@@ -18,7 +18,6 @@ imgs: super-chilled-2012-069-full-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

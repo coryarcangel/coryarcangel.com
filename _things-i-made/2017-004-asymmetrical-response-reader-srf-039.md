@@ -20,7 +20,6 @@ imgs: ar-reader-2017-004-web-ih--ComI.jpg
 subheading:
 download:
 add_credit: Olia Lialina
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -20,7 +20,6 @@ imgs: structural-film-2007-002-still-1-database-ih_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

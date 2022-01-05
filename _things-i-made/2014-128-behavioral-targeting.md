@@ -10,7 +10,7 @@ medium: Search engine optimized institutional press release
 dims:
 pitch: "​Seo’d press release for the “Darknet” show at Kunst Halle Sankt Gallen :-)"
 ps:
-live_url: http://www.kunsthallesanktgallen.ch/en/exhibitions/current.html
+live_url: https://conifer.rhizome.org/cory_arcangel/behaviour-targeting/20190107022956/http://www.kunsthallesanktgallen.ch/en/exhibition/the-darknet-in-zusammenarbeit-mit-mediengruppe-bitnik-c280fb8c.html
 related:
 youtube:
 related_code:
@@ -18,7 +18,6 @@ imgs: behavorial-targeting-2014-128-detail-3-database-ih.jpg,behavorial-targetin
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -19,7 +19,6 @@ imgs: photoshop-cs-2014-135-detail-2-database-GAMeC-FF.jpg,photoshop-cs-2014-135
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

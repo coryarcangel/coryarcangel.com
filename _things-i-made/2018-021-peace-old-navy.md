@@ -18,7 +18,6 @@ imgs: peace-old-navy-2018-021-database-dt--VIT3.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

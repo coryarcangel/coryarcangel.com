@@ -27,7 +27,6 @@ imgs: quickoffice-2013-196-detail-Heart-02-database-SM.jpg,quickoffice-2013-196-
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

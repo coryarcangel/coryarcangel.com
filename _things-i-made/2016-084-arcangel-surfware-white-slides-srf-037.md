@@ -18,7 +18,6 @@ imgs: fn-white-slides-2016-084-database-ih--OvGJ.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

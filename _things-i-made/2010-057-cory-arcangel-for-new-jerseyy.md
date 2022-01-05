@@ -10,7 +10,7 @@ medium: Website
 dims:
 pitch: "​New Jerseyy website redesigned to look like the website of Pace Gallery"
 ps:
-live_url: http://www.newjerseyy.ch/arcangel_for_newjerseyy/
+live_url:
 related:
 youtube:
 related_code:
@@ -18,7 +18,6 @@ imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

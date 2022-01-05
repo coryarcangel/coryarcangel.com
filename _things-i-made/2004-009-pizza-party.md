@@ -20,8 +20,7 @@ related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
 imgs: pizza-party-2004-009-screenshot-1-database-ih.jpg
 subheading:
 download:
-add_credit:
-add_credits: Michael  Frumin
+add_credit: Michael  Frumin
 commission:
 layout: things-i-made
 ---

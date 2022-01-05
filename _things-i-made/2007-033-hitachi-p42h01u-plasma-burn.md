@@ -18,7 +18,6 @@ imgs: burn-2007-033-full-1-database-unknown_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

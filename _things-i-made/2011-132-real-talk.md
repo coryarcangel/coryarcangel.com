@@ -18,7 +18,6 @@ imgs: real-talk-2011-132-detail-2-database-SC.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission: The Whitney Museum of American Art
 layout: things-i-made
 ---

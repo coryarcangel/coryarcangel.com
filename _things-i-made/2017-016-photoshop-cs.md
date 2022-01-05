@@ -21,7 +21,6 @@ imgs: 2017-016-photoshop-cs-database-01-er.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

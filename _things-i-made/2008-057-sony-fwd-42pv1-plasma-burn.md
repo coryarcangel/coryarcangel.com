@@ -18,7 +18,6 @@ imgs: burn-2008-057-full-database-UG.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

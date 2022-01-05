@@ -20,7 +20,6 @@ imgs: since-u-been-gone-2015-047-install-database-gamec-MZ.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

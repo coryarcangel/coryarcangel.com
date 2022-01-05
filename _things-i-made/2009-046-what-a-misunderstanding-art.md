@@ -20,7 +20,6 @@ imgs: what-a-mistunderstanding-2009-046-digital-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

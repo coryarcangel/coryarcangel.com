@@ -21,7 +21,6 @@ imgs: source-666-2013-134-detail-01-database-ih.jpg
 subheading:
 download: the-source-six-sixty-six-2013-134-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

@@ -18,7 +18,6 @@ imgs: untitled-2018-104-db-ih--2kAV.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

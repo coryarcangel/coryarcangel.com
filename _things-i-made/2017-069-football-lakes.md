@@ -19,7 +19,6 @@ imgs: artwork-title-2017-069-database-dt--IK6r.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

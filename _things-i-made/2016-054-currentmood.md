@@ -19,7 +19,6 @@ imgs: currentmood-054-2016-install-01-database-JH.jpg,currentmood-054-2016-insta
 subheading: "(Sculpture)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

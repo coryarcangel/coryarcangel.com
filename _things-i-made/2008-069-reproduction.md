@@ -11,7 +11,7 @@ dims:
 pitch: "​Dj Set performed Nov 17th, 2012 @ ICA Phillie as part of Ooga Booga’s Excursus
   installation."
 ps:
-live_url:
+live_url: https://soundcloud.com/coryarcangel/reproduction-dj-set-ica
 related: "[2147] 2008-082 A Couple Thousand Short Films about Glenn Gould (Publication)
   - 2008-082-a-couple-thousand-short-films-about-glenn-gould-publication"
 youtube:
@@ -20,7 +20,6 @@ imgs: reproduction-dj-set-2008-069-performance-view-excursus-3-database-ak.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

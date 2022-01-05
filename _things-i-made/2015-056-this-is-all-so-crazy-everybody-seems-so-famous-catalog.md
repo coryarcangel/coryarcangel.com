@@ -18,7 +18,6 @@ imgs: gamec-catalogue-2015-056-digital-database-ih.jpg
 subheading: "(Catalog)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

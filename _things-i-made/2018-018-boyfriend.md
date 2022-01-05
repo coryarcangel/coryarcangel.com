@@ -18,7 +18,6 @@ imgs: boyfriend-2018-018-database-dt--A4li.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

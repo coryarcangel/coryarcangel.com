@@ -18,7 +18,6 @@ imgs: fuck-negativity-dogtag-SRF-030-2015-162-detail-database-ih.jpg,fuck-negati
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

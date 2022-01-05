@@ -18,7 +18,6 @@ imgs: Weekend-at-Bernies-Screening-at-Whitney-2011-127-performance-view-2-databa
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

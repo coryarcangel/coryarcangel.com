@@ -18,7 +18,6 @@ imgs: untitled-2018-116-db-ug--dadT.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

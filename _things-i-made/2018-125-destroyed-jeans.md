@@ -17,8 +17,7 @@ related_code:
 imgs: destroyed-jeans-2018-125-db-saf--wbBE.jpg,destroyed-jeans-2018-125-db-saf--2s34.jpg
 subheading:
 download:
-add_credit: Sharjah Art Foundation
-add_credits:
+add_credit:
 commission: Sharjah Art Foundation
 layout: things-i-made
 ---

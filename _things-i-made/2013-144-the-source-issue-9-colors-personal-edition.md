@@ -18,7 +18,6 @@ imgs: source-colors-2013-144-database-ih--himk.jpg
 subheading:
 download: the-source-colors-pe-2013-144-digital-master-ih-2018.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

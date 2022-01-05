@@ -28,7 +28,6 @@ imgs: 666-2004-004-screenshot-1-database-ih.jpg
 subheading:
 download: Cory-Arcangel-666.mp3
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

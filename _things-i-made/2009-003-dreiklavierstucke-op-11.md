@@ -28,7 +28,6 @@ imgs: drei-klavierstucke-2009-003-still-6-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

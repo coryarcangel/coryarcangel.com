@@ -18,7 +18,6 @@ imgs: sports-products-2011-024-full-database-AR.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission: 'Comissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
 layout: things-i-made

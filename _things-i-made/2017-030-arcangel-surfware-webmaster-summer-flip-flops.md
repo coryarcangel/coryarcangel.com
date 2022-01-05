@@ -19,7 +19,6 @@ imgs: as-ws-flip-flops-2017-030-database-ih--WtJY.jpg
 subheading:
 download:
 add_credit: Olia Lialina
-add_credits:
 commission:
 layout: things-i-made
 ---

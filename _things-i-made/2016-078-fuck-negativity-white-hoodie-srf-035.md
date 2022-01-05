@@ -18,7 +18,6 @@ imgs: Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-front-full-databas
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

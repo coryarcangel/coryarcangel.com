@@ -19,7 +19,6 @@ imgs: photoshop-cs-2014-017-full-database-FA.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

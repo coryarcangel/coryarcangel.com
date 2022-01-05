@@ -15,12 +15,11 @@ related: |-
   [41] 2007-006 A Couple Thousand Short Films About Glenn Gould - 2007-006-a-couple-thousand-short-films-about-glenn-gould
   [43] 2007-007 On C - 2007-007-on-c
 youtube:
-related_code: https://github.com/coryarcangel/Gould-Pro
+related_code:
 imgs: glenn-gould-2008-082-full-1-press-ih.jpg
 subheading: "(Publication)"
 download:
-add_credit:
-add_credits: Dexter Sinister
+add_credit: Dexter Sinister
 commission:
 layout: things-i-made
 ---

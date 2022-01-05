@@ -18,7 +18,6 @@ imgs: Everybody-Else-2009-040-Full-1-Database-IH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

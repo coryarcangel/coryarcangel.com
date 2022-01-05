@@ -20,7 +20,6 @@ imgs: the-source-warhol-srf-016-2013-133-detail-07-database-ih.jpg
 subheading:
 download: the-source-warhol-2013-133-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

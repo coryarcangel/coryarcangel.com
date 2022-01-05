@@ -18,7 +18,6 @@ imgs: untitled-2018-118-db-ih--RKq7.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

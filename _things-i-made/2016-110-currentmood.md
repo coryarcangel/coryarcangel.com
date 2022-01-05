@@ -18,7 +18,6 @@ imgs: currentmood-2016-110-database-ih--w0kq.jpg
 subheading: "(Audio)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -20,7 +20,6 @@ imgs: 24-dances-drawing-2013-221-full-1-database-ih.jpg
 subheading: "(Drawing)"
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

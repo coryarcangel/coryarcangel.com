@@ -18,7 +18,6 @@ imgs: timeless-standards-2011-079-full-cropped-database-KA.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

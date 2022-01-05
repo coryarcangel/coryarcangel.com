@@ -8,7 +8,7 @@ year: '2012'
 display_year: '2012'
 medium: Web search
 dims:
-pitch:
+pitch: Web results fro oldcv.pdf :/
 ps:
 live_url:
 related:
@@ -18,7 +18,6 @@ imgs:
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

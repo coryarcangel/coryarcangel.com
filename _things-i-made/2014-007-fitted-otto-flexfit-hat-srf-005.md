@@ -18,7 +18,6 @@ imgs: srf-005-fitted-hat-2014-007-full-1-database-ih.jpg
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

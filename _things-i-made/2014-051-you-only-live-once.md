@@ -19,7 +19,6 @@ imgs: you-only-live-once-2014-051-detail-Heart-01-database-SM.jpg,you-only-live-
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

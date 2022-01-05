@@ -19,7 +19,6 @@ imgs: master-class-2010-054-performance-3-database-AK.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

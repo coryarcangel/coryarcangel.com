@@ -21,7 +21,6 @@ imgs: photoshop-cs-2017-042-database-02.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

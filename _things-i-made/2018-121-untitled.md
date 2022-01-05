@@ -18,7 +18,6 @@ imgs: untitled-2018-121-db-ug--3efH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

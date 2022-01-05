@@ -19,7 +19,6 @@ imgs: 24-dances-shirt-2013-219-full-1-database-ih.jpg
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

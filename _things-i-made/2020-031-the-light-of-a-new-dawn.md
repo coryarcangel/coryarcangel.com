@@ -18,7 +18,6 @@ imgs: light-of-a-new-dawn-2020-031-db-ih--MUIA.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

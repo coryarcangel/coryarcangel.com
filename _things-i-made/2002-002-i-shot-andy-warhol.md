@@ -28,7 +28,6 @@ imgs: i-shot-andy-2002-002-screen-shot-5-database-ih.jpg,i-shot-andywarhol-2002-
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

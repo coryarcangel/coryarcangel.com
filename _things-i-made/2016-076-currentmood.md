@@ -10,7 +10,7 @@ medium: Set of five pigmented inkjet prints on canvas in custom box
 dims: '40" × 24" x 1" (each canvas); 41" × 25" × 9" (box) '
 pitch: Box I made 4 Triple Canopy (I wz on the board for many year FYI). Kinda a show
   in a box.
-ps: Still some avail
+ps:
 live_url:
 related:
 youtube:
@@ -19,7 +19,6 @@ imgs: currentmood-2016-076-database-dt--2aWe.jpg,currentmood-2016-076-database-d
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

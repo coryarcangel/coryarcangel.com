@@ -20,7 +20,6 @@ imgs: the-source-pizza-party-srf-015-2013-138-detail-01-database-ih.jpg
 subheading:
 download: the-source-pizza-party-2013-138-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

@@ -20,7 +20,6 @@ imgs: Continuous-Partial-Awareness-2009-049-Full-db-OL.jpg,Continuous-Partial-Aw
 subheading:
 download: arcangel-CPA.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

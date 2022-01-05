@@ -18,7 +18,6 @@ imgs: timeless-standards-2010-087-full-cropped-database-ropac.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

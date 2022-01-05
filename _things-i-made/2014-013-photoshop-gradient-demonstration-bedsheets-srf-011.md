@@ -19,7 +19,6 @@ imgs: spectrum-queen-2014-013-full-database-ih.jpg
 subheading:
 download:
 add_credit: Cory Arcangel for Arcangel Surfware
-add_credits:
 commission:
 layout: things-i-made
 ---

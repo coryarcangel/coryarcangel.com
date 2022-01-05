@@ -18,7 +18,6 @@ imgs: sans-simon-2004-014-performanceview-columbia-database-HM.jpg
 subheading: " (Performance) "
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

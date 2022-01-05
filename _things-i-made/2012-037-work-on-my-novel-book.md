@@ -13,7 +13,7 @@ ps: "INFORMATION:\n Author: <a href=\"http://coryarcangel.com/\" title=\"\">Cory
   ISBN #: 1846147425 \n Publisher: <a href=\"http://www.penguin.com/\" title=\"\">Penguin
   Books Ltd</a>\n Publication date: July 31st, 2014\n Binding: Paperback \n Pages:
   144"
-live_url: http://novel.coryarcangel.com/
+live_url:
 related: |-
   [54] [2009-032-working-on-my-novel] 2009-032 Working On My Novel (Twitter Search)
   [2205] [2012-066-working-on-my-novel] 2012-066 Working On My Novel (Twitter Feed)
@@ -23,7 +23,6 @@ imgs: working-on-my-novel-2012-037-full-01-database-ih.jpg,working-on-my-novel-2
 subheading: "(Book)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

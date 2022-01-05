@@ -18,12 +18,11 @@ related_code:
 imgs: 2015-095-mmw-photoshoot-database-01-JIH.jpg
 subheading:
 download:
-add_credit: w/ Tony Conrad. Editing, copy-editing & transcription Cory Arcangel, Gil
+add_credit: Tony Conrad. Editing, copy-editing & transcription Cory Arcangel, Gil
   Gentile, Elliot Kaufman, Amanda Schmidt  Archival programming & data manipulation
   Henry Van Dusen  Archival audio services George Blood, L.P.  Mastering Jon Cohrs
   at Spleenless Mastering  Web programming & design Familiar Studio  Special thanks
   for their support Greene Naftali Gallery and Galerie Buchholz
-add_credits:
 commission:
 layout: things-i-made
 ---

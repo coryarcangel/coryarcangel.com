@@ -18,7 +18,6 @@ imgs: three-stripes-2017-023-install-database-ih-1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -27,7 +27,6 @@ imgs: quickoffice-2015-068-install-database-CK.jpg,quickoffice-2015-068-install-
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

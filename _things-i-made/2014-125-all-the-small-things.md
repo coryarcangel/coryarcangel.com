@@ -21,7 +21,6 @@ imgs: allthesmallthingscatalog-2014-125-full-01-database-ih.jpg,allthesmallthing
 subheading: "(Catalog)"
 download:
 add_credit: 'Published by WALTHER KöNIG, KöLN, Design by Dave Yun, Photos: Sasha Maric'
-add_credits:
 commission:
 layout: things-i-made
 ---

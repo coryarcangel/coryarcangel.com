@@ -19,7 +19,6 @@ imgs: glockenspiel-2006-008-light-industry-performance-view-1-database-DC.jpg
 subheading: "(Performance)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

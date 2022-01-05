@@ -19,7 +19,6 @@ imgs: yoga-lakes-2017-071-database-dt-Dt4K.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

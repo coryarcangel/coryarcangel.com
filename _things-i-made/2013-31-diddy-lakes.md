@@ -19,7 +19,6 @@ imgs: diddy-lakes-2013-031-install-Heart-01-database-SM.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

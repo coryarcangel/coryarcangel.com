@@ -18,7 +18,6 @@ imgs: trust-no-bitch-2015-022-detail-2-database-EK.jpg,trust-no-bitch-2015-022-d
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

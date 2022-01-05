@@ -19,7 +19,6 @@ imgs: photoshop-cs-carpet-2014-152-install-2-database-gamec-RM.jpg,photoshop-cs-
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -29,7 +29,6 @@ imgs: whitney-brochure-2011-092-detail-database.jpg
 subheading:
 download: arcangel_brochure.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

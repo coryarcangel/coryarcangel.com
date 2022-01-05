@@ -18,7 +18,6 @@ imgs: dvd-rack-2014-060-detail-full-01-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

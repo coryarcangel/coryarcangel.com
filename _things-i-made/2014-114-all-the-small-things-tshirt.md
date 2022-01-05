@@ -21,7 +21,6 @@ imgs: 2014-114-allthesmallthings-shirt-database-ih.jpg
 subheading: "(Tee shirt)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -19,7 +19,6 @@ imgs: since-u-been-gone-2010-085-full-database-ropac.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

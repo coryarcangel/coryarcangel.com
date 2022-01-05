@@ -18,7 +18,6 @@ imgs: 2005-032-migros-monograph-full-database-ih.jpg
 subheading: "(Monograph)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

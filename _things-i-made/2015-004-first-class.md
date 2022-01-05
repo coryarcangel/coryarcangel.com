@@ -18,7 +18,6 @@ imgs: first-class-2015-004-full-database-JH.jpg,first-class-2015-004-detail-1-da
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

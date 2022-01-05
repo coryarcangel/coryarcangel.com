@@ -18,7 +18,6 @@ imgs: 2008_078_My_Top_Ten_Youtube_Videos_Screenshot_Database_IH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

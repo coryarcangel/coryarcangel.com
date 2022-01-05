@@ -19,7 +19,6 @@ imgs: established-92-2014-039-full-Heart-01-database-SM.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

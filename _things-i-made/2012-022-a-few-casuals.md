@@ -18,7 +18,6 @@ imgs: a-few-casuals-2012-022-full-1-skur2-database-ESJ.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

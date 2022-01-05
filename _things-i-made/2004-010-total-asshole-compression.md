@@ -21,7 +21,6 @@ imgs: total-asshole-compression-screenshot-database-ih.jpg
 subheading:
 download:
 add_credit: In collaboration with the Radical Software Group
-add_credits:
 commission:
 layout: things-i-made
 ---

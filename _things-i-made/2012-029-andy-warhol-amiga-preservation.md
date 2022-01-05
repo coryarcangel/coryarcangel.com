@@ -22,8 +22,7 @@ related_code:
 imgs: warhol-proposal-2012-029-digital-still-2-database-aw.jpg
 subheading:
 download:
-add_credit:
-add_credits: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
+add_credit: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
   STUDIO for Creative Inquiry
 commission:
 layout: things-i-made

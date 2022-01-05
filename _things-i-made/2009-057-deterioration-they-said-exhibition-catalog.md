@@ -9,7 +9,7 @@ display_year: '2009'
 medium: Exhibition Catalog
 dims: 11.5 x 8.5 x 0.75 inches
 pitch: "​Group show catalog @ the Migros.&nbsp;"
-ps: "<p>​This isn't specifically a catalog of mine, but of a group show at the Migros
+ps: "​This isn't specifically a catalog of mine, but of a group show at the Migros
   Museum w/ Ryan Trecartin, Paperrad and Co, and Shana Moulton. Anyway, its worth
   your time if u can find it.&nbsp;"
 live_url:
@@ -20,7 +20,6 @@ imgs: 2012-057-deterioration-they-said-full-database-ih.jpg
 subheading: "(Exhibition Catalog)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

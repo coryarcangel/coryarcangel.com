@@ -18,7 +18,6 @@ imgs: air-jordans-2012-080-detail-database-ih.jpg,air-jordans-2012-080-full-data
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

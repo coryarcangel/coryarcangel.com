@@ -19,7 +19,6 @@ imgs: 24-dances-2013-218-sheet-music-database-ih.jpg
 subheading: "(Composition)"
 download: 24-dances-2013-015-sheet-music-master.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -18,7 +18,6 @@ imgs: Last-Night-I-Had-Strangest-Dream-2009-041-Perf-View-1-database-NL.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

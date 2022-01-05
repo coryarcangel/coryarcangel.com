@@ -19,7 +19,6 @@ imgs: jeans-lakes-2016-102-install-database-dt.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

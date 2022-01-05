@@ -21,7 +21,6 @@ imgs: photoshop-cs-2014-080-full-database-team-jm.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

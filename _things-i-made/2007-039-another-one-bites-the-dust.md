@@ -11,7 +11,7 @@ dims:
 pitch: "​Poster featuring Axl's shoes taken from he interior of GNR's Spaghetti Incident
   EP."
 ps:
-live_url:
+live_url: https://www.spikeartmagazine.com/
 related:
 youtube:
 related_code:
@@ -19,7 +19,6 @@ imgs: Another_One_Bites_the_Dust_2007_039_full_database_IH_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

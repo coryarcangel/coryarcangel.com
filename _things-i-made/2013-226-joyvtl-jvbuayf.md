@@ -18,7 +18,6 @@ imgs: opn-2013-x-digital-database-ih.jpg
 subheading:
 download:
 add_credit: OPN
-add_credits:
 commission:
 layout: things-i-made
 ---

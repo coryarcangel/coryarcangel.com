@@ -19,7 +19,6 @@ imgs: dinner-lakes-2014-110-full-database-lisson-KL.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

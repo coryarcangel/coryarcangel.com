@@ -18,7 +18,6 @@ imgs: express-yourself-clearly-2013-062-full-database-JW.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

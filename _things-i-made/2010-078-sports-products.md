@@ -18,7 +18,6 @@ imgs: sports-products-2010-078-full-database-ropac_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -26,7 +26,6 @@ imgs: the-source-2013-199-full-Heart-01-database-SM.jpg
 subheading: "(sculpture)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

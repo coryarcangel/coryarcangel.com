@@ -20,7 +20,6 @@ imgs: raw-youth-2014-046-install-Heart-01-database-SM.jpg,raw-youth-2014-046-ful
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -10,7 +10,7 @@ medium: Modded DVD
 dims:
 pitch: "​Simon and Garfunkel DVD where chapter markers have been moved to places where
   one can see tension between the two."
-ps: "<p>​This isn't exactly a video, but actually a modified DVD. The only difference
+ps: "​This isn't exactly a video, but actually a modified DVD. The only difference
   between this DVD, and the one you can (or could) buy in stores, is that the chapter
   markers have been moved on this one to places where you can see Simon and Garfunkel
   bicker. So, unless you are forwarding between chapters (which normally would be
@@ -29,7 +29,6 @@ imgs: Old_Friends_2005_011_still_database_IH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

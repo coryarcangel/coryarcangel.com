@@ -26,7 +26,6 @@ imgs: mario-clouds-2002-001-cartridge-2-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

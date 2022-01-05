@@ -19,7 +19,6 @@ imgs: social-network-2015-030-detail-2-database-EK.jpg,social-network-2015-030-f
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

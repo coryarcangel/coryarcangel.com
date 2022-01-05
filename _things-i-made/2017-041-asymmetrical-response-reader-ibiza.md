@@ -19,7 +19,6 @@ imgs: ar-reader-2017-041-database-ih--12a5.jpg,ar-reader-2017-041-database-ih--0
 subheading:
 download:
 add_credit: Olia Lialina
-add_credits:
 commission:
 layout: things-i-made
 ---

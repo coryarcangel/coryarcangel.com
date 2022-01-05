@@ -19,7 +19,6 @@ imgs: lozenge-2011-176-digital-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission: Studio Voltaire
 layout: things-i-made
 ---

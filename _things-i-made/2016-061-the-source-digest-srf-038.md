@@ -18,7 +18,6 @@ imgs: source-digest-2016-061-full-database-1.jpg,source-digest-2016-061-full-dat
 subheading:
 download: the-source-digest-2016-061-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -19,7 +19,6 @@ imgs: snowbunny-lakes-2015-053-full-still-database-JH.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

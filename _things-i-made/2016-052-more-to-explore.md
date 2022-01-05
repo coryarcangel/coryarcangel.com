@@ -19,7 +19,6 @@ imgs: More-to-Explore-2016-052-database-ih-4.jpg,More-to-Explore-2016-052-databa
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

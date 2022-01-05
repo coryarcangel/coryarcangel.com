@@ -19,7 +19,6 @@ imgs: photoshop-cs-2009-006-full-cropped-database-Team.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -18,7 +18,6 @@ imgs: Arcangel-Surfware-fuck-negativity-white-shirt-2016-079-full-database.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -20,7 +20,6 @@ imgs: mmw-bot-2017-044-database-ih--uPUu_1.jpg,mmw-bot-2017-044-database-ih--8j3
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

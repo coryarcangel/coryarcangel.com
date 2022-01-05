@@ -19,7 +19,6 @@ imgs: calcium-source-2014-035-full-Heart-01-database-SM.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

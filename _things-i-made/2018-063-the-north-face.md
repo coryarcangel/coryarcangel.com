@@ -19,7 +19,6 @@ imgs: the-north-face-2018-063-web-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

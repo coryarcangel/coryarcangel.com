@@ -19,7 +19,6 @@ imgs: 2013-132-digital-db-02.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

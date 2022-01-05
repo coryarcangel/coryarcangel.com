@@ -18,7 +18,6 @@ imgs: volume-management-2011-021-full-database-SC.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
 layout: things-i-made

@@ -20,7 +20,6 @@ imgs: asymmetrical-response-2017-020-database-ih--AemK.jpg
 subheading: "(Catalog)"
 download:
 add_credit: 'Olia Lialina. Design by Manuel Berger! '
-add_credits:
 commission:
 layout: things-i-made
 ---

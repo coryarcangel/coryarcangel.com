@@ -22,7 +22,6 @@ imgs: untitled-2012-149-western-front-perf-view-2-database-BW.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

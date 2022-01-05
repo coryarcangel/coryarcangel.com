@@ -18,7 +18,6 @@ imgs: research-in-motion-2010-018-full-2-database-team_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

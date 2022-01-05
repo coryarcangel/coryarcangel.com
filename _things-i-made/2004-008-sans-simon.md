@@ -18,7 +18,6 @@ imgs: sans-simon-2004-008-database-still-2_1.jpg
 subheading: "(Video)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

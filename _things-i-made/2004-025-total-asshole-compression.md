@@ -23,8 +23,7 @@ related_code:
 imgs: tac-booklet-2005-025-full-database-ih.jpg
 subheading: Booklet
 download:
-add_credit: w Radical Software Group
-add_credits:
+add_credit: Radical Software Group
 commission:
 layout: things-i-made
 ---

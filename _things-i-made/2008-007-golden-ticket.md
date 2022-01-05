@@ -11,7 +11,7 @@ dims:
 pitch: As part of a Frieze commission, I had them send out candy bars to all galleries
   who were unsuccessful in their application to their fair, ... one had a golden ticket,
   and that gallery got a free booth.
-ps: '<p>​More info: <a href="http://www.friezefoundation.org/commissions/detail/cory_arcangel/">http://www.friezefoundation.org/commissions/detail/cory_arcangel/</a>'
+ps:
 live_url:
 related:
 youtube:
@@ -20,7 +20,6 @@ imgs: golden-ticket-2008-007-detail-2-database-DT_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission: Frieze Art Fair
 layout: things-i-made
 ---

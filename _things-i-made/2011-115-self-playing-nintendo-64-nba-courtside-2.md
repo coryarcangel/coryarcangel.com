@@ -18,7 +18,6 @@ imgs: various-n64-2011-115-detail-database-ka.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

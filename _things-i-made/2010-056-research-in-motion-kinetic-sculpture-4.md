@@ -18,7 +18,6 @@ imgs: research-in-motion-2010-056-full-database-Ropac.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

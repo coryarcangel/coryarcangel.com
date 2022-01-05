@@ -18,7 +18,6 @@ imgs: tea-mix-2019-045-db-ih--cIDu.jpg
 subheading:
 download:
 add_credit: Cory Arcangel & Hampus Lindwall
-add_credits:
 commission:
 layout: things-i-made
 ---

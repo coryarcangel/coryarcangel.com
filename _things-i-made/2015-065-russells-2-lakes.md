@@ -19,7 +19,6 @@ imgs: russells-2-lakes-2015-065-full-database-CK.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

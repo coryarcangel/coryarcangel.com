@@ -20,7 +20,6 @@ imgs: mig-29-soviet-fighter-plane-and-clouds-2016-033-full-database-JH.jpg,mig-2
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

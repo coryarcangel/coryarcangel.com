@@ -18,7 +18,6 @@ imgs: cc-hampion-2019-059-db-gn--I04E.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

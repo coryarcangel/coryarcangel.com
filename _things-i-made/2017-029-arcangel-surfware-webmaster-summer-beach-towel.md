@@ -19,7 +19,6 @@ imgs: as-ws-towell-2017-029-database-ih--I5us.jpg
 subheading:
 download:
 add_credit: Olia Lialina
-add_credits:
 commission:
 layout: things-i-made
 ---

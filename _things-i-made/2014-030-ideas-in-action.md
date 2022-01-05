@@ -18,7 +18,6 @@ imgs: mystarbucksidea-2014-030-digital-still-4-database-ih.jpg,mystarbucksidea-2
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

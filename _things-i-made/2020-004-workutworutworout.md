@@ -18,7 +18,6 @@ imgs: workutworutworout-2020-004-db-ih--D6cD.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

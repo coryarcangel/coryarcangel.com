@@ -18,7 +18,6 @@ imgs: express-yourself-clearly-2012-117-full-database-Team.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

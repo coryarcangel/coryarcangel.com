@@ -18,7 +18,6 @@ imgs: The_Year_in_the_Internet_2006_020_screenshot_database_IH.jpg
 subheading:
 download:
 add_credit: Michael Bell Smith
-add_credits:
 commission:
 layout: things-i-made
 ---

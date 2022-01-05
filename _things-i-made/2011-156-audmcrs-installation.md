@@ -25,7 +25,6 @@ imgs: carnegie-pittsburgh-2012-09-install-14-database-TL.jpg,AUDMCRS-2011-156-de
 subheading: "(Installation)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

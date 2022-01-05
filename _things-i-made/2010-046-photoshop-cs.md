@@ -19,7 +19,6 @@ imgs: photoshop-cs-2010-046-full-cropped-database-ropac.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

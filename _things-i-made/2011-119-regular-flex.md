@@ -18,7 +18,6 @@ imgs: regular-flex-2011-119-full-database-ka_1.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

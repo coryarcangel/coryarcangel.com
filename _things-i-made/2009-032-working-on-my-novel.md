@@ -22,7 +22,6 @@ imgs: working-on-my-novel-2009-032-digital-database-1-ih.jpg
 subheading: "(Twitter Search)"
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

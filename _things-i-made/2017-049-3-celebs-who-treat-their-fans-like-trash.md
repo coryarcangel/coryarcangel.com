@@ -18,7 +18,6 @@ imgs: celebs-2017-049-database-jih--d17f.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

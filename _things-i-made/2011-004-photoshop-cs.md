@@ -19,7 +19,6 @@ imgs: photoshop-cs-2011-004-full-database-AR.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

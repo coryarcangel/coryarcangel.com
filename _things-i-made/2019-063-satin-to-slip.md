@@ -21,7 +21,6 @@ imgs: satin-to-sip-2019-063-db-ih--ULmB.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

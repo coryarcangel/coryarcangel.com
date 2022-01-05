@@ -21,7 +21,6 @@ imgs: 2008_079_Sans_Comic_Full_Database_IH_1.jpg
 subheading:
 download: arcangel-sans-comic.pdf
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

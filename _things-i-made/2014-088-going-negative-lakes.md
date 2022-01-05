@@ -24,7 +24,6 @@ imgs: going-negative-2014-088-full-database-team-JL.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

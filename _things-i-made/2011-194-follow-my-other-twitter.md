@@ -18,7 +18,6 @@ imgs: follow-my-other-twitter-2011-194-screenshot-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

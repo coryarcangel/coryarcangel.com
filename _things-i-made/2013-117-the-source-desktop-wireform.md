@@ -23,7 +23,6 @@ imgs: the-source-desktop-wireform-2013-117-detail-01-ih.jpg
 subheading:
 download: the-source-desktop-wireform-2013-117-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

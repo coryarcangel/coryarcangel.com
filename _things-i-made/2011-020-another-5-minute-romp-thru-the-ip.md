@@ -18,7 +18,6 @@ imgs: romp-ip-2011-020-still-1-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

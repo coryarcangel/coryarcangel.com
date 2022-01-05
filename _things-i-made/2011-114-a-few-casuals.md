@@ -18,7 +18,6 @@ imgs: a-few-casuals-2011-114-full-database-ih.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

@@ -19,7 +19,6 @@ imgs: flagship-2017-062-database-jih--YsOT.jpg,flagship-2017-062-database-jih--4
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

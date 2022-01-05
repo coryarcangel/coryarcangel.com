@@ -18,7 +18,6 @@ imgs: two-clintons-seven-palms-a-taurus-and-an-aeron-2015-060-install-database-C
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

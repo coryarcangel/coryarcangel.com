@@ -19,7 +19,6 @@ imgs: source-doogle-2013-140-detail-database-01-ih.jpg
 subheading:
 download: the-source-dooogle-2013-140-digital-master-ih.pdf
 add_credit:
-add_credits:
 commission: Creative Capital
 layout: things-i-made
 ---

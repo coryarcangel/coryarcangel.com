@@ -21,7 +21,6 @@ imgs: photoshop-cs-2014-079-full-2-database-team-jm.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---

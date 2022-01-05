@@ -19,7 +19,6 @@ imgs: sharjah-biennial-2019-03-db-ih--LoHh.jpg
 subheading:
 download:
 add_credit:
-add_credits:
 commission:
 layout: things-i-made
 ---
