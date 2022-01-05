@@ -30,3 +30,9 @@ Are.na:️ [Me](https://www.are.na/cory-arcangel), eg. [Nice pics](https://www.a
 
 {% assign eeid_clean = things.first | remove: "[" | remove: "]" %}{{ eeid_clean }},
 {% assign url_clean = things.[1] | remove: "[" | remove: "]" %}{% assign url_chop = url_clean | split: '-' %}{{ url_chop.[0] }}-{{ url_chop.[1] }},
+
+
+
+
+
+JEKYLL_ENV=production bundle exec jekyll build

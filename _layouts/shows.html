@@ -18,16 +18,16 @@ layout: shows
     <a class="next" href="{{page.next.url}}">></a>
   	{% endif %}	
 	<br>
-    {{ page.venue }}
+    <b>Venue: </b>{{ page.venue }}
     <br>
-    {{ page.state_country }}
+    <b>City: </b>{{ page.state_country }}
 	<br>
-    {{ page.title }}
+    <b>Title: </b>{{ page.title }}
     <br>
-    {{ page.year }}
+    <b>Year: </b>{{ page.year }}
     <br>
 	{% if page.pitch %}
-	{{ page.pitch }}
+	<b>ps: </b>{{ page.pitch }}
 	<br>
 	{% endif %}	
 	{% if page.ps %}

@@ -18,48 +18,48 @@ layout: things-i-made
     <a class="next" href="{{page.next.url}}">></a>
   	{% endif %}
 	<br>
-    {{ page.title }}
+    <b>Title:</b> {{ page.title }}
     <br>
-    {{ page.year }}
+    <b>Year:</b> {{ page.year }}
     <br>
 	{% if page.medium %}
-	medium: {{ page.medium }}
+	<b>Medium:</b> {{ page.medium }}
 	<br>
 	{% endif %}	
 	{% if page.dims %}
-	dims: {{ page.dims }}
+	<b>Dims:</b> {{ page.dims }}
 	<br>
 	{% endif %}	
 	{% if page.pitch %}
-	elevator pitch: {{ page.pitch }}
+	<b>Elevator pitch:</b> {{ page.pitch }}
 	<br>
 	{% endif %}		
 	{% if page.ps %}
-	ps: {{ page.ps }}
+	<b>ps:</b> {{ page.ps }}
 	<br>
 	{% endif %}		
 	{% if page.commission %}
-	commission: {{ page.commission }}
+	<b>Commission: </b> {{ page.commission }}
 	<br>
 	{% endif %}		
 	{% if page.add_credit %}
-	w/ {{ page.add_credit }}
+	<b>w/ </b> {{ page.add_credit }}
 	<br>
 	{% endif %}			
 	{% if page.live_url %}
-	<a href="{{ page.live_url }}">{{ page.live_url }}</a>
+	<b>Url: </b><a href="{{ page.live_url }}">{{ page.live_url }}↪</a>
 	<br>
 	{% endif %}	
 	{% if page.download %}
-	<a href="../downloads/{{ page.download }}">{{ page.download }}</a>
+	<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
 	<br>
 	{% endif %}	
 	{% if page.youtube %}
-	<a href="{{ page.youtube }}">{{ page.youtube }}</a>
+	<b>Vid: </b><a href="{{ page.youtube }}">{{ page.youtube }}↪</a>
 	<br>
 	{% endif %}	
 	{% if page.related_code %}
-	<a href="{{ page.related_code }}">{{ page.related_code }}</a>
+	<b>Code: </b><a href="{{ page.related_code }}">{{ page.related_code }}↪</a>
 	<br>
 	{% endif %}	
 	{% if page.imgs %}
