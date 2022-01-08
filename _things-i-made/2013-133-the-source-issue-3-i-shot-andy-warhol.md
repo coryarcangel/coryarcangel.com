@@ -11,15 +11,15 @@ dims: 11 x 8.5
 pitch: |-
   Source code for “I Shot Andy Warhol” NES cart (binary FYI) printed with archival inks and
    paper, footnoted with artist txt, writing, poetry, whatevz, etc, etc, etc ;-)
-ps:
-live_url:
+ps: ''
+live_url: ''
 related: "[9] [2002-002-i-shot-andy-warhol] 2002-002 I Shot Andy Warhol"
-youtube:
+youtube: ''
 related_code: https://github.com/coryarcangel/I-Shot-Andy-Warhol
 imgs: the-source-warhol-srf-016-2013-133-detail-07-database-ih.jpg
-subheading:
+subheading: ''
 download: the-source-warhol-2013-133-digital-master-ih.pdf
-add_credit:
+add_credit: ''
 commission: Creative Capital
 layout: things-i-made
 ---

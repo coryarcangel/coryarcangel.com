@@ -7,17 +7,17 @@ title: en·tre·pre·neur
 year: '2018'
 display_year: '2018'
 medium: Web search archived as .warc w/ web recorder.
-dims:
+dims: ''
 pitch: Using google 2 remem how to spell en·tre·pre·neur
-ps:
+ps: ''
 live_url: https://conifer.rhizome.org/cory_arcangel/enterpnurer
-related:
-youtube:
-related_code:
+related: ''
+youtube: ''
+related_code: ''
 imgs: entreprenuer-2018-037-web-ih--fL9T.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

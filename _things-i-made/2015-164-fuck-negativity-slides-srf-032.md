@@ -7,17 +7,17 @@ title: Fuck Negativity Slides (SRF-032)
 year: '2015'
 display_year: '2015'
 medium: Slides
-dims:
-pitch:
-ps:
-live_url:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
 related: "[4277] [2014-088-going-negative-lakes] 2014-088 Going Negative / Lakes"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: Fuck-Negativity-Slides-SRF-032-2015-164-full-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

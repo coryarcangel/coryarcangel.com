@@ -9,16 +9,16 @@ display_year: '2018'
 medium: International Association for Research and Testing in the Field of Textile
   and Leather Ecology certified cotton scarf
 dims: Variable
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: flagship-2017-062-db-jih--eQIH.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

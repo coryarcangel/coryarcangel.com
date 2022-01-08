@@ -8,16 +8,16 @@ year: '2018'
 display_year: '2018'
 medium: Triple Espresso, Acid Free Vellum Finish Archival Paper
 dims: 12.25 x 12.25 in
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: untitled-2018-121-db-ug--3efH.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

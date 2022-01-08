@@ -7,22 +7,22 @@ title: 'Tony Conrad: Music and the Mind of the World (SRF-040)'
 year: '2017'
 display_year: '2015'
 medium: 'Website, Youtube account. '
-dims:
+dims: ''
 pitch: "​Worked - along w a massive team! - with my friend Tony to publish his INCRED
   Music and the Mind of the World piano piece. Can´t explain how rewarding this wz."
-ps:
+ps: ''
 live_url: http://musicandthemindofthe.world/
-related:
-youtube:
-related_code:
+related: ''
+youtube: ''
+related_code: ''
 imgs: 2015-095-mmw-photoshoot-database-01-JIH.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Tony Conrad. Editing, copy-editing & transcription Cory Arcangel, Gil
   Gentile, Elliot Kaufman, Amanda Schmidt  Archival programming & data manipulation
   Henry Van Dusen  Archival audio services George Blood, L.P.  Mastering Jon Cohrs
   at Spleenless Mastering  Web programming & design Familiar Studio  Special thanks
   for their support Greene Naftali Gallery and Galerie Buchholz
-commission:
+commission: ''
 layout: things-i-made
 ---

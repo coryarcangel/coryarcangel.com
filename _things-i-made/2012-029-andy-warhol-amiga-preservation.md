@@ -7,7 +7,7 @@ title: Andy Warhol Amiga Preservation
 year: '2014'
 display_year: '2011'
 medium: Multi-year preservation project
-dims:
+dims: ''
 pitch: Worked with a super chill team to discover and preserve Andy Warhol’s Amiga
   1000 experiments.
 ps: Not exactly a “thing i made”, more like a “thing i produced”, but none the less,
@@ -15,15 +15,15 @@ ps: Not exactly a “thing i made”, more like a “thing i produced”, but no
   linked above. Def watch, and read the great accompanying text – The Warhol Files
   – if you got an extra 20 min lying around some day. Will give you a good idea of
   the 3 year process that went into this. ;)
-live_url:
+live_url: ''
 related: "[4153] [2014-024-the-warhol-files] 2014-024 The Warhol Files"
 youtube: https://vimeo.com/92583299
-related_code:
+related_code: ''
 imgs: warhol-proposal-2012-029-digital-still-2-database-aw.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
   STUDIO for Creative Inquiry
-commission:
+commission: ''
 layout: things-i-made
 ---

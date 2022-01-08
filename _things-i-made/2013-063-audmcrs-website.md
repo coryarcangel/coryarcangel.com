@@ -7,19 +7,19 @@ title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2013'
 display_year: '2013'
 medium: Website
-dims:
+dims: ''
 pitch: "​Website 4 my touring trance record collection."
-ps:
+ps: ''
 live_url: http://audmcrs.coryarcangel.com
 related: |-
   [2217] [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground Dance Music Collection of Recorded Sound
   [2228] [2012-065-audmcrs-essay] 2012-065 AUDMCRS Essay
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: audmcrs-website-2013-063-digital-database-ih.jpg
 subheading: "(Website)"
-download:
-add_credit:
-commission:
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

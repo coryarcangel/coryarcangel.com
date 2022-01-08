@@ -8,7 +8,7 @@ year: '2009'
 venue: NiMK
 state_country: Amsterdam
 pitch: "<p>Small all moving image survey show. </p>"
-ps:
+ps: ''
 imgs: NIMK-Amsterdam-2009-08-install-1-database-PC.jpg,NIMK-Amsterdam-2009-08-install-2-database-PC.jpg,NIMK-Amsterdam-2009-08-install-3-database-PC.jpg,NIMK-Amsterdam-2009-08-install-4-database-PC.jpg
 things: "[164] 2008-008 Self Playing Sony Playstation I Bowling - 2008-008-self-playing-sony-playstation-i-bowling,[7]
   2002-001 Super Mario Clouds - supermarioclouds,[15] 2004-002 F1 Racer Mod (aka Japanese

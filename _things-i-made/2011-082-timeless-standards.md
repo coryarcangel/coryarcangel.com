@@ -9,15 +9,15 @@ display_year: '2011'
 medium: Inkjet on canvas
 dims: 56 x 40 inches
 pitch: "​Scan of a Lacoste shirt."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: timeless-standards-2011-082-full-cropped-database-KA.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

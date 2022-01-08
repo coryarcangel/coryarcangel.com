@@ -11,15 +11,15 @@ dims: 11 x 8.5
 pitch: Source code for “Space Invader” Atari mod (a collaboration with RSG) printed
   on archival inks and paper, footnoted with artist txt, writing, poetry, whatevz,
   etc, etc, ......... bla bla bla.
-ps:
-live_url:
+ps: ''
+live_url: ''
 related: "[14] [2004-001-space-invader] 2004-001 Space Invader"
-youtube:
+youtube: ''
 related_code: https://github.com/coryarcangel/Space-Invader
 imgs: source-space-2013-136-detail-01-database-ih.jpg
-subheading:
+subheading: ''
 download: the-source-space-invader-2013-168-digital-master-ih.pdf
-add_credit:
+add_credit: ''
 commission: Creative Capital
 layout: things-i-made
 ---

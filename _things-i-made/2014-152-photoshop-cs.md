@@ -9,16 +9,16 @@ year: '2015'
 display_year: '2015'
 medium: Cromojet print on carpet
 dims: 1060 x2744 cm
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-carpet-2014-152-install-2-database-gamec-RM.jpg,photoshop-cs-carpet-2014-152-install-database-gamec-RM.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

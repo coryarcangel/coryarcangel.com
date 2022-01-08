@@ -26,11 +26,11 @@ layout: shows
     <br>
     <b>Year: </b>{{ page.year }}
     <br>
-	{% if page.pitch %}
+	{% if page.pitch != ""  %}
 	<b>ps: </b>{{ page.pitch }}
 	<br>
 	{% endif %}	
-	{% if page.ps %}
+	{% if page.ps != ""  %}
 	ps - {{ page.ps }}
 	<br>
 	{% endif %}		

@@ -23,13 +23,13 @@ pitch: 'A custom built & programmed high performance machine learning computer w
   fans in order to become A-List celebrities. '
 ps: 'All details at micosite! '
 live_url: https://rodeo.computer/
-related:
-youtube:
-related_code:
-imgs:
-subheading:
-download:
-add_credit:
-commission:
+related: ''
+youtube: ''
+related_code: ''
+imgs: ''
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

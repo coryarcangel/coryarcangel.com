@@ -7,17 +7,17 @@ title: Fuck Negativity White Hoodie (SRF-035)
 year: '2016'
 display_year: '2016'
 medium: Hoodie
-dims:
-pitch:
-ps:
-live_url:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
 related: "[4277] [2014-088-going-negative-lakes] 2014-088 Going Negative / Lakes"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-front-full-database.jpg,Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-back-full-database.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

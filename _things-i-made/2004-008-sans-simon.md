@@ -7,17 +7,17 @@ title: Sans Simon
 year: '2004'
 display_year: '2004'
 medium: Video
-dims:
+dims: ''
 pitch: 'Simon and Garfunkel minus Simon. '
-ps:
-live_url:
+ps: ''
+live_url: ''
 related: "[40] 2004-014 Sans Simon - 2004-014-sans-simon"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: sans-simon-2004-008-database-still-2_1.jpg
 subheading: "(Video)"
-download:
-add_credit:
-commission:
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

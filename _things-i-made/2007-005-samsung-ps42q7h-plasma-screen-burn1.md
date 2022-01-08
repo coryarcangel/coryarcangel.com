@@ -9,15 +9,15 @@ display_year: '2007'
 medium: Samsung PS42Q7H and DVD player
 dims: 27.95 x 41.34 x 3.54 inches
 pitch: "​Label text burned into a plasma monitor over time. "
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: samsung-PS42Q7H-plasma-burn-2007-005-full-database_1.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

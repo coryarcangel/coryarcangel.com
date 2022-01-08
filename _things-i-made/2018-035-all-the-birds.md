@@ -7,17 +7,17 @@ title: All the birds
 year: '2018'
 display_year: '2018'
 medium: Pipe organ composition
-dims:
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: nbc-2018-035-db-ih--3H2d.jpg
-subheading:
+subheading: ''
 download: Alle-Fugler.pdf
-add_credit:
-commission:
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

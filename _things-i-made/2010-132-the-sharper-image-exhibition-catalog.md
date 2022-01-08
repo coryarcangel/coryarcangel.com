@@ -8,16 +8,16 @@ year: '2010'
 display_year: '2010'
 medium: Publication
 dims: 6 x 9 x 0.35 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: 2010-132-sharper-image-catalog-full-1-database-ih.jpg
 subheading: "(Exhibition Catalog)"
-download:
-add_credit:
-commission:
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

@@ -7,17 +7,17 @@ title: oldcv.pdf
 year: '2012'
 display_year: '2012'
 medium: Web search
-dims:
+dims: ''
 pitch: Web results fro oldcv.pdf :/
-ps:
-live_url:
-related:
-youtube:
-related_code:
-imgs:
-subheading:
-download:
-add_credit:
-commission:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
+imgs: ''
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

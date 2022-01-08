@@ -12,15 +12,15 @@ medium: Acer laptop running Light O Rama S3 Software Suite Pro, three Light O Ra
   Ropelight Palm Trees, clip-lamps with LED bulbs, extension cords, zip-ties
 dims: Variable
 pitch: "​Christmas Light animation......."
-ps:
+ps: ''
 live_url: http://www.dailymotion.com/video/x1z2ci8_arcangel-surfware-yolo-pop-up-shop-holiday-inn_creation#from=embediframe
-related:
-youtube:
-related_code:
+related: ''
+youtube: ''
+related_code: ''
 imgs: yolo-2014-03-install-008-database-DG.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Arcangel Surfware R & D team
-commission:
+commission: ''
 layout: things-i-made
 ---

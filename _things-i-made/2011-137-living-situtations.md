@@ -16,14 +16,14 @@ ps: For this one, I have remastered - from a 78 - a recording of Beethoven’s S
   which have been editing out of modern versions of this recording. My newly remastered
   digital file - coughs included - is played on an iPod through a new lifestyle product
   called the XL Model Geneva Lab GenevaSound Stereo.
-live_url:
-related:
-youtube:
-related_code:
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: living-situations-2011-137-full-database-Team.jpg
-subheading:
+subheading: ''
 download: arcangel-living-situtations.mp3
-add_credit:
-commission:
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

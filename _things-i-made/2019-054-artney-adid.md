@@ -8,16 +8,16 @@ year: '2019'
 display_year: '2019'
 medium: IQDemy Premium UV ink on IKEA LINNMON table tops
 dims: '118 x 118 '
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: artney_-adid-2019-054-db---cTgi.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

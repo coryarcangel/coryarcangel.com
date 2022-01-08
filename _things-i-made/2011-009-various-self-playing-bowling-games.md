@@ -7,7 +7,7 @@ title: Various Self Playing Bowling Games
 year: '2011'
 display_year: '2011'
 medium: 'Modded game controllers and various video games. '
-dims:
+dims: ''
 pitch: "​Bowling games from the history of video games programmed to bowl only gutter
   balls via modded controllers."
 ps: Sooo,.....this was a miltiscreen commission by both the Whitney Museum in NY and
@@ -20,13 +20,13 @@ ps: Sooo,.....this was a miltiscreen commission by both the Whitney Museum in NY
   into the controllers were all losing games of straight gutter balls. Anyway. I have
   uploaded some video re-scans of the work above. Also possibly of note, it took me
   9 months to made this and get it all straight, and it almost killed me! LOL.
-live_url:
-related:
+live_url: ''
+related: ''
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZQMOV86lDJGUhhwPZDlHut3
-related_code:
+related_code: ''
 imgs: bowling-2011-009-curve-detail-database-EW_1.jpg,bowling-2011-009-whitney-detail-2-database-SC.jpg,BarbicanCurve-London-2011-02-install-5-database-EW.jpg,bowling-2011-009-whitney-install-2-database-AR.jpg,BarbicanCurve-London-2011-02-install-2-database-EW.jpg,BarbicanCurve-London-2011-02-install-4-database-EW.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Coding by narrat1ve.com
 commission: 'The Whitney Museum of American Art, New York and The Barbican, London. '
 layout: things-i-made

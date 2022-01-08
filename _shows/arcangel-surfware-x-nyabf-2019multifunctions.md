@@ -9,7 +9,7 @@ venue: NYABF
 state_country: New York
 pitch: "​Surfware wz back at NYABF! Tiny tiny tiny tiny version of our flagship. Hot
   tickets: multi-function scarves &amp; “flatware” airplane pillows."
-ps:
+ps: ''
 imgs: nyabf-2019-09-web-ih--Zh3r.jpg,nyabf-2019-09-web-ih--3spL.jpg,nyabf-2019-09-web-ih--KJuk.jpg
 things: "[4297] [2015-159-fuck-negativity-sweatpants-srf-027] 2015-159 Fuck Negativity
   Sweatpants (SRF-027),[4298] [2015-158-fuck-negativity-hoodie-srf-026] 2015-158 Fuck

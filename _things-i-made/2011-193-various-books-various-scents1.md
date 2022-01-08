@@ -19,14 +19,14 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
   by Brian O’Doherty and <i>Parisienne </i>by Yves Saint Laurent; <i>PUNK 365</i>
   by Holly George-Warren, foreword by Richard Hell and <i>Ready to Rock</i> by Hannah
   Montana "
-live_url:
+live_url: ''
 related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: various-books-scents-2011-193-full-database-Team.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

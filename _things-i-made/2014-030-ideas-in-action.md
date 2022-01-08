@@ -9,15 +9,15 @@ display_year: '2014'
 medium: Single channel video
 dims: Variable
 pitch: "​Surfing around Starbucks user forums…..."
-ps:
-live_url:
-related:
+ps: ''
+live_url: ''
+related: ''
 youtube: https://www.youtube.com/watch?v=UWItpHYg_3Y&t=264s
-related_code:
+related_code: ''
 imgs: mystarbucksidea-2014-030-digital-still-4-database-ih.jpg,mystarbucksidea-2014-030-digital-still-5-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

@@ -9,16 +9,16 @@ year: '2016'
 display_year: '2016'
 medium: Chromogenic print
 dims: 65 x 36.5 in
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-2016-057-full-database-JH.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

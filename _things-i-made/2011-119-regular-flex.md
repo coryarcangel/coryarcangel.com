@@ -9,15 +9,15 @@ display_year: '2011'
 medium: Cobra Golf S3 Max Iron Set and Golf Clips
 dims: 30.3 x 22 x 39.4 in
 pitch: 'A couple of golf clubs placed in a row. '
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: regular-flex-2011-119-full-database-ka_1.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

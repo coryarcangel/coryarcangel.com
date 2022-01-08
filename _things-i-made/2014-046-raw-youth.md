@@ -10,16 +10,16 @@ medium: Foam pool noodles, wristband, tailored Bravado Justin Bieber Vertical Ho
   Skullcandy headphones, Apple iPod classic and charger, Apple iPhone 5 case, Skrillex
   “Scary Monsters And Nice Sprites” MPEG-1 Audio Layer III file
 dims: 140 cm x variable width x variable depth
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: raw-youth-2014-046-install-Heart-01-database-SM.jpg,raw-youth-2014-046-full-Heart-01-database-SM.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

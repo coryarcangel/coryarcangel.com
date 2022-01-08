@@ -8,7 +8,7 @@ year: '2010'
 venue: Hamburger Bahnhof
 state_country: Berlin
 pitch: "<p>​Show that wz centered around music / composition.</p>"
-ps:
+ps: ''
 imgs: Hamburger-Bahnhof-Berlin-2010-11-install-1-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-2-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-3-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-4-database-HB.jpg,Hamburger-Bahnhof-Berlin-2010-11-install-5-database-HB.jpg
 things: "[136] 2010-037 Research in Motion (Kinetic Sculpture #3) - 2010-037-research-in-motion-kinetic-sculpture-3,[137]
   2010-039 Research in Motion (Kinetic Sculpture #2) - 2010-039-research-in-motion-kinetic-sculpture-2,[64]

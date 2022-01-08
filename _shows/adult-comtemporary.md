@@ -9,7 +9,7 @@ venue: Team Gallery
 state_country: New York
 pitch: "<p>A bunch of random stuff, .... first time I tried making on of my Photoshop
   Gradient Demonstrations super <i>HUGE</i>, which ended up working pretty good.</p>"
-ps:
+ps: ''
 imgs: team-newyork-2008-11-install-1-database.jpg,team-newyork-2008-11-install-2-database.jpg
 things: "[213] 2008-012 Monoprint 1 - 2008-012-monoprint-1,[214] 2008-013 Monoprint
   2 - 2008-013-monoprint-2,[215] 2008-014 Monoprint 3 - 2008-014-monoprint-3,[216]

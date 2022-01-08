@@ -9,15 +9,15 @@ display_year: '2014'
 medium: Shirt
 dims: Small, Medium, Large, X-Large, XX-Large
 pitch: Brand tee for Arcangel Surfware.
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: srf-002-crest-tshirt-2014-004-full-1-database-ih.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Cory Arcangel for Arcangel Surfware
-commission:
+commission: ''
 layout: things-i-made
 ---

@@ -8,16 +8,16 @@ year: '2008'
 display_year: '2008'
 medium: Sony FWD-42PV1 Monitor and DVD player
 dims: 26 x 41 x 12 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: burn-2008-057-full-database-UG.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

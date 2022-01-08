@@ -7,17 +7,17 @@ title: Fuck Negativity White Slides (SRF-037)
 year: '2016'
 display_year: '2016'
 medium: Slides
-dims:
-pitch:
-ps:
-live_url:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
 related: "[4277] [2014-088-going-negative-lakes] 2014-088 Going Negative / Lakes"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: fn-white-slides-2016-084-database-ih--OvGJ.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

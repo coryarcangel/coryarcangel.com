@@ -7,17 +7,17 @@ title: 'Research in Motion (Kinetic Sculpture #4)'
 year: '2010'
 display_year: '2010'
 medium: Modified chrome dancing stands
-dims:
+dims: ''
 pitch: "​Four Dancing Stands modded to sync."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: research-in-motion-2010-056-full-database-Ropac.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

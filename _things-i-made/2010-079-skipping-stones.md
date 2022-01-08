@@ -8,16 +8,16 @@ year: '2010'
 display_year: '2010'
 medium: FLOR carpet squares
 dims: Dimensions variable
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: skipping-stones-2010-079-full-database-ropac.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

@@ -7,17 +7,17 @@ title: DVD Power Tower 80 by Sharper Image Design
 year: '2014'
 display_year: '2014'
 medium: DVD rack, Dvd's
-dims:
+dims: ''
 pitch: "​DVD rack with crap DVD’s…."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: dvd-rack-2014-060-detail-full-01-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

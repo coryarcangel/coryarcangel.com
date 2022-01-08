@@ -10,15 +10,15 @@ display_year: '2011'
 medium: Lithograph on paper
 dims: 280mm x 215mm
 pitch: "​Page ripped from Mondrain book,... flipped. :)"
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: lozenge-2011-176-digital-database-ih.jpg
-subheading:
-download:
-add_credit:
+subheading: ''
+download: ''
+add_credit: ''
 commission: Studio Voltaire
 layout: things-i-made
 ---

@@ -7,7 +7,7 @@ title: NYARTIST
 year: '2020'
 display_year: '2020'
 medium: Cassette tape.
-dims:
+dims: ''
 pitch: Benefit limited edition cassette tape done for Issue Project Room.
 ps: NYARTIST is documentation of a project by Cory Arcangel which was exhibited and
   commissioned by Sharjah Art Foundation, for the Sharjah Biennial 14, 2019 curated
@@ -18,12 +18,12 @@ ps: NYARTIST is documentation of a project by Cory Arcangel which was exhibited 
   14.
 live_url: https://issueprojectroom.org/
 related: "[4476] [2018-134] 2018-134 NYARTIST"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: nyartist-2020-035-db-ih--UHyo.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

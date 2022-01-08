@@ -7,18 +7,18 @@ title: Arcangel Surfware / Webmaster Summer Flip-Flops
 year: '2017'
 display_year: '2017'
 medium: Flip-flop sandals
-dims:
-pitch:
-ps:
-live_url:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
 related: "[4385] [2017-029-arcangel-surfware-webmaster-summer-beach-towel] 2017-029
   Arcangel Surfware / Webmaster Summer Beach Towel"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: as-ws-flip-flops-2017-030-database-ih--WtJY.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Olia Lialina
-commission:
+commission: ''
 layout: things-i-made
 ---

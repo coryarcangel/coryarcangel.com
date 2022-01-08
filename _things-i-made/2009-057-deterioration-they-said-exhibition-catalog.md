@@ -12,14 +12,14 @@ pitch: "​Group show catalog @ the Migros.&nbsp;"
 ps: "​This isn't specifically a catalog of mine, but of a group show at the Migros
   Museum w/ Ryan Trecartin, Paperrad and Co, and Shana Moulton. Anyway, its worth
   your time if u can find it.&nbsp;"
-live_url:
-related:
-youtube:
-related_code:
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: 2012-057-deterioration-they-said-full-database-ih.jpg
 subheading: "(Exhibition Catalog)"
-download:
-add_credit:
-commission:
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

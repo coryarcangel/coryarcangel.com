@@ -9,16 +9,16 @@ year: '2008'
 display_year: '2008'
 medium: Chromogenic print
 dims: 110 x 72 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-2008-001-full-1-database-qm.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

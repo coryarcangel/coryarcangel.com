@@ -10,15 +10,15 @@ medium: iPad Case
 dims: Ipad 2/3/4
 pitch: Plastic iPad case printed with an image from the Photoshop Gradient Demonstration
   series.
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: srf-007-spectrum-ipad-case-2014-009-full-1-database-ih.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Cory Arcangel for Arcangel Surfware
-commission:
+commission: ''
 layout: things-i-made
 ---

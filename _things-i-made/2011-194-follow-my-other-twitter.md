@@ -7,17 +7,17 @@ title: Follow My Other Twitter
 year: '2011'
 display_year: '2011'
 medium: 'Search for social media network. '
-dims:
-pitch:
-ps:
+dims: ''
+pitch: ''
+ps: ''
 live_url: http://twitter.com/#!/search/%22follow%20my%20other%20twitter%22
-related:
-youtube:
-related_code:
+related: ''
+youtube: ''
+related_code: ''
 imgs: follow-my-other-twitter-2011-194-screenshot-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

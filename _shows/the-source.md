@@ -10,7 +10,7 @@ state_country: New York
 pitch: "​Arcangel Surfware pop-up. Debuted a few nu issues of The Source, and showed
   them along with a few works referenced in them. Sold over a quarter of a million
   lines of source code!"
-ps:
+ps: ''
 imgs: the-source-nyabf-2015-09-install-1-database-EK.jpg,the-source-nyabf-2015-09-install-5-database-AT.jpg,the-source-nyabf-2015-09-install-4-database-EK.jpg,the-source-nyabf-2015-09-install-8-website-EK.jpg
 things: "[9] [2002-002-i-shot-andy-warhol] 2002-002 I Shot Andy Warhol,[4111] [2013-117-the-source-desktop-wireform]
   2013-117 The Source Issue 1 Desktop Wireform (SRF-014),[4112] [2013-133-the-source-issue-3-i-shot-andy-warhol]

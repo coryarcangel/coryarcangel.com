@@ -7,18 +7,18 @@ title: Bronzer Flash!
 year: '2010'
 display_year: '2010'
 medium: CD & packaging.
-dims:
+dims: ''
 pitch: "​Last half hour of NJ trance radio station Pulse 97. Edition of 300. Some
   Signed. Sold a few, mostly given to friends."
-ps:
+ps: ''
 live_url: https://soundcloud.com/coryarcangel/bronzer-flash
-related:
-youtube:
-related_code:
+related: ''
+youtube: ''
+related_code: ''
 imgs: bronzer-flash-2010-021-disc-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

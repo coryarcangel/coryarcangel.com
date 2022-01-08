@@ -9,16 +9,16 @@ year: '2009'
 display_year: '2009'
 medium: Chromogenic print
 dims: 110 x 72 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-2009-001-full-cropped-database-AR.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

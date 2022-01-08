@@ -18,14 +18,14 @@ ps: 'Super Mario Clouds is an old Mario Brothers cartridge which I modified to e
   target="_blank">2006</a> posts (thx web recorder!). FYI: I still need 2 get around
   2 cleaning up all the different versions of this code (all so unorganised &amp;
   with so many bugs!), and making an official The Source zine. Coming soon, I promise.'
-live_url:
+live_url: ''
 related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
-youtube:
+youtube: ''
 related_code: https://github.com/coryarcangel/Super-Mario-Clouds
 imgs: mario-clouds-2002-001-cartridge-2-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

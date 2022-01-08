@@ -7,17 +7,17 @@ title: 'This is all so crazy, everybody seems so famous '
 year: '2015'
 display_year: '2015'
 medium: Exhibition Catalog
-dims:
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: gamec-catalogue-2015-056-digital-database-ih.jpg
 subheading: "(Catalog)"
-download:
-add_credit:
-commission:
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

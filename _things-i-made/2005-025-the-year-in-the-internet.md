@@ -7,17 +7,17 @@ title: The Year in the Internet (2005)
 year: '2005'
 display_year: '2005'
 medium: Website
-dims:
+dims: ''
 pitch: "​Website featuring the best links of the year from various net people."
-ps:
+ps: ''
 live_url: http://www.burncopy.com/bestoftheweb.html
 related: "[23] 2006-020 The Year in the Internet (2006) - the-year-in-the-internet1"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: The_Year_in_the_Internet_2005_025_screenshot_database_IH.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Michael Bell Smith
-commission:
+commission: ''
 layout: things-i-made
 ---

@@ -8,16 +8,16 @@ year: '2020'
 display_year: '2020'
 medium: Two post server rack, 15 rack enclosure cabinet fan panels.
 dims: Variable
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: server-cabinet-cooling---everything-you-need-to-know-2020-007-db-ih--bYZo.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

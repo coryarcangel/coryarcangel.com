@@ -7,17 +7,17 @@ title: The Boys Are Back
 year: '2006'
 display_year: '2006'
 medium: Composition for solo piano
-dims:
+dims: ''
 pitch: 'Just my favorite part of the Elton song. FYI. '
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: The_Boys_Are_Back_2006_007_database_IH.jpg
-subheading:
+subheading: ''
 download: cory_arcangel_boys_r_back.pdf
-add_credit:
-commission:
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

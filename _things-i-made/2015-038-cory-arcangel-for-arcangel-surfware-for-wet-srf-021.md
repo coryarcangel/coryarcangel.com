@@ -8,17 +8,17 @@ year: '2015'
 display_year: '2015'
 medium: Heather grey crewneck pullover sweatshirt with the WWW.KANYEWET.BIZ and Arcangel
   Surfware logos.
-dims:
+dims: ''
 pitch: Sweat 4 my friends Wet!
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: wet-sweatshirt-2015-038-full-database-studio.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

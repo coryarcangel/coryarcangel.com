@@ -8,18 +8,18 @@ year: '2017'
 display_year: '2017'
 medium: Black tape bound booklet, hand-embossed with the Arcangel Surfware Yin-Yang
   Crest.
-dims:
-pitch:
-ps:
-live_url:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
 related: "[4390] [2017-041-asymmetrical-response-reader-ibiza] 2017-041 Asymmetrical
   Response Reader: Ibiza (SRF-041)"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: ar-reader-2017-004-web-ih--ComI.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Olia Lialina
-commission:
+commission: ''
 layout: things-i-made
 ---

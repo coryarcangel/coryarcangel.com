@@ -9,7 +9,7 @@ venue: University of Michigan Museum of Art
 state_country: Ann Arbor
 pitch: "<p>​The space had so many windows, I had to step up my non projected image
   game. </p>"
-ps:
+ps: ''
 imgs: UMMA-AnnArbor-2010-01-install-1-database.jpg,UMMA-AnnArbor-2010-01-install-2-database.jpg,UMMA-AnnArbor-2010-01-install-3-database.jpg,UMMA-AnnArbor-2010-01-install-4-database.jpg,UMMA-AnnArbor-2010-01-install-5-database.jpg
 things: "[158] 2010-018 Research in Motion (Kinetic Sculpture #1) - 2010-018-research-in-motion,[134]
   2007-001 Maxell - 2007-001-maxell,[64] 2010-023 Composition #7 - 2010-023-composition-7,[159]

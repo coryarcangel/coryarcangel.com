@@ -9,7 +9,7 @@ venue: Gamec
 state_country: Bergamo
 pitch: Absolutely ​<i>BONKERS</i> show in the oldest municipal space in Bergamo. A
   def eye popper. So fun.
-ps:
+ps: ''
 imgs: gamec-bergamo-2015-04-install-3-database-MZ.jpg,gamec-bergamo-2015-04-install-4-database-MZ.jpg,gamec-bergamo-2015-04-install-1-database-RM.jpg,gamec-bergamo-2015-04-install-2-database-RM.jpg,gamec-bergamo-2015-04-install-10-database-MZ.jpg,gamec-bergamo-2015-04-install-16-database-MZ.jpg,gamec-bergamo-2015-04-install-19-database-MZ.jpg,gamec-bergamo-2015-04-install-18-database-MZ.jpg,gamec-bergamo-2015-04-install-20-press-MZ.jpg,gamec-bergamo-2015-04-install-23-press-MZ.jpg,gamec-bergamo-2015-04-install-24-press-MZ.jpg,gamec-bergamo-2015-04-install-25-press-MZ.jpg,gamec-bergamo-2015-04-install-30-database-MZ.jpg,gamec-bergamo-2015-04-install-32-database-MZ.jpg,gamec-bergamo-2015-04-install-33-database-MZ.jpg,gamec-bergamo-2015-04-install-34-database-MZ.jpg,gamec-bergamo-2015-04-install-35-database-MZ.jpg,gamec-bergamo-2015-04-install-37-database-MZ.jpg,gamec-bergamo-2015-04-install-39-database-MZ.jpg
 things: "[7] [supermarioclouds] 2002-001 Super Mario Clouds,[220] [2003-001-totally-fucked]
   2003-001 Totally Fucked,[4117] [2013-189-asshole-lakes] 2013-189 Asshole / Lakes,[4118]

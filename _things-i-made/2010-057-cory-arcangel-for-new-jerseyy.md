@@ -7,17 +7,17 @@ title: Cory Arcangel for New Jerseyy
 year: '2010'
 display_year: '2010'
 medium: Website
-dims:
+dims: ''
 pitch: "​New Jerseyy website redesigned to look like the website of Pace Gallery"
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

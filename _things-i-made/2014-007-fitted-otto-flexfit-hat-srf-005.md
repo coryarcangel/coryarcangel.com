@@ -9,15 +9,15 @@ display_year: '2014'
 medium: Otto Flexfit Hat
 dims: S/M L/XL
 pitch: White Hat with Embroidered Red Arcangel Surfware Logo.
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: srf-005-fitted-hat-2014-007-full-1-database-ih.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Cory Arcangel for Arcangel Surfware
-commission:
+commission: ''
 layout: things-i-made
 ---

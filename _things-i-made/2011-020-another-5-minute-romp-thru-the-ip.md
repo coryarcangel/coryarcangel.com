@@ -9,15 +9,15 @@ display_year: '2011'
 medium: Video
 dims: Dimensions Variable
 pitch: "​5 minute improvisation on a Sandin Image Processor."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: romp-ip-2011-020-still-1-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

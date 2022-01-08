@@ -8,7 +8,7 @@ year: '2016'
 venue: NYABF
 state_country: New York
 pitch: "​Debut of The Source Digest &amp; FN white gear."
-ps:
+ps: ''
 imgs: nyabf-2016-109-database-ek--bw9S.jpg,nyabf-2016-109-database-ek--GPeC.jpg,nyabf-2016-109-database-ek--8eCf.jpg,nyabf-2016-109-database-ek--Q6oU.jpg,nyabf-2016-109-database-ek--wUFW.jpg
 things: "[4366] [2016-077-fuck-negativity-white-sweatpants] 2016-077 Fuck Negativity
   Sweatpants,[4367] [2016-078-fuck-negativity-white-hoodie-srf-035] 2016-078 Fuck

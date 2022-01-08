@@ -7,17 +7,17 @@ title: Hello World
 year: '2009'
 display_year: '2009'
 medium: Pen on paper
-dims:
+dims: ''
 pitch: "​Between 0-100 lines drawn to random points"
-ps:
-live_url:
-related:
-youtube:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
 related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 imgs: hello-world-2009-033-digital-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

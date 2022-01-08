@@ -9,15 +9,15 @@ display_year: '2014'
 medium: Single channel video
 dims: Vaiable
 pitch: "​Surfing around dunkindonuts.com…..."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: dunkin-2014-032-digital-2-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

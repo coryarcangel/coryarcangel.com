@@ -7,17 +7,17 @@ title: 'Research in Motion (Kinetic Sculpture #6)'
 year: '2011'
 display_year: '2011'
 medium: Modified silver dancing stands
-dims:
+dims: ''
 pitch: "​10 Dancing stands modded to run at the same speed."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: research-in-motion-2011-10-install-database-SC.jpg
-subheading:
-download:
-add_credit:
+subheading: ''
+download: ''
+add_credit: ''
 commission: 'Comissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
 layout: things-i-made

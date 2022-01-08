@@ -10,15 +10,15 @@ medium: iPhone Case
 dims: iPhone 5/5s
 pitch: Plastic iPhone 5 case printed with an image from the Photoshop Gradient Demonstration
   series.
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: srf-006-iphone-case-2014-008-full-1-database-ih.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Cory Arcangel for Arcangel Surfware
-commission:
+commission: ''
 layout: things-i-made
 ---

@@ -8,16 +8,16 @@ year: '2017'
 display_year: '2017'
 medium: Inkjet on canvas (x3)
 dims: 108 x 36 in
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: 2017-037-three-stripes-press-lisson-database-03.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

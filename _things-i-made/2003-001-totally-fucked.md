@@ -7,7 +7,7 @@ title: Totally Fucked
 year: '2003'
 display_year: '2003'
 medium: Modded Super Mario Brothers cartridge
-dims:
+dims: ''
 pitch: "​Super Mario stuck on a cube."
 ps: "​This one is an infinite loop of Mario stuck on a cube. A year later I cribbed
   this scene for the beginning of Paper Rad and I’s Super Mario Movie. I have hardly
@@ -19,14 +19,14 @@ ps: "​This one is an infinite loop of Mario stuck on a cube. A year later I cr
   as I was long out of the 6502 game - I gave it 2 Todd Bailey / Andrew Reitano of
   Narrat1ve who sucked the data off of the ROM, and reconstructed the .NES emulator
   file. Thx again guys!&nbsp;"
-live_url:
+live_url: ''
 related: "[20] [2005-001-super-mario-movie] 2005-001 Super Mario Movie"
-youtube:
+youtube: ''
 related_code: https://github.com/coryarcangel/Totally-Fucked
 imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database-ih.jpg,fucked-2003-001-still-3-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

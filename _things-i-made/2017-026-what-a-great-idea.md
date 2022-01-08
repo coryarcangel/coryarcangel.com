@@ -7,17 +7,17 @@ title: What a Great Idea It Is (on the work and life of Tony Conrad)
 year: '2017'
 display_year: '2017'
 medium: Essay
-dims:
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+dims: ''
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: great-idea-2017-026-database-ih--kt4K_1.jpg
-subheading:
+subheading: ''
 download: great-idea-2017-026-pdf-ih.pdf
-add_credit:
-commission:
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

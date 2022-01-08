@@ -9,16 +9,16 @@ year: '2011'
 display_year: '2011'
 medium: Chromogenic print
 dims: 84 inches by 66 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-2011-001-full-cropped-database-AR.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

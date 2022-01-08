@@ -10,15 +10,15 @@ medium: Bedsheets
 dims: Queen
 pitch: A Photoshop Gradient Demonstration rendered on high-quality bedsheets. Lets
   do this!
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: spectrum-queen-2014-013-full-database-ih.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: Cory Arcangel for Arcangel Surfware
-commission:
+commission: ''
 layout: things-i-made
 ---

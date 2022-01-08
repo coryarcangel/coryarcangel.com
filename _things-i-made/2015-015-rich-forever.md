@@ -11,16 +11,16 @@ medium: Foam pool noodle, blue Beats Solo HD On-Ear Headphones, iPod Nano and ch
   wristband, Rick Ross “Blowing Money Fast (Dirty)” MPEG-1 Audio Layer III file, white
   USB cable and plug
 dims: 140 cm x variable width x variable depth
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: rich-forever-2015-015-full-database-team-JL.jpg,rich-forever-2015-015-detail-database-EK.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

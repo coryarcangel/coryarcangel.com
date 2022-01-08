@@ -9,7 +9,7 @@ venue: MoMA P.S.1
 state_country: New York
 pitch: The good ppl @ Rhizome gave the IRL treatment 2 my 2005 readymade vid game
   Bomb Iraq
-ps:
+ps: ''
 imgs: theatre-of-war-2019-12-db-ms--l2CF.jpg
 things: "[4038] [2005-020-bomb-iraq] 2005-020-Bomb Iraq"
 layout: shows

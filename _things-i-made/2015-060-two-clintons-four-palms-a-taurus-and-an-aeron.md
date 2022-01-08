@@ -8,16 +8,16 @@ year: '2015'
 display_year: '2015'
 medium: Pencil on paper (produced with Mutoh XP-300 Series printer)
 dims: 72 x 192 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: two-clintons-seven-palms-a-taurus-and-an-aeron-2015-060-install-database-CK.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

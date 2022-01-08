@@ -7,7 +7,7 @@ title: Old Friends
 year: '2005'
 display_year: '2005'
 medium: Modded DVD
-dims:
+dims: ''
 pitch: "​Simon and Garfunkel DVD where chapter markers have been moved to places where
   one can see tension between the two."
 ps: "​This isn't exactly a video, but actually a modified DVD. The only difference
@@ -21,14 +21,14 @@ ps: "​This isn't exactly a video, but actually a modified DVD. The only differ
   to this day this project is one of the stupider things I ever spent an insane amount
   of time and energy doing. Especially since it was virtually impossible to show in
   any traditional sense (hence comedy clubs).&nbsp; "
-live_url:
-related:
-youtube:
-related_code:
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: Old_Friends_2005_011_still_database_IH.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

@@ -13,14 +13,14 @@ ps: '​This was only the second "Self Playing Game" I ever made. Note the early
   of the Video Game TIVO TM. If you check out a later work, like Various Self Playing
   Bowling Games, you can see the final version of the TIVO. This was still in the
   middle of R + D on that device. '
-live_url:
+live_url: ''
 related: "[87] 2011-009 Various Self Playing Bowling Games - 2011-009-various-self-playing-bowling-games"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: ps1-bowling-2008-008-still-database-ih.jpg,ps1-bowling-2008-008-controller-database-ih_1.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

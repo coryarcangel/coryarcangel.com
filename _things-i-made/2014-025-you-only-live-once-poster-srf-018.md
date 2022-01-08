@@ -9,15 +9,15 @@ display_year: '2014'
 medium: Inkjet on paper
 dims: 24 X 36 inches
 pitch: "​Poster for You Only Live Once"
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: surfware-poster-2014-025-digital-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

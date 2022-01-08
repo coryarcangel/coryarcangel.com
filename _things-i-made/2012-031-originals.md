@@ -8,16 +8,16 @@ year: '2012'
 display_year: '2012'
 medium: 'Soggy corn flakes, milk, spoon, bowl. '
 dims: 6 x 6 X 3
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: originals-2012-031-install-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

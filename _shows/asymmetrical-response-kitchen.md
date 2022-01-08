@@ -9,7 +9,7 @@ venue: The Kitchen
 state_country: New York
 pitch: Second show w/ Olia Lialina. Re-done from the WF show. Big room, big carpet,
   big LED.
-ps:
+ps: ''
 imgs: the-kitchen-new-york-2016-01-install-database-21-JM.jpg,the-kitchen-new-york-2016-01-install-database-02-JM.jpg,the-kitchen-new-york-2016-01-install-database-06-JM.jpg,the-kitchen-new-york-2016-01-install-database-01-JM.jpg,the-kitchen-new-york-2016-01-install-database-07-JM.jpg,the-kitchen-new-york-2016-01-install-database-03-JM.jpg,the-kitchen-new-york-2016-01-install-database-25-JM.jpg,the-kitchen-new-york-2016-01-install-database-09-JM.jpg,the-kitchen-new-york-2016-01-install-database-24-JM.jpg,the-kitchen-new-york-2016-01-install-database-15-JM.jpg,the-kitchen-new-york-2016-01-install-database-18-JM.jpg,the-kitchen-new-york-2016-01-install-database-04-JM.jpg,the-kitchen-new-york-2016-01-install-database-14-JM.jpg,the-kitchen-new-york-2016-01-install-database-20-JM.jpg,the-kitchen-new-york-2016-01-install-database-17-JM.jpg,the-kitchen-new-york-2016-01-install-database-08-JM.jpg,the-kitchen-new-york-2016-01-install-database-23-JM.jpg,the-kitchen-new-york-2016-01-install-database-16-JM.jpg,the-kitchen-new-york-2016-01-install-database-19-JM.jpg,the-kitchen-new-york-2016-01-install-database-13-JM.jpg,the-kitchen-new-york-2016-01-install-database-10-JM.jpg,the-kitchen-new-york-2016-01-install-database-11-JM.jpg,the-kitchen-new-york-2016-01-install-database-12-JM.jpg
 things: "[2217] [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground Dance
   Music Collection of Recorded Sound,[4147] [2014-013-photoshop-gradient-demonstration-bedsheets-srf-011]

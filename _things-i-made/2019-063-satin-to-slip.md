@@ -11,16 +11,16 @@ display_year: '2019'
 medium: Dual-channel screen recording of a live bot performance on Instagram, September,
   17th, 2019.
 dims: Variable
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: satin-to-sip-2019-063-db-ih--ULmB.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

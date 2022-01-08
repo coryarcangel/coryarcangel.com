@@ -7,7 +7,7 @@ title: Gif
 year: '2006'
 display_year: '2006'
 medium: 'Pen on paper. '
-dims:
+dims: ''
 pitch: "​Gif file written by hand. "
 ps: "​Handmade Gif is a Gif file I wrote by hand in binary. This of course is pointless,
   but I chose to do this as an exercise in order to familiarize myself with the basics
@@ -24,14 +24,14 @@ ps: "​Handmade Gif is a Gif file I wrote by hand in binary. This of course is 
   sorted and no size): 00\n\nsize of LZW code chunks (=3): 02\n\nlength of LZW code
   section: 03\n\nLWZ code: 448202\n\nnext LZW code size: 00\n\nend of file: 3B\n\nIt
   is a 2 by 2 black and white checker GIF…\n\nBW WB"
-live_url:
-related:
-youtube:
-related_code:
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: Gif_2006_019_full-2-database_qqq.jpg,cory_arcangel_gif.gif
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

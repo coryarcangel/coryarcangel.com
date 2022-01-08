@@ -10,16 +10,16 @@ medium: Pencil on paper
 dims: 12 in x 12 in
 pitch: "​Plotter drawing of the dunk plot on the cover of the 24 Dances for Electric
   Piano vinyl."
-ps:
-live_url:
+ps: ''
+live_url: ''
 related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances For
   The Electric Piano (SRF-001)"
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: 24-dances-drawing-2013-221-full-1-database-ih.jpg
 subheading: "(Drawing)"
-download:
+download: ''
 add_credit: Cory Arcangel for Arcangel Surfware
-commission:
+commission: ''
 layout: things-i-made
 ---

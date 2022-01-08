@@ -7,17 +7,17 @@ title: Clintons
 year: '2012'
 display_year: '2012'
 medium: Pencil on paper
-dims:
+dims: ''
 pitch: "​Pretty much what the title says :)"
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: clinton-diptych-2012-083-full-1-database-AR.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

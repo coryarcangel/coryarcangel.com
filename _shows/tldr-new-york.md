@@ -10,7 +10,7 @@ state_country: New York
 pitch: Tried 2 b a grown up and did a show focusing on just one series of work…. w/
   appearances from the “lake” applet, Britney, Hillary, Sport Products, On Compression,
   etc, etc.
-ps:
+ps: ''
 imgs: team-ny-2014-09-install-7-database.jpg,team-ny-2014-09-install-11-database.jpg,team-ny-2014-09-install-16-database.jpg,team-ny-2014-09-install-18-database.jpg,team-ny-2014-09-install-25-database.jpg,team-ny-2014-09-install-28-database.jpg
 things: "[4110] [2013-31-diddy-lakes] 2013-31 Diddy Lakes,[4174] [2014-095-hillary-lakes]
   2014 095 Asshole 2 / Lakes,[4175] [2014-097-hillary-lakes] 2014 097 Hillary / Lakes,[4176]

@@ -9,15 +9,15 @@ display_year: '2010'
 medium: Modified red dancing stands
 dims: 70 x 18 x 18 in
 pitch: "​2 Dancing stands modded to spin a slightly different speeds"
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: research-2010-037-full-database-banhof.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

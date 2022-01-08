@@ -11,16 +11,16 @@ year: '2018'
 display_year: '2018'
 medium: Chromogenic print
 dims: 84 x 240 inches
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs--2018-029-db-ih--YRBL.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

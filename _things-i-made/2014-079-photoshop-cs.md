@@ -11,16 +11,16 @@ year: '2014'
 display_year: '2014'
 medium: Chromogenic print
 dims: '50in x 50in '
-pitch:
-ps:
-live_url:
-related:
-youtube:
-related_code:
+pitch: ''
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-2014-079-full-2-database-team-jm.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

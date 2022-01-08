@@ -7,17 +7,17 @@ title: Joyvtl Jvbuayf
 year: '2013'
 display_year: '2013'
 medium: Real audio file
-dims:
+dims: ''
 pitch: Compressed the OPN track as real audio.&nbsp;
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: opn-2013-x-digital-database-ih.jpg
-subheading:
-download:
+subheading: ''
+download: ''
 add_credit: OPN
-commission:
+commission: ''
 layout: things-i-made
 ---

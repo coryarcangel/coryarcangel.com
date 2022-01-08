@@ -7,7 +7,7 @@ title: 'Composition #7'
 year: '2010'
 display_year: '2010'
 medium: Frets on Fire software mod
-dims:
+dims: ''
 pitch: "​La Monte Young's Composition #7 as a guitar hero style game."
 ps: '​This is a mod file for the desktop game Frets on Fire, which is an open source
   version of Guitar Hero. Below you can download the mod files, to be placed in the
@@ -15,14 +15,14 @@ ps: '​This is a mod file for the desktop game Frets on Fire, which is an open 
   of Frets On Fire. For those not in the know, Composition #7 calls for two notes
   to be held for "a long time". For this game, "a long time" was defined as the classic
   length of a pop song. About 4 minutes. '
-live_url:
-related:
-youtube:
-related_code:
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: composition-7-2010-023-still-database-ih.jpg,composition-7-2010-023-install-database-HBM.jpg,composition-7-2010-023-detail-database-studio_1.jpg
-subheading:
+subheading: ''
 download: arcangel_composition_7.zip
-add_credit:
-commission:
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

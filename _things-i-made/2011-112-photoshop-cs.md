@@ -9,20 +9,20 @@ year: '2011'
 display_year: '2011'
 medium: Chromogenic print
 dims: 84 x 66 inches
-pitch:
-ps:
-live_url:
+pitch: ''
+ps: ''
+live_url: ''
 related: |-
   [107] 2011-108 Photoshop CS - 2011-108-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
   [110] 2011-109 Photoshop CS - 2011-109-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
   [112] 2011-110 Photoshop CS - 2011-110-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
   [116] 2011-113 Photoshop CS - 2011-113-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
-youtube:
-related_code:
+youtube: ''
+related_code: ''
 imgs: photoshop-cs-2011-112-full-cropped-database-KA.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

@@ -8,7 +8,7 @@ year: '2016'
 venue: Western Front
 state_country: Vancouver
 pitch: "​First in the x3 shows w/ Olia Lialina."
-ps:
+ps: ''
 imgs: western-front-vancouver-2016-09-install-03-database-MHC.jpg,western-front-vancouver-2016-09-install-22-database-MHC.jpg,western-front-vancouver-2016-09-install-33-database-MHC.jpg,western-front-vancouver-2016-09-install-08-database-MHC.jpg,western-front-vancouver-2016-09-install-04-database-MHC.jpg,western-front-vancouver-2016-09-install-34-database-MHC.jpg,western-front-vancouver-2016-09-install-09-database-MHC.jpg,western-front-vancouver-2016-09-install-30-database-MHC.jpg,western-front-vancouver-2016-09-install-13-database-MHC.jpg,western-front-vancouver-2016-09-install-02-database-MHC.jpg,western-front-vancouver-2016-09-install-07-database-MHC.jpg,western-front-vancouver-2016-09-install-01-database-MHC.jpg,western-front-vancouver-2016-09-install-14-database-MHC.jpg,western-front-vancouver-2016-09-install-31-database-MHC.jpg,western-front-vancouver-2016-09-install-12-database-MHC.jpg,western-front-vancouver-2016-09-install-05-database-MHC.jpg,western-front-vancouver-2016-09-install-06-database-MHC.jpg,western-front-vancouver-2016-09-install-15-database-MHC.jpg,western-front-vancouver-2016-09-install-32-database-MHC.jpg,western-front-vancouver-2016-09-install-19-database-MHC.jpg,western-front-vancouver-2016-09-install-20-database-MHC.jpg,western-front-vancouver-2016-09-install-21-database-MHC.jpg
 things: "[2217] [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground Dance
   Music Collection of Recorded Sound,[4119] [2013-193-seinfeld-dvd-lakes] 2013-193

@@ -7,17 +7,17 @@ title: 'Strictly Formal '
 year: '2010'
 display_year: '2010'
 medium: Website
-dims:
+dims: ''
 pitch: "​Interview blog"
-ps:
+ps: ''
 live_url: http://strictly-formal.org/
-related:
-youtube:
-related_code:
+related: ''
+youtube: ''
+related_code: ''
 imgs: 2010-027-Strictly-Formal-Screenshot-Database-IH.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

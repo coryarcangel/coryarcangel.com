@@ -22,47 +22,47 @@ layout: things-i-made
     <br>
     <b>Year:</b> {{ page.year }}
     <br>
-	{% if page.medium %}
+	{% if page.medium != ""  %}
 	<b>Medium:</b> {{ page.medium }}
 	<br>
 	{% endif %}	
-	{% if page.dims %}
+	{% if page.dims != ""  %}
 	<b>Dims:</b> {{ page.dims }}
 	<br>
 	{% endif %}	
-	{% if page.pitch %}
+	{% if page.pitch != ""  %}
 	<b>Elevator pitch:</b> {{ page.pitch }}
 	<br>
 	{% endif %}		
-	{% if page.ps %}
+	{% if page.ps != ""  %}
 	<b>ps:</b> {{ page.ps }}
 	<br>
 	{% endif %}		
-	{% if page.commission %}
+	{% if page.commission != ""  %}
 	<b>Commission: </b> {{ page.commission }}
 	<br>
 	{% endif %}		
-	{% if page.add_credit %}
+	{% if page.add_credit != ""  %}
 	<b>w/ </b> {{ page.add_credit }}
 	<br>
 	{% endif %}			
-	{% if page.live_url %}
+	{% if page.live_url != ""  %}
 	<b>Url: </b><a href="{{ page.live_url }}">{{ page.live_url }}↪</a>
 	<br>
 	{% endif %}	
-	{% if page.download %}
+	{% if page.download != ""  %}
 	<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
 	<br>
 	{% endif %}	
-	{% if page.youtube %}
+	{% if page.youtube != ""  %}
 	<b>Vid: </b><a href="{{ page.youtube }}">{{ page.youtube }}↪</a>
 	<br>
 	{% endif %}	
-	{% if page.related_code %}
+	{% if page.related_code != "" %}
 	<b>Code: </b><a href="{{ page.related_code }}">{{ page.related_code }}↪</a>
 	<br>
 	{% endif %}	
-	{% if page.imgs %}
+	{% if page.imgs != "" %}
 	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
   	<img src="../assets/imgs/{{ image }}">

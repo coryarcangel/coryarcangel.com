@@ -9,8 +9,8 @@ venue: Carnegie Museum of Art
 state_country: Pittsburgh
 pitch: "<p>&nbsp;... had a super chill time putting this one together, ... a bit of
   everything really. A good vibe all around! </p>"
-ps: <p>​Finally got to put my sculpture "Volume Management" (a bunch of flat screens
-  previously shown just in their boxes) to good use. LOL. :)</p>
+ps: ​Finally got to put my sculpture "Volume Management" (a bunch of flat screens
+  previously shown just in their boxes) to good use. LOL. :)
 imgs: carnegie-pittsburgh-2012-09-install-12-database-TL.jpg,carnegie-pittsburgh-2012-09-install-13-database-TL.jpg,carnegie-pittsburgh-2012-09-install-3-database-TL.jpg,carnegie-pittsburgh-2012-09-install-4-database-TL.jpg,carnegie-pittsburgh-2012-09-install-8-database-TL.jpg,carnegie-pittsburgh-2012-09-install-1-database-TL.jpg,carnegie-pittsburgh-2012-09-install-5-database-TL.jpg,carnegie-pittsburgh-2012-09-install-9-database-TL_1.jpg
 things: "[7] 2002-001 Super Mario Clouds - supermarioclouds,[11] 2003-002 Data Diaries
   - 2003-002-data-diaries,[18] 2004-010 T.A.C. - Total Asshole Compression - 2004-010-total-asshole-compression,[13]

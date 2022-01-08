@@ -8,7 +8,7 @@ year: '2010'
 venue: MoCA
 state_country: North Miami
 pitch: "<p>​Survey show, ... my best title by far. </p>"
-ps:
+ps: ''
 imgs: MoCANoMi-Miami-2010-03-install-1-database-SB.jpg,MoCANoMi-Miami-2010-03-install-2-database-SB.jpg,MoCANoMi-Miami-2010-03-install-3-database-SB.jpg,MoCANoMi-Miami-2010-03-install-4-database-SB.jpg,MoCANoMi-Miami-2010-03-install-5-database-SB.jpg
 things: "[48] 2008-002 Video Painting - 2008-002-video-painting,[220] 2003-001 Totally
   Fucked - 2003-001-totally-fucked,[222] 2009-004 Photoshop CS - 2009-004,[52] 2009-003

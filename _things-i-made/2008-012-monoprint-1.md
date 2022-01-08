@@ -9,15 +9,15 @@ display_year: '2008'
 medium: Unique three-color process silkscreen on custom watermarked paper
 dims: 42 x 32 inches
 pitch: "​Poorly done C-M-Y silkscreens."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: Monotprint-1-2008-012-full-press-IH.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---

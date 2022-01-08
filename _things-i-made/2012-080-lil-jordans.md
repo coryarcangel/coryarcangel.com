@@ -9,15 +9,15 @@ display_year: '2012'
 medium: 'Baby Air Jordans, shoe rack. '
 dims: 'Variable. '
 pitch: "​..."
-ps:
-live_url:
-related:
-youtube:
-related_code:
+ps: ''
+live_url: ''
+related: ''
+youtube: ''
+related_code: ''
 imgs: air-jordans-2012-080-detail-database-ih.jpg,air-jordans-2012-080-full-database-ih.jpg
-subheading:
-download:
-add_credit:
-commission:
+subheading: ''
+download: ''
+add_credit: ''
+commission: ''
 layout: things-i-made
 ---
