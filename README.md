@@ -1,6 +1,6 @@
-# coryarcangel.com-2021
+# coryarcangel.com
 
-Website for coryarcangel.com
+Website for coryarcangel.com Programmed in a hurry after a malware attack in 2021. As always, forever under construction. 
 
 Usage: 
 bundle exec jekyll pagemaster --force shows things-i-made
