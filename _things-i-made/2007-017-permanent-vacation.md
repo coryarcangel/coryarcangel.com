@@ -1,7 +1,8 @@
 ---
-ee_id: '169'
+ee_id_thing: '169'
 site: '1'
 type: '2'
+inv_num: 2007-017
 url: 2007-017-permanent-vacation
 title: Permanent Vacation
 year: '2007'

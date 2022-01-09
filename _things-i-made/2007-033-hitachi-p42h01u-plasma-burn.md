@@ -1,7 +1,8 @@
 ---
-ee_id: '173'
+ee_id_thing: '173'
 site: '1'
 type: '2'
+inv_num: 2007-033
 url: 2007-033-hitachi-p42h01u-plasma-burn
 title: HITACHI P42H01U Plasma Burn, 2007
 year: '2007'

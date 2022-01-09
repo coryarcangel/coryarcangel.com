@@ -1,7 +1,8 @@
 ---
-ee_id: '176'
+ee_id_thing: '176'
 site: '1'
 type: '2'
+inv_num: 2007-015
 url: 2007-015-photoshop-gradient-and-smudge-tool-demonstration
 title: 'Photoshop Gradient and Smudge Tool Demonstration '
 year: '2007'

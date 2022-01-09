@@ -1,7 +1,8 @@
 ---
-ee_id: '4380'
+ee_id_thing: '4380'
 site: '1'
 type: '2'
+inv_num: 2017-004
 url: 2017-004-asymmetrical-response-reader-srf-039
 title: 'Asymmetrical Response Reader: The Kitchen (SRF-039)'
 year: '2017'

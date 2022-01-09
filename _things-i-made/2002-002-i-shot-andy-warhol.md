@@ -1,7 +1,8 @@
 ---
-ee_id: '9'
+ee_id_thing: '9'
 site: '1'
 type: '2'
+inv_num: 2002-002
 url: 2002-002-i-shot-andy-warhol
 title: I Shot Andy Warhol
 year: '2002'

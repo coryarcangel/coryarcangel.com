@@ -1,7 +1,8 @@
 ---
-ee_id: '4278'
+ee_id_thing: '4278'
 site: '1'
 type: '2'
+inv_num: 2015-064
 url: 2015-064-vomit-lakes
 title: Vomit / Lakes
 year: '2015'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4038'
+ee_id_thing: '4038'
 site: '1'
 type: '2'
+inv_num: 2005-020
 url: 2005-020-bomb-iraq
 title: Bomb Iraq
 year: '2005'

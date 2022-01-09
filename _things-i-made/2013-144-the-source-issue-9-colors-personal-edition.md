@@ -1,7 +1,8 @@
 ---
-ee_id: '4410'
+ee_id_thing: '4410'
 site: '1'
 type: '2'
+inv_num: 2013-144
 url: 2013-144-the-source-issue-9-colors-personal-edition
 title: 'The Source Issue #9: Colors Personal Edition (SRF-052)'
 year: '2018'

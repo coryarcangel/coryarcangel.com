@@ -1,7 +1,8 @@
 ---
-ee_id: '187'
+ee_id_thing: '187'
 site: '1'
 type: '2'
+inv_num: 2004-003
 url: 2004-003-super-slow-tetris
 title: Super Slow Tetris
 year: '2004'
@@ -27,6 +28,6 @@ imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-200
 subheading: ''
 download: ''
 add_credit: ''
-commission: 'dd'
+commission: ''
 layout: things-i-made
 ---

@@ -1,7 +1,8 @@
 ---
-ee_id: '38'
+ee_id_thing: '38'
 site: '1'
 type: '2'
+inv_num: 2007-020
 url: 2007-020-i-dont-want-to-spoil-the-party
 title: I don't want to spoil the party
 year: '2007'

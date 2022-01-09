@@ -1,7 +1,8 @@
 ---
-ee_id: '4141'
+ee_id_thing: '4141'
 site: '1'
 type: '2'
+inv_num: 2014-004
 url: 2014-004-spectrum-yin-yang-crest-t-shirt-srf-002
 title: Spectrum Yin-Yang Crest- T-Shirt (SRF-002)
 year: '2014'

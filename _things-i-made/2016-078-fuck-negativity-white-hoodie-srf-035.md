@@ -1,7 +1,8 @@
 ---
-ee_id: '4367'
+ee_id_thing: '4367'
 site: '1'
 type: '2'
+inv_num: 2016-078
 url: 2016-078-fuck-negativity-white-hoodie-srf-035
 title: Fuck Negativity White Hoodie (SRF-035)
 year: '2016'

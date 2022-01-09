@@ -1,7 +1,8 @@
 ---
-ee_id: '2225'
+ee_id_thing: '2225'
 site: '1'
 type: '2'
+inv_num: 2012-069
 url: 2012-069-super-chilled
 title: Super Chilled
 year: '2012'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4132'
+ee_id_thing: '4132'
 site: '1'
 type: '2'
+inv_num: 2014-030
 url: 2014-030-ideas-in-action
 title: Ideas In Action (starbucks.com)
 year: '2014'

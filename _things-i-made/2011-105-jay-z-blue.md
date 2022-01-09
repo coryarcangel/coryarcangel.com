@@ -1,7 +1,8 @@
 ---
-ee_id: '125'
+ee_id_thing: '125'
 site: '1'
 type: '2'
+inv_num: 2011-105
 url: 2011-105-jay-z-blue
 title: Jay-Z Blue
 year: '2011'

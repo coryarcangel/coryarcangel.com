@@ -1,7 +1,8 @@
 ---
-ee_id: '41'
+ee_id_thing: '41'
 site: '1'
 type: '2'
+inv_num: 2007-006
 url: 2007-006-a-couple-thousand-short-films-about-glenn-gould
 title: A Couple Thousand Short Films About Glenn Gould
 year: '2007'

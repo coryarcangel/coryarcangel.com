@@ -1,7 +1,8 @@
 ---
-ee_id: '4487'
+ee_id_thing: '4487'
 site: '1'
 type: '2'
+inv_num: 2019-054
 url: 2019-054-artney-adid
 title: artney, adid
 year: '2019'

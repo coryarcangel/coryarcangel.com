@@ -1,7 +1,8 @@
 ---
-ee_id: '4409'
+ee_id_thing: '4409'
 site: '1'
 type: '2'
+inv_num: 2013-141
 url: 2013-141-the-source-issue-10-what-a-misunderstanding
 title: 'The Source  Issue #10: What a misunderstanding! (SRF-051)'
 year: '2018'

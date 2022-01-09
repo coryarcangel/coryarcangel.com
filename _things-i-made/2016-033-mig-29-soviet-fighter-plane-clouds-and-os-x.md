@@ -1,7 +1,8 @@
 ---
-ee_id: '4346'
+ee_id_thing: '4346'
 site: '1'
 type: '2'
+inv_num: 2016-033
 url: 2016-033-mig-29-soviet-fighter-plane-clouds-and-os-x
 title: Mig 29 Soviet Fighter Plane, Clouds, and OS X
 year: '2016'

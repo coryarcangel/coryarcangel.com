@@ -1,7 +1,8 @@
 ---
-ee_id: '4254'
+ee_id_thing: '4254'
 site: '1'
 type: '2'
+inv_num: 2015-004
 url: 2015-004-first-class
 title: First Class
 year: '2015'

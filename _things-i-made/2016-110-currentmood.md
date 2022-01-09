@@ -1,7 +1,8 @@
 ---
-ee_id: '4351'
+ee_id_thing: '4351'
 site: '1'
 type: '2'
+inv_num: 2016-110
 url: 2016-110-currentmood
 title: currentmood
 year: '2016'

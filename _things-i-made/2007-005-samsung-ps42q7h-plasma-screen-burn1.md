@@ -1,7 +1,8 @@
 ---
-ee_id: '183'
+ee_id_thing: '183'
 site: '1'
 type: '2'
+inv_num: 2007-005
 url: 2007-005-samsung-ps42q7h-plasma-screen-burn1
 title: Samsung PS42Q7H Plasma Screen Burn
 year: '2007'

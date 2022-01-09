@@ -1,7 +1,8 @@
 ---
-ee_id: '4369'
+ee_id_thing: '4369'
 site: '1'
 type: '2'
+inv_num: 2016-084
 url: 2016-084-arcangel-surfware-white-slides-srf-037
 title: Fuck Negativity White Slides (SRF-037)
 year: '2016'

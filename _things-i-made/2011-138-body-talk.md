@@ -1,7 +1,8 @@
 ---
-ee_id: '2212'
+ee_id_thing: '2212'
 site: '1'
 type: '2'
+inv_num: 2011-138
 url: 2011-138-body-talk
 title: Body Talk
 year: '2011'

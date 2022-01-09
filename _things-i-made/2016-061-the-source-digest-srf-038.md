@@ -1,7 +1,8 @@
 ---
-ee_id: '4378'
+ee_id_thing: '4378'
 site: '1'
 type: '2'
+inv_num: 2016-061
 url: 2016-061-the-source-digest-srf-038
 title: The Source Digest (SRF-038)
 year: '2016'

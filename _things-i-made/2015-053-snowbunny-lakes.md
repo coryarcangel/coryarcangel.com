@@ -1,7 +1,8 @@
 ---
-ee_id: '4265'
+ee_id_thing: '4265'
 site: '1'
 type: '2'
+inv_num: 2015-053
 url: 2015-053-snowbunny-lakes
 title: Snowbunny / Lakes
 year: '2015'

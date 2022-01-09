@@ -1,7 +1,8 @@
 ---
-ee_id: '4177'
+ee_id_thing: '4177'
 site: '1'
 type: '2'
+inv_num: 2014-087
 url: 2014-087-unnamed-lakes
 title: Unnamed / Lakes
 year: '2014'

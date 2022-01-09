@@ -1,7 +1,8 @@
 ---
-ee_id: '2189'
+ee_id_thing: '2189'
 site: '1'
 type: '2'
+inv_num: 2008-069
 url: 2008-069-reproduction
 title: Reproduction
 year: '2012'

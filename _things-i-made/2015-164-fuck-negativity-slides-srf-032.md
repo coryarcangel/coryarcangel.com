@@ -1,7 +1,8 @@
 ---
-ee_id: '4305'
+ee_id_thing: '4305'
 site: '1'
 type: '2'
+inv_num: 2015-164
 url: 2015-164-fuck-negativity-slides-srf-032
 title: Fuck Negativity Slides (SRF-032)
 year: '2015'

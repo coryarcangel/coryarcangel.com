@@ -1,7 +1,8 @@
 ---
-ee_id: '4230'
+ee_id_thing: '4230'
 site: '1'
 type: '2'
+inv_num: 2014-035
 url: 2014-035-calcium-source
 title: Calcium Source
 year: '2014'

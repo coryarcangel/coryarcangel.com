@@ -1,7 +1,8 @@
 ---
-ee_id: '14'
+ee_id_thing: '14'
 site: '1'
 type: '2'
+inv_num: 2004-001
 url: 2004-001-space-invader
 title: Space Invader
 year: '2004'

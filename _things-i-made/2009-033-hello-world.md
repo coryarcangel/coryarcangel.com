@@ -1,7 +1,8 @@
 ---
-ee_id: '56'
+ee_id_thing: '56'
 site: '1'
 type: '2'
+inv_num: 2009-033
 url: 2009-033-hello-world
 title: Hello World
 year: '2009'

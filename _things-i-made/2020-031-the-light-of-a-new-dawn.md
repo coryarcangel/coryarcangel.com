@@ -1,7 +1,8 @@
 ---
-ee_id: '4497'
+ee_id_thing: '4497'
 site: '1'
 type: '2'
+inv_num: 2020-031
 url: 2020-031-the-light-of-a-new-dawn
 title: The Light of a New Dawn
 year: '2020'

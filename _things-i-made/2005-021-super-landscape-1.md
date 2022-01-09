@@ -1,7 +1,8 @@
 ---
-ee_id: '185'
+ee_id_thing: '185'
 site: '1'
 type: '2'
+inv_num: 2005-021
 url: 2005-021-super-landscape-1
 title: 'Super Landscape #1'
 year: '2005'

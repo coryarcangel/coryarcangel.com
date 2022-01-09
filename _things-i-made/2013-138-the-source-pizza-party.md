@@ -1,7 +1,8 @@
 ---
-ee_id: '4114'
+ee_id_thing: '4114'
 site: '1'
 type: '2'
+inv_num: 2013-138
 url: 2013-138-the-source-pizza-party
 title: 'The Source Issue #2: Pizza Party (SRF-015)'
 year: '2013'

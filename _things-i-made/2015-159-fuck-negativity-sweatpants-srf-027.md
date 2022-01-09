@@ -1,7 +1,8 @@
 ---
-ee_id: '4297'
+ee_id_thing: '4297'
 site: '1'
 type: '2'
+inv_num: 2015-159
 url: 2015-159-fuck-negativity-sweatpants-srf-027
 title: Fuck Negativity Sweatpants (SRF-027)
 year: '2015'

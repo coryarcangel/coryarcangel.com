@@ -1,7 +1,8 @@
 ---
-ee_id: '4211'
+ee_id_thing: '4211'
 site: '1'
 type: '2'
+inv_num: 2013-136
 url: 2013-136-the-source-issue-5-space-invader
 title: 'The Source Issue #5: Space Invader (SRF-20)'
 year: '2015'

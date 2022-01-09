@@ -1,7 +1,8 @@
 ---
-ee_id: '4151'
+ee_id_thing: '4151'
 site: '1'
 type: '2'
+inv_num: 2012-117
 url: 2012-117-express-yourself-clearly
 title: Express Yourself Clearly
 year: '2012'

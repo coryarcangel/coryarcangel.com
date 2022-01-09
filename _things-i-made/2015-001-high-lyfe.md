@@ -1,7 +1,8 @@
 ---
-ee_id: '4251'
+ee_id_thing: '4251'
 site: '1'
 type: '2'
+inv_num: 2015-001
 url: 2015-001-high-lyfe
 title: High Lyfe
 year: '2015'

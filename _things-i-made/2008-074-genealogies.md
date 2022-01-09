@@ -1,7 +1,8 @@
 ---
-ee_id: '63'
+ee_id_thing: '63'
 site: '1'
 type: '2'
+inv_num: 2008-074
 url: 2008-074-genealogies
 title: Genealogies
 year: '2008'

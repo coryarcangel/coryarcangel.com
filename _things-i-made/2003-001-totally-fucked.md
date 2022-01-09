@@ -1,7 +1,8 @@
 ---
-ee_id: '220'
+ee_id_thing: '220'
 site: '1'
 type: '2'
+inv_num: 2003-001
 url: 2003-001-totally-fucked
 title: Totally Fucked
 year: '2003'
@@ -27,6 +28,6 @@ imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database
 subheading: ''
 download: ''
 add_credit: ''
-commission: 'cc'
+commission: ''
 layout: things-i-made
 ---

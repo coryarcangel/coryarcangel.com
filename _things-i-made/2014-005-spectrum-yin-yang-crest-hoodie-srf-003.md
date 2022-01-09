@@ -1,7 +1,8 @@
 ---
-ee_id: '4142'
+ee_id_thing: '4142'
 site: '1'
 type: '2'
+inv_num: 2014-005
 url: 2014-005-spectrum-yin-yang-crest-hoodie-srf-003
 title: Spectrum Yin-Yang Crest Hoodie (SRF-003)
 year: '2014'

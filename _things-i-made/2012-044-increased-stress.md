@@ -1,7 +1,8 @@
 ---
-ee_id: '2224'
+ee_id_thing: '2224'
 site: '1'
 type: '2'
+inv_num: 2012-044
 url: 2012-044-increased-stress
 title: Increased Stress
 year: '2012'

@@ -1,7 +1,8 @@
 ---
-ee_id: '27'
+ee_id_thing: '27'
 site: '1'
 type: '2'
+inv_num: 2005-007
 url: 2005-007-slim-thug-status-bot
 title: Slim Thug Status Bot
 year: '2005'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4180'
+ee_id_thing: '4180'
 site: '1'
 type: '2'
+inv_num: 2014-128
 url: 2014-128-behavioral-targeting
 title: Behavioral Targeting
 year: '2014'

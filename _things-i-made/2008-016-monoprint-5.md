@@ -1,7 +1,8 @@
 ---
-ee_id: '217'
+ee_id_thing: '217'
 site: '1'
 type: '2'
+inv_num: 2008-016
 url: 2008-016-monoprint-5
 title: 'Monoprint 5 '
 year: '2008'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4215'
+ee_id_thing: '4215'
 site: '1'
 type: '2'
+inv_num: 2013-134
 url: 2013-134-the-source-issue-8-six-sixty-six
 title: 'The Source Issue #8: Six Sixty-six (SRF-24)'
 year: '2015'

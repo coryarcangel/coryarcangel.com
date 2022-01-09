@@ -1,7 +1,8 @@
 ---
-ee_id: '4240'
+ee_id_thing: '4240'
 site: '1'
 type: '2'
+inv_num: 2013-197
 url: 2013-197-since-u-been-gone-music-for-stereos
 title: Since U Been Gone / Music For Stereos
 year: '2013'

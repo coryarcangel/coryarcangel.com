@@ -1,7 +1,8 @@
 ---
-ee_id: '4147'
+ee_id_thing: '4147'
 site: '1'
 type: '2'
+inv_num: 2014-013
 url: 2014-013-photoshop-gradient-demonstration-bedsheets-srf-011
 title: Photoshop Gradient Demonstration Bedsheets (SRF-011)
 year: '2014'

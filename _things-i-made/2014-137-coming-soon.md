@@ -1,7 +1,8 @@
 ---
-ee_id: '4417'
+ee_id_thing: '4417'
 site: '1'
 type: '2'
+inv_num: 2014-137
 url: 2014-137-coming-soon
 title: 'coming soon: blogs, paypal, the internet (on the work of Paper Rad)'
 year: '2014'

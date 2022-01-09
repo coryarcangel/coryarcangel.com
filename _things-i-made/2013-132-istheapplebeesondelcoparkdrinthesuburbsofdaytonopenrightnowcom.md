@@ -1,7 +1,8 @@
 ---
-ee_id: '4395'
+ee_id_thing: '4395'
 site: '1'
 type: '2'
+inv_num: 2013-132
 url: 2013-132-istheapplebeesondelcoparkdrinthesuburbsofdaytonopenrightnow.com
 title: istheapplebees ...
 year: 2013-2018

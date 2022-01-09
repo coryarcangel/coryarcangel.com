@@ -1,7 +1,8 @@
 ---
-ee_id: '55'
+ee_id_thing: '55'
 site: '1'
 type: '2'
+inv_num: 2009-046
 url: 2009-046-what-a-misunderstanding-art
 title: What a Misunderstanding!
 year: '2014'

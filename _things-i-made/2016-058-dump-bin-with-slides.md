@@ -1,7 +1,8 @@
 ---
-ee_id: '4357'
+ee_id_thing: '4357'
 site: '1'
 type: '2'
+inv_num: 2016-058
 url: 2016-058-dump-bin-with-slides
 title: Dump Bin with slides
 year: '2016'

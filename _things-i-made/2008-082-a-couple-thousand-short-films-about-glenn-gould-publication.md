@@ -1,7 +1,8 @@
 ---
-ee_id: '2147'
+ee_id_thing: '2147'
 site: '1'
 type: '2'
+inv_num: 2008-082
 url: 2008-082-a-couple-thousand-short-films-about-glenn-gould-publication
 title: 'A Couple Thousand Short Films about Glenn Gould '
 year: '2008'

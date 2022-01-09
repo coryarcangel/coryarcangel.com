@@ -1,7 +1,8 @@
 ---
-ee_id: '4118'
+ee_id_thing: '4118'
 site: '1'
 type: '2'
+inv_num: 2013-190
 url: 2013-190-awkard-smiles-lakes
 title: Awkard Smiles / Lakes
 year: '2013'

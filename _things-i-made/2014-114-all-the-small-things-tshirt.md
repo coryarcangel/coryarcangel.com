@@ -1,7 +1,8 @@
 ---
-ee_id: '4249'
+ee_id_thing: '4249'
 site: '1'
 type: '2'
+inv_num: 2014-114
 url: 2014-114-all-the-small-things-tshirt
 title: All The Small Things
 year: '2014'

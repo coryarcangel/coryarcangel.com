@@ -1,7 +1,8 @@
 ---
-ee_id: '64'
+ee_id_thing: '64'
 site: '1'
 type: '2'
+inv_num: 2010-023
 url: 2010-023-composition-7
 title: 'Composition #7'
 year: '2010'

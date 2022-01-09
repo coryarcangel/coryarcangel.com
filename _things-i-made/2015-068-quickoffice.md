@@ -1,7 +1,8 @@
 ---
-ee_id: '4281'
+ee_id_thing: '4281'
 site: '1'
 type: '2'
+inv_num: 2015-068
 url: 2015-068-quickoffice
 title: QuickOffice
 year: '2015'

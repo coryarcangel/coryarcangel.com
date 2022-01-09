@@ -1,5 +1,5 @@
 ---
-ee_id: '238'
+ee_id_show: '238'
 site: '1'
 type: '5'
 title: Beat the Champ

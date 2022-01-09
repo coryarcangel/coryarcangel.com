@@ -1,7 +1,8 @@
 ---
-ee_id: '4368'
+ee_id_thing: '4368'
 site: '1'
 type: '2'
+inv_num: 2016-079
 url: 2016-079-fuck-negativity-white-t-shirt-srf-034
 title: Fuck Negativity White T-Shirt (SRF-034)
 year: '2016'

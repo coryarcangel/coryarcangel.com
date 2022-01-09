@@ -1,7 +1,8 @@
 ---
-ee_id: '4347'
+ee_id_thing: '4347'
 site: '1'
 type: '2'
+inv_num: 2016-035
 url: 2016-035-dawgs-lakes
 title: Dawgs / Lakes
 year: '2016'

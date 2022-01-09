@@ -1,7 +1,8 @@
 ---
-ee_id: '4353'
+ee_id_thing: '4353'
 site: '1'
 type: '2'
+inv_num: 2016-056
 url: 2016-056-love-pink
 title: love pink
 year: '2016'

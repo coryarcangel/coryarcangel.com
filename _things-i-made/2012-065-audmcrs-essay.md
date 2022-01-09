@@ -1,7 +1,8 @@
 ---
-ee_id: '2228'
+ee_id_thing: '2228'
 site: '1'
 type: '2'
+inv_num: 2012-065
 url: 2012-065-audmcrs-essay
 title: Destiny 97 (notes on the AUDMCRS collection of recorded sound)
 year: '2012'

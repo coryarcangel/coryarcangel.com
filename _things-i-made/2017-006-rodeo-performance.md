@@ -1,7 +1,8 @@
 ---
-ee_id: na
+ee_id_thing: na
 site: na
 type: na
+inv_num: 2017-006
 url: 2017-006-rodeo-performance
 title: "/roʊˈdeɪoʊ/ Let's Play: HOLLYWOOD"
 year: '2021'

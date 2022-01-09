@@ -1,7 +1,8 @@
 ---
-ee_id: '48'
+ee_id_thing: '48'
 site: '1'
 type: '2'
+inv_num: 2008-002
 url: 2008-002-video-painting
 title: Video Painting
 year: '2008'

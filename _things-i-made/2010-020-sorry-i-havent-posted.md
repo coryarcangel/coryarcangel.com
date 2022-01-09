@@ -1,7 +1,8 @@
 ---
-ee_id: '98'
+ee_id_thing: '98'
 site: '1'
 type: '2'
+inv_num: 2010-020
 url: 2010-020-sorry-i-havent-posted
 title: Sorry I Haven't Posted
 year: '2010'

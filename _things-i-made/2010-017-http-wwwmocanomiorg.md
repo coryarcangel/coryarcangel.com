@@ -1,7 +1,8 @@
 ---
-ee_id: '94'
+ee_id_thing: '94'
 site: '1'
 type: '2'
+inv_num: 2010-017
 url: 2010-017-http-wwwmocanomiorg
 title: http://www.mocanomi.org/
 year: '2010'

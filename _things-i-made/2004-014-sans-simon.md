@@ -1,7 +1,8 @@
 ---
-ee_id: '40'
+ee_id_thing: '40'
 site: '1'
 type: '2'
+inv_num: 2004-014
 url: 2004-014-sans-simon
 title: Sans Simon
 year: '2004'

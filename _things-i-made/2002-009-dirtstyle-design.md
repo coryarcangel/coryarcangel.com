@@ -1,7 +1,8 @@
 ---
-ee_id: '10'
+ee_id_thing: '10'
 site: '1'
 type: '2'
+inv_num: 2002-009
 url: 2002-009-dirtstyle-design
 title: Dirtstyle Design
 year: '2002'

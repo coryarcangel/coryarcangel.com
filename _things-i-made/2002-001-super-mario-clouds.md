@@ -1,7 +1,8 @@
 ---
-ee_id: '7'
+ee_id_thing: '7'
 site: '1'
 type: '2'
+inv_num: 2002-001
 url: 2002-001-super-mario-clouds
 title: Super Mario Clouds
 year: '2002'

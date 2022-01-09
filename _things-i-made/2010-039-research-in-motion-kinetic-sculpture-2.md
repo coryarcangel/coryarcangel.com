@@ -1,7 +1,8 @@
 ---
-ee_id: '137'
+ee_id_thing: '137'
 site: '1'
 type: '2'
+inv_num: 2010-039
 url: 2010-039-research-in-motion-kinetic-sculpture-2
 title: 'Research in Motion (Kinetic Sculpture #2)'
 year: '2010'

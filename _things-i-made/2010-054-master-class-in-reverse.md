@@ -1,7 +1,8 @@
 ---
-ee_id: '66'
+ee_id_thing: '66'
 site: '1'
 type: '2'
+inv_num: 2010-054
 url: 2010-054-master-class-in-reverse
 title: Master Class in Reverse
 year: '2010'

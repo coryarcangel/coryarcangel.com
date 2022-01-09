@@ -1,7 +1,8 @@
 ---
-ee_id: '4178'
+ee_id_thing: '4178'
 site: '1'
 type: '2'
+inv_num: 2014-094
 url: 2014-094-on-compression-lakes
 title: On Compression / Lakes
 year: '2014'

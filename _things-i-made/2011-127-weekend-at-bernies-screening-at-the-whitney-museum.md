@@ -1,7 +1,8 @@
 ---
-ee_id: '132'
+ee_id_thing: '132'
 site: '1'
 type: '2'
+inv_num: 2011-127
 url: 2011-127-weekend-at-bernies-screening-at-the-whitney-museum
 title: Weekend at Bernie's Screening at the Whitney Museum
 year: '2011'

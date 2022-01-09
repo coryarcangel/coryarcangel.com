@@ -1,5 +1,5 @@
 ---
-ee_id: '4422'
+ee_id_show: '4422'
 site: '1'
 type: '5'
 title: Net Art Anthology

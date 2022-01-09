@@ -1,7 +1,8 @@
 ---
-ee_id: '164'
+ee_id_thing: '164'
 site: '1'
 type: '2'
+inv_num: 2008-008
 url: 2008-008-self-playing-sony-playstation-i-bowling
 title: Self Playing Sony Playstation I Bowling
 year: '2008'

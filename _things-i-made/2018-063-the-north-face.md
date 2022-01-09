@@ -1,7 +1,8 @@
 ---
-ee_id: '4433'
+ee_id_thing: '4433'
 site: '1'
 type: '2'
+inv_num: 2018-063
 url: 2018-063-the-north-face
 title: The North Face
 year: '2018'

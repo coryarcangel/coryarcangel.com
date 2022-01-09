@@ -1,7 +1,8 @@
 ---
-ee_id: '4239'
+ee_id_thing: '4239'
 site: '1'
 type: '2'
+inv_num: 2014-051
 url: 2014-051-you-only-live-once
 title: You Only Live Once
 year: '2014'

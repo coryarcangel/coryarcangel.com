@@ -1,7 +1,8 @@
 ---
-ee_id: '4379'
+ee_id_thing: '4379'
 site: '1'
 type: '2'
+inv_num: 2017-001
 url: 2017-001-call-of-duty
 title: Call of Duty
 year: '2017'

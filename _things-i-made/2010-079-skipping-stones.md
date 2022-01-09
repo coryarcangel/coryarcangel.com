@@ -1,7 +1,8 @@
 ---
-ee_id: '147'
+ee_id_thing: '147'
 site: '1'
 type: '2'
+inv_num: 2010-079
 url: 2010-079-skipping-stones
 title: Skipping Stones
 year: '2010'

@@ -1,7 +1,8 @@
 ---
-ee_id: '87'
+ee_id_thing: '87'
 site: '1'
 type: '2'
+inv_num: 2011-009
 url: 2011-009-various-self-playing-bowling-games
 title: Various Self Playing Bowling Games
 year: '2011'

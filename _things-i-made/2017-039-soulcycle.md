@@ -1,7 +1,8 @@
 ---
-ee_id: '4388'
+ee_id_thing: '4388'
 site: '1'
 type: '2'
+inv_num: 2017-039
 url: 2017-039-soulcycle
 title: Soulcycle
 year: '2017'

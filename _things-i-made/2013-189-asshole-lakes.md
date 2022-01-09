@@ -1,7 +1,8 @@
 ---
-ee_id: '4117'
+ee_id_thing: '4117'
 site: '1'
 type: '2'
+inv_num: 2013-189
 url: 2013-189-asshole-lakes
 title: Asshole / Lakes
 year: '2013'

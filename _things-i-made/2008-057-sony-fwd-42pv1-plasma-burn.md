@@ -1,7 +1,8 @@
 ---
-ee_id: '211'
+ee_id_thing: '211'
 site: '1'
 type: '2'
+inv_num: 2008-057
 url: 2008-057-sony-fwd-42pv1-plasma-burn
 title: Sony FWD-42PV1 Plasma Burn
 year: '2008'

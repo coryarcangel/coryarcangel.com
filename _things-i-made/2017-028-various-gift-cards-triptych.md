@@ -1,7 +1,8 @@
 ---
-ee_id: '4384'
+ee_id_thing: '4384'
 site: '1'
 type: '2'
+inv_num: 2017-028
 url: 2017-028-various-gift-cards-triptych
 title: Various Gift Cards Triptych
 year: '2017'

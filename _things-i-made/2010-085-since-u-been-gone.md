@@ -1,7 +1,8 @@
 ---
-ee_id: '152'
+ee_id_thing: '152'
 site: '1'
 type: '2'
+inv_num: 2010-085
 url: 2010-085-since-u-been-gone
 title: Since U Been Gone
 year: '2010'

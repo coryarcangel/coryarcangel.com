@@ -1,5 +1,5 @@
 ---
-ee_id: '200'
+ee_id_show: '200'
 site: '1'
 type: '5'
 title: The Sharper Image

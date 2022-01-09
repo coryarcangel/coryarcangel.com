@@ -1,7 +1,8 @@
 ---
-ee_id: '96'
+ee_id_thing: '96'
 site: '1'
 type: '2'
+inv_num: 2010-057
 url: 2010-057-cory-arcangel-for-new-jerseyy
 title: Cory Arcangel for New Jerseyy
 year: '2010'

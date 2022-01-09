@@ -1,7 +1,8 @@
 ---
-ee_id: '70'
+ee_id_thing: '70'
 site: '1'
 type: '2'
+inv_num: 2009-049
 url: 2009-049-continuous-partial-awareness-pdf
 title: Continuous Partial Awareness (PDF)
 year: '2009'

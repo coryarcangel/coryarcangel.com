@@ -1,7 +1,8 @@
 ---
-ee_id: '4130'
+ee_id_thing: '4130'
 site: '1'
 type: '2'
+inv_num: 2014-032
 url: 2014-032-so-shines-a-good-deed-in-a-weary-world
 title: So shines a good deed in a weary world (dunkindonuts.com)
 year: '2014'

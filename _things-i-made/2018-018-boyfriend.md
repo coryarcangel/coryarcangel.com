@@ -1,7 +1,8 @@
 ---
-ee_id: '4406'
+ee_id_thing: '4406'
 site: '1'
 type: '2'
+inv_num: 2018-018
 url: 2018-018-boyfriend
 title: Boyfriend
 year: '2018'

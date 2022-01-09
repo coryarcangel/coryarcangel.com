@@ -1,7 +1,8 @@
 ---
-ee_id: '20'
+ee_id_thing: '20'
 site: '1'
 type: '2'
+inv_num: 2005-001
 url: 2005-001-super-mario-movie
 title: Super Mario Movie
 year: '2005'

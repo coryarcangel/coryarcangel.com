@@ -1,7 +1,8 @@
 ---
-ee_id: '2219'
+ee_id_thing: '2219'
 site: '1'
 type: '2'
+inv_num: 2012-080
 url: 2012-080-lil-jordans
 title: 'Not Yet Titled (working title: Lil Jordan''s)'
 year: '2012'

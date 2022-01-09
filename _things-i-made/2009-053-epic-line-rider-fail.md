@@ -1,7 +1,8 @@
 ---
-ee_id: '53'
+ee_id_thing: '53'
 site: '1'
 type: '2'
+inv_num: 2009-053
 url: 2009-053-epic-line-rider-fail
 title: Epic Line Rider Fail
 year: '2009'

@@ -1,7 +1,8 @@
 ---
-ee_id: '2145'
+ee_id_thing: '2145'
 site: '1'
 type: '2'
+inv_num: 2010-132
 url: 2010-132-the-sharper-image-exhibition-catalog
 title: The Sharper Image
 year: '2010'

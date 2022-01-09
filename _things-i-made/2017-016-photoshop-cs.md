@@ -1,7 +1,8 @@
 ---
-ee_id: '4382'
+ee_id_thing: '4382'
 site: '1'
 type: '2'
+inv_num: 2017-016
 url: 2017-016-photoshop-cs
 title: 'Photoshop CS: 84 by 144 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=11000, x=43200, mouseup y=11000, x=14400; tool "Wand", select

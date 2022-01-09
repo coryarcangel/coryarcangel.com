@@ -1,7 +1,8 @@
 ---
-ee_id: '4349'
+ee_id_thing: '4349'
 site: '1'
 type: '2'
+inv_num: 2016-052
 url: 2016-052-more-to-explore
 title: More to Explore
 year: '2016'

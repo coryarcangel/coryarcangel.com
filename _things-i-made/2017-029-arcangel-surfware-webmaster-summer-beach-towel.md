@@ -1,7 +1,8 @@
 ---
-ee_id: '4385'
+ee_id_thing: '4385'
 site: '1'
 type: '2'
+inv_num: 2017-029
 url: 2017-029-arcangel-surfware-webmaster-summer-beach-towel
 title: Arcangel Surfware / Webmaster Summer Beach Towel
 year: '2017'

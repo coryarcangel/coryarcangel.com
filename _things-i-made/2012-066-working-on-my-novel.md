@@ -1,7 +1,8 @@
 ---
-ee_id: '2205'
+ee_id_thing: '2205'
 site: '1'
 type: '2'
+inv_num: 2012-066
 url: 2012-066-working-on-my-novel
 title: Working On My Novel
 year: '2014'

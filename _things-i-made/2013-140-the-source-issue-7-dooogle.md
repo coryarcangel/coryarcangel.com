@@ -1,7 +1,8 @@
 ---
-ee_id: '4214'
+ee_id_thing: '4214'
 site: '1'
 type: '2'
+inv_num: 2013-140
 url: 2013-140-the-source-issue-7-dooogle
 title: 'The Source Issue #7: Dooogle (SRF-23)'
 year: '2015'

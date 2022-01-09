@@ -1,7 +1,8 @@
 ---
-ee_id: '4237'
+ee_id_thing: '4237'
 site: '1'
 type: '2'
+inv_num: 2014-047
 url: 2014-047-scene-girls
 title: Scene Girls
 year: '2014'

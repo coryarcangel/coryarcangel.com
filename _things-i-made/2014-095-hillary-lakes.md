@@ -1,7 +1,8 @@
 ---
-ee_id: '4174'
+ee_id_thing: '4174'
 site: '1'
 type: '2'
+inv_num: 2014-095
 url: 2014-095-hillary-lakes
 title: 'Asshole #2 / Lakes'
 year: '2014'

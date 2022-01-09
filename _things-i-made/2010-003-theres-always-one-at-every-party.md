@@ -1,7 +1,8 @@
 ---
-ee_id: '72'
+ee_id_thing: '72'
 site: '1'
 type: '2'
+inv_num: 2010-003
 url: 2010-003-theres-always-one-at-every-party
 title: There's Always One At Every Party
 year: '2010'

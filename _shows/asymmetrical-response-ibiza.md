@@ -1,5 +1,5 @@
 ---
-ee_id: '4421'
+ee_id_show: '4421'
 site: '1'
 type: '5'
 title: 'Asymmetrical Response: Cory Arcangel And Olia Lialina'

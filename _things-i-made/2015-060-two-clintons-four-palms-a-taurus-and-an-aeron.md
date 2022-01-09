@@ -1,7 +1,8 @@
 ---
-ee_id: '4280'
+ee_id_thing: '4280'
 site: '1'
 type: '2'
+inv_num: 2015-060
 url: 2015-060-two-clintons-four-palms-a-taurus-and-an-aeron
 title: Two Clintons, Four Palms, a Taurus and an Aeron
 year: '2015'

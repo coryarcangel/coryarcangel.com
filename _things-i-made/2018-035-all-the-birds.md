@@ -1,7 +1,8 @@
 ---
-ee_id: '4446'
+ee_id_thing: '4446'
 site: '1'
 type: '2'
+inv_num: 2018-035
 url: 2018-035-all-the-birds
 title: All the birds
 year: '2018'

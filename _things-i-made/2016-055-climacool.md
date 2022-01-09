@@ -1,7 +1,8 @@
 ---
-ee_id: '4426'
+ee_id_thing: '4426'
 site: '1'
 type: '2'
+inv_num: 2016-055
 url: 2016-055-climacool
 title: climacool
 year: '2016'

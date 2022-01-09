@@ -1,7 +1,8 @@
 ---
-ee_id: '4150'
+ee_id_thing: '4150'
 site: '1'
 type: '2'
+inv_num: 2014-060
 url: 2014-060-dvd-power-tower-80-by-sharper-image-design
 title: DVD Power Tower 80 by Sharper Image Design
 year: '2014'

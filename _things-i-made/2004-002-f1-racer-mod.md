@@ -1,7 +1,8 @@
 ---
-ee_id: '15'
+ee_id_thing: '15'
 site: '1'
 type: '2'
+inv_num: 2004-002
 url: 2004-002-f1-racer-mod
 title: F1 Racer Mod (aka Japanese Driving Game)
 year: '2004'

@@ -1,7 +1,8 @@
 ---
-ee_id: '121'
+ee_id_thing: '121'
 site: '1'
 type: '2'
+inv_num: 2011-115
 url: 2011-115-self-playing-nintendo-64-nba-courtside-2
 title: Self Playing Nintendo 64 NBA Courtside 2
 year: '2011'

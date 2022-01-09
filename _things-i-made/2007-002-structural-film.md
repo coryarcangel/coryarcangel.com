@@ -1,7 +1,8 @@
 ---
-ee_id: '168'
+ee_id_thing: '168'
 site: '1'
 type: '2'
+inv_num: 2007-002
 url: 2007-002-structural-film
 title: Structural Film
 year: '2007'

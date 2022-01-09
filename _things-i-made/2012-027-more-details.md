@@ -1,7 +1,8 @@
 ---
-ee_id: '2204'
+ee_id_thing: '2204'
 site: '1'
 type: '2'
+inv_num: 2012-027
 url: 2012-027-more-details
 title: More Detials
 year: '2012'

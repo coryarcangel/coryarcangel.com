@@ -1,7 +1,8 @@
 ---
-ee_id: '124'
+ee_id_thing: '124'
 site: '1'
 type: '2'
+inv_num: 2011-118
 url: 2011-118-forward-attitudes
 title: Forward Attitudes
 year: '2011'

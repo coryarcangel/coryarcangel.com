@@ -1,7 +1,8 @@
 ---
-ee_id: '45'
+ee_id_thing: '45'
 site: '1'
 type: '2'
+inv_num: 2008-079
 url: 2008-079-sans-comic
 title: Sans Comic
 year: '2008'

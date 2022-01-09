@@ -1,7 +1,8 @@
 ---
-ee_id: '126'
+ee_id_thing: '126'
 site: '1'
 type: '2'
+inv_num: 2011-119
 url: 2011-119-regular-flex
 title: Regular Flex
 year: '2011'

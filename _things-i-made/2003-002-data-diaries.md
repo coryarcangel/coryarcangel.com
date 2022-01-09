@@ -1,7 +1,8 @@
 ---
-ee_id: '11'
+ee_id_thing: '11'
 site: '1'
 type: '2'
+inv_num: 2003-002
 url: 2003-002-data-diaries
 title: Data Diaries
 year: '2003'

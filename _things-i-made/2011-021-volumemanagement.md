@@ -1,7 +1,8 @@
 ---
-ee_id: '71'
+ee_id_thing: '71'
 site: '1'
 type: '2'
+inv_num: 2011-021
 url: 2011-021-volumemanagement
 title: Volume Management
 year: '2011'

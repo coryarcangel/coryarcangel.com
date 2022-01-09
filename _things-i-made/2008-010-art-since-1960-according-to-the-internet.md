@@ -1,7 +1,8 @@
 ---
-ee_id: '42'
+ee_id_thing: '42'
 site: '1'
 type: '2'
+inv_num: 2008-010
 url: 2008-010-art-since-1960-according-to-the-internet
 title: Art Since 1960 According to the Internet
 year: '2008'

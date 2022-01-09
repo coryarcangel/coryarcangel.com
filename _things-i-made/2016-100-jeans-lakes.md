@@ -1,7 +1,8 @@
 ---
-ee_id: '4372'
+ee_id_thing: '4372'
 site: '1'
 type: '2'
+inv_num: 2016-100
 url: 2016-100-jeans-lakes
 title: Jeans / Lakes
 year: '2016'

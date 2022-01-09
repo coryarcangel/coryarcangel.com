@@ -1,7 +1,8 @@
 ---
-ee_id: '4140'
+ee_id_thing: '4140'
 site: '1'
 type: '2'
+inv_num: 2013-221
 url: 2013-221-24-dances-for-electric-piano-drawing-srf-013
 title: '24 Dances For The Electric Piano Dunk (SRF-013) '
 year: '2014'

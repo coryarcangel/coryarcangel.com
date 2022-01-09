@@ -1,7 +1,8 @@
 ---
-ee_id: '99'
+ee_id_thing: '99'
 site: '1'
 type: '2'
+inv_num: 2010-027
 url: 2010-027-strictly-formal
 title: 'Strictly Formal '
 year: '2010'

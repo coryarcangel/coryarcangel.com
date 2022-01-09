@@ -1,7 +1,8 @@
 ---
-ee_id: '4111'
+ee_id_thing: '4111'
 site: '1'
 type: '2'
+inv_num: 2013-117
 url: 2013-117-the-source-desktop-wireform
 title: 'The Source Issue #1: Desktop Wireform (SRF-014)'
 year: '2013'

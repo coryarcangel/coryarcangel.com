@@ -1,7 +1,8 @@
 ---
-ee_id: '4460'
+ee_id_thing: '4460'
 site: '1'
 type: '2'
+inv_num: 2018-118
 url: 2018-118-untitled
 title: Untitled
 year: '2018'

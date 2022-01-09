@@ -1,7 +1,8 @@
 ---
-ee_id: '4383'
+ee_id_thing: '4383'
 site: '1'
 type: '2'
+inv_num: 2017-023
 url: 2017-023-three-stripes
 title: Three stripes
 year: '2017'

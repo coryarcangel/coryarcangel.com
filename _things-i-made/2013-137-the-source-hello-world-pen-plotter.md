@@ -1,7 +1,8 @@
 ---
-ee_id: '4213'
+ee_id_thing: '4213'
 site: '1'
 type: '2'
+inv_num: 2013-137
 url: 2013-137-the-source-hello-world-pen-plotter
 title: 'The Source Issue #6: HP Pen Plotter Hello World (SRF-22)'
 year: '2015'

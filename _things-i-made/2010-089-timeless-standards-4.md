@@ -1,7 +1,8 @@
 ---
-ee_id: '151'
+ee_id_thing: '151'
 site: '1'
 type: '2'
+inv_num: 2010-089
 url: 2010-089-timeless-standards-4
 title: Timeless Standards
 year: '2010'

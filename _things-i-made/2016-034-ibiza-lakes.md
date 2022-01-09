@@ -1,7 +1,8 @@
 ---
-ee_id: '4354'
+ee_id_thing: '4354'
 site: '1'
 type: '2'
+inv_num: 2016-034
 url: 2016-034-ibiza-lakes
 title: Ibiza / Lakes
 year: '2016'

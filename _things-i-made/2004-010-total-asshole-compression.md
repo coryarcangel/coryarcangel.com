@@ -1,7 +1,8 @@
 ---
-ee_id: '18'
+ee_id_thing: '18'
 site: '1'
 type: '2'
+inv_num: 2004-010
 url: 2004-010-total-asshole-compression
 title: T.A.C. - Total Asshole Compression
 year: '2004'

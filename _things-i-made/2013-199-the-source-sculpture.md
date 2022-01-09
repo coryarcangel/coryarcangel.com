@@ -1,7 +1,8 @@
 ---
-ee_id: '4241'
+ee_id_thing: '4241'
 site: '1'
 type: '2'
+inv_num: 2013-199
 url: 2013-199-the-source-sculpture
 title: The Source
 year: '2013'

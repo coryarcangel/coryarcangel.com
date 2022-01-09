@@ -1,7 +1,8 @@
 ---
-ee_id: '4482'
+ee_id_thing: '4482'
 site: '1'
 type: '2'
+inv_num: 2019-045
 url: 2019-045-they-told-me-there-would-be-tea
 title: They told me there would be tea
 year: '2019'

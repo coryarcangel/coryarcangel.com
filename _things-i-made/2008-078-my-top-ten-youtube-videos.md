@@ -1,7 +1,8 @@
 ---
-ee_id: '46'
+ee_id_thing: '46'
 site: '1'
 type: '2'
+inv_num: 2008-078
 url: 2008-078-my-top-ten-youtube-videos
 title: My Top Ten Youtube Videos
 year: '2008'

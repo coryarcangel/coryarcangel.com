@@ -1,7 +1,8 @@
 ---
-ee_id: '4262'
+ee_id_thing: '4262'
 site: '1'
 type: '2'
+inv_num: 2015-022
 url: 2015-022-trust-no-bitch
 title: Trust No Bitch
 year: '2015'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4418'
+ee_id_thing: '4418'
 site: '1'
 type: '2'
+inv_num: 2017-026
 url: 2017-026-what-a-great-idea
 title: What a Great Idea It Is (on the work and life of Tony Conrad)
 year: '2017'

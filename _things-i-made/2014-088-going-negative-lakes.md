@@ -1,7 +1,8 @@
 ---
-ee_id: '4277'
+ee_id_thing: '4277'
 site: '1'
 type: '2'
+inv_num: 2014-088
 url: 2014-088-going-negative-lakes
 title: Going Negative / Lakes
 year: '2014'

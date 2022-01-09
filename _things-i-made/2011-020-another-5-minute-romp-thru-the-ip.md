@@ -1,7 +1,8 @@
 ---
-ee_id: '123'
+ee_id_thing: '123'
 site: '1'
 type: '2'
+inv_num: 2011-020
 url: 2011-020-another-5-minute-romp-thru-the-ip
 title: Another 5-minute Romp thru the IP
 year: '2011'

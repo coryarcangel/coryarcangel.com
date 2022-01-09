@@ -1,7 +1,8 @@
 ---
-ee_id: '4411'
+ee_id_thing: '4411'
 site: '1'
 type: '2'
+inv_num: 2015-095
 url: 2015-095-music-and-the-mind-of-the-world
 title: 'Tony Conrad: Music and the Mind of the World (SRF-040)'
 year: '2017'

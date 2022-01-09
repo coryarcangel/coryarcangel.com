@@ -1,7 +1,8 @@
 ---
-ee_id: '2209'
+ee_id_thing: '2209'
 site: '1'
 type: '2'
+inv_num: 2012-150
 url: 2012-150-carnegie-brochure
 title: Carnegie Brochure
 year: '2012'

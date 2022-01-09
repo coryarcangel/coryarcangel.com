@@ -1,5 +1,5 @@
 ---
-ee_id: '4428'
+ee_id_show: '4428'
 site: '1'
 type: '5'
 title: Difference Engine

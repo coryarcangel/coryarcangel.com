@@ -1,7 +1,8 @@
 ---
-ee_id: '36'
+ee_id_thing: '36'
 site: '1'
 type: '2'
+inv_num: 2007-003
 url: 2007-003-apple-garageband-autotune
 title: Apple GarageBand Auto Tune Demonstration
 year: '2007'

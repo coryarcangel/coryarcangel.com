@@ -1,5 +1,5 @@
 ---
-ee_id: '193'
+ee_id_show: '193'
 site: '1'
 type: '5'
 title: Nerdzone Version 1

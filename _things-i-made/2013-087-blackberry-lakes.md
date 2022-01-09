@@ -1,7 +1,8 @@
 ---
-ee_id: '4116'
+ee_id_thing: '4116'
 site: '1'
 type: '2'
+inv_num: 2013-087
 url: 2013-087-blackberry-lakes
 title: Blackberry / Lakes
 year: '2013'

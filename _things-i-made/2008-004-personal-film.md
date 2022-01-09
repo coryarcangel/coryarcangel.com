@@ -1,7 +1,8 @@
 ---
-ee_id: '135'
+ee_id_thing: '135'
 site: '1'
 type: '2'
+inv_num: 2008-004
 url: 2008-004-personal-film
 title: Personal Film
 year: '2008'

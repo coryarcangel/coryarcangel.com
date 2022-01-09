@@ -1,7 +1,8 @@
 ---
-ee_id: '4298'
+ee_id_thing: '4298'
 site: '1'
 type: '2'
+inv_num: 2015-158
 url: 2015-158-fuck-negativity-hoodie-srf-026
 title: Fuck Negativity Hoodie (SRF-026)
 year: '2015'

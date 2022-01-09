@@ -1,7 +1,8 @@
 ---
-ee_id: '4115'
+ee_id_thing: '4115'
 site: '1'
 type: '2'
+inv_num: 2013-169
 url: 2013-169-freshbuzz
 title: Freshbuzz (www.subway.com)
 year: '2014'

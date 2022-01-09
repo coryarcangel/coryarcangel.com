@@ -1,7 +1,8 @@
 ---
-ee_id: '4485'
+ee_id_thing: '4485'
 site: '1'
 type: '2'
+inv_num: 2019-048
 url: 2019-048-creibleworkut
 title: CREIBLEWORKUT
 year: '2019'

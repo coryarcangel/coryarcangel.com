@@ -1,7 +1,8 @@
 ---
-ee_id: '4153'
+ee_id_thing: '4153'
 site: '1'
 type: '2'
+inv_num: 2014-024
 url: 2014-024-the-warhol-files
 title: The Warhol Files
 year: '2014'

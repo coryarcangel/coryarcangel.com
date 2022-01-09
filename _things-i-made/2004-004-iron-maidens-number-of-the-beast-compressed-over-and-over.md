@@ -1,7 +1,8 @@
 ---
-ee_id: '13'
+ee_id_thing: '13'
 site: '1'
 type: '2'
+inv_num: 2004-004
 url: 2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over
 title: Iron Maiden's “The Number of the Beast” compressed over and over as an mp3
   666 times

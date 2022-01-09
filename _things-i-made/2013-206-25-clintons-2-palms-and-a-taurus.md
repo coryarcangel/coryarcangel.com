@@ -1,7 +1,8 @@
 ---
-ee_id: '4221'
+ee_id_thing: '4221'
 site: '1'
 type: '2'
+inv_num: 2013-206
 url: 2013-206-25-clintons-2-palms-and-a-taurus
 title: " 25 Clintons, 2 Palms, and a Taurus"
 year: '2013'

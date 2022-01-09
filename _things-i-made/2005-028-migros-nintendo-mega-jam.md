@@ -1,7 +1,8 @@
 ---
-ee_id: '192'
+ee_id_thing: '192'
 site: '1'
 type: '2'
+inv_num: 2005-028
 url: 2005-028-migros-nintendo-mega-jam
 title: Migros MEGA JAM
 year: '2005'

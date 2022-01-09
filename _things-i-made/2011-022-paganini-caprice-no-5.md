@@ -1,7 +1,8 @@
 ---
-ee_id: '101'
+ee_id_thing: '101'
 site: '1'
 type: '2'
+inv_num: 2011-022
 url: 2011-022-paganini-caprice-no-5
 title: Paganini Caprice No. 5
 year: '2011'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4478'
+ee_id_thing: '4478'
 site: '1'
 type: '2'
+inv_num: 2019-027
 url: 2019-027-responce
 title: Responce
 year: '2019'

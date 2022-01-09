@@ -1,7 +1,8 @@
 ---
-ee_id: '4467'
+ee_id_thing: '4467'
 site: '1'
 type: '2'
+inv_num: 2019-059
 url: 2019-059-cc-hampion
 title: cC hampion
 year: '2019'

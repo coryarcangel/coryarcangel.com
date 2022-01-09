@@ -1,7 +1,8 @@
 ---
-ee_id: '82'
+ee_id_thing: '82'
 site: '1'
 type: '2'
+inv_num: 2011-132
 url: 2011-132-real-talk
 title: Real Talk
 year: '2011'

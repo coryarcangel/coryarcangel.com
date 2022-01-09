@@ -1,5 +1,5 @@
 ---
-ee_id: '4120'
+ee_id_show: '4120'
 site: '1'
 type: '5'
 title: The AUDMCRS Underground Dance Music Collection of Recorded Sound

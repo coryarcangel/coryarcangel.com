@@ -1,7 +1,8 @@
 ---
-ee_id: '21'
+ee_id_thing: '21'
 site: '1'
 type: '2'
+inv_num: 2005-024
 url: 2005-024-contagious-media-showdown
 title: Contagious Media Showdown
 year: '2005'

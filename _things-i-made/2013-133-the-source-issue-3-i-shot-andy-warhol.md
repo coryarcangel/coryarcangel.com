@@ -1,7 +1,8 @@
 ---
-ee_id: '4112'
+ee_id_thing: '4112'
 site: '1'
 type: '2'
+inv_num: 2013-133
 url: 2013-133-the-source-issue-3-i-shot-andy-warhol
 title: 'The Source Issue #3: I Shot Andy Warhol (SRF-016)'
 year: '2013'

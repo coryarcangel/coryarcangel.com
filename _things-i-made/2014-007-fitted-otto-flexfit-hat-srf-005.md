@@ -1,7 +1,8 @@
 ---
-ee_id: '4144'
+ee_id_thing: '4144'
 site: '1'
 type: '2'
+inv_num: 2014-007
 url: 2014-007-fitted-otto-flexfit-hat-srf-005
 title: Fitted Otto Flexfit Hat (SRF-005)
 year: '2014'

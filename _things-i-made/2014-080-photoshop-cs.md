@@ -1,7 +1,8 @@
 ---
-ee_id: '4243'
+ee_id_thing: '4243'
 site: '1'
 type: '2'
+inv_num: 2014-080
 url: 2014-080-photoshop-cs
 title: 'Photoshop CS: 40 by 30 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=6000 x=8000, mouseup y=6000 x=1000; tool "Wand", select

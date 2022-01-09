@@ -1,7 +1,8 @@
 ---
-ee_id: '4176'
+ee_id_thing: '4176'
 site: '1'
 type: '2'
+inv_num: 2014-086
 url: 2014-086-russells-lakes
 title: Russells / Lakes
 year: '2014'

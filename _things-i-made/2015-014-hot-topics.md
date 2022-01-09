@@ -1,7 +1,8 @@
 ---
-ee_id: '4260'
+ee_id_thing: '4260'
 site: '1'
 type: '2'
+inv_num: 2015-014
 url: 2015-014-hot-topics
 title: Hot Topics
 year: '2015'

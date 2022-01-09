@@ -1,7 +1,8 @@
 ---
-ee_id: '51'
+ee_id_thing: '51'
 site: '1'
 type: '2'
+inv_num: 2009-041
 url: 2009-041-last-night-i-had-the-strangest-dream
 title: Last Night I Had The Strangest Dream
 year: '2009'

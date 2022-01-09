@@ -1,7 +1,8 @@
 ---
-ee_id: '4139'
+ee_id_thing: '4139'
 site: '1'
 type: '2'
+inv_num: 2013-219
 url: 2013-219-24-dances-for-the-electric-piano-long-sleeve-silkscreened-t-shirt
 title: 24 Dances For The Electric Piano Long-Sleeve Silkscreened T-Shirt (SRF-012)
 year: '2014'

@@ -1,5 +1,5 @@
 ---
-ee_id: '4245'
+ee_id_show: '4245'
 site: '1'
 type: '5'
 title: 'Seeing Double: Emulation in Theory and Practice'

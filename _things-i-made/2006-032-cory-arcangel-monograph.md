@@ -1,7 +1,8 @@
 ---
-ee_id: '2148'
+ee_id_thing: '2148'
 site: '1'
 type: '2'
+inv_num: 2006-032
 url: 2006-032-cory-arcangel-monograph
 title: 'Cory Arcangel '
 year: '2006'

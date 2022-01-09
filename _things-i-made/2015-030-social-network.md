@@ -1,7 +1,8 @@
 ---
-ee_id: '4264'
+ee_id_thing: '4264'
 site: '1'
 type: '2'
+inv_num: 2015-030
 url: 2015-030-social-network
 title: Social Network
 year: '2015'

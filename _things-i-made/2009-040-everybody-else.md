@@ -1,7 +1,8 @@
 ---
-ee_id: '62'
+ee_id_thing: '62'
 site: '1'
 type: '2'
+inv_num: 2009-040
 url: 2009-040-everybody-else
 title: Everybody Else
 year: '2009'

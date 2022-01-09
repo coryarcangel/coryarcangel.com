@@ -1,7 +1,8 @@
 ---
-ee_id: '4306'
+ee_id_thing: '4306'
 site: '1'
 type: '2'
+inv_num: 2015-162
 url: 2015-162-fuck-negativity-dog-tags-srf-030
 title: Fuck Negativity Dog Tags (SRF-030)
 year: '2015'

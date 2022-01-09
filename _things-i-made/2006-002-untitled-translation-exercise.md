@@ -1,7 +1,8 @@
 ---
-ee_id: '157'
+ee_id_thing: '157'
 site: '1'
 type: '2'
+inv_num: 2006-002
 url: 2006-002-untitled-translation-exercise
 title: Untitled Translation Exercise
 year: '2006'

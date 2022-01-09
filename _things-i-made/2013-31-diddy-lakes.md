@@ -1,7 +1,8 @@
 ---
-ee_id: '4110'
+ee_id_thing: '4110'
 site: '1'
 type: '2'
+inv_num: 2013-31-
 url: 2013-31-diddy-lakes
 title: Diddy / Lakes
 year: '2013'

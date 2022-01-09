@@ -1,7 +1,8 @@
 ---
-ee_id: '47'
+ee_id_thing: '47'
 site: '1'
 type: '2'
+inv_num: 2008-007
 url: 2008-007-golden-ticket
 title: Golden Ticket
 year: '2008'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4255'
+ee_id_thing: '4255'
 site: '1'
 type: '2'
+inv_num: 2015-005
 url: 2015-005-started-the-bottom
 title: Started @ The Bottom
 year: '2015'

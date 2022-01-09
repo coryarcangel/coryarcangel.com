@@ -1,7 +1,8 @@
 ---
-ee_id: '4399'
+ee_id_thing: '4399'
 site: '1'
 type: '2'
+inv_num: 2017-074
 url: 2017-074-beibs-lakes
 title: Beibs / Lakes
 year: '2017'

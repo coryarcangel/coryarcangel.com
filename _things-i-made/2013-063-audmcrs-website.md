@@ -1,7 +1,8 @@
 ---
-ee_id: '2242'
+ee_id_thing: '2242'
 site: '1'
 type: '2'
+inv_num: 2013-063
 url: 2013-063-audmcrs-website
 title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2013'

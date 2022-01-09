@@ -1,7 +1,8 @@
 ---
-ee_id: '44'
+ee_id_thing: '44'
 site: '1'
 type: '2'
+inv_num: 2008-021
 url: 2008-021-splash-page
 title: Splash Page
 year: '2008'

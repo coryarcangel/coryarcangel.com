@@ -1,7 +1,8 @@
 ---
-ee_id: '4175'
+ee_id_thing: '4175'
 site: '1'
 type: '2'
+inv_num: 2014-097
 url: 2014-097-hillary-lakes
 title: Hillary / Lakes
 year: '2014'

@@ -1,7 +1,8 @@
 ---
-ee_id: '22'
+ee_id_thing: '22'
 site: '1'
 type: '2'
+inv_num: 2005-025
 url: 2005-025-the-year-in-the-internet
 title: The Year in the Internet (2005)
 year: '2005'

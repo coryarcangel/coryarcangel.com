@@ -1,7 +1,8 @@
 ---
-ee_id: '128'
+ee_id_thing: '128'
 site: '1'
 type: '2'
+inv_num: 2011-128
 url: 2011-128-three-palms
 title: Three Palms
 year: '2011'

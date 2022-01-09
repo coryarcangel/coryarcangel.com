@@ -1,7 +1,8 @@
 ---
-ee_id: '4479'
+ee_id_thing: '4479'
 site: '1'
 type: '2'
+inv_num: 2019-033
 url: 2019-033-high-rise-public-saftey-pink-camo-workout-rothco-xtextile-tactical
 title: HIGH RISE, public saftey, Pink Camo, WORKOUT, Rothco, XTEXTILE, Tactical Work,
   Y, ORALS BROKEN, Battle Dress, Dukes

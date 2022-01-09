@@ -1,7 +1,8 @@
 ---
-ee_id: '4168'
+ee_id_thing: '4168'
 site: '1'
 type: '2'
+inv_num: 2014-125
 url: 2014-125-all-the-small-things
 title: All The Small Things
 year: '2014'

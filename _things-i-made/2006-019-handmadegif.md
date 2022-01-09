@@ -1,7 +1,8 @@
 ---
-ee_id: '28'
+ee_id_thing: '28'
 site: '1'
 type: '2'
+inv_num: 2006-019
 url: 2006-019-handmadegif
 title: Gif
 year: '2006'

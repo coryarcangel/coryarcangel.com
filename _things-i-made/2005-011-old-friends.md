@@ -1,7 +1,8 @@
 ---
-ee_id: '26'
+ee_id_thing: '26'
 site: '1'
 type: '2'
+inv_num: 2005-011
 url: 2005-011-old-friends
 title: Old Friends
 year: '2005'

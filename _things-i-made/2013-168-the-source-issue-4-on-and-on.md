@@ -1,7 +1,8 @@
 ---
-ee_id: '4113'
+ee_id_thing: '4113'
 site: '1'
 type: '2'
+inv_num: 2013-168
 url: 2013-168-the-source-issue-4-on-and-on
 title: 'The Source Issue #4: On and On (SRF-017)'
 year: '2013'

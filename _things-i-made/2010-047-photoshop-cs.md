@@ -1,7 +1,8 @@
 ---
-ee_id: '143'
+ee_id_thing: '143'
 site: '1'
 type: '2'
+inv_num: 2010-047
 url: 2010-047-photoshop-cs
 title: 'Photoshop CS: 110 by 72 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=16700 x=4350, mouseup y=27450 x=6350'

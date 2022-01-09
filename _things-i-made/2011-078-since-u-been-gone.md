@@ -1,7 +1,8 @@
 ---
-ee_id: '89'
+ee_id_thing: '89'
 site: '1'
 type: '2'
+inv_num: 2011-078
 url: 2011-078-since-u-been-gone
 title: Since U Been Gone
 year: '2011'

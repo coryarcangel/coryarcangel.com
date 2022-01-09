@@ -1,7 +1,8 @@
 ---
-ee_id: '4167'
+ee_id_thing: '4167'
 site: '1'
 type: '2'
+inv_num: 2012-068
 url: 2012-068-solitaire-weekly
 title: Solitaire Weekly
 year: '2013'

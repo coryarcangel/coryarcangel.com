@@ -1,7 +1,8 @@
 ---
-ee_id: '4283'
+ee_id_thing: '4283'
 site: '1'
 type: '2'
+inv_num: 2015-038
 url: 2015-038-cory-arcangel-for-arcangel-surfware-for-wet-srf-021
 title: Cory Arcangel for Arcangel Surfware for Wet (SRF-021)
 year: '2015'

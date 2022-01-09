@@ -1,5 +1,5 @@
 ---
-ee_id: '4506'
+ee_id_show: '4506'
 site: '1'
 type: '5'
 title: 'Arcangel Surfware Flagship: Grand Opening'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4119'
+ee_id_thing: '4119'
 site: '1'
 type: '2'
+inv_num: 2013-193
 url: 2013-193-seinfeld-dvd-lakes
 title: Seinfeld DVD / Lakes
 year: '2013'

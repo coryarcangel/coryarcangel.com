@@ -1,7 +1,8 @@
 ---
-ee_id: '4148'
+ee_id_thing: '4148'
 site: '1'
 type: '2'
+inv_num: 2014-025
 url: 2014-025-you-only-live-once-poster-srf-018
 title: You Only Live Once Poster (SRF-018)
 year: '2014'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4236'
+ee_id_thing: '4236'
 site: '1'
 type: '2'
+inv_num: 2014-046
 url: 2014-046-raw-youth
 title: Raw Youth
 year: '2014'

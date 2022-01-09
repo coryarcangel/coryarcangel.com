@@ -1,7 +1,8 @@
 ---
-ee_id: '4179'
+ee_id_thing: '4179'
 site: '1'
 type: '2'
+inv_num: 2014-085
 url: 2014-085-sports-products-lakes
 title: Sports Products / Lakes
 year: '2014'

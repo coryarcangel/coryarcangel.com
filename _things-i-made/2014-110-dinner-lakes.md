@@ -1,7 +1,8 @@
 ---
-ee_id: '4275'
+ee_id_thing: '4275'
 site: '1'
 type: '2'
+inv_num: 2014-110
 url: 2014-110-dinner-lakes
 title: Dinner / Lakes
 year: '2014'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4475'
+ee_id_thing: '4475'
 site: '1'
 type: '2'
+inv_num: 2018-037
 url: 2018-037-entrepreneur1
 title: en·tre·pre·neur
 year: '2018'

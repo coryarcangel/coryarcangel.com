@@ -1,7 +1,8 @@
 ---
-ee_id: '4386'
+ee_id_thing: '4386'
 site: '1'
 type: '2'
+inv_num: 2017-030
 url: 2017-030-arcangel-surfware-webmaster-summer-flip-flops
 title: Arcangel Surfware / Webmaster Summer Flip-Flops
 year: '2017'

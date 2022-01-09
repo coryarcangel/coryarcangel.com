@@ -1,7 +1,8 @@
 ---
-ee_id: '4396'
+ee_id_thing: '4396'
 site: '1'
 type: '2'
+inv_num: 2017-062
 url: 2017-062-arcangel-surfware-flagship
 title: Arcangel Surfware Flagship
 year: '2018'

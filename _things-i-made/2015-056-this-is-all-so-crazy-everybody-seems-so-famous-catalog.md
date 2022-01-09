@@ -1,7 +1,8 @@
 ---
-ee_id: '4270'
+ee_id_thing: '4270'
 site: '1'
 type: '2'
+inv_num: 2015-056
 url: 2015-056-this-is-all-so-crazy-everybody-seems-so-famous-catalog
 title: 'This is all so crazy, everybody seems so famous '
 year: '2015'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4233'
+ee_id_thing: '4233'
 site: '1'
 type: '2'
+inv_num: 2014-039
 url: 2014-039-established-92
 title: Established '92
 year: '2014'

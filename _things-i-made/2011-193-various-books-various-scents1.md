@@ -1,7 +1,8 @@
 ---
-ee_id: '2213'
+ee_id_thing: '2213'
 site: '1'
 type: '2'
+inv_num: 2011-193
 url: 2011-193-various-books-various-scents1
 title: Various Books, Various Scents
 year: '2011'

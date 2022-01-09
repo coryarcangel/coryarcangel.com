@@ -1,7 +1,8 @@
 ---
-ee_id: '4257'
+ee_id_thing: '4257'
 site: '1'
 type: '2'
+inv_num: 2015-007
 url: 2015-007-your-performance
 title: Your Performance
 year: '2015'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4131'
+ee_id_thing: '4131'
 site: '1'
 type: '2'
+inv_num: 2014-031
 url: 2014-031-max-perks
 title: Max Perks (officemax.com)
 year: '2014'

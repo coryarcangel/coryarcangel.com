@@ -1,7 +1,8 @@
 ---
-ee_id: '156'
+ee_id_thing: '156'
 site: '1'
 type: '2'
+inv_num: 2006-011
 url: 2006-011-untitled-after-lucier
 title: Untitled After Lucier
 year: '2006'

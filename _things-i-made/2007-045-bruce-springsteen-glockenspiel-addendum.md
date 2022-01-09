@@ -1,7 +1,8 @@
 ---
-ee_id: '171'
+ee_id_thing: '171'
 site: '1'
 type: '2'
+inv_num: 2007-045
 url: 2007-045-bruce-springsteen-glockenspiel-addendum
 title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 year: '2010'

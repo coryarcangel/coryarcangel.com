@@ -1,7 +1,8 @@
 ---
-ee_id: '2210'
+ee_id_thing: '2210'
 site: '1'
 type: '2'
+inv_num: 2012-001
 url: 2012-001-umbrella
 title: Umbrella
 year: '2012'

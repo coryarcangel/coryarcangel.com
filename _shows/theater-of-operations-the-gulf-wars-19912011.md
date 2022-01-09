@@ -1,5 +1,5 @@
 ---
-ee_id: '4472'
+ee_id_show: '4472'
 site: '1'
 type: '5'
 title: 'Theater of Operations: The Gulf Wars 1991–2011'

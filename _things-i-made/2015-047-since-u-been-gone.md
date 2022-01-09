@@ -1,7 +1,8 @@
 ---
-ee_id: '4266'
+ee_id_thing: '4266'
 site: '1'
 type: '2'
+inv_num: 2015-047
 url: 2015-047-since-u-been-gone
 title: Since U Been Gone
 year: '2015'

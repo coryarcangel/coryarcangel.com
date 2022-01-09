@@ -1,7 +1,8 @@
 ---
-ee_id: '4493'
+ee_id_thing: '4493'
 site: '1'
 type: '2'
+inv_num: 2020-007
 url: 2020-007-server-cabinet-cooling-everything-you-need-to-know
 title: Server Cabinet Cooling - Everything you need to know
 year: '2020'

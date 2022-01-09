@@ -1,7 +1,8 @@
 ---
-ee_id: '4364'
+ee_id_thing: '4364'
 site: '1'
 type: '2'
+inv_num: 2016-076
 url: 2016-076-currentmood
 title: 'currentmood (Triple Canopy Edition) '
 year: '2017'

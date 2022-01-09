@@ -1,7 +1,8 @@
 ---
-ee_id: '4491'
+ee_id_thing: '4491'
 site: '1'
 type: '2'
+inv_num: 2020-004
 url: 2020-004-workutworutworout
 title: WORKUTWORUTWOROUT
 year: '2020'

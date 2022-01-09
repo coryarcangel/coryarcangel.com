@@ -1,7 +1,8 @@
 ---
-ee_id: '4196'
+ee_id_thing: '4196'
 site: '1'
 type: '2'
+inv_num: 2010-025
 url: 2010-025-music-for-stereos
 title: Music For Stereos
 year: '2010'

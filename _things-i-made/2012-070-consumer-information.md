@@ -1,7 +1,8 @@
 ---
-ee_id: '2226'
+ee_id_thing: '2226'
 site: '1'
 type: '2'
+inv_num: 2012-070
 url: 2012-070-consumer-information
 title: Consumer Information
 year: '2012'

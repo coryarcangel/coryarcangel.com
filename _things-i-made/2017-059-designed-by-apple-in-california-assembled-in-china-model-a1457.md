@@ -1,7 +1,8 @@
 ---
-ee_id: '4393'
+ee_id_thing: '4393'
 site: '1'
 type: '2'
+inv_num: 2017-059
 url: 2017-059-designed-by-apple-in-california-assembled-in-china-model-a1457
 title: Designed by Apple in California Assembled in China Model A1457
 year: '2017'

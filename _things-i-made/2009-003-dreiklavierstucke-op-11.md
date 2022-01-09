@@ -1,7 +1,8 @@
 ---
-ee_id: '52'
+ee_id_thing: '52'
 site: '1'
 type: '2'
+inv_num: 2009-003
 url: 2009-003-dreiklavierstucke-op-11
 title: Drei Klavierstücke op. 11
 year: '2009'

@@ -1,7 +1,8 @@
 ---
-ee_id: '19'
+ee_id_thing: '19'
 site: '1'
 type: '2'
+inv_num: 2004-011
 url: 2004-011-whitney-teen-night
 title: Whitney Teen Night
 year: '2004'

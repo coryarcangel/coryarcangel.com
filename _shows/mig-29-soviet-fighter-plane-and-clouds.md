@@ -1,5 +1,5 @@
 ---
-ee_id: '4425'
+ee_id_show: '4425'
 site: '1'
 type: '5'
 title: MIG 29 Soviet Fighter Plane and Clouds

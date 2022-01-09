@@ -1,7 +1,8 @@
 ---
-ee_id: '49'
+ee_id_thing: '49'
 site: '1'
 type: '2'
+inv_num: 2008-020
 url: 2008-020-continuous-partial-awareness-performance
 title: Continuous Partial Awareness
 year: '2008'

@@ -1,7 +1,8 @@
 ---
-ee_id: '4397'
+ee_id_thing: '4397'
 site: '1'
 type: '2'
+inv_num: 2017-069
 url: 2017-069-football-lakes
 title: Football / Lakes
 year: '2017'

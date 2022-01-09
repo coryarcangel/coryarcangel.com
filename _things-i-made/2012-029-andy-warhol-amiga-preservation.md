@@ -1,7 +1,8 @@
 ---
-ee_id: '4103'
+ee_id_thing: '4103'
 site: '1'
 type: '2'
+inv_num: 2012-029
 url: 2012-029-andy-warhol-amiga-preservation
 title: Andy Warhol Amiga Preservation
 year: '2014'

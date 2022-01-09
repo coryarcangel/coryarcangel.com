@@ -1,7 +1,8 @@
 ---
-ee_id: '39'
+ee_id_thing: '39'
 site: '1'
 type: '2'
+inv_num: 2007-039
 url: 2007-039-another-one-bites-the-dust
 title: Another One Bites The Dust
 year: '2007'

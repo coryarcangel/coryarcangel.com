@@ -1,7 +1,8 @@
 ---
-ee_id: '16'
+ee_id_thing: '16'
 site: '1'
 type: '2'
+inv_num: 2004-009
 url: 2004-009-pizza-party
 title: Pizza Party
 year: '2004'

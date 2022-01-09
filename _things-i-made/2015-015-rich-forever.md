@@ -1,7 +1,8 @@
 ---
-ee_id: '4261'
+ee_id_thing: '4261'
 site: '1'
 type: '2'
+inv_num: 2015-015
 url: 2015-015-rich-forever
 title: Rich Forever
 year: '2015'

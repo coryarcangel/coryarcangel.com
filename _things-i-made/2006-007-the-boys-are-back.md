@@ -1,7 +1,8 @@
 ---
-ee_id: '236'
+ee_id_thing: '236'
 site: '1'
 type: '2'
+inv_num: 2006-007
 url: 2006-007-the-boys-are-back
 title: The Boys Are Back
 year: '2006'

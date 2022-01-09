@@ -1,7 +1,8 @@
 ---
-ee_id: '146'
+ee_id_thing: '146'
 site: '1'
 type: '2'
+inv_num: 2010-078
 url: 2010-078-sports-products
 title: Sports Products
 year: '2010'

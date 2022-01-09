@@ -1,7 +1,8 @@
 ---
-ee_id: '108'
+ee_id_thing: '108'
 site: '1'
 type: '2'
+inv_num: 2011-092
 url: 2011-092-whitney-brochure
 title: Whitney Brochure
 year: '2011'

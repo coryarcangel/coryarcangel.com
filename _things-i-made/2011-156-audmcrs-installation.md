@@ -1,7 +1,8 @@
 ---
-ee_id: '2217'
+ee_id_thing: '2217'
 site: '1'
 type: '2'
+inv_num: 2011-156
 url: 2011-156-audmcrs-installation
 title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2012'

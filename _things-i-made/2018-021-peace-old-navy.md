@@ -1,7 +1,8 @@
 ---
-ee_id: '4408'
+ee_id_thing: '4408'
 site: '1'
 type: '2'
+inv_num: 2018-021
 url: 2018-021-peace-old-navy
 title: Peace Old Navy
 year: '2018'

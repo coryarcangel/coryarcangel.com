@@ -1,7 +1,8 @@
 ---
-ee_id: '4145'
+ee_id_thing: '4145'
 site: '1'
 type: '2'
+inv_num: 2014-008
 url: 2014-008-photoshop-gradient-demonstration-iphone-case-srf-006
 title: Photoshop Gradient Demonstration iPhone Case (SRF-006)
 year: '2014'

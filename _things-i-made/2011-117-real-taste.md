@@ -1,7 +1,8 @@
 ---
-ee_id: '122'
+ee_id_thing: '122'
 site: '1'
 type: '2'
+inv_num: 2011-117
 url: 2011-117-real-taste
 title: Real Taste
 year: '2011'

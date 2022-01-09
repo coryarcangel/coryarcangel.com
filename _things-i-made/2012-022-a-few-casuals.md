@@ -1,7 +1,8 @@
 ---
-ee_id: '2215'
+ee_id_thing: '2215'
 site: '1'
 type: '2'
+inv_num: 2012-022
 url: 2012-022-a-few-casuals
 title: A Few Casuals
 year: '2012'

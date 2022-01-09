@@ -1,7 +1,8 @@
 ---
-ee_id: '2144'
+ee_id_thing: '2144'
 site: '1'
 type: '2'
+inv_num: 2009-057
 url: 2009-057-deterioration-they-said-exhibition-catalog
 title: Deterioration, They Said
 year: '2009'

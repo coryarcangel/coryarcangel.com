@@ -1,7 +1,8 @@
 ---
-ee_id: '189'
+ee_id_thing: '189'
 site: '1'
 type: '2'
+inv_num: 2004-025
 url: 2004-025-total-asshole-compression
 title: Total Asshole Compression
 year: '2005'

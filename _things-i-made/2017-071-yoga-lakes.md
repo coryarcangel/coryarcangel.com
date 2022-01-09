@@ -1,7 +1,8 @@
 ---
-ee_id: '4398'
+ee_id_thing: '4398'
 site: '1'
 type: '2'
+inv_num: 2017-071
 url: 2017-071-yoga-lakes
 title: Yoga / Lakes
 year: '2017'

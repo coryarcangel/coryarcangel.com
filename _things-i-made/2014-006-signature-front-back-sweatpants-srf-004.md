@@ -1,7 +1,8 @@
 ---
-ee_id: '4143'
+ee_id_thing: '4143'
 site: '1'
 type: '2'
+inv_num: 2014-006
 url: 2014-006-signature-front-back-sweatpants-srf-004
 title: Signature Front/Back Sweatpants (SRF-004)
 year: '2014'

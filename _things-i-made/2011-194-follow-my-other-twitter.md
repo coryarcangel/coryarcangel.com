@@ -1,7 +1,8 @@
 ---
-ee_id: '100'
+ee_id_thing: '100'
 site: '1'
 type: '2'
+inv_num: 2011-194
 url: 2011-194-follow-my-other-twitter
 title: Follow My Other Twitter
 year: '2011'

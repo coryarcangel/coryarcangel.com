@@ -1,7 +1,8 @@
 ---
-ee_id: '4390'
+ee_id_thing: '4390'
 site: '1'
 type: '2'
+inv_num: 2017-041
 url: 2017-041-asymmetrical-response-reader-ibiza
 title: 'Asymmetrical Response Reader: Ibiza (SRF-041)'
 year: '2017'

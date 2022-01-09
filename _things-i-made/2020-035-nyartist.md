@@ -1,7 +1,8 @@
 ---
-ee_id: '4496'
+ee_id_thing: '4496'
 site: '1'
 type: '2'
+inv_num: 2020-035
 url: 2020-035-nyartist
 title: NYARTIST
 year: '2020'

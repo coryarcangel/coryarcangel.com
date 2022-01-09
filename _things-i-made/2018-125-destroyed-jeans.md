@@ -1,7 +1,8 @@
 ---
-ee_id: '4463'
+ee_id_thing: '4463'
 site: '1'
 type: '2'
+inv_num: 2018-125
 url: 2018-125-destroyed-jeans
 title: Destroyed Jeans
 year: '2019'

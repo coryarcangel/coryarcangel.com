@@ -1,7 +1,8 @@
 ---
-ee_id: '34'
+ee_id_thing: '34'
 site: '1'
 type: '2'
+inv_num: 2007-004
 url: 2007-004-every-other-csny
 title: Every Other C.S.N.Y.
 year: '2007'

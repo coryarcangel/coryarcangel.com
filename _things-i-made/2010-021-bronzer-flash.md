@@ -1,7 +1,8 @@
 ---
-ee_id: '97'
+ee_id_thing: '97'
 site: '1'
 type: '2'
+inv_num: 2010-021
 url: 2010-021-bronzer-flash
 title: Bronzer Flash!
 year: '2010'

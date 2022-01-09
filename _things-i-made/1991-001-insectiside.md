@@ -1,7 +1,8 @@
 ---
-ee_id: '8'
+ee_id_thing: '8'
 site: '1'
 type: '2'
+inv_num: 1991-001
 url: 1991-001-insectiside
 title: Insectiside
 year: '1991'
@@ -19,6 +20,6 @@ imgs: insectiside-1991-001-still-3-database-ih.jpg
 subheading: ''
 download: ''
 add_credit: ''
-commission: 'asdasdasd'
+commission: ''
 layout: things-i-made
 ---
