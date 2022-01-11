@@ -62,18 +62,22 @@ layout: things-i-made
 	<b>Code: </b><a href="{{ page.related_code }}">{{ page.related_code }}↪</a>
 	<br>
 	{% endif %}	
-	<b>Shows:</b>
-
 	{% assign shows_list = site.data.thingsXshows | where:"inv_num",page.inv_num %}
-	{% for shows in shows_list %}
-	{{ shows.ee_id_show }}<br>
-	
-		{% assign ee_id_shows = site.data.shows | where:"ee_id_show",shows.ee_id_show | sort: "year" | reverse %}
-		{% for ee_id_shows_current in ee_id_shows %}
-		{{ ee_id_shows_current.title }}<br>
-		{% endfor %}	
-	{% endfor %}	
-		
+	{% if shows %}
+	<b>Shows ↓</b>
+	<ul>
+		{% for shows in shows_list %}
+			{% assign ee_id_shows = site.data.shows | where:"ee_id_show",shows.ee_id_show | sort: "year" | reverse %}
+			{% for ee_id_shows_current in ee_id_shows %}		
+			<li>
+      		<a href="../shows/{{ ee_id_shows_current.url }}">
+      		{{ ee_id_shows_current.venue }}, <i>{{ ee_id_shows_current.title }}</i>, {{ ee_id_shows_current.year }}
+      		</a>
+ 			</li>		
+			{% endfor %}	
+		{% endfor %}
+	{% endif %}	
+	</ul>	
 	{% if page.imgs != "" %}
 	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
