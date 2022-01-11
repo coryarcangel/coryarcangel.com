@@ -63,7 +63,7 @@ layout: things-i-made
 	<br>
 	{% endif %}	
 	{% assign shows_list = site.data.thingsXshows | where:"inv_num",page.inv_num %}
-	{% if shows %}
+	{% if shows_list.size != 0 %}
 	<b>Shows ↓</b>
 	<ul>
 		{% for shows in shows_list %}
