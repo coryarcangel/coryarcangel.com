@@ -62,20 +62,17 @@ layout: things-i-made
 	<b>Code: </b><a href="{{ page.related_code }}">{{ page.related_code }}↪</a>
 	<br>
 	{% endif %}	
-	<br>
 	<b>Shows:</b>
-	<br>
-	<ul>
+
 	{% assign shows_list = site.data.thingsXshows | where:"inv_num",page.inv_num %}
 	{% for shows in shows_list %}
-  	{% assign show = site.data.shows | where:"ee_id_show",ee_id_show %}
-  	<li>
-      <a href="{{ shows.url }}">
-      {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.year }}
-      </a>
-  	</li>
-	{% endfor %}
-	</ul>
+	{{ shows.ee_id_show }}<br>
+	
+		{% assign ee_id_shows = site.data.shows | where:"ee_id_show",shows.ee_id_show | sort: "year" | reverse %}
+		{% for ee_id_shows_current in ee_id_shows %}
+		{{ ee_id_shows_current.title }}<br>
+		{% endfor %}	
+	{% endfor %}	
 		
 	{% if page.imgs != "" %}
 	{% assign images = page.imgs | split: ',' %}
