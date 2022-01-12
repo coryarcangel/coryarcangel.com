@@ -43,7 +43,7 @@ layout: shows
 			{% assign inv_num_things = site.data.things | where:"inv_num",things.inv_num | sort: "year" | reverse %}
 			{% for inv_num_things_current in inv_num_things %}		
 			<li>
-      		<a href="../things-i-made/{{ ee_id_things_current.url }}">
+      		<a href="../things-i-made/{{ inv_num_things_current.url }}">
       		{{ inv_num_things_current.title }}, {{ inv_num_things_current.year }}
       		</a>
  			</li>		
