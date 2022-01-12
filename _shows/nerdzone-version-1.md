@@ -7,7 +7,7 @@ url: nerdzone-version-1
 year: '2005'
 venue: Migros Museum für Gegenwartskunst
 state_country: Zurich
-pitch: "<p>​Kinda a pixel show. Lotsa game / software stuff. </p>"
+pitch: "​Kinda a pixel show. Lotsa game / software stuff. "
 ps: ''
 imgs: migros-zurich-2005-04-install-1-database-qm.jpg,migros-zurich-2005-04-install-2-database-qm.jpg,migros-zurich-2005-04-install-3-database-qm.jpg
 things: "[185] 2005-021 Super Landscape #1 - 2005-021-super-landscape-1,[14] 2004-001

@@ -7,10 +7,10 @@ url: speakers-going-hammer
 year: '2011'
 venue: Lisson Gallery
 state_country: London
-pitch: "<p>​Not sure what to say about this one, except I had some yellow thing going
+pitch: "​Not sure what to say about this one, except I had some yellow thing going
   on (no idea what that was about). I was also pretty proud of the Uggs sculpture
   here, <i>A Few Casuals, </i>and the humidifier filled with diet sprite, <i>Real
-  Taste</i>. :)</p>"
+  Taste</i>. :)"
 ps: ''
 imgs: lisson-london-2011-10-install-10-database-KA.jpg,lisson-london-2011-10-install-9-database-KA.jpg,lisson-london-2011-10-install-6-database-KA.jpg,lisson-london-2011-10-install-3-database-KA.jpg
 things: "[112] 2011-110 Photoshop CS - 2011-110-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra,[114]

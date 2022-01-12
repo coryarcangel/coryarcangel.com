@@ -7,8 +7,8 @@ url: cory-arcangel-vs-pierre-bismuth
 year: '2011'
 venue: Team Gallery
 state_country: New York
-pitch: "<p>I picked 3 of Pierre's things, he picked 3 of mine, and we made one together.
-  :)</p>"
+pitch: I picked 3 of Pierre's things, he picked 3 of mine, and we made one together.
+  :)
 ps: ''
 imgs: team-ny-2011-11-install-2-database-AR.jpg,team-ny-2011-11-install-1-database-AR.jpg,team-ny-2011-11-install-5-database-AR.jpg,team-ny-2011-11-install-4-database-AR.jpg,team-ny-2011-12-performance-5-database-MFI.jpg
 things: "[72] 2010-003 Theres Always One At Every Party - 2010-003-theres-always-one-at-every-party,[235]

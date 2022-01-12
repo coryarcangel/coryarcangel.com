@@ -7,8 +7,8 @@ url: masters
 year: '2012'
 venue: Carnegie Museum of Art
 state_country: Pittsburgh
-pitch: "<p>&nbsp;... had a super chill time putting this one together, ... a bit of
-  everything really. A good vibe all around! </p>"
+pitch: "&nbsp;... had a super chill time putting this one together, ... a bit of everything
+  really. A good vibe all around! "
 ps: ​Finally got to put my sculpture "Volume Management" (a bunch of flat screens
   previously shown just in their boxes) to good use. LOL. :)
 imgs: carnegie-pittsburgh-2012-09-install-12-database-TL.jpg,carnegie-pittsburgh-2012-09-install-13-database-TL.jpg,carnegie-pittsburgh-2012-09-install-3-database-TL.jpg,carnegie-pittsburgh-2012-09-install-4-database-TL.jpg,carnegie-pittsburgh-2012-09-install-8-database-TL.jpg,carnegie-pittsburgh-2012-09-install-1-database-TL.jpg,carnegie-pittsburgh-2012-09-install-5-database-TL.jpg,carnegie-pittsburgh-2012-09-install-9-database-TL_1.jpg

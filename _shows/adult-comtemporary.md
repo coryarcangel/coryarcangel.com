@@ -7,8 +7,8 @@ url: adult-comtemporary
 year: '2008'
 venue: Team Gallery
 state_country: New York
-pitch: "<p>A bunch of random stuff, .... first time I tried making on of my Photoshop
-  Gradient Demonstrations super <i>HUGE</i>, which ended up working pretty good.</p>"
+pitch: A bunch of random stuff, .... first time I tried making on of my Photoshop
+  Gradient Demonstrations super <i>HUGE</i>, which ended up working pretty good.
 ps: ''
 imgs: team-newyork-2008-11-install-1-database.jpg,team-newyork-2008-11-install-2-database.jpg
 things: "[213] 2008-012 Monoprint 1 - 2008-012-monoprint-1,[214] 2008-013 Monoprint

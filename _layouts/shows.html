@@ -40,11 +40,11 @@ layout: shows
 	<b>Things ↓</b>
 	<ul>
 		{% for things in things_list %}
-			{% assign ee_id_things = site.data.things | where:"ee_id_thing",things.ee_id_thing | sort: "year" | reverse %}
-			{% for ee_id_things_current in ee_id_things %}		
+			{% assign inv_num_things = site.data.things | where:"inv_num",things.inv_num | sort: "year" | reverse %}
+			{% for inv_num_things_current in inv_num_things %}		
 			<li>
       		<a href="../things-i-made/{{ ee_id_things_current.url }}">
-      		{{ ee_id_things_current.title }}, {{ ee_id_things_current.year }}
+      		{{ inv_num_things_current.title }}, {{ inv_num_things_current.year }}
       		</a>
  			</li>		
 			{% endfor %}	

@@ -7,8 +7,8 @@ url: pro-tools
 year: '2011'
 venue: Whitney Museum of American Art
 state_country: New York
-pitch: "<p>​All nu work 4 a show @ the Whitney. Almost put me in the grave making
-  all this stuff in 9 months. Hope u like it! </p>"
+pitch: "​All nu work 4 a show @ the Whitney. Almost put me in the grave making all
+  this stuff in 9 months. Hope u like it! "
 ps: ''
 imgs: whitney-ny-2011-05-full-3-database-SC.jpg,whitney-ny-2011-05-install-10-database-AR.jpg,whitney-ny-2011-05-install-13-database-AR.jpg,whitney-ny-2011-05-install-14-database-AR.jpg,whitney-ny-2011-05-install-15-database-AR.jpg,whitney-ny-2011-05-install-17-database-AR.jpg,whitney-ny-2011-05-install-11-database-AR_1.jpg
 things: "[73] 2011-001 Photoshop CS - 2011-001-photoshop-cs,[75] 2011-003 Photoshop

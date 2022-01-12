@@ -7,9 +7,9 @@ url: image-is-everything
 year: '2010'
 venue: Galerie Thaddaeus Ropac
 state_country: Paris
-pitch: "<p>First show of all new work I did with leaving the lights on in the gallery.
+pitch: 'First show of all new work I did with leaving the lights on in the gallery.
   Took the title from the Agassi book I was reading at the time. Highly recommended
-  (the book)! </p>"
+  (the book)! '
 ps: ''
 imgs: Ropac-Paris-2010-11-install-1-database-GR.jpg,Ropac-Paris-2010-11-install-2-database-GR.jpg,Ropac-Paris-2010-11-install-3-database-GR.jpg
 things: "[72] 2010-003 Theres Always One At Every Party - 2010-003-theres-always-one-at-every-party,[144]
