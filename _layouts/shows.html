@@ -33,7 +33,25 @@ layout: shows
 	{% if page.ps != ""  %}
 	ps - {{ page.ps }}
 	<br>
-	{% endif %}		
+	{% endif %}	
+	
+	{% assign things_list = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
+	{% if things_list.size != 0 %}
+	<b>Things ↓</b>
+	<ul>
+		{% for things in things_list %}
+			{% assign ee_id_things = site.data.things | where:"ee_id_thing",things.ee_id_thing | sort: "year" | reverse %}
+			{% for ee_id_things_current in ee_id_things %}		
+			<li>
+      		<a href="../things-i-made/{{ ee_id_things_current.url }}">
+      		{{ ee_id_things_current.title }}, {{ ee_id_things_current.year }}
+      		</a>
+ 			</li>		
+			{% endfor %}	
+		{% endfor %}
+	{% endif %}	
+	</ul>	
+		
 	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
   	<img src="../assets/imgs/{{ image }}">
