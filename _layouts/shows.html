@@ -37,7 +37,7 @@ layout: shows
 	
 	{% assign things_list = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
 	{% if things_list.size != 0 %}
-	<b>Things ↓</b>
+	<b>Things ↴️</b>
 	<ul>
 		{% for things in things_list %}
 			{% assign inv_num_things = site.data.things | where:"inv_num",things.inv_num | sort: "year" | reverse %}
