@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: tl;dr
 url: tldr-new-york
+live_url: ''
 year: '2014'
 venue: Team Gallery
 state_country: New York

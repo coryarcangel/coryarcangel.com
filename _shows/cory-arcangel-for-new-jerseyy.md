@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Cory Arcangel For New Jerseyy
 url: cory-arcangel-for-new-jerseyy
+live_url: ''
 year: '2010'
 venue: New Jerseyy & Tate Modern
 state_country: Cyberspace

@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: They told me there would be tea
 url: art-night
+live_url: ''
 year: '2019'
 venue: Art Night @ St Mary's Church
 state_country: Walthamstow

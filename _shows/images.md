@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Images
 url: images
+live_url: ''
 year: '2016'
 venue: Fridericianum
 state_country: Kassel

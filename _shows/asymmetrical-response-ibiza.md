@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: 'Asymmetrical Response: Cory Arcangel And Olia Lialina'
 url: asymmetrical-response-ibiza
+live_url: ''
 year: '2017'
 venue: Art Projects Ibiza & Lune Rouge
 state_country: Ibiza

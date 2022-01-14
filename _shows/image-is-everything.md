@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Image is Everything
 url: image-is-everything
+live_url: ''
 year: '2010'
 venue: Galerie Thaddaeus Ropac
 state_country: Paris

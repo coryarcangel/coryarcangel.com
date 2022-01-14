@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Liste
 url: liste
+live_url: ''
 year: '2004'
 venue: LISTE Art Fair (w/ Team Gallery)
 state_country: Basel

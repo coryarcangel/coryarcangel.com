@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Net Art Anthology
 url: net-art-anthology
+live_url: https://anthology.rhizome.org/data-diaries-2003
 year: '2017'
 venue: http://rhizome.org
 state_country: Cyberspace

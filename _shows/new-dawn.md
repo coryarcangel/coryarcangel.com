@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: New Dawn
 url: new-dawn
+live_url: ''
 year: '2020'
 venue: Louis Vuitton
 state_country: Global

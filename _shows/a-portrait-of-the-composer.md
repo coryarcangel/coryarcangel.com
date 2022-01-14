@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: A Portrait of the Composer
 url: a-portrait-of-the-composer
+live_url: ''
 year: '2018'
 venue: Church Saint-Denys-du-Sacrement
 state_country: Paris

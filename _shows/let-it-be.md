@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Let it be
 url: let-it-be
+live_url: ''
 year: '2018'
 venue: Flagship AS
 state_country: Stavanger

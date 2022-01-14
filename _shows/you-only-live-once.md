@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: You Only Live Once
 url: you-only-live-once
+live_url: ''
 year: '2014'
 venue: SOHO Holiday Inn, Grand Lafyette Conference Room
 state_country: New York

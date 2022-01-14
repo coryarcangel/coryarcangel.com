@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Leaving the Echo Chamber
 url: sharjah-biennial-leaving-the-echo-chamber
+live_url: ''
 year: '2019'
 venue: Sharjah Biennial
 state_country: Sharjah

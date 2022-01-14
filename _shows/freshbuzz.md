@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Freshbuzz
 url: freshbuzz
+live_url: ''
 year: '2020'
 venue: Screen Slate
 state_country: Cyberspace

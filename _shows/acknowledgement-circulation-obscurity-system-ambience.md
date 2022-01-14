@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Acknowledgement, Circulation, Obscurity, System Ambience
 url: acknowledgement-circulation-obscurity-system-ambience
+live_url: https://rhizome.org/editorial/2014/jun/24/emulating-bomb-iraq-arcangel/
 year: '2014'
 venue: Rhizome.org
 state_country: Cyberspace

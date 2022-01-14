@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: 'Seeing Double: Emulation in Theory and Practice'
 url: seeing-double-emulation-in-theory-and-practice
+live_url: ''
 year: '2004'
 venue: Solomon R. Guggenheim Museum
 state_country: New York

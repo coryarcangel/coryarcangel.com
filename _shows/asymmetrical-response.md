@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: 'Asymmetrical Response: Cory Arcangel and Olia Lialina'
 url: asymmetrical-response
+live_url: ''
 year: '2016'
 venue: Western Front
 state_country: Vancouver

@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Be the first of your friends
 url: be-the-first-of-your-friends
+live_url: ''
 year: '2015'
 venue: Espace Louis Vuitton
 state_country: Munich

@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Power Points
 url: power-points
+live_url: ''
 year: '2013'
 venue: DHC/ART Foundation
 state_country: Montreal

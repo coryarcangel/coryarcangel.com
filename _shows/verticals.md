@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Verticals
 url: verticals
+live_url: ''
 year: '2019'
 venue: Galerie Thaddaeus Ropac
 state_country: Salzburg

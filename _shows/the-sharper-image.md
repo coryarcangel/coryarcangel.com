@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: The Sharper Image
 url: the-sharper-image
+live_url: ''
 year: '2010'
 venue: MoCA
 state_country: North Miami
