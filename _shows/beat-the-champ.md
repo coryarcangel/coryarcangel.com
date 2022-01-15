@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Beat the Champ
 url: beat-the-champ
+live_url: ''
 year: '2011'
 venue: The Curve, Barbican Centre
 state_country: London

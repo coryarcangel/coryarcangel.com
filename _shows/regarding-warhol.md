@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Regarding Warhol
 url: regarding-warhol
+live_url: ''
 year: '2013'
 venue: Warhol Museum
 state_country: Pittsburgh

@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Cory Arcangel vs. / & Pierre Bismuth
 url: cory-arcangel-vs-pierre-bismuth
+live_url: ''
 year: '2011'
 venue: Team Gallery
 state_country: New York

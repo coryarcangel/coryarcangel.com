@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Here Comes Everybody
 url: here-comes-everybody
+live_url: ''
 year: '2010'
 venue: Hamburger Bahnhof
 state_country: Berlin

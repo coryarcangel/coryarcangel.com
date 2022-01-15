@@ -35,6 +35,11 @@ layout: shows
 	<br>
 	{% endif %}	
 	
+	{% if page.live_url != ""  %}
+	<b>Url: </b><a href="{{ page.live_url }}">{{ page.live_url }}↪</a>
+	<br>
+	{% endif %}	
+	
 	{% assign things_list = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
 	{% if things_list.size != 0 %}
 	<b>Things ↴️</b>

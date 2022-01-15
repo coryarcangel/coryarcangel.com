@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Creative Pursuits
 url: creative-pursuits
+live_url: ''
 year: '2010'
 venue: University of Michigan Museum of Art
 state_country: Ann Arbor

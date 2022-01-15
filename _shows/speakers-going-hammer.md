@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Speakers Going Hammer
 url: speakers-going-hammer
+live_url: ''
 year: '2011'
 venue: Lisson Gallery
 state_country: London

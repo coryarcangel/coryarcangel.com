@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: All The Small Things
 url: all-the-small-things
+live_url: ''
 year: '2014'
 venue: Herning Museum of Contemporary Art
 state_country: Herning

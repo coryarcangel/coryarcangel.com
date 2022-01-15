@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Nerdzone Version 1
 url: nerdzone-version-1
+live_url: ''
 year: '2005'
 venue: Migros Museum für Gegenwartskunst
 state_country: Zurich

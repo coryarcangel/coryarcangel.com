@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: This Is All So Crazy, Everybody Seems So Famous
 url: this-is-all-so-crazy-everybody-seems-so-famous
+live_url: ''
 year: '2015'
 venue: Gamec
 state_country: Bergamo

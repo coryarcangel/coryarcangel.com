@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Masters
 url: masters
+live_url: ''
 year: '2012'
 venue: Carnegie Museum of Art
 state_country: Pittsburgh

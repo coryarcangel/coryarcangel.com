@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Frieze LA
 url: frieze-la
+live_url: ''
 year: '2020'
 venue: Frieze Art Fair (w Greene Naftali)
 state_country: LA

@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Hot Topics
 url: hot-topics
+live_url: ''
 year: '2015'
 venue: Lisson Gallery
 state_country: Milan

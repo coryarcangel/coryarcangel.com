@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Overwrite
 url: overwrite
+live_url: ''
 year: '2020'
 venue: Greene Naftali Gallery
 state_country: New York

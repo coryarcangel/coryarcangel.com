@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Synthetic
 url: synthetic
+live_url: ''
 year: '2009'
 venue: Whitney Museum of American Art
 state_country: New York

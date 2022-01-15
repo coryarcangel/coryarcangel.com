@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: currentmood
 url: currentmood1
+live_url: ''
 year: '2017'
 venue: Independent Art Fair (w/ Triple Canopy)
 state_country: New York

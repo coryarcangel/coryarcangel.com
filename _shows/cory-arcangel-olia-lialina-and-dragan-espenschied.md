@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Cory Arcangel + Olia Lialina and Dragan Espenschied
 url: cory-arcangel-olia-lialina-and-dragan-espenschied
+live_url: ''
 year: '2008'
 venue: And / Or Gallery
 state_country: Dallas

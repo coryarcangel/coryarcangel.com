@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Toys Redux – On Play and Critique
 url: toys-redux-on-play-and-critique
+live_url: ''
 year: '2015'
 venue: Migros Museum für Gegenwartskunst
 state_country: Zurich

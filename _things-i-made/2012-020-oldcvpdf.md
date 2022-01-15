@@ -3,7 +3,7 @@ ee_id_thing: '2229'
 site: '1'
 type: '2'
 inv_num: 2012-020
-url: 2012-020-oldcv.pdf
+url: 2012-020-oldcvpdf
 title: oldcv.pdf
 year: '2012'
 display_year: '2012'

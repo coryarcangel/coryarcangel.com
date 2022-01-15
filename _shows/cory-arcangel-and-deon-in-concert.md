@@ -4,6 +4,7 @@ site: '1'
 type: '5'
 title: Cory Arcangel & D'Eon in Concert
 url: cory-arcangel-and-deon-in-concert
+live_url: ''
 year: '2014'
 venue: The Metropolitan Museum of Art
 state_country: New York
