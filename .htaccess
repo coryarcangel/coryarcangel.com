@@ -10,6 +10,11 @@ RewriteEngine on
 
 RewriteEngine on
 
+#Force non-www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www.coryarcangel.com [NC]
+RewriteRule ^(.*)$ https://coryarcangel.com/$1 [L,R=302]
+
 #example.com/page/ will display the contents of example.com/page.html if dir doesn't exist
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule (.+)/$ /$1 [L,R=302]
