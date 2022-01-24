@@ -10,14 +10,9 @@ RewriteEngine on
 
 RewriteEngine on
 
-#Force non-www:
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^www.coryarcangel.com [NC]
-RewriteRule ^(.*)$ https://coryarcangel.com/$1 [L,R=302]
-
 #example.com/page/ will display the contents of example.com/page.html if dir doesn't exist
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule (.+)/$ /$1 [L,R=302]
+RewriteRule (.+)/$ /$1 [L,R=301]
 
 #example.com/page will display the contents of example.com/page.html
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -25,3 +20,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+)$ $1.html [L,QSA]
 
+#Force https
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [L,NE,R=302]
