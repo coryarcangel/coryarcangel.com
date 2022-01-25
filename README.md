@@ -1,5 +1,13 @@
 # coryarcangel.com
 
+ASCII Character Codes:
+
+		
+p = ASCII 112
+u = ASCII 117
+k = ASCII 107
+e = ASCII 101
+
 Website for coryarcangel.com
 
 Usage: 
