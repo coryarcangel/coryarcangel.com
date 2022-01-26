@@ -7,6 +7,7 @@ hello
 	
 {% assign showz_list = '' | split: '' %}
 {% assign shows_list = site.data.shows | where: "ee_id_show","5000" %}
+shows_list:  
 {% for shows in shows_list %}
   <li>
       <a href="{{ shows.url }}">
@@ -14,7 +15,7 @@ hello
       </a>
   </li>
 {% endfor %}
-
+showz_list:  
 {% assign showz_list = site.data.shows | where: "ee_id_show","5000" %}
 {% for showz_current in showz_list %}		
 <li>
