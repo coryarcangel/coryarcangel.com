@@ -74,7 +74,8 @@ layout: things-i-made
 	{% if shows_list.size != 0 %}
 	<b>Shows ↴</b>
 	<ul>
-		{% for item in shows_list | sort: "year" | reverse %}
+		{% assign shows_list = shows_list | sort: "year" | reverse %}	
+		{% for item in shows_list %}
 			<li>
 			<a href="../shows/{{ item.url }}">
       			{{ item.venue }}, <i>{{ item.title }}</i>, {{ item.year }}
