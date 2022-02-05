@@ -40,22 +40,27 @@ layout: shows
 	<br>
 	{% endif %}	
 	
-	{% assign things_list = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
+	{% assign things_thingsXshows = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
+	{% assign things_list = '' | split: '' %}
+	{% for item in things_thingsXshows %}
+		{% assign things_things = site.data.things | where:"inv_num",item.inv_num %}
+		{% for item2 in things_things %}		
+			{% assign things_list = things_list | push: item2 %}	
+		{% endfor %}	
+	{% endfor %}
 	{% if things_list.size != 0 %}
-	<b>Things ↴️</b>
-	<ul>
-		{% for things in things_list %}
-			{% assign inv_num_things = site.data.things | where:"inv_num",things.inv_num | sort: "year" | reverse %}
-			{% for inv_num_things_current in inv_num_things %}		
+	<b>Things ↴</b>
+		<ul>
+		{% assign things_list = things_list | sort: "year" | reverse %}	
+		{% for item in things_list %}
 			<li>
       		<a href="../things-i-made/{{ inv_num_things_current.url }}">
-      		{{ inv_num_things_current.title }}, {{ inv_num_things_current.year }}
+      		{{ item.title }}, {{ item.year }}
       		</a>
  			</li>		
-			{% endfor %}	
 		{% endfor %}
+		</ul>		
 	{% endif %}	
-	</ul>	
 		
 	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
