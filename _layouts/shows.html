@@ -54,7 +54,7 @@ layout: shows
 		{% assign things_list = things_list | sort: "year" | reverse %}	
 		{% for item in things_list %}
 			<li>
-      		<a href="../things-i-made/{{ inv_num_things_current.url }}">
+      		<a href="../things-i-made/{{ item.url }}">
       		{{ item.title }}, {{ item.year }}
       		</a>
  			</li>		
