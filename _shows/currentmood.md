@@ -13,7 +13,7 @@ pitch: Liked so much how all the Lakes looked lined up in Munich, kinda wanted 2
   doing, but turned out well (I thought). Also, there was kinda def (ining) audio.
   Last show of a run of shows which started in 2014.
 ps: ''
-imgs: lisson-london-2016-05-install-01-database-JH.jpg,lisson-london-2016-05-install-02-database-JH.jpg,Lisson-laondon-2016-05-install-03-database-JH.jpg,lisson-london-2016-05-install-05-database-JH.jpg,lisson-london-2016-05-install-04-database-JH.jpg,lisson-london-2016-05-install-09-database-JH.jpg,lisson-london-2016-05-install-10-database-JH.jpg,lisson-london-2016-05-install-16-database-JH.jpg,lisson-london-2016-05-install-17-database-JH.jpg,lisson-london-2016-05-install-19-database-JH.jpg
+imgs: lisson-london-2016-05-install-01-database-JH.jpg,lisson-london-2016-05-install-02-database-JH.jpg,lisson-london-2016-05-install-03-database-JH.jpg,lisson-london-2016-05-install-05-database-JH.jpg,lisson-london-2016-05-install-04-database-JH.jpg,lisson-london-2016-05-install-09-database-JH.jpg,lisson-london-2016-05-install-10-database-JH.jpg,lisson-london-2016-05-install-16-database-JH.jpg,lisson-london-2016-05-install-17-database-JH.jpg,lisson-london-2016-05-install-19-database-JH.jpg
 things: "[4341] [2016-018-hank] 2016-018 Hank,[4342] [2016-019-30-pour] 2016-019 30
   pour,[4343] [2016-021-brooklyn-20110811-00159] 2016-021 Brooklyn 20110811-00159,[4344]
   [2016-025-manson] 2016-025 Manson,[4345] [2016-030-rbf] 2016-030 RBF,[4346] [2016-033-mig-29-soviet-fighter-plane-clouds-and-os-x]
