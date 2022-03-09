@@ -1,3 +1,15 @@
+      Bindery.PageBreak({selector: 'h1', position: 'before' })
+
+{% if page.imgs != "" %}
+	{% assign images = things.imgs | split: ',' %}
+	{% for image in images %}
+  		<img src="../assets/imgs/{{ image }}">
+	{% endfor %}
+	{% else %}	
+	<img src="../assets/x.svg">
+{% endif %}	
+
+
 1vmax
 1vmin
 

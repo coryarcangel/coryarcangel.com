@@ -4,6 +4,7 @@ layout: csv
 <!doctype html>
 <html>
   <head>
+  	<link rel="stylesheet" href="{{ site.url }}/coryarcangel-print.css"> 
 	<div id="content">
  	 <!-- The contents of your book -->
  	 {{ content }}
@@ -13,11 +14,12 @@ layout: csv
   Bindery.makeBook({
     content: '#content',
     rules: [
-      Bindery.PageBreak({ selector: 'hr', position: 'after' }),
       Bindery.FullBleedSpread({ selector: '.big-figure' }),
+      Bindery.PageBreak({selector: 'h1', position: 'before' })
     ],
-  });
+  }); 
 </script>
     <body>  
 	</body>
 </html>
+
