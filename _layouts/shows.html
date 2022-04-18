@@ -27,11 +27,11 @@ layout: shows
     <b>Year: </b>{{ page.year }}
     <br>
 	{% if page.pitch != ""  %}
-	<b>ps: </b>{{ page.pitch }}
+	<b>pitch: </b>{{ page.pitch }}
 	<br>
 	{% endif %}	
 	{% if page.ps != ""  %}
-	ps - {{ page.ps }}
+	<b>ps: </b> {{ page.ps }}
 	<br>
 	{% endif %}	
 	
@@ -62,11 +62,16 @@ layout: shows
 		</ul>		
 	{% endif %}	
 		
+	{% if page.imgs != "" %}
 	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
   	<img src="../assets/imgs/{{ image }}">
   	<br>
 	{% endfor %}
+	{% else %}	
+	<img src="../assets/x.svg" width=1080>
+	{% endif %}	
+	
 	{% include puke.html %}
 	©
   </body>
