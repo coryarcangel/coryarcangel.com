@@ -26,7 +26,7 @@ ps: 'All details at micosite! '
 live_url: https://rodeo.computer/
 related: ''
 youtube: ''
-related_code: ''
+related_code: https://github.com/coryarcangel/rodeo-lets-play
 imgs: ''
 subheading: ''
 download: ''
