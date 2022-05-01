@@ -2,6 +2,7 @@ body
 {
 	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
 	font-size: 32px;
+	margin: 1%;
 }
 p 
 {
@@ -22,7 +23,7 @@ img
 .fix
 {
     position:fixed;
-    bottom:5%;
-    right:5%;
+    bottom:1%;
+    right:1%;
     width:15%;
 }
