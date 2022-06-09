@@ -3,6 +3,7 @@ ee_id_thing: '78'
 site: '1'
 type: '2'
 inv_num: 2011-006
+add_credit:
 url: 2011-006-photoshop-cs
 title: 'Photoshop CS: 84 by 66 inches, 300 DPI, RGB, square pixels, default gradient
   "Blue, Red, Yellow" (turn reverse on), mousedown y=25150 x=0, mouseup y=0 x=19750'
@@ -10,16 +11,15 @@ year: '2011'
 display_year: '2011'
 medium: Chromogenic print
 dims: 87 x 69 inches
-pitch: ''
-ps: ''
-live_url: ''
-related: ''
-youtube: ''
-related_code: ''
+pitch:
+ps:
+live_url:
+youtube:
+related_code:
 imgs: photoshop-cs-2011-006-full-cropped-database-AR.jpg
-subheading: ''
-download: ''
-add_credit: ''
-commission: ''
+subheading:
+download:
+commission:
+related:
 layout: things-i-made
 ---

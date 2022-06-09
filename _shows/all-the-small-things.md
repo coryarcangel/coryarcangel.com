@@ -4,14 +4,14 @@ site: '1'
 type: '5'
 title: All The Small Things
 url: all-the-small-things
-live_url: ''
+live_url:
 year: '2014'
 venue: Herning Museum of Contemporary Art
 state_country: Herning
 pitch: Wasn’t doing IRL shows of nu work 4 a few years (needed a break, lol)…. so
   this one was a chill opportunity 2 try out all the nu ideas I had since my 2011
   Whitney &amp; Lisson shows .....
-ps: ''
+ps:
 imgs: Heart-Denmark-2014-03-install-02-database-SM.jpg,Heart-Denmark-2014-03-install-01-database-SM.jpg,Heart-Denmark-2014-03-install-03-database-SM.jpg,Heart-Denmark-2014-03-install-05-database-SM.jpg,Heart-Denmark-2014-03-install-08-database-SM.jpg,Heart-Denmark-2014-03-install-07-database-SM.jpg,Heart-Denmark-2014-03-install-13-database-SM.jpg,Heart-Denmark-2014-03-install-14-database-SM.jpg,Heart-Denmark-2014-03-install-15-press-SM.jpg
 things: "[121] [2011-115-self-playing-nintendo-64-nba-courtside-2] 2011-115 Self Playing
   Nintendo 64 NBA Courtside 2,[210] [2008-003-permanent-vacation] 2008-003 Permanent
@@ -39,5 +39,6 @@ things: "[121] [2011-115-self-playing-nintendo-64-nba-courtside-2] 2011-115 Self
   2014-034 Tools,[4240] [2013-197-since-u-been-gone-music-for-stereos] 2013-197 Since
   U Been Gone / Music For Stereos,[4241] [2013-199-the-source-sculpture] 2013-199
   The Source (sculpture)"
+status:
 layout: shows
 ---

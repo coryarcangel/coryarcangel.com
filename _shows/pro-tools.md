@@ -4,13 +4,13 @@ site: '1'
 type: '5'
 title: Pro Tools
 url: pro-tools
-live_url: ''
+live_url:
 year: '2011'
 venue: Whitney Museum of American Art
 state_country: New York
 pitch: "​All nu work 4 a show @ the Whitney. Almost put me in the grave making all
   this stuff in 9 months. Hope u like it! "
-ps: ''
+ps:
 imgs: whitney-ny-2011-05-full-3-database-SC.jpg,whitney-ny-2011-05-install-10-database-AR.jpg,whitney-ny-2011-05-install-13-database-AR.jpg,whitney-ny-2011-05-install-14-database-AR.jpg,whitney-ny-2011-05-install-15-database-AR.jpg,whitney-ny-2011-05-install-17-database-AR.jpg,whitney-ny-2011-05-install-11-database-AR_1.jpg
 things: "[73] 2011-001 Photoshop CS - 2011-001-photoshop-cs,[75] 2011-003 Photoshop
   CS - 2011-003-photoshop-cs,[76] 2011-004 Photoshop CS - 2011-004-photoshop-cs,[78]
@@ -30,5 +30,6 @@ things: "[73] 2011-001 Photoshop CS - 2011-001-photoshop-cs,[75] 2011-003 Photos
   2011-075 Palms - 2011-075-palms,[132] 2011-127 Weekend at Bernies Screening at the
   Whitney Museum - 2011-127-weekend-at-bernies-screening-at-the-whitney-museum,[103]
   2011-010 Research in Motion (Kinetic Sculpture #6) - 2011-010-research-in-motion-kinetic-sculpture-6"
+status:
 layout: shows
 ---

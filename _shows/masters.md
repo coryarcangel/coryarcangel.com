@@ -4,7 +4,7 @@ site: '1'
 type: '5'
 title: Masters
 url: masters
-live_url: ''
+live_url:
 year: '2012'
 venue: Carnegie Museum of Art
 state_country: Pittsburgh
@@ -29,5 +29,6 @@ things: "[7] 2002-001 Super Mario Clouds - supermarioclouds,[11] 2003-002 Data D
   - 2012-150-carnegie-brochure,[2217] 2011-156 The AUDMCRS Underground Dance Music
   Collection of Recorded Sound - 2011-156-the-audmcrs-underground-dance-music-collection-of-recorded-sound,[2228]
   2012-065 AUDMCRS Essay - 2012-065-audmcrs-essay"
+status:
 layout: shows
 ---

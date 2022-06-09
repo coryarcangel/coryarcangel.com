@@ -4,14 +4,14 @@ site: '1'
 type: '5'
 title: Image is Everything
 url: image-is-everything
-live_url: ''
+live_url:
 year: '2010'
 venue: Galerie Thaddaeus Ropac
 state_country: Paris
 pitch: 'First show of all new work I did with leaving the lights on in the gallery.
   Took the title from the Agassi book I was reading at the time. Highly recommended
   (the book)! '
-ps: ''
+ps:
 imgs: Ropac-Paris-2010-11-install-1-database-GR.jpg,Ropac-Paris-2010-11-install-2-database-GR.jpg,Ropac-Paris-2010-11-install-3-database-GR.jpg
 things: "[72] 2010-003 Theres Always One At Every Party - 2010-003-theres-always-one-at-every-party,[144]
   2010-076 Sports Products - 2010-076-sports-products,[145] 2010-077 Sports Products
@@ -24,5 +24,6 @@ things: "[72] 2010-003 Theres Always One At Every Party - 2010-003-theres-always
   Flash! - 2010-021-bronzer-flash,[141] 2010-044 Photoshop CS - 2010-044-photoshop-cs,[142]
   2010-045 Photoshop CS - 2010-045-photoshop-cs,[140] 2010-046 Photoshop CS - 2010-046-photoshop-cs,[143]
   2010-047 Photoshop CS - 2010-047-photoshop-cs"
+status:
 layout: shows
 ---

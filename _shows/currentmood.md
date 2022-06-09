@@ -4,7 +4,7 @@ site: '1'
 type: '5'
 title: currentmood
 url: currentmood
-live_url: ''
+live_url:
 year: '2016'
 venue: Lisson Gallery
 state_country: London
@@ -12,7 +12,7 @@ pitch: Liked so much how all the Lakes looked lined up in Munich, kinda wanted 2
   how all my work mashed together would look. Otherwise, not exactly sure what I wz
   doing, but turned out well (I thought). Also, there was kinda def (ining) audio.
   Last show of a run of shows which started in 2014.
-ps: ''
+ps:
 imgs: lisson-london-2016-05-install-01-database-JH.jpg,lisson-london-2016-05-install-02-database-JH.jpg,lisson-london-2016-05-install-03-database-JH.jpg,lisson-london-2016-05-install-05-database-JH.jpg,lisson-london-2016-05-install-04-database-JH.jpg,lisson-london-2016-05-install-09-database-JH.jpg,lisson-london-2016-05-install-10-database-JH.jpg,lisson-london-2016-05-install-16-database-JH.jpg,lisson-london-2016-05-install-17-database-JH.jpg,lisson-london-2016-05-install-19-database-JH.jpg
 things: "[4341] [2016-018-hank] 2016-018 Hank,[4342] [2016-019-30-pour] 2016-019 30
   pour,[4343] [2016-021-brooklyn-20110811-00159] 2016-021 Brooklyn 20110811-00159,[4344]
@@ -23,5 +23,6 @@ things: "[4341] [2016-018-hank] 2016-018 Hank,[4342] [2016-019-30-pour] 2016-019
   [2016-055-climacool] 2016-055\tclimacool,[4353] [2016-056-love-pink] 2016-056\tlove
   pink,[4355] [2016-036-photoshop-cs] 2016-036 Photoshop CS,[4356] [2016-057-photoshop-cs]
   2016-057\tPhotoshop CS"
+status:
 layout: shows
 ---

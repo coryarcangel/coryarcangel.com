@@ -4,7 +4,7 @@ site: '1'
 type: '5'
 title: Cory Arcangel For New Jerseyy
 url: cory-arcangel-for-new-jerseyy
-live_url: ''
+live_url:
 year: '2010'
 venue: New Jerseyy & Tate Modern
 state_country: Cyberspace
@@ -15,5 +15,6 @@ ps: "​Also possibly of interest, is this was the only participation of New Jer
 imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
 things: "[96] [2010-057-cory-arcangel-for-new-jerseyy] 2010-057 Cory Arcangel for
   New Jerseyy"
+status:
 layout: shows
 ---

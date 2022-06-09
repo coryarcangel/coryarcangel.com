@@ -4,13 +4,13 @@ site: '1'
 type: '5'
 title: 'Asymmetrical Response: Cory Arcangel And Olia Lialina'
 url: asymmetrical-response-ibiza
-live_url: ''
+live_url:
 year: '2017'
 venue: Art Projects Ibiza & Lune Rouge
 state_country: Ibiza
 pitch: The last one of the 2 year touring showz w Olia Lialina! Had a big room club,
   pop-up, concert LED and even lasers. Ran during the Ibiza “season”. :)
-ps: ''
+ps:
 imgs: art-projects-ibiza-2017-06-2017-19-install-database-er--2rUT.jpg,art-projects-ibiza-2017-06-2017-18-install-database-er--OnMP.jpg,art-projects-ibiza-2017-06-installation-database-ER-23.jpg,art-projects-ibiza-2017-06-install-database-21-ER.jpg,art-projects-ibiza-2017-06-install-database-06.jpg,art-projects-ibiza-2017-06-install-database-16-ER.jpg,art-projects-ibiza-2017-06-install-database-10-ER.jpg,art-projects-ibiza-2017-06-install-database-08-ER.jpg,art-projects-ibiza-2017-06-install-database-22-ER.jpg,art-projects-ibiza-2017-06-install-database-17-ER.jpg,art-projects-ibiza-2017-06-install-database-09-ER.jpg,art-projects-ibiza-2017-06-install-database-12-ER.jpg,art-projects-ibiza-2017-06-install-database-20-ER.jpg,ar-ibiza-2018-06-database-er--t2wF.jpg
 things: "[147] [2010-079-skipping-stones] 2010-079 Skipping Stones,[2217] [2011-156-audmcrs-installation]
   2011-156 The AUDMCRS Underground Dance Music Collection of Recorded Sound,[4239]
@@ -22,5 +22,6 @@ things: "[147] [2010-079-skipping-stones] 2010-079 Skipping Stones,[2217] [2011-
   CS,[4383] [2017-023-three-stripes] 2017-023 Three stripes,[4390] [2017-041-asymmetrical-response-reader-ibiza]
   2017-041 Asymmetrical Response Reader: Ibiza (SRF-041),[4416] [2017-020-asymmetrical-response]
   2017-020 Asymmetrical Response"
+status:
 layout: shows
 ---

@@ -4,12 +4,12 @@ site: '1'
 type: '5'
 title: All The Small Things
 url: all-the-small-things-2
-live_url: ''
+live_url:
 year: '2014'
 venue: Reykjavik Art Museum
 state_country: Reykjavik
 pitch: Traveling show (came form Denmark). Iceland was so sick. OMG. Amazing place.
-ps: ''
+ps:
 imgs: Reykjavik-Art-Museum-2015-001-install-004-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-024-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-026-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-033-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-036-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-037-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-035-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-003-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-005-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-015-database-pt.jpg,Reykjavik-Art-Museum-2015-001-install-022-database-pt.jpg
 things: "[121] [2011-115-self-playing-nintendo-64-nba-courtside-2] 2011-115 Self Playing
   Nintendo 64 NBA Courtside 2,[210] [2008-003-permanent-vacation] 2008-003 Permanent
@@ -35,5 +35,6 @@ things: "[121] [2011-115-self-playing-nintendo-64-nba-courtside-2] 2011-115 Self
   2014-047 Scene Girls,[4238] [2014-034-tools] 2014-034 Tools,[4239] [2014-051-you-only-live-once]
   2014-051 You Only Live Once,[4241] [2013-199-the-source-sculpture] 2013-199 The
   Source (sculpture)"
+status:
 layout: shows
 ---

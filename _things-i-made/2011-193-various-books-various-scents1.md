@@ -3,6 +3,7 @@ ee_id_thing: '2213'
 site: '1'
 type: '2'
 inv_num: 2011-193
+add_credit:
 url: 2011-193-various-books-various-scents1
 title: Various Books, Various Scents
 year: '2011'
@@ -20,14 +21,13 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
   by Brian O’Doherty and <i>Parisienne </i>by Yves Saint Laurent; <i>PUNK 365</i>
   by Holly George-Warren, foreword by Richard Hell and <i>Ready to Rock</i> by Hannah
   Montana "
-live_url: ''
-related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
-youtube: ''
-related_code: ''
+live_url:
+youtube:
+related_code:
 imgs: various-books-scents-2011-193-full-database-Team.jpg
-subheading: ''
-download: ''
-add_credit: ''
-commission: ''
+subheading:
+download:
+commission:
+related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
 layout: things-i-made
 ---

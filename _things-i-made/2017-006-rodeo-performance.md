@@ -3,6 +3,7 @@ ee_id_thing: na
 site: na
 type: na
 inv_num: 2017-006
+add_credit:
 url: 2017-006-rodeo-performance
 title: "/roʊˈdeɪoʊ/ Let's Play: HOLLYWOOD"
 year: '2021'
@@ -24,13 +25,12 @@ pitch: 'A custom built & programmed high performance machine learning computer w
   fans in order to become A-List celebrities. '
 ps: 'All details at micosite! '
 live_url: https://rodeo.computer/
-related: ''
-youtube: ''
+youtube:
 related_code: https://github.com/coryarcangel/rodeo-lets-play
-imgs: ''
-subheading: ''
-download: ''
-add_credit: ''
-commission: ''
+imgs:
+subheading:
+download:
+commission:
+related:
 layout: things-i-made
 ---

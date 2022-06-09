@@ -4,13 +4,13 @@ site: '1'
 type: '5'
 title: 'Arcangel Surfware X NYABF 2019: Flagship'
 url: arcangel-surfware-x-nyabf-2019multifunctions
-live_url: ''
+live_url:
 year: '2019'
 venue: NYABF
 state_country: New York
 pitch: "​Surfware wz back at NYABF! Tiny tiny tiny tiny version of our flagship. Hot
   tickets: multi-function scarves &amp; “flatware” airplane pillows."
-ps: ''
+ps:
 imgs: nyabf-2019-09-web-ih--Zh3r.jpg,nyabf-2019-09-web-ih--3spL.jpg,nyabf-2019-09-web-ih--KJuk.jpg
 things: "[4297] [2015-159-fuck-negativity-sweatpants-srf-027] 2015-159 Fuck Negativity
   Sweatpants (SRF-027),[4298] [2015-158-fuck-negativity-hoodie-srf-026] 2015-158 Fuck
@@ -21,5 +21,6 @@ things: "[4297] [2015-159-fuck-negativity-sweatpants-srf-027] 2015-159 Fuck Nega
   2016-078 Fuck Negativity White Hoodie (SRF-035),[4368] [2016-079-fuck-negativity-white-t-shirt-srf-034]
   2016-079 Fuck Negativity White T-Shirt (SRF-034),[4451] [2018-052-multi-function-scarf]
   2018-052 Multi-function scarf"
+status:
 layout: shows
 ---

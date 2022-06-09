@@ -4,14 +4,14 @@ site: '1'
 type: '5'
 title: 'Arcangel Surfware x NYABF 2015: The Source'
 url: the-source
-live_url: ''
+live_url:
 year: '2015'
 venue: NYABF
 state_country: New York
 pitch: "​Arcangel Surfware pop-up. Debuted a few nu issues of The Source, and showed
   them along with a few works referenced in them. Sold over a quarter of a million
   lines of source code!"
-ps: ''
+ps:
 imgs: the-source-nyabf-2015-09-install-1-database-EK.jpg,the-source-nyabf-2015-09-install-5-database-AT.jpg,the-source-nyabf-2015-09-install-4-database-EK.jpg,the-source-nyabf-2015-09-install-8-website-EK.jpg
 things: "[9] [2002-002-i-shot-andy-warhol] 2002-002 I Shot Andy Warhol,[4111] [2013-117-the-source-desktop-wireform]
   2013-117 The Source Issue 1 Desktop Wireform (SRF-014),[4112] [2013-133-the-source-issue-3-i-shot-andy-warhol]
@@ -23,5 +23,6 @@ things: "[9] [2002-002-i-shot-andy-warhol] 2002-002 I Shot Andy Warhol,[4111] [2
   2013-140 The Source Issue 7 Dooogle  (SRF-23),[4215] [2013-134-the-source-issue-8-six-sixty-six]
   2013-134 The Source Issue 8 Six Sixty Six  (SRF-24),[4413] [2015-173-arcangel-surfware-x-nyabf-2015-the-source]
   2015-173 Arcangel Surfware x NYABF 2015: The Source"
+status:
 layout: shows
 ---

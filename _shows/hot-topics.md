@@ -4,7 +4,7 @@ site: '1'
 type: '5'
 title: Hot Topics
 url: hot-topics
-live_url: ''
+live_url:
 year: '2015'
 venue: Lisson Gallery
 state_country: Milan
@@ -18,5 +18,6 @@ things: "[4251] [2015-001-high-lyfe] 2015-001 High Lyfe,[4252] [2015-002-leafs] 
   First Class,[4255] [2015-005-started-the-bottom] 2015-005 Started @ The Bottom,[4256]
   [2015-006-misfits] 2015-006 Misfits,[4257] [2015-007-your-performance] 2015-007
   Your Performance"
+status:
 layout: shows
 ---

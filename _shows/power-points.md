@@ -4,7 +4,7 @@ site: '1'
 type: '5'
 title: Power Points
 url: power-points
-live_url: ''
+live_url:
 year: '2013'
 venue: DHC/ART Foundation
 state_country: Montreal
@@ -27,5 +27,6 @@ things: '[7] [supermarioclouds] 2002-001 Super Mario Clouds,[9] [ishotandywarhol
   2006-023 The Bruce Springsteen "Born to Run" Glockenspiel Addendum (Sound),[2217]
   [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground Dance Music Collection
   of Recorded Sound,[2242] [2013-063-audmcrs-website] 2013-063 AUDMCRS website'
+status:
 layout: shows
 ---

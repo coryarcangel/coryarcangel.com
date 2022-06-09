@@ -3,12 +3,13 @@ ee_id_thing: '20'
 site: '1'
 type: '2'
 inv_num: 2005-001
+add_credit: Paper Rad
 url: 2005-001-super-mario-movie
 title: Super Mario Movie
 year: '2005'
 display_year: '2005'
 medium: Modded Super Mario Brothers cartridge.
-dims: ''
+dims:
 pitch: "​15 minute movie programmed onto a Mario Brothers cartridge."
 ps: "​First check out the ROM below. You can load this up in a NES emulator to watch
   this movie. It’s better then the youtube, trust me! Also it’s legit. Also, check
@@ -18,14 +19,13 @@ ps: "​First check out the ROM below. You can load this up in a NES emulator to
   NES heads out there, the code also might be of interest because it contains a very
   simple built from scratch music sequencer, a rudimentary animation engine, and an
   RLE scheme to compress backgrounds."
-live_url: ''
-related: ''
+live_url:
 youtube: https://www.youtube.com/watch?v=JN-WCA5-Qxs
 related_code: https://github.com/coryarcangel/Super-Mario-Movie
 imgs: mario-movie-2005-001-cartridge-database-ih.jpg,mario-movie-2005-001-screenshot-1-database-ih.jpg,mario-movie-2005-001-screenshot-2-database-ih.jpg,mario-movie-2005-001-screenshot-10-database-ih.jpg,mario-movie-2005-001-screenshot-15-database-ih.jpg,mario-movie-2005-001-screenshot-11-database-ih.jpg
-subheading: ''
-download: ''
-add_credit: Paper Rad
-commission: ''
+subheading:
+download:
+commission:
+related:
 layout: things-i-made
 ---

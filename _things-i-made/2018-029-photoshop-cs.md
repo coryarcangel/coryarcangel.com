@@ -3,6 +3,7 @@ ee_id_thing: '4448'
 site: '1'
 type: '2'
 inv_num: 2018-029
+add_credit:
 url: 2018-029-photoshop-cs
 title: 'Photoshop CS: 84 by 240 inches, 300 DPI, RGB, square pixels, default gradient
   “Spectrum”, mousedown y=25130 x=35700, mouseup y=0 x= 35700; tool "Wand", select
@@ -12,16 +13,15 @@ year: '2018'
 display_year: '2018'
 medium: Chromogenic print
 dims: 84 x 240 inches
-pitch: ''
-ps: ''
-live_url: ''
-related: ''
-youtube: ''
-related_code: ''
+pitch:
+ps:
+live_url:
+youtube:
+related_code:
 imgs: photoshop-cs--2018-029-db-ih--YRBL.jpg
-subheading: ''
-download: ''
-add_credit: ''
-commission: ''
+subheading:
+download:
+commission:
+related:
 layout: things-i-made
 ---

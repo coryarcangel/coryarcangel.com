@@ -3,6 +3,7 @@ ee_id_thing: '187'
 site: '1'
 type: '2'
 inv_num: 2004-003
+add_credit:
 url: 2004-003-super-slow-tetris
 title: Super Slow Tetris
 year: '2004'
@@ -17,17 +18,16 @@ ps: ​This was originally called "Tetris Screwed". It takes about 8 hours for t
   which are interactive (see related works below for other upsetting interactive stuff).
   Also of note, for NES nerds out there, this was a binary hack, as the delay loop
   was written by hand in 6502 binary! Step to that!
-live_url: ''
+live_url:
+youtube:
+related_code:
+imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-2004-003-screenshot-3-database-ih.jpg,super-slow-tetris-2004-003-screenshot-4-database-ih.jpg,super-slow-tetris-2004-003-screenshot-5-database-ih.jpg,super-slow-tetris-2004-003-screenshot-7-database-ih.jpg,super-slow-tetris-2004-003-screenshot-8-database-ih.jpg
+subheading:
+download:
+commission:
 related: |-
   [17] 2004-006 Dooogle - 2004-006-dooogle
   [64] 2010-023 Composition #7 - 2010-023-composition-7
   [14] 2004-001 Space Invader - 2004-001-space-Invader
-youtube: ''
-related_code: ''
-imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-2004-003-screenshot-3-database-ih.jpg,super-slow-tetris-2004-003-screenshot-4-database-ih.jpg,super-slow-tetris-2004-003-screenshot-5-database-ih.jpg,super-slow-tetris-2004-003-screenshot-7-database-ih.jpg,super-slow-tetris-2004-003-screenshot-8-database-ih.jpg
-subheading: ''
-download: ''
-add_credit: ''
-commission: ''
 layout: things-i-made
 ---

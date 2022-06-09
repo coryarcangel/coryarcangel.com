@@ -3,12 +3,13 @@ ee_id_thing: '108'
 site: '1'
 type: '2'
 inv_num: 2011-092
+add_credit:
 url: 2011-092-whitney-brochure
 title: Whitney Brochure
 year: '2011'
 display_year: '2011'
 medium: Brochure
-dims: ''
+dims:
 pitch: Brochure with 8 free prints included. Edition unknown (a few thousand?).
 ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This was
   also kinda the take away "catalog" for the show, aka it wz free and available at
@@ -22,14 +23,13 @@ ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This
   Therefore you will notice the brochure at the Whitney has no staple, … anyway, during
   the show ppl didn't seem to get this brochure had 8 free lithos in them, so more
   power to whoever took them and kept them. :)
-live_url: ''
-related: ''
-youtube: ''
-related_code: ''
+live_url:
+youtube:
+related_code:
 imgs: whitney-brochure-2011-092-detail-database.jpg
-subheading: ''
+subheading:
 download: arcangel_brochure.pdf
-add_credit: ''
-commission: ''
+commission:
+related:
 layout: things-i-made
 ---

@@ -4,12 +4,12 @@ site: '1'
 type: '5'
 title: Nerdzone Version 1
 url: nerdzone-version-1
-live_url: ''
+live_url:
 year: '2005'
 venue: Migros Museum für Gegenwartskunst
 state_country: Zurich
 pitch: "​Kinda a pixel show. Lotsa game / software stuff. "
-ps: ''
+ps:
 imgs: migros-zurich-2005-04-install-1-database-qm.jpg,migros-zurich-2005-04-install-2-database-qm.jpg,migros-zurich-2005-04-install-3-database-qm.jpg
 things: "[185] 2005-021 Super Landscape #1 - 2005-021-super-landscape-1,[14] 2004-001
   Space Invader - 2004-001-space-invader,[187] 2004-003 Super Slow Tetris - 2004-003-super-slow-tetris,[9]
@@ -20,5 +20,6 @@ things: "[185] 2005-021 Super Landscape #1 - 2005-021-super-landscape-1,[14] 200
   Mega Jam - 2005-028-migros-nintendo-mega-jam,[7] 2002-001 Super Mario Clouds - supermarioclouds,[15]
   2004-002 F1 Racer Mod (aka Japanese Driving Game) - 2004-002-f1-racer-mod,[40] 2004-014
   Sans Simon - 2004-014-sans-simon,[2148] 2005-032 Cory Arcangel (Monograph) - 2006-032-cory-arcangel-monograph"
+status:
 layout: shows
 ---

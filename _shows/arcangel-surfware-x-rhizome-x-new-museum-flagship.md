@@ -4,13 +4,13 @@ site: '1'
 type: '5'
 title: 'Arcangel Surfware X Rhizome X New Museum: Flagship'
 url: arcangel-surfware-x-rhizome-x-new-museum-flagship
-live_url: ''
+live_url:
 year: '2019'
 venue: New Museum
 state_country: New York
 pitch: Built a copy of the Arcangel Surfware Flagship at the New Museum 4 one day!
   Thx Rhizome.&nbsp;
-ps: ''
+ps:
 imgs: rhizome-flagship-2019-05-web-ih--aFCU.jpg,rhizome-flagship-2019-05-web-ih--ByaI.jpg,rhizome-flagship-2019-05-web-ih--C9Jd.jpg,rhizome-flagship-2019-05-web-ih--ctyY.jpg,rhizome-flagship-2019-05-web-ih--gHca.jpg,rhizome-flagship-2019-05-web-ih--gWVA.jpg,rhizome-flagship-2019-05-web-ih--Kf1f.jpg,rhizome-flagship-2019-05-web-ih--PoVD.jpg,rhizome-flagship-2019-05-web-ih--rCtD.jpg,rhizome-flagship-2019-05-web-ih--RgYi.jpg,rhizome-flagship-2019-05-web-ih--Xa05.jpg,rhizome-flagship-2019-05-web-ih--VmI3.jpg,rhizome-flagship-2019-05-web-ih--xDnP.jpg
 things: "[4111] [2013-117-the-source-desktop-wireform] 2013-117 The Source Issue 1
   Desktop Wireform (SRF-014),[4112] [2013-133-the-source-issue-3-i-shot-andy-warhol]
@@ -32,5 +32,6 @@ things: "[4111] [2013-117-the-source-desktop-wireform] 2013-117 The Source Issue
   2016-061 The Source Digest (SRF-038),[4409] [2013-141-the-source-issue-10-what-a-misunderstanding]
   2013-141 The Source  Issue #10: What a misunderstanding!,[4410] [2013-144-the-source-issue-9-colors-personal-edition]
   2013-144 The Source Issue #9: Colors Personal Edition"
+status:
 layout: shows
 ---

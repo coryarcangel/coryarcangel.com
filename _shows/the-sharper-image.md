@@ -4,12 +4,12 @@ site: '1'
 type: '5'
 title: The Sharper Image
 url: the-sharper-image
-live_url: ''
+live_url:
 year: '2010'
 venue: MoCA
 state_country: North Miami
 pitch: "​Survey show, ... my best title by far. "
-ps: ''
+ps:
 imgs: MoCANoMi-Miami-2010-03-install-1-database-SB.jpg,MoCANoMi-Miami-2010-03-install-2-database-SB.jpg,MoCANoMi-Miami-2010-03-install-3-database-SB.jpg,MoCANoMi-Miami-2010-03-install-4-database-SB.jpg,MoCANoMi-Miami-2010-03-install-5-database-SB.jpg
 things: "[48] 2008-002 Video Painting - 2008-002-video-painting,[220] 2003-001 Totally
   Fucked - 2003-001-totally-fucked,[222] 2009-004 Photoshop CS - 2009-004,[52] 2009-003
@@ -27,5 +27,6 @@ things: "[48] 2008-002 Video Painting - 2008-002-video-painting,[220] 2003-001 T
   2010-016 sc00037204 - 2010-016-sc00037204,[234] 2010-007 Maxell - 2010-007-maxell,[94]
   2010-017 http://www.mocanomi.org/ - 2010-017-http-www.mocanomi.org,[2145] 2010-132
   The Sharper Image (Exhibition Catalog) - 2010-132-the-sharper-image-exhibition-catalog"
+status:
 layout: shows
 ---

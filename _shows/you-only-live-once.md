@@ -4,13 +4,13 @@ site: '1'
 type: '5'
 title: You Only Live Once
 url: you-only-live-once
-live_url: ''
+live_url:
 year: '2014'
 venue: SOHO Holiday Inn, Grand Lafyette Conference Room
 state_country: New York
 pitch: Debut Arcangel Surfware pop-up / first show of all new work in a few years
   in NYC (since my Whitney show) ...... :-/
-ps: ''
+ps:
 imgs: yolo-2014-03-install-001-database-DG.jpg,yolo-2014-03-install-005-database-DG.jpg,yolo-2014-03-install-002-database-DG.jpg,yolo-2014-03-install-006-database-DG.jpg,yolo-2014-03-install-007-database-DG.jpg,yolo-2014-03-install-014-database-DG.jpg,yolo-2014-03-install-026-database-DG.jpg,yolo-2014-03-install-031-database-DG.jpg,yolo-2014-03-install-037-database-DG.jpg,yolo-2014-03-install-039-database-DG.jpg,yolo-2014-03-install-052-database-DG.jpg,yolo-2014-03-install-051-database-DG.jpg,yolo-2014-03-install-060-database-DG.jpg,yolo-2014-03-install-059-database-DG.jpg,yolo-2014-03-install-071-database-DG.jpg,yolo-2014-03-install-075-database-DG.jpg,yolo-2014-03-install-073-database-DG.jpg,yolo-2014-03-install-082-database-DG.jpg,yolo-2014-03-install-084-database-DG.jpg
 things: "[144] [2010-076-sports-products] 2010-076 Sports Products,[2213] [2011-193-various-books-various-scents1]
   2011-193 Various Books, Various Scents,[2216] [2012-031-originals] 2012-031 Originals,[4111]
@@ -35,5 +35,6 @@ things: "[144] [2010-076-sports-products] 2010-076 Sports Products,[2213] [2011-
   Power Tower 80 by Sharper Image Design,[4151] [2012-117-express-yourself-clearly]
   2012-117 Express Yourself Clearly,[4152] [2013-062-Express-Yourself-Clearly] 2013-062
   Express Yourself Clearly"
+status:
 layout: shows
 ---
