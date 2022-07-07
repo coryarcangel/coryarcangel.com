@@ -13,4 +13,4 @@ title: Home
   * [Youtube](https://www.youtube.com/user/coryarcangel)↪ 
   * [Twitter](https://twitter.com/cory_arcangel)↪
   * [Are.na ❤️](https://www.are.na/cory-arcangel)↪ 
-  * [Github](https://github.com/coryarcangel)↪  
+  * [Github](https://github.com/coryarcangel)↪
