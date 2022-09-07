@@ -9,6 +9,13 @@ title: Shows
   <li>
       <a href="{{ shows.url }}">
       {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.year }}
+      
+    {% if shows.status == "soon"  %}
+	🔜
+	{% elsif shows.status == "now" %}
+	☃
+	{% endif %}	
+      
       </a>
   </li>
 {% endfor %}
