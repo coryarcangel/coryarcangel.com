@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: shows-index
 title: Shows
 ---
 <a href="../">↩ Home </a>

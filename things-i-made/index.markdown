@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: things-i-made-index
 title: Things I Made 
 ---
 <a href="../">↩ Home</a> 

@@ -4,7 +4,10 @@ layout: default
 <!doctype html>
 <html>
   <head>
-	{% include meta.html %}
+  	<meta name="description" content="Cory Arcangel's Website. Last updated {{ site.time | date: '%d/%m/%y' }}. {{ page.title }}. ">
+	<meta name="keywords" content="Cory Arcangel, art, stupid, tricks, Super Mario, Fucked, Runners, Rodeo, Screenagers">
+{% include meta.html %}
+{% include css.html %}
     <title>{{ page.title }}</title>
   </head>
   <body>
