@@ -22,6 +22,10 @@ layout: things-i-made
 	<br>
     <b>Title:</b> {{ page.title }}
     <br>
+    {% if page.add_credit  %}
+	<b>w/ </b> {{ page.add_credit }}
+	<br>
+	{% endif %}			
     <b>Year:</b> {{ page.display_year }}
     <br>
 	{% if page.medium %}
@@ -44,10 +48,6 @@ layout: things-i-made
 	<b>Commission: </b> {{ page.commission }}
 	<br>
 	{% endif %}		
-	{% if page.add_credit  %}
-	<b>w/ </b> {{ page.add_credit }}
-	<br>
-	{% endif %}			
 	{% if page.live_url  %}
 	<b>Url: </b><a href="{{ page.live_url }}">{{ page.live_url }}↪</a>
 	<br>
