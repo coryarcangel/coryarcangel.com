@@ -91,11 +91,12 @@ layout: things-i-made
 	{% assign images = page.imgs | split: ',' %}
 	{% for image in images %}
   	<img src="../assets/imgs/{{ image }}">
+  	<br>
 	{% endfor %}
 	{% else %}	
 	<!-- <img src="../assets/x.svg" width=1080> -->
 	{% endif %}	
-	<br>
+
 	{% include puke.html %}
 	©
   </body>
