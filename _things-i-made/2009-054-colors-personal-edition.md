@@ -12,7 +12,7 @@ medium: OSX Software
 dims:
 pitch: Software 2 play a quicktime movie one horizontal line of pixels at a time.
 ps:
-live_url: http://colors-personal-edition.coryarcangel.com/
+live_url: http://colors-personal-edition.com/
 youtube:
 related_code: https://github.com/coryarcangel/Colors-Personal-Edition
 imgs: colors-2009-054-detail-2-database-ih.jpg
