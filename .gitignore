@@ -26,3 +26,4 @@ ehthumbs.db
 Thumbs.db
 _data/.~lock.shows.csv\#
 .DS_Store
+*.lock
