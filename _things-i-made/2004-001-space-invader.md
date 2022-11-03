@@ -18,9 +18,7 @@ ps: "​Space Invader is a mod of the Atari game Space Invaders which has been t
   The average game lasts about 1 minute. Good luck! Don’t forget 2 download the ROM
   below. "
 live_url:
-youtube: 'https://www.youtube.com/watch?v=XaoiBidAgv4
-
-  '
+youtube: https://www.youtube.com/watch?v=XAoiBidAgv4
 related_code: https://github.com/coryarcangel/Space-Invader
 imgs: space-invader-2004-001-cartridge-database-ih.jpg,space-invader-2004-001-still-2-database-ih.jpg,space-invader-2004-001-still-4-database-ih.jpg,space-invader-2004-001-still-5-database-ih.jpg,space-invader-2004-001-still-6-database-ih.jpg,space-invader-2004-001-still-7-database-ih.jpg
 subheading:
