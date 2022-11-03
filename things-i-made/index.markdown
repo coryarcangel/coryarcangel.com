@@ -4,7 +4,7 @@ title: Things I Made
 ---
 <a href="../">↩ Home</a> 
 <ul>
-{% assign things_list = site.data.things | sort_natural: "inv_num"%}
+{% assign things_list = site.data.things | sort_natural: "url"%}
 {% for things in things_list reversed %}
   <li>
       <a href="{{ things.url }}">
