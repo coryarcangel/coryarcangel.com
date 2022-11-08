@@ -4,7 +4,7 @@ title: Shows
 ---
 <a href="../">↩ Home </a>
 <ul>
-{% assign shows_list = site.data.shows | sort: "year" | reverse %}
+{% assign shows_list = site.data.shows %}
 {% for shows in shows_list %}
   <li>
       <a href="{{ shows.url }}">

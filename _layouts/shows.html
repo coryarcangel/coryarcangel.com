@@ -53,7 +53,7 @@ layout: shows
 	{% if things_list.size != 0 %}
 	<b>Things ↴</b>
 		<ul>
-		{% assign things_list = things_list | sort: "year" | reverse %}	
+		{% assign things_list = things_list | sort: "inv_num" | reverse %}	
 		{% for item in things_list %}
 			<li>
       		<a href="../things-i-made/{{ item.url }}">
