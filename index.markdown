@@ -14,4 +14,6 @@ title: Home
   * [Github](https://github.com/coryarcangel)↪
   * [Special Fish](https://special.fish/cory)↪
   * [Twitter](https://twitter.com/cory_arcangel)↪
-  * [Youtube](https://www.youtube.com/user/coryarcangel)↪ 
+  * [Youtube](https://www.youtube.com/user/coryarcangel)↪
+
+{{ site.time | date: '%d/%m/%y' }}

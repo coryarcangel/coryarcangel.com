@@ -13,7 +13,7 @@ title: Shows
     {% if shows.status == "soon"  %}
 	🔜
 	{% elsif shows.status == "now" %}
-	☃
+	✌️
 	{% endif %}	
       
       </a>
