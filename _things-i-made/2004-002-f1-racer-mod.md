@@ -21,7 +21,7 @@ youtube:
 related_code: https://github.com/coryarcangel/F1-Racer
 imgs: f1-racer-2004-002-screen-shot-1-database-ih.jpg,f1-racer-2004-002-cartridge-1-database-ih_1.jpg,f1-racer-2004-002-screen-shot-2-database-ih.jpg,f1-racer-2004-002-screen-shot-3-database-ih.jpg,f1-racer-2004-002-screen-shot-4-database-ih.jpg
 subheading:
-download:
+download: arcangel-f1-racer.nes.zip
 commission:
 related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 layout: things-i-made

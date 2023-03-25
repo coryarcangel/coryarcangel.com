@@ -7,7 +7,7 @@ title: Images CSV
     {% if shows.imgs %}
 	{% assign images = shows.imgs | split: ',' %}
 	{% for image in images %}
-  	```{{image}}```,{{shows.url}},{{shows.year}},X,,<br>
+  	<img src="../assets/imgs/{{image}}" height="200">,```{{image}}```, {{shows.url}},{{shows.year}}<br>
   	{% endfor %}
 	{% endif %}	
 {% endfor %}
@@ -17,8 +17,10 @@ title: Images CSV
     {% if things.imgs %}
 	{% assign images = things.imgs | split: ',' %}
 	{% for image in images %}
-  	```{{image}}```,{{things.url}},{{things.year}},,X,<br>
+  	<img src="../assets/imgs/{{image}}" height="200">,```{{image}}```, {{things.url}},{{things.year}}<br>
   	{% endfor %}
 	{% endif %}	
 {% endfor %}
+
+
 

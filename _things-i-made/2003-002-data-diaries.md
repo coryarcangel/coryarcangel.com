@@ -8,13 +8,12 @@ url: 2003-002-data-diaries
 title: Data Diaries
 year: '2003'
 display_year: '2003'
-medium: 64 Videos
+medium: 62* Videos
 dims:
-pitch: "​Computer memory interpreted as video. ps - Site doesn’t work anymore, so
-  click at your own peril! SMH. "
-ps: Rhizome got this working again! OMG. Info <a href="https://anthology.rhizome.org/data-diaries-2003"
-  target="_blank">here</a>.&nbsp;
-live_url: http://archive.rhizome.org/anthology/data-diaries.html
+pitch: "​Computer memory interpreted as video. "
+ps: 'Rhizome got this working again! OMG. Also, actually 61 videos cause there is
+  an error on one, and I decided to not fix it. '
+live_url: https://anthology.rhizome.org/data-diaries-2003
 youtube:
 related_code:
 imgs: data-diaries-2003-002-still-1-database-ih.jpg

@@ -22,7 +22,7 @@ youtube: https://www.youtube.com/watch?v=XAoiBidAgv4
 related_code: https://github.com/coryarcangel/Space-Invader
 imgs: space-invader-2004-001-cartridge-database-ih.jpg,space-invader-2004-001-still-2-database-ih.jpg,space-invader-2004-001-still-4-database-ih.jpg,space-invader-2004-001-still-5-database-ih.jpg,space-invader-2004-001-still-6-database-ih.jpg,space-invader-2004-001-still-7-database-ih.jpg
 subheading:
-download:
+download: arcangel_spaceinvader.bin.zip
 commission:
 related: "[4211] [2013-136-the-source-issue-5-space-invader] 2013-136 The Source Issue
   5 Space Invader"

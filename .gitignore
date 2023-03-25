@@ -29,3 +29,4 @@ _data/.~lock.shows.csv\#
 *.lock
 *.csv#
 *.csv#
+.DS_Store

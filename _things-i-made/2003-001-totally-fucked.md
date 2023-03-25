@@ -26,7 +26,7 @@ youtube:
 related_code: https://github.com/coryarcangel/Totally-Fucked
 imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database-ih.jpg,fucked-2003-001-still-3-database-ih.jpg
 subheading:
-download:
+download: totally-fucked-2003-001-master.nes.zip
 commission:
 related: "[20] [2005-001-super-mario-movie] 2005-001 Super Mario Movie"
 layout: things-i-made

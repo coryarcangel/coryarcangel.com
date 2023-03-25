@@ -23,7 +23,7 @@ youtube:
 related_code:
 imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-2004-003-screenshot-3-database-ih.jpg,super-slow-tetris-2004-003-screenshot-4-database-ih.jpg,super-slow-tetris-2004-003-screenshot-5-database-ih.jpg,super-slow-tetris-2004-003-screenshot-7-database-ih.jpg,super-slow-tetris-2004-003-screenshot-8-database-ih.jpg
 subheading:
-download:
+download: super-slow-tetris-2004-003-master.nes.zip
 commission:
 related: |-
   [17] 2004-006 Dooogle - 2004-006-dooogle
