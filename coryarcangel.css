@@ -20,6 +20,11 @@ img
 {	
 	max-width: 90%;
 }
+.thumbs
+{	
+	float: left;
+	padding: 0px;
+}
 .fix
 {
     position:fixed;

@@ -87,15 +87,13 @@ layout: things-i-made
 		</ul>		
 	{% endif %}	
 	
-	{% if page.imgs %}
-	{% assign images = page.imgs | split: ',' %}
-	{% for image in images %}
-  	<img src="../assets/imgs/{{ image }}">
-  	<br>
+	<b>Imgs ↴</b><br>
+	{% assign images_images = site.data.images | where:"inv_num",page.inv_num %}
+	{% for item in images_images %}
+	<img src="../assets/imgs/{{ item.filename }}">	
 	{% endfor %}
-	{% else %}	
-	<!-- <img src="../assets/x.svg" width=1080> -->
-	{% endif %}	
+
+	<br>
 
 	{% include puke.html %}
 	©
