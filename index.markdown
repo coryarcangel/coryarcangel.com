@@ -8,7 +8,6 @@ title: Home
 * Stuff 
   * [Things I Made](things-i-made)  
   * [Shows](shows)  
-  * [Imgs](images)
 * [Subscribe](subscribe)
 * [Shop](https://arcangelsurfware.biz/)↪ 
 * [Social](social)
