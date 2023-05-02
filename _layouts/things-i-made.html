@@ -86,15 +86,15 @@ layout: things-i-made
 		{% endfor %}
 		</ul>		
 	{% endif %}	
-	
+
+	{% assign images_images = site.data.images | where:"inv_num",page.inv_num %}	
+	{% if images_images.size != 0 %}
 	<b>Imgs ↴</b><br>
-	{% assign images_images = site.data.images | where:"inv_num",page.inv_num %}
 	{% for item in images_images %}
 	<img src="../assets/imgs/{{ item.filename }}">	
 	{% endfor %}
-
+	{% endif %}	
 	<br>
-
 	{% include puke.html %}
 	©
   </body>
