@@ -63,15 +63,14 @@ layout: shows
 		{% endfor %}
 		</ul>		
 	{% endif %}	
-		
-	<b>Imgs ↴</b><br>
+	
 	{% assign images_images = site.data.images | where:"ee_id_show",page.ee_id_show %}
+	{% if images_images.size != 0 %}	
+	<b>Imgs ↴</b><br>
 	{% for item in images_images %}
 	<img src="../assets/imgs/{{ item.filename }}">	
 	{% endfor %}
-	
-	<br>
-	
+	{% endif %}		
 	{% include puke.html %}
 	©
   </body>
