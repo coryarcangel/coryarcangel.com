@@ -76,10 +76,6 @@ The exhibition will take place in two institutions in America, and Norway, in pa
 <br>
 In a modern world covered in screens, awash in alerts, and soon to be eaten by AI, now is the time to reflect on what the hell is going on. Positioned to address the “now” perhaps as effectively as any artist of his generation, since 2000 Arcangel has explored the potential and failures of old and new digital technologies, highlighting their obsolescence, humor, aesthetic attributes and eerie influence in contemporary life. Furthermore there has never been a retrospective of an artist whose studio and primary venue is “virtual”. Therefore International Business Machines will introduce the public to an entirely new model of what such a retrospective can look like. Unlike a trad show, which mainly involves moving crates around the globe, IBM ;-) will be performative in nature (all things digital are being “performed” in real time through devices with the aid of electricity), and will span IRL, virtual, and concert venues. Each “performance” of a work will be bespoke to the venue. Lastly, Arcangel — having spent the past 25 years publishing, and performing his work online — has a broad multi-generational global audience to pull from.
 <br>
-<b>PDF↴</b>
-<br>
-A PDF of this page is available <a href="IBM-1-.df">here</a>
-<br>
 <b>About Cory Arcangel↴</b>
 <br> 	
 Cory Arcangel (born 1978, Buffalo, NY) is an artist living and working in Stavanger, Norway. Since 2000, he has been profiled in multiple publications including <a href="https://www.newyorker.com/magazine/2011/05/30/futurism">The New Yorker</a>, <a href="https://nymag.com/arts/art/features/cory-arcangel-2011-5/">New York Magazine</a>, Interview Magazine, and the Guardian as well as been the subject of over 20 institutional exhibitions including Kunstverein Hamburg, Germany (2022), CC Foundation, Shanghai (2019), “Galleria d‘Arte Moderna e Contemporanea, Bergamo (2015), Reykjavik Art Museum, Reykjavik (2015), Carnegie Museum of Art, Pittsburgh (2012–13), the Whitney Museum of American Art, New York (2011), Hamburger Bahnhof, Berlin (2010–11) and Migros Museum für Gegenwartskunst, Zürich (2005).
@@ -248,9 +244,15 @@ Organizer: <a href="https://coryarcangel.com/">Cory Arcangel</a>, and Arcangel S
 Press: TBC<br>
 Legal: <a href="https://crownlaw.se/">Crown Law</a><br>
 Institutional assistance: <a href="https://rhizome.org">Rhizome.org</a> (TBC), <a href="https://smalldata.industries/">Small Data</a>, and <a href="https://eai.org">Electronic Arts Intermix</a> (TBC)<br>
-Gallery support: Lisson Gallery, Greene Naftali Gallery (TBC), and Thaddaeus Ropac Gallery (TBC)<br>
+Gallery support: Lisson Gallery, Greene Naftali Gallery (TBC), and Thaddaeus Ropac Gallery (TBC)
+<br>
 Loans (all TBC): the Albright-Knox Gallery, Buffalo, NY, Carnegie Museum of Art, Pittsburgh, PA, Migros Museum für Gegenwartskunst, Zürich, Switzerland, Museum of Contemporary Art North Miami, Miami, FL, Museum of Modern Art, New York, NY, Neue Nationalgalerie, Berlin, Germany, Smithsonian Museum of American Art, Washington D.C., Tate, London, UK, Thoma Foundation, Santa Fe, and the Whitney Museum of American Art, New York, NY
+<br>
 Presentation version: 1
 <br>
 </div>
+<!-- <a href="{{ site.url }}"> -->
+<a href="IBM-1.pdf">
+<img src="{{ site.url }}/assets/print-icon.svg" class="print"/>
+</a>
 {{ site.time | date: '%d/%m/%y' }}
