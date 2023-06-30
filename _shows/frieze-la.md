@@ -17,5 +17,6 @@ things: "[4490] [2020-003-nke] 2020-003 NKE,[4491] [2020-004-workutworutworout] 
   2020-007 Server Cabinet Cooling - Everything you need to know,[4494] [2020-008]
   2020-008 :-),[4495] [2020-022-when-the-squad] 2020-022 when the squad"
 status:
+vis: Y
 layout: shows
 ---

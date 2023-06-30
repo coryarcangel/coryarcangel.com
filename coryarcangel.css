@@ -1,3 +1,4 @@
+/* General */
 body 
 {
 	font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
@@ -16,22 +17,51 @@ li
 {
 	margin: 0px;
 }
-img
-{	
-	max-width: 90%;
-}
-.thumbs
-{	
-	float: left;
-	padding: 0px;
-}
+/* Logo */
 .fix
 {
-    position:fixed;
-    bottom:1%;
-    right:1%;
-    /* normal puke logo */
-    /* width:15%; */
-    /* flying foxes logo */
-    height:100%; 
+    position:fixed; 
+    bottom:1%; 
+    right:1%; 
+    width:15%;
+}
+.print
+{
+    position:fixed; 
+    bottom:1%; 
+    right:1%; 
+    width:10%;
+}
+/* Images */
+img
+{	
+	max-width: 100%;
+}
+.thumbs img {
+	float: left;
+	max-height: 300px;
+	max-width: 100vw;
+	padding: 0px,0px,0px,0px; //padding positions
+}
+/* IBM */
+.TXT {
+    clear: both;
+}
+/* Print */
+@media print {
+  	body {
+		font-size: 16px;
+  	}
+  	img
+	{	
+		max-width: 45%;
+		max-height: 45%;
+	}
+  	.thumbs img {
+    	max-height: 150px;
+    }
+	.fix
+	{
+    	width:10%;
+	}
 }

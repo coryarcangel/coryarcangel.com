@@ -14,5 +14,6 @@ ps:
 imgs: New-Museum-2013-11-install-01-database-ih.jpg
 things: "[2242] [2013-063-audmcrs-website] 2013-063 AUDMCRS website"
 status:
+vis: Y
 layout: shows
 ---

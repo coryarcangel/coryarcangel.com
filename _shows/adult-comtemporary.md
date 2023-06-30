@@ -20,5 +20,6 @@ things: "[213] 2008-012 Monoprint 1 - 2008-012-monoprint-1,[214] 2008-013 Monopr
   Playstation I Bowling - 2008-008-self-playing-sony-playstation-i-bowling,[219] 2008-001
   Photoshop CS - 2008-001-photoshop-cs"
 status:
+vis: Y
 layout: shows
 ---

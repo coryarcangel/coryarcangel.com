@@ -13,5 +13,6 @@ ps:
 imgs: Mig-29-Soviet-2005-03-install-database-07.jpg,Mig-29-Soviet-2005-03-install-database-08.jpg,Mig-29-Soviet-2005-03-install-database-04.jpg
 things:
 status:
+vis: Y
 layout: shows
 ---

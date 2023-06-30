@@ -24,5 +24,6 @@ things: "[4341] [2016-018-hank] 2016-018 Hank,[4342] [2016-019-30-pour] 2016-019
   pink,[4355] [2016-036-photoshop-cs] 2016-036 Photoshop CS,[4356] [2016-057-photoshop-cs]
   2016-057\tPhotoshop CS"
 status:
+vis: Y
 layout: shows
 ---

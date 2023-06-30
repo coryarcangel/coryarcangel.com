@@ -19,5 +19,6 @@ things: "[4110] [2013-31-diddy-lakes] 2013-31 Diddy Lakes,[4174] [2014-095-hilla
   2014 087 Unnamed / Lakes,[4178] [2014-094-on-compression-lakes] 2014 094 On Compression
   / Lakes,[4179] [2014-085-sports-products-lakes] 2014-085 Sports Products / Lakes"
 status:
+vis: Y
 layout: shows
 ---

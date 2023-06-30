@@ -16,5 +16,6 @@ things: "[89] [2011-078-since-u-been-gone] 2011-078 Since U Been Gone,[2217] [20
   [2013-063-audmcrs-website] 2013-063 AUDMCRS website,[4272] [2014-146-psk] 2014-146
   PSK"
 status:
+vis: Y
 layout: shows
 ---

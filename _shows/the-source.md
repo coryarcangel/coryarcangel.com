@@ -24,5 +24,6 @@ things: "[9] [2002-002-i-shot-andy-warhol] 2002-002 I Shot Andy Warhol,[4111] [2
   2013-134 The Source Issue 8 Six Sixty Six  (SRF-24),[4413] [2015-173-arcangel-surfware-x-nyabf-2015-the-source]
   2015-173 Arcangel Surfware x NYABF 2015: The Source"
 status:
+vis: Y
 layout: shows
 ---

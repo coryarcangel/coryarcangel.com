@@ -14,5 +14,6 @@ ps:
 imgs: guggenheim-new-york-2004-install-database-jones.jpg
 things: "[9] [ishotandywarhol] 2002-002 I Shot Andy Warhol"
 status:
+vis: Y
 layout: shows
 ---

@@ -31,5 +31,6 @@ things: "[73] 2011-001 Photoshop CS - 2011-001-photoshop-cs,[75] 2011-003 Photos
   Whitney Museum - 2011-127-weekend-at-bernies-screening-at-the-whitney-museum,[103]
   2011-010 Research in Motion (Kinetic Sculpture #6) - 2011-010-research-in-motion-kinetic-sculpture-6"
 status:
+vis: Y
 layout: shows
 ---

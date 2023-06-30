@@ -17,6 +17,6 @@ title: Shows
 	{% endif %}	
       
       </a>
-  </li>
+  </li> 
 {% endfor %}
 </ul>

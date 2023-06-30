@@ -15,5 +15,6 @@ ps:
 imgs: whitney-ny-2009-01-full-database-whitney.jpg
 things: "[7] [supermarioclouds] 2002-001 Super Mario Clouds"
 status:
+vis: Y
 layout: shows
 ---

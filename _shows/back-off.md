@@ -21,5 +21,6 @@ things: "[36] [2007-003-apple-garageband-autotune] 2007-003 Apple GarageBand Aut
   Work, Y, ORALS BRO,[4480] [2019-036-let] 2019-036 Let,[4481] [2019-037-47-closer]
   2019-037 47 Closer"
 status:
+vis: Y
 layout: shows
 ---

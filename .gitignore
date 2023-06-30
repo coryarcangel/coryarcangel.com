@@ -31,3 +31,9 @@ _data/.~lock.shows.csv\#
 *.csv#
 .DS_Store
 _data/.~lock.thingsXshows.csv\#
+# Random #
+######################
+assets/thumbs/*
+_shows/*
+_things-i-made/*
+_site/*

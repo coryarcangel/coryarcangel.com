@@ -13,5 +13,6 @@ ps:
 imgs: Warhol-Pittsburgh-2013-02-install-05-database-Warhol_1.jpg,Warhol-Pittsburgh-2013-02-install-06-database-Warhol.jpg
 things: "[7] [supermarioclouds] 2002-001 Super Mario Clouds"
 status:
+vis: Y
 layout: shows
 ---

@@ -14,5 +14,6 @@ ps:
 imgs: flagship-2017-062-web-jih--IXPs.jpg,flagship-2017-062-web-jih--m4dl.jpg,flagship-2017-062-web-jih--tk7V.jpg,flagship-2017-062-web-jih--Uly0.jpg
 things:
 status:
+vis: Y
 layout: shows
 ---

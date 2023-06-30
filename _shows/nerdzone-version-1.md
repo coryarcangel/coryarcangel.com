@@ -21,5 +21,6 @@ things: "[185] 2005-021 Super Landscape #1 - 2005-021-super-landscape-1,[14] 200
   2004-002 F1 Racer Mod (aka Japanese Driving Game) - 2004-002-f1-racer-mod,[40] 2004-014
   Sans Simon - 2004-014-sans-simon,[2148] 2005-032 Cory Arcangel (Monograph) - 2006-032-cory-arcangel-monograph"
 status:
+vis: Y
 layout: shows
 ---

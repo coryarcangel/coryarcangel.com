@@ -22,5 +22,6 @@ things: "[4297] [2015-159-fuck-negativity-sweatpants-srf-027] 2015-159 Fuck Nega
   2016-079 Fuck Negativity White T-Shirt (SRF-034),[4451] [2018-052-multi-function-scarf]
   2018-052 Multi-function scarf"
 status:
+vis: Y
 layout: shows
 ---

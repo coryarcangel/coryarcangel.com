@@ -23,5 +23,6 @@ things: "[2217] [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground
   Imgres,[4380] [2017-004-asymmetrical-response-reader-srf-039] 2017-004 Asymmetrical
   Response Reader: The Kitchen (SRF-039)"
 status:
+vis: Y
 layout: shows
 ---

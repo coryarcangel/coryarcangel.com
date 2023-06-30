@@ -18,5 +18,6 @@ things: "[4366] [2016-077-fuck-negativity-white-sweatpants] 2016-077 Fuck Negati
   2016-084 Arcangel Surfware White Slides (SRF-037),[4378] [2016-061-the-source-digest-srf-038]
   2016-061 The Source Digest (SRF-038)"
 status:
+vis: Y
 layout: shows
 ---

@@ -16,5 +16,6 @@ things: "[4168] [2014-125-all-the-small-things] 2014-125 All The Small Things,[4
   [2014-123-through-the-fire-and-flames] 2014-123 Through the Fire and Flames,[4249]
   [2014-114-all-the-small-things-tshirt] 2014-114 All The Small Things Tshirt"
 status:
+vis: Y
 layout: shows
 ---

@@ -14,8 +14,21 @@ layout: csv
   Bindery.makeBook({
     content: '#content',
     rules: [
-      Bindery.FullBleedSpread({ selector: '.big-figure' }),
-      Bindery.PageBreak({selector: 'h1', position: 'before' })
+        Bindery.RunningHeader(),
+        
+        Bindery.PageBreak({ selector: 'h1', position: 'before', continue: 'left' }),
+        Bindery.PageBreak({ selector: 'h2', position: 'before', continue: 'right' }),
+        Bindery.PageBreak({ selector: '.tootall', position: 'avoid' }),
+
+		Bindery.FullBleedPage({ selector: '.fullpage', continue: 'next' }),
+        Bindery.FullBleedPage({ selector: '.inward', continue: 'next', rotate: 'inward' }),
+        Bindery.FullBleedPage({ selector: '.outward', continue: 'next', rotate: 'outward' }),
+        Bindery.FullBleedPage({ selector: '.full-clockwise', continue: 'next', rotate: 'clockwise' }),
+        Bindery.FullBleedPage({ selector: '.full-counterclockwise', continue: 'next', rotate: 'counterclockwise' }),
+
+        Bindery.FullBleedSpread({ selector: '.spread', continue: 'next' }),
+        Bindery.FullBleedSpread({ selector: '.tall-clockwise', continue: 'next', rotate: 'clockwise' }),
+        Bindery.FullBleedSpread({ selector: '.tall-counterclockwise', continue: 'next', rotate: 'counterclockwise' }),
     ],
   }); 
 </script>

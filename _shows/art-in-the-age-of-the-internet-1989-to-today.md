@@ -13,5 +13,6 @@ ps:
 imgs: ICA-Boston-2018-03-install-3-database-cm-P29H.jpg
 things: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 status:
+vis: Y
 layout: shows
 ---

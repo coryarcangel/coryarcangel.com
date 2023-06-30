@@ -24,5 +24,6 @@ things: "[7] [supermarioclouds] 2002-001 Super Mario Clouds,[220] [2003-001-tota
   2015-056 This is all so crazy, everybody seems so famous (catalog),[4271] [2015-021-frozen]
   2015-021 Frozen"
 status:
+vis: Y
 layout: shows
 ---

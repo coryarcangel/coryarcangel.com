@@ -17,5 +17,6 @@ things: "[4364] [2016-076-currentmood] 2016-076 currentmood,[4391] [2017-049-3-c
   2017-052 Arcangel Surfware x NYABF 2017: currentmood,[4412] [2017-044-on-this-day]
   2017-044 On This Day"
 status:
+vis: Y
 layout: shows
 ---

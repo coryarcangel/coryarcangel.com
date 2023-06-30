@@ -14,5 +14,6 @@ ps:
 imgs: theatre-of-war-2019-12-db-ms--l2CF.jpg
 things: "[4038] [2005-020-bomb-iraq] 2005-020-Bomb Iraq"
 status:
+vis: Y
 layout: shows
 ---

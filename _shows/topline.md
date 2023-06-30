@@ -17,5 +17,6 @@ things: "[4484] [2019-042-vyb] 2019-042 VYB,[4485] [2019-048-creibleworkut] 2019
   CREIBLEWORKUT,[4486] [2019-050-acool] 2019-050 acool,[4487] [2019-054-artney-adid]
   2019-054 artney, adid,[4488] [2019-056-ulcycle] 2019-056 ULCYCLE"
 status:
+vis: Y
 layout: shows
 ---

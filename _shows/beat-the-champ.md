@@ -18,5 +18,6 @@ ps: This show was the first time I showed the monster Various Self Playing Bowli
 imgs: BarbicanCurve-London-2011-02-install-1-database-EW.jpg,BarbicanCurve-London-2011-02-install-2-database-EW.jpg,BarbicanCurve-London-2011-02-install-3-database-EW.jpg,BarbicanCurve-London-2011-02-install-4-database-EW.jpg,BarbicanCurve-London-2011-02-install-5-database-EW.jpg,BarbicanCurve-London-2011-02-install-6-database-EW.jpg
 things: "[87] 2011-009 Various Self Playing Bowling Games - 2011-009-various-self-playing-bowling-games"
 status:
+vis: Y
 layout: shows
 ---

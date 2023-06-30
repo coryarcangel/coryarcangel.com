@@ -6,7 +6,7 @@ title: Home
 * [About](about) 
 * [Contact](contact) 
 * Stuff 
-  * [Things I Made](things-i-made)  
+  * [Things](things-i-made)  
   * [Shows](shows)  
 * [Subscribe](subscribe)
 * [Shop](https://arcangelsurfware.biz/)↪ 

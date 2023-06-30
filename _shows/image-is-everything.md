@@ -25,5 +25,6 @@ things: "[72] 2010-003 Theres Always One At Every Party - 2010-003-theres-always
   2010-045 Photoshop CS - 2010-045-photoshop-cs,[140] 2010-046 Photoshop CS - 2010-046-photoshop-cs,[143]
   2010-047 Photoshop CS - 2010-047-photoshop-cs"
 status:
+vis: Y
 layout: shows
 ---

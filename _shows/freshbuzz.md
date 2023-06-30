@@ -16,5 +16,6 @@ ps:
 imgs: screenslate-2020-08-web-ih--JE6K.jpg,screenslate-2020-08-web-ih--aqg3.jpg,screenslate-2020-08-web-ih--ta9P.jpg,screenslate-2020-08-web-ih--SuAD.jpg,screenslate-2020-08-web-ih--U4Jm.jpg,screenslate-2020-08-web-ih--XX1d.jpg
 things: "[4115] [2013-169-freshbuzz] 2013-169 Freshbuzz"
 status:
+vis: Y
 layout: shows
 ---

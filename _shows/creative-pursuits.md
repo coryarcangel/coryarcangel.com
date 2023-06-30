@@ -19,5 +19,6 @@ things: "[158] 2010-018 Research in Motion (Kinetic Sculpture #1) - 2010-018-res
   I Bowling - 2008-008-self-playing-sony-playstation-i-bowling,[52] 2009-003 Drei
   Klavierstücke op. 11 - dreiklavierstucke"
 status:
+vis: Y
 layout: shows
 ---

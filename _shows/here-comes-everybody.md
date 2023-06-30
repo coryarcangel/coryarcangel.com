@@ -19,5 +19,6 @@ things: "[136] 2010-037 Research in Motion (Kinetic Sculpture #3) - 2010-037-res
   2007-007 On C - 2007-007-on-c,[135] 2008-004 Personal Film - 2008-004-personal-film,[36]
   2007-003 Apple GarageBand Auto Tune Demonstration - appleautotune"
 status:
+vis: Y
 layout: shows
 ---
