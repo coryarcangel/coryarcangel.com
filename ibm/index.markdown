@@ -74,7 +74,7 @@ The exhibition will take place in two institutions in America, and Norway, in pa
 <br>
 <b>?↴</b>
 <br>
-In a modern world covered in screens, awash in alerts, and soon to be eaten by AI, now is the time to reflect on what the hell is going on. Positioned to address the “now” perhaps as effectively as any artist of his generation, since 2000 Arcangel has explored the potential and failures of old and new digital technologies, highlighting their obsolescence, humor, aesthetic attributes and eerie influence in contemporary life. Furthermore there has never been a retrospective of an artist whose studio and primary venue is “virtual”. Therefore International Business Machines will introduce the public to an entirely new model of what such a retrospective can look like. Unlike a trad show, which mainly involves moving crates around the globe, IBM ;-) will be performative in nature (all things digital are being “performed” in real time through devices with the aid of electricity), and will span IRL, virtual, and concert venues. Each “performance” of a work will be bespoke to the venue. Lastly, Arcangel — having spent the past 25 years publishing, and performing his work online — has a broad multi-generational global audience to pull from.
+In a modern world covered in screens, awash in alerts, and soon to be eaten by AI, now is the time to reflect on <i>what the hell is going on</i>. Positioned to address the “now” more than any artist of his generation, Arcangel has explored the potential and failures of old and new digital technologies, highlighting their obsolescence, humor, aesthetic attributes and eerie influence in contemporary life. In its approach, International Business Machines could introduce the public to an entirely new model of what such a retrospective can look like. Unlike so many traditional exhibitions, this survey has the potential to span physical galleries, virtual sites, and concert venues. Inside the museum walls, Arcangel’s pioneering videos and video game installations can be tailored to each space, creating multi-sensory, immersive, and sometimes interactive installations for viewers to experience alongside other seminal works such as Arcangel’s Gradient series. Lastly, Arcangel — having spent the past 25 years publishing, and performing his work online — can expand upon each artwork on each museum’s social media and websites in addition to his own and partnerships with other web platforms, appealing to both the museum audience as well as his own a broad multi-generational global audience.
 <br>
 <b>About Cory Arcangel↴</b>
 <br> 	
@@ -252,7 +252,7 @@ Presentation version: 1
 <br>
 </div>
 <!-- <a href="{{ site.url }}"> -->
-<a href="IBM-1.pdf">
+<a href="IBM-2.pdf">
 <img src="{{ site.url }}/assets/print-icon.svg" class="print"/>
 </a>
 {{ site.time | date: '%d/%m/%y' }}
