@@ -248,7 +248,7 @@ Gallery support: Lisson Gallery, Greene Naftali Gallery (TBC), and Thaddaeus Rop
 <br>
 Loans (all TBC): the Albright-Knox Gallery, Buffalo, NY, Carnegie Museum of Art, Pittsburgh, PA, Migros Museum für Gegenwartskunst, Zürich, Switzerland, Museum of Contemporary Art North Miami, Miami, FL, Museum of Modern Art, New York, NY, Neue Nationalgalerie, Berlin, Germany, Smithsonian Museum of American Art, Washington D.C., Tate, London, UK, Thoma Foundation, Santa Fe, and the Whitney Museum of American Art, New York, NY
 <br>
-Presentation version: 1
+Version: 2, July 3, 2023.
 <br>
 </div>
 <!-- <a href="{{ site.url }}"> -->
