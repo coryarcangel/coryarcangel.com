@@ -252,7 +252,7 @@ Version: 2, July 3, 2023.
 <br>
 </div>
 <!-- <a href="{{ site.url }}"> -->
-<a href="IBM-2.pdf">
+<a href="Cory-Arcangel-IBM-2.pdf">
 <img src="{{ site.url }}/assets/print-icon.svg" class="print"/>
 </a>
 {{ site.time | date: '%d/%m/%y' }}
