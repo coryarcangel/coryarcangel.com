@@ -16,7 +16,7 @@ pitch: Source code for “Space Invader” Atari mod (a collaboration with RSG) 
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Space-Invader
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Space-Invader
 imgs: source-space-2013-136-detail-01-database-ih.jpg
 subheading:
 download: the-source-space-invader-2013-168-digital-master-ih.pdf

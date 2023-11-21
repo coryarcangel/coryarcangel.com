@@ -15,7 +15,7 @@ pitch: "​A “fake” structural film, composed of stock digital video footage
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: personal-film-2008-004-still-5-database-ih.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch: "​LP featuring a Glockenspiel addendum to Springsteen’s Born To Run r
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: born-to-run-2006-003-full-database-ih.jpg
 subheading: "(LP)"
 download:

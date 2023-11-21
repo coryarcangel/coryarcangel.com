@@ -14,7 +14,7 @@ pitch: "​Uggs with a lead ignot in them"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: a-few-casuals-2012-022-full-1-skur2-database-ESJ.jpg
 subheading:
 download:

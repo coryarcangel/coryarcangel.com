@@ -14,7 +14,7 @@ pitch: "​Photoshop gradient and smudge tool demonstration."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-smudge-2007-013-digital-database-ih.jpg
 subheading:
 download:

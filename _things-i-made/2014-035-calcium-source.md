@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: calcium-source-2014-035-full-Heart-01-database-SM.jpg
 subheading:
 download:

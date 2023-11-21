@@ -17,7 +17,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: rich-forever-2015-015-full-database-team-JL.jpg,rich-forever-2015-015-detail-database-EK.jpg
 subheading:
 download:

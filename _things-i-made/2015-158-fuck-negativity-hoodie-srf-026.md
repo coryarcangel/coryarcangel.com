@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Fuck-Negativity-Hoodie-SRF-026-2015-158-full-database-ih.jpg
 subheading:
 download:

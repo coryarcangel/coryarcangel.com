@@ -16,7 +16,7 @@ pitch: "​Actual hyper-card program I found on a computer I bought at the Salva
 ps:
 live_url: https://sites.rhizome.org/emulating-bomb-iraq-arcangel/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: bomb-iraq-2005-020-screenshot-database-ih--ej80.jpg
 subheading:
 download:

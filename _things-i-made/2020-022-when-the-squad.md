@@ -16,7 +16,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: squad-2020-022-db-ih--LMgO.jpg
 subheading:
 download:

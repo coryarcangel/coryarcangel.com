@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url: https://soundcloud.com/coryarcangel/currentmood
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: currentmood-054-2016-install-01-database-JH.jpg,currentmood-054-2016-install-02-database-JH.jpg
 subheading: "(Sculpture)"
 download:

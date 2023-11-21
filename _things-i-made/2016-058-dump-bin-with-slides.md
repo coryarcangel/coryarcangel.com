@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: dunks-slides-2016-058-full-database-ih.jpg
 subheading:
 download:

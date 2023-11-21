@@ -15,7 +15,7 @@ pitch: "​Performance featuring surfing Youtube for artist last names, and cloc
 ps:
 live_url: http://web.archive.org/web/20080406010337/http://www.hanne-mugaas.com/my_work/1_art_since_1960_according_to/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2008_010_Art_Since_1960_Performance_View_Database_IH.jpg
 subheading:
 download:

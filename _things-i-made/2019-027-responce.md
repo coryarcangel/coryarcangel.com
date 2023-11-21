@@ -14,7 +14,7 @@ pitch:
 ps: Print for Lorenzo Sennis Presto label's 10th anniversary
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: responce-2019-027-db-ih--oHP0.jpg
 subheading:
 download:

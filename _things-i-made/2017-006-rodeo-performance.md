@@ -26,7 +26,7 @@ pitch: 'A custom built & programmed high performance machine learning computer w
 ps: 'All details at micosite! '
 live_url: https://rodeo.computer/
 youtube:
-related_code: https://github.com/coryarcangel/rodeo-lets-play
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/rodeo-lets-play
 imgs:
 subheading:
 download:

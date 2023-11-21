@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: great-idea-2017-026-database-ih--kt4K_1.jpg
 subheading:
 download: great-idea-2017-026-pdf-ih.pdf

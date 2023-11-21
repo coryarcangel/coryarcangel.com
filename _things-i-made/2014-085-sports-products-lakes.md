@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: sports-products-lakes-2014-085-full-still-database-team.jpg
 subheading:
 download:

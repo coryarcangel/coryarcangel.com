@@ -17,7 +17,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2016-007-full-database-Team.jpg
 subheading:
 download:

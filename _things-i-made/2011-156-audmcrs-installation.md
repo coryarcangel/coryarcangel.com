@@ -19,7 +19,7 @@ ps: ​This is a collection of about 900 or so trance records I acquired from <a
   toured. ps - I made a website for it as well.
 live_url: http://audmcrs.coryarcangel.com/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: carnegie-pittsburgh-2012-09-install-14-database-TL.jpg,AUDMCRS-2011-156-detail-Heart-02-database-SM.jpg,AUDMCRS-2011-156-detail-Heart-01-database-SM.jpg,AUDMCRS-2011-156-binders-database-ih.jpg,AUDMCRS-2011-156-detail-Heart-03-database-SM.jpg,AUDMCRS-2011-156-detail-Heart-05-database-SM.jpg,AUDMCRS-2011-156-detail-Heart-04-database-SM.jpg,AUDMCRS-2011-156-install-Carnegie-02-database-TL.jpg,AUDMCRS-2011-156-install-DHC-01-database-RMT.jpg,AUDMCRS-2011-156-install-Carnegie-01-database-TL.jpg,AUDMCRS-2011-156-install-DHC-02-database-RMT.jpg,AUDMCRS-2011-156-install-Heart-01-database-SM.jpg,AUDMCRS-2011-156-install-Heart-02-database-SM.jpg,AUDMCRS-2011-156-install-ropac-01-database.jpg,AUDMCRS-2011-156-install-ropac-02-database.jpg,AUDMCRS-2011-156-install-ropac-03-database.jpg,AUDMCRS-2011-156-install-ropac-04-database.jpg
 subheading: "(Installation)"
 download:

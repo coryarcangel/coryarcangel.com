@@ -15,7 +15,7 @@ pitch: "​Blog which re-posts the best blog posts of people apologizing for not
 ps:
 live_url: http://sorry.coryarcangel.com/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: sorry-2010-020-digital-4-database-ih.jpg
 subheading:
 download:

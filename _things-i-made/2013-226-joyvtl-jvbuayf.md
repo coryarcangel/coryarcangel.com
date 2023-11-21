@@ -14,7 +14,7 @@ pitch: Compressed the OPN track as real audio.&nbsp;
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: opn-2013-x-digital-database-ih.jpg
 subheading:
 download:

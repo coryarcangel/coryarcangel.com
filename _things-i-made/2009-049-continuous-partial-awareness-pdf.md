@@ -15,7 +15,7 @@ pitch: A list of ideas for artworks, rated. Made originally for a performance. p
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Continuous-Partial-Awareness-2009-049-Full-db-OL.jpg,Continuous-Partial-Awareness-2009-049-install-2-db-OL.jpg
 subheading:
 download: arcangel-CPA.pdf

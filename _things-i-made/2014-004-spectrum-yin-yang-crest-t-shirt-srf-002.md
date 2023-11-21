@@ -14,7 +14,7 @@ pitch: Brand tee for Arcangel Surfware.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: srf-002-crest-tshirt-2014-004-full-1-database-ih.jpg
 subheading:
 download:

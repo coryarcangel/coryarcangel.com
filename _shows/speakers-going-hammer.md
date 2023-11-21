@@ -27,6 +27,5 @@ things: "[112] 2011-110 Photoshop CS - 2011-110-photoshop-cs-84-by-66-inches-300
   2011-140 Clinton - 2011-140-clinton,[103] 2011-010 Research in Motion (Kinetic Sculpture
   #6) - 2011-010-research-in-motion-kinetic-sculpture-6"
 status:
-vis: Y
 layout: shows
 ---

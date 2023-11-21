@@ -16,7 +16,7 @@ ps: "​Somewhere along the way on this one, a file got corrupted in one of the 
   weren’t actually part of the plan."
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: structural-film-2007-002-still-1-database-ih_1.jpg
 subheading:
 download:

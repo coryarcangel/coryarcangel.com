@@ -14,7 +14,7 @@ pitch: Nintendo 64 NBA Courtside programmed to throw bricks forever via a modded
 ps:
 live_url:
 youtube: https://www.youtube.com/watch?v=ndQsEjFisIs
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: various-n64-2011-115-detail-database-ka.jpg
 subheading:
 download:

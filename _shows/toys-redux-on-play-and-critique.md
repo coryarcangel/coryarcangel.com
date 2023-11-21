@@ -14,6 +14,5 @@ ps:
 imgs: migros-museum-2015-05-install-1-database-SA.jpg
 things: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 status:
-vis: Y
 layout: shows
 ---

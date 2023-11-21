@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: workutworutworout-2020-004-db-ih--D6cD.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch: "​... digital carpet ... (!!!)"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: gradient-carpet-2013-198-install-Heart-01-database-SM.jpg,gradient-carpet-2013-198-detail-Heart-01-database-SM.jpg
 subheading:
 download:

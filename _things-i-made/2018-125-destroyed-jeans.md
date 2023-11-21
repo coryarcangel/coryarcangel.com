@@ -14,7 +14,7 @@ pitch: 'Went big 4 this! '
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: destroyed-jeans-2018-125-db-saf--wbBE.jpg,destroyed-jeans-2018-125-db-saf--2s34.jpg
 subheading:
 download:

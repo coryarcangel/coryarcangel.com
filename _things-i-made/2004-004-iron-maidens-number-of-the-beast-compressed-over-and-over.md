@@ -21,7 +21,7 @@ ps: ​If you have ever wondered what Iron Maiden’s “The Number of the Beast
   Sitting in a Room</a>.
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/666
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/666
 imgs: 666-2004-004-screenshot-1-database-ih.jpg
 subheading:
 download: Cory-Arcangel-666.mp3

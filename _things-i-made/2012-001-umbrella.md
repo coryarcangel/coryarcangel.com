@@ -15,7 +15,7 @@ ps: "​​I took this photo in a Norwegian supermark (in the ice cream section)
   these things find you. First thing of 2012. :)"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: umbrella-2012-001-digital-database-ih.jpg
 subheading:
 download:

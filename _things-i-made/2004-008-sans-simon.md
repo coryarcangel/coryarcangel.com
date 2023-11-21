@@ -14,7 +14,7 @@ pitch: 'Simon and Garfunkel minus Simon. '
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: sans-simon-2004-008-database-still-2_1.jpg
 subheading: "(Video)"
 download:

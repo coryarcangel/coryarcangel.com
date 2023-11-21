@@ -18,6 +18,5 @@ things: "[156] 2006-011 Untitled After Lucier - 2006-011-untitled-after-lucier,[
   to Run Glockenspiel Addendum (Vinyl) - 2006-003-the-bruce-springsteen-born-to-run-glockenspiel-addendum,[32]
   2006-001 Sweet 16 - sweet16"
 status:
-vis: Y
 layout: shows
 ---

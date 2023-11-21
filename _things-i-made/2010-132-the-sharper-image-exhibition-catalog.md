@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2010-132-sharper-image-catalog-full-1-database-ih.jpg
 subheading: "(Exhibition Catalog)"
 download:

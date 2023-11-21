@@ -14,7 +14,7 @@ pitch: "​Surfing around dunkindonuts.com…..."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: dunkin-2014-032-digital-2-database-ih.jpg
 subheading:
 download:

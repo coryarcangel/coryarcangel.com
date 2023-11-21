@@ -17,7 +17,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2017-016-photoshop-cs-database-01-er.jpg
 subheading:
 download:

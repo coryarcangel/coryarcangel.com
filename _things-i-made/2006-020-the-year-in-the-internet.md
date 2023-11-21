@@ -14,7 +14,7 @@ pitch: "​Best of the year lists by various Internet people."
 ps:
 live_url: http://www.burncopy.com/year_in_the_internet_06.html
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: The_Year_in_the_Internet_2006_020_screenshot_database_IH.jpg
 subheading:
 download:

@@ -21,6 +21,5 @@ things: "[4110] [2013-31-diddy-lakes] 2013-31 Diddy Lakes,[4240] [2013-197-since
   2015-060 Two Clintons, Four Palms, a Taurus and an Aeron,[4281] [2015-068-quickoffice]
   2015-068 QuickOffice"
 status:
-vis: Y
 layout: shows
 ---

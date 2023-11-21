@@ -17,7 +17,7 @@ ps: A karaoke set up / live video green screen was installed in the basement of 
   Each video was available to take home for free on VHS tape.
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: whitney-teen-night-2004-011-still-6-database-ih.jpg
 subheading:
 download:

@@ -16,7 +16,7 @@ ps: ​Check the related code below to download this if u r down. Note, it doesn
   the magic of open source</a>.
 live_url:
 youtube: https://www.youtube.com/watch?v=PnVaQQVla1Y
-related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Pizza-Party-0.1.b
 imgs: pizza-party-2004-009-screenshot-1-database-ih.jpg
 subheading:
 download:

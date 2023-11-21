@@ -16,7 +16,7 @@ ps: "​This wasn’t supposed to be a new thing, but after installing two of my
   a new project. But yeah, this is just two earlier things installed together."
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: super-landscape-2005-021-install-database-migros-unknown.jpg
 subheading:
 download:

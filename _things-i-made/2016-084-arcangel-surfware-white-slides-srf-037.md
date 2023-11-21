@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: fn-white-slides-2016-084-database-ih--OvGJ.jpg
 subheading:
 download:

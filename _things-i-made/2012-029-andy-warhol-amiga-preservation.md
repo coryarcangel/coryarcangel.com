@@ -20,7 +20,7 @@ ps: Not exactly a “thing i made”, more like a “thing i produced”, but no
   the 3 year process that went into this. ;)
 live_url:
 youtube: https://vimeo.com/92583299
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: warhol-proposal-2012-029-digital-still-2-database-aw.jpg
 subheading:
 download:

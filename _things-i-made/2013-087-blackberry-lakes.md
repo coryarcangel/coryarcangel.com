@@ -15,7 +15,7 @@ pitch: Rando image w/ lake effect ;-)
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: blackberry-lakes-2013-187-install-Heart-01-database-SM.jpg
 subheading:
 download:

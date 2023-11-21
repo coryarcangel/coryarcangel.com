@@ -15,7 +15,7 @@ pitch: Plastic iPad case printed with an image from the Photoshop Gradient Demon
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: srf-007-spectrum-ipad-case-2014-009-full-1-database-ih.jpg
 subheading:
 download:

@@ -17,7 +17,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2014-079-full-2-database-team-jm.jpg
 subheading:
 download:

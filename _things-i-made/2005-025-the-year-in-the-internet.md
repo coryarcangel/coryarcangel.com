@@ -14,7 +14,7 @@ pitch: "​Website featuring the best links of the year from various net people.
 ps:
 live_url: http://www.burncopy.com/bestoftheweb.html
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: The_Year_in_the_Internet_2005_025_screenshot_database_IH.jpg
 subheading:
 download:

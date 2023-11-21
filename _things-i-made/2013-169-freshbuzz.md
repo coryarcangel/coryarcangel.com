@@ -14,7 +14,7 @@ pitch: On take motion picture of myself web surfing around www.subway.com
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: freshbuzz-2013-169-install-Heart-01-database-SM.jpg
 subheading:
 download:

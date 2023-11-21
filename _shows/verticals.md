@@ -17,6 +17,5 @@ things: "[4453] [2018-072-ivyrk] 2018-072 IVYRK,[4454] [2018-072-dukes] 2018-071
   2018-116 Untitled,[4460] [2018-118-untitled] 2018-118 Untitled,[4461] [2018-121-untitled]
   2018-121 Untitled,[4462] [2018-124-the-original] 2018-124 The Original"
 status:
-vis: Y
 layout: shows
 ---

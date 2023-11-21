@@ -14,7 +14,7 @@ pitch: "​Label text burned into a plasma monitor over time. "
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: samsung-PS42Q7H-plasma-burn-2007-005-full-database_1.jpg
 subheading:
 download:

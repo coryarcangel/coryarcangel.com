@@ -15,7 +15,7 @@ ps: 'Above: performance of the complete 43 minute The Bruce Springsteen Born to 
   Glockenspiel Addendum @ Light Industry in Brooklyn'
 live_url:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZT0iTIRgMD397O33Mgueva5
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: glockenspiel-2006-008-light-industry-performance-view-1-database-DC.jpg
 subheading: "(Performance)"
 download:

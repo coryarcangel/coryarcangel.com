@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: skipping-stones-2010-079-full-database-ropac.jpg
 subheading:
 download:

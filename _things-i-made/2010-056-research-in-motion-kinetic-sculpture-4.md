@@ -14,7 +14,7 @@ pitch: "​Four Dancing Stands modded to sync."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: research-in-motion-2010-056-full-database-Ropac.jpg
 subheading:
 download:

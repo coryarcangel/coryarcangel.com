@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: oncompression-lakes-2014-094-full-still-1-database-team.jpg
 subheading:
 download:

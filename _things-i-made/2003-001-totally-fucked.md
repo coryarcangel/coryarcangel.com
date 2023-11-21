@@ -23,7 +23,7 @@ ps: "​This one is an infinite loop of Mario stuck on a cube. A year later I cr
   file. Thx again guys!&nbsp;"
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Totally-Fucked
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Totally-Fucked
 imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database-ih.jpg,fucked-2003-001-still-3-database-ih.jpg
 subheading:
 download: totally-fucked-2003-001-master.nes.zip

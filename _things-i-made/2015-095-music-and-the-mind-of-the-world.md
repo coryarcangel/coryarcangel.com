@@ -19,7 +19,7 @@ pitch: "​Worked - along w a massive team! - with my friend Tony to publish his
 ps:
 live_url: http://musicandthemindofthe.world/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2015-095-mmw-photoshoot-database-01-JIH.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: vomit-lakes-2015-064-full-database-ih.jpg
 subheading:
 download:

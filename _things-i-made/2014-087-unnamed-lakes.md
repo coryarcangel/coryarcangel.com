@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: unnamed-lakes-2014-087-full-still-3-database-team.jpg
 subheading:
 download:

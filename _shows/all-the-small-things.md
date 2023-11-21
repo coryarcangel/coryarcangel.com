@@ -40,6 +40,5 @@ things: "[121] [2011-115-self-playing-nintendo-64-nba-courtside-2] 2011-115 Self
   U Been Gone / Music For Stereos,[4241] [2013-199-the-source-sculpture] 2013-199
   The Source (sculpture)"
 status:
-vis: Y
 layout: shows
 ---

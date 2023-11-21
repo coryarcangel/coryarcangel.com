@@ -15,6 +15,5 @@ ps:
 imgs: rhizome-2014-06-database-install-01-ih.jpg,rhizome-2014-06-database-install-05-ih.jpg,rhizome-2014-06-database-install-08-ih.jpg,rhizome-2014-06-database-install-07-ih.jpg,rhizome-2014-06-database-install-09-ih.jpg,rhizome-2014-06-database-install-06-ih.jpg,rhizome-2014-06-database-install-10-ih.jpg,rhizome-2014-06-database-install-11-ih.jpg,rhizome-2014-06-database-install-13-ih.jpg,rhizome-2014-06-database-install-15-ih.jpg
 things: "[4038] [2005-020-bomb-iraq] 2005-020-Bomb Iraq"
 status:
-vis: Y
 layout: shows
 ---

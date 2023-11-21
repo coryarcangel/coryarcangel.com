@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: source-digest-2016-061-full-database-1.jpg,source-digest-2016-061-full-database-2.jpg,source-digest-2016-061-full-database-3.jpg,source-digest-2016-061-full-database-4.jpg,source-digest-2016-061-full-database-5.jpg,source-digest-2016-061-full-database-6.jpg
 subheading:
 download: the-source-digest-2016-061-digital-master-ih.pdf

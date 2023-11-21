@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/chord-memory
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/chord-memory
 imgs: remind-me-tomorrow-2021-04-web-ih--coHR.jpg
 subheading:
 download: Chord-Memory-Exports-1-3.pdf

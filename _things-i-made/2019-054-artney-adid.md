@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: artney_-adid-2019-054-db---cTgi.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Desktop-Wireform
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Desktop-Wireform
 imgs: hello-world-2010-081-full-database-ropac.jpg
 subheading:
 download:

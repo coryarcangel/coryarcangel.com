@@ -14,7 +14,7 @@ pitch: "​2 computers stuck in an out of office email loop."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: permanent-vacation-2008-003-install-Heart-01-database-SM.jpg
 subheading:
 download:

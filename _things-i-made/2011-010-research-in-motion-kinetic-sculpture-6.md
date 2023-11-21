@@ -14,7 +14,7 @@ pitch: "​10 Dancing stands modded to run at the same speed."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: research-in-motion-2011-10-install-database-SC.jpg
 subheading:
 download:

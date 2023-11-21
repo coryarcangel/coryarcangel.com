@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: the-source-2013-199-full-Heart-01-database-SM.jpg
 subheading: "(sculpture)"
 download:

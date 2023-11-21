@@ -15,7 +15,7 @@ pitch: "​Page ripped from Mondrain book,... flipped. :)"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: lozenge-2011-176-digital-database-ih.jpg
 subheading:
 download:

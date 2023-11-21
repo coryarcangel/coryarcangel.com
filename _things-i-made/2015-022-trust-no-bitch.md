@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: trust-no-bitch-2015-022-detail-2-database-EK.jpg,trust-no-bitch-2015-022-detail-3-database-EK.jpg,trust-no-bitch-2015-022-full-database-team-JL.jpg
 subheading:
 download:

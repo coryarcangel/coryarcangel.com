@@ -14,7 +14,7 @@ pitch: "​Performance listing some ideas for projects."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2008-020-Continuous-Play-Perf-View-2-database-IH.jpg
 subheading: "(Performance)"
 download:

@@ -14,7 +14,7 @@ pitch: "​Boosted cell phone signal in a gallery..."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: real-talk-2011-132-detail-2-database-SC.jpg
 subheading:
 download:

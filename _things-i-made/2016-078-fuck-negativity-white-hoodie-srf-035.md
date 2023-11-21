@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-front-full-database.jpg,Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-back-full-database.jpg
 subheading:
 download:

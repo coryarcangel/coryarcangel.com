@@ -17,7 +17,7 @@ ps: "​Made as part of Dexter Sinister’s True Mirror reflections on the 2008 
   font. LOL. :)"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2008_079_Sans_Comic_Full_Database_IH_1.jpg
 subheading:
 download: arcangel-sans-comic.pdf

@@ -17,7 +17,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs--2018-029-db-ih--YRBL.jpg
 subheading:
 download:

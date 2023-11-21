@@ -14,7 +14,7 @@ pitch: "​Compression software that makes files bigger."
 ps: "​Check the “official” website above to download the software, etc, etc. "
 live_url: http://tac-compression.com/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: total-asshole-compression-screenshot-database-ih.jpg
 subheading:
 download:

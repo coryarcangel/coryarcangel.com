@@ -15,7 +15,7 @@ pitch: "​Performance for unknown electronics"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: master-class-2010-054-performance-3-database-AK.jpg
 subheading:
 download:

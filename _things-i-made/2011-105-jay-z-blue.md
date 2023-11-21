@@ -15,7 +15,7 @@ ps: "​Jay-Z has his own color blue FYI, and I&nbsp;licensed it from his compan
   use for painting one wall in an&nbsp;exhibition.&nbsp;"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: jay-z-blue-2011-105-full-2-database-SC.jpg
 subheading:
 download:

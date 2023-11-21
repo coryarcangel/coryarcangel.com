@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: jeans-lakes-2015-061-full-database-ih.jpg
 subheading:
 download:

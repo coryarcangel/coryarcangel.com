@@ -28,7 +28,7 @@ ps: "​Handmade Gif is a Gif file I wrote by hand in binary. This of course is 
   is a 2 by 2 black and white checker GIF…\n\nBW WB"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Gif_2006_019_full-2-database_qqq.jpg,cory_arcangel_gif.gif
 subheading:
 download:

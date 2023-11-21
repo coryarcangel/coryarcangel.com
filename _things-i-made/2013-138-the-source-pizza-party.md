@@ -16,7 +16,7 @@ pitch: |-
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Pizza-Party-0.1.b
 imgs: the-source-pizza-party-srf-015-2013-138-detail-01-database-ih.jpg
 subheading:
 download: the-source-pizza-party-2013-138-digital-master-ih.pdf

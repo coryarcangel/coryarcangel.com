@@ -14,7 +14,7 @@ pitch: 'Simon and Garfunkel minus Simon. '
 ps:
 live_url:
 youtube: https://www.youtube.com/watch?v=Jol8UGT_ng4
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: sans-simon-2004-014-performanceview-columbia-database-HM.jpg
 subheading: " (Performance) "
 download:

@@ -24,7 +24,7 @@ ps: Sooo,.....this was a miltiscreen commission by both the Whitney Museum in NY
   9 months to made this and get it all straight, and it almost killed me! LOL.
 live_url:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZQMOV86lDJGUhhwPZDlHut3
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: bowling-2011-009-curve-detail-database-EW_1.jpg,bowling-2011-009-whitney-detail-2-database-SC.jpg,BarbicanCurve-London-2011-02-install-5-database-EW.jpg,bowling-2011-009-whitney-install-2-database-AR.jpg,BarbicanCurve-London-2011-02-install-2-database-EW.jpg,BarbicanCurve-London-2011-02-install-4-database-EW.jpg
 subheading:
 download:

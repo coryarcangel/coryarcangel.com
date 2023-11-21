@@ -14,7 +14,7 @@ pitch: "​Surfing around Starbucks user forums…..."
 ps:
 live_url:
 youtube: https://www.youtube.com/watch?v=UWItpHYg_3Y&t=264s
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: mystarbucksidea-2014-030-digital-still-4-database-ih.jpg,mystarbucksidea-2014-030-digital-still-5-database-ih.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch: Plastic iPhone 5 case printed with an image from the Photoshop Gradient D
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: srf-006-iphone-case-2014-008-full-1-database-ih.jpg
 subheading:
 download:

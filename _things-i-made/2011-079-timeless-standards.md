@@ -14,7 +14,7 @@ pitch: "​Scan of a Lacoste shirt"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: timeless-standards-2011-079-full-cropped-database-KA.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch: "​Bot which allows a user to ask chat user Slim Thug if his album has g
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: slim-thug-2005-007-screenshot-database-ih.jpg
 subheading:
 download:

@@ -17,7 +17,7 @@ pitch: "​Text about the super fun Warhol Amiga preservation project I did (w /
 ps:
 live_url: http://artforum.com/inprint/id=46874
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: the-warhol-files-2014-024-digital-database-ih.jpg
 subheading:
 download:

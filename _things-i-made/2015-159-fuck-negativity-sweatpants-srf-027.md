@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Fuck-Negativity-Sweatpants-2015-159-full-database-ih.jpg
 subheading:
 download:

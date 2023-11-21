@@ -15,7 +15,7 @@ pitch: "​Vinyl release of my suite of 24 piano compositions. Don’t sleep on 
 ps:
 live_url: https://soundcloud.com/coryarcangel/sets/24-dances-for-the-electric-piano-record-srf-001
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 24-dances-record-2013-015-full-1-database-ih.jpg,24-dances-record-2013-015-full-6-database-ih.jpg,24-dances-record-2013-015-full-5-database-ih.jpg,24-dances-record-2013-015-full-2-database-ih.jpg
 subheading: "(Vinyl)"
 download:

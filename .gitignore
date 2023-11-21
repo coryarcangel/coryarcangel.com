@@ -37,3 +37,5 @@ assets/thumbs/*
 _shows/*
 _things-i-made/*
 _site/*
+.DS_Store
+.DS_Store

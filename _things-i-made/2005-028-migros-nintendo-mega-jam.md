@@ -17,7 +17,7 @@ ps: |-
   did at the Migros museum in 2005. The music was an improvisation on a Nintendo NES music sequencer I was working on at the time, and which would eventually power the music in a vid I made that year called Super Mario Movie.&nbsp; :)
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: migros-jam-2005-028-full-database-ih.jpg
 subheading:
 download:

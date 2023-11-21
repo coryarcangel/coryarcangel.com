@@ -14,7 +14,7 @@ pitch: "​Poster for You Only Live Once"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: surfware-poster-2014-025-digital-database-ih.jpg
 subheading:
 download:

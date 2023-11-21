@@ -15,7 +15,7 @@ pitch: "​Twitter Feed which re-tweets the best posts featuring the phrase “w
 ps:
 live_url: http://twitter.com/WrknOnMyNovel
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: working-on-my-novel-2012-066-digital-screenshot-1-database-ih.jpg
 subheading: "(Twitter Account)"
 download:

@@ -14,7 +14,7 @@ pitch: 'A couple of golf clubs placed in a row. '
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: regular-flex-2011-119-full-database-ka_1.jpg
 subheading:
 download:

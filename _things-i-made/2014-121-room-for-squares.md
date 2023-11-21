@@ -47,7 +47,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: room-for-squares-2014-121-09-install-team-2-database-jm.jpg
 subheading:
 download:

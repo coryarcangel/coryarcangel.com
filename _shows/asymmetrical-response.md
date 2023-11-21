@@ -20,6 +20,5 @@ things: "[2217] [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground
   Dawgs / Lakes,[4366] [2016-077-fuck-negativity-white-sweatpants] 2016-077 Fuck Negativity
   Sweatpants,[4416] [2017-020-asymmetrical-response] 2017-020 Asymmetrical Response"
 status:
-vis: Y
 layout: shows
 ---

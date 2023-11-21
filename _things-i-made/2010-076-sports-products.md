@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: sports-products-2010-076-full-database-ropac_1.jpg
 subheading:
 download:

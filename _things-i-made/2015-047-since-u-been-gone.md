@@ -15,7 +15,7 @@ pitch: OH yah, this was actually just playing the Shania Twain CD, the woman in 
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: since-u-been-gone-2015-047-install-database-gamec-MZ.jpg
 subheading:
 download:

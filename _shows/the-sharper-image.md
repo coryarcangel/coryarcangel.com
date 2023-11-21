@@ -28,6 +28,5 @@ things: "[48] 2008-002 Video Painting - 2008-002-video-painting,[220] 2003-001 T
   2010-017 http://www.mocanomi.org/ - 2010-017-http-www.mocanomi.org,[2145] 2010-132
   The Sharper Image (Exhibition Catalog) - 2010-132-the-sharper-image-exhibition-catalog"
 status:
-vis: Y
 layout: shows
 ---

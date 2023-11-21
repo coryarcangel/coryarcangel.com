@@ -14,7 +14,7 @@ pitch: "​..."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: air-jordans-2012-080-detail-database-ih.jpg,air-jordans-2012-080-full-database-ih.jpg
 subheading:
 download:

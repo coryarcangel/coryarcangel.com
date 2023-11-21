@@ -17,7 +17,7 @@ ps: 'It''s embarrassing to admit, but I was really trying to make like a massive
   you are down! '
 live_url:
 youtube: https://www.youtube.com/watch?v=JjVIwJJPGws
-related_code: https://github.com/coryarcangel/Gould-Pro
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Gould-Pro
 imgs: paganini-2011-022-still-1-database-ih_1.jpg
 subheading:
 download:

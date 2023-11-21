@@ -15,7 +15,7 @@ pitch: "​New Yorker “Caption This Cartoon” contest always captioned with t
 ps:
 live_url: http://www.what-a-misunderstanding.com/
 youtube:
-related_code: https://github.com/coryarcangel/What-a-Misunderstanding
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/What-a-Misunderstanding
 imgs: what-a-mistunderstanding-2009-046-digital-database-ih.jpg
 subheading:
 download:

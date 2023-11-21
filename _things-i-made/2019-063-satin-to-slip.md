@@ -17,7 +17,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: satin-to-sip-2019-063-db-ih--ULmB.jpg
 subheading:
 download:

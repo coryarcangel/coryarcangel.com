@@ -16,7 +16,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: raw-youth-2014-046-install-Heart-01-database-SM.jpg,raw-youth-2014-046-full-Heart-01-database-SM.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch: Source code for my 2004 web “masterpiece” :/ Dooogle printed with arc
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Dooogle
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Dooogle
 imgs: source-doogle-2013-140-detail-database-01-ih.jpg
 subheading:
 download: the-source-dooogle-2013-140-digital-master-ih.pdf

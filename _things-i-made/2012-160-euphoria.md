@@ -17,7 +17,7 @@ pitch: "​Christmas Light animation......."
 ps:
 live_url: http://www.dailymotion.com/video/x1z2ci8_arcangel-surfware-yolo-pop-up-shop-holiday-inn_creation#from=embediframe
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: yolo-2014-03-install-008-database-DG.jpg
 subheading:
 download:

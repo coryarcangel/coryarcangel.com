@@ -15,7 +15,7 @@ pitch: "​Plotter drawing of the dunk plot on the cover of the 24 Dances for El
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 24-dances-drawing-2013-221-full-1-database-ih.jpg
 subheading: "(Drawing)"
 download:

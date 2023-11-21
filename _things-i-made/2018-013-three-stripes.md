@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: three-stripes-2018-013-database-dt--Shcy.jpg
 subheading:
 download:

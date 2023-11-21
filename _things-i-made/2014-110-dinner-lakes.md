@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: dinner-lakes-2014-110-full-database-lisson-KL.jpg
 subheading:
 download:

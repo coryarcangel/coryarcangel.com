@@ -14,7 +14,7 @@ pitch: "​2 Dancing stands modded to spin a slightly different speeds"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: research-2010-037-full-database-banhof.jpg
 subheading:
 download:

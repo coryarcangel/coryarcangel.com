@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: gamec-catalogue-2015-056-digital-database-ih.jpg
 subheading: "(Catalog)"
 download:

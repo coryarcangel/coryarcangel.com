@@ -15,6 +15,5 @@ things: "[7] [supermarioclouds] 2002-001 Super Mario Clouds,[9] [ishotandywarhol
   2002-002 I Shot Andy Warhol,[187] [2004-003-super-slow-tetris] 2004-003 Super Slow
   Tetris,[220] [2003-001-totally-fucked] 2003-001 Totally Fucked"
 status:
-vis: Y
 layout: shows
 ---

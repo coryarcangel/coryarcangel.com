@@ -19,6 +19,5 @@ things: "[4130] [2014-032-so-shines-a-good-deed-in-a-weary-world] 2014-032 So sh
   [2014-019-photoshop-cs] 2014-019 Photoshop Cs,[4136] [2014-020-photoshop-cs] 2014-020
   Photoshop Cs"
 status:
-vis: Y
 layout: shows
 ---

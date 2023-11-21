@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: russells-2-lakes-2015-065-full-database-CK.jpg
 subheading:
 download:
