@@ -10,8 +10,12 @@ e = ASCII 101
 
 Website for coryarcangel.com
 
-Usage: 
-bundle exec jekyll pagemaster --force shows things-i-made
-bundle exec jekyll serve
-JEKYLL_ENV=production bundle exec jekyll build
+Usage👇
+
+Export & audition
+./scrips-imgs.sh; bundle exec jekyll pagemaster --force shows things-i-made; bundle exec jekyll serve
+
+Full export
+./scrips-imgs.sh; bundle exec jekyll pagemaster --force shows things-i-made; JEKYLL_ENV=production bundle exec jekyll build
+
 

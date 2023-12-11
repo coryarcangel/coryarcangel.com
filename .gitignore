@@ -8,6 +8,7 @@ _shows
 *.log
 *.sqlite
 _site
+assets/thumbs
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
