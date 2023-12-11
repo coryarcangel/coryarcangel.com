@@ -14,6 +14,5 @@ imgs: and-or-tx-2008-06-24-install-database-ps.jpg,and-or-tx-2008-06-19-install-
 things: "[157] 2006-002 Untitled Translation Exercise - 2006-002-untitled-translation-exercise,[171]
   2007-045 The Bruce Springsteen Born to Run Glockenspiel Addendum (CD ROM) - 2007-045-bruce-springsteen-glockenspiel-addendum"
 status:
-vis: Y
 layout: shows
 ---

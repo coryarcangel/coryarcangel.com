@@ -22,6 +22,5 @@ things: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances F
   24 Dances For The Electric Piano (Composition),[4222] [2013-220-dances-for-electric-piano-performance]
   2013-220 Dances for Electric Piano (Performance)"
 status:
-vis: Y
 layout: shows
 ---

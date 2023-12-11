@@ -20,7 +20,7 @@ pitch: 'Re-staging of my old(ish) NES works on emulators running on cell phones.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: quickoffice-2015-068-install-database-CK.jpg,quickoffice-2015-068-install-detail-database-2-CK.jpg
 subheading:
 download:

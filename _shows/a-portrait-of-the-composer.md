@@ -15,6 +15,5 @@ imgs: portrait-2018-10-db-j--Ai78.jpg
 things: "[93] [2006-005-sweet16] 2006-005 Sweet 16,[4446] [2018-035-all-the-birds]
   2018-035 All the birds"
 status:
-vis: Y
 layout: shows
 ---

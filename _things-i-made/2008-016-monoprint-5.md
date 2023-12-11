@@ -14,7 +14,7 @@ pitch: "​Poorly done C-M-Y silkscreens."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Monoprint-5-2008-016-full-database-IH_1.jpg
 subheading:
 download:

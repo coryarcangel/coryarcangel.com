@@ -16,7 +16,7 @@ pitch: Source code for my HP pen plotter hello worlds printed on archival inks a
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 imgs: source-hp-2013-137-detail-database-ih.jpg
 subheading:
 download: the-source-hp-hello-world-2013-137-digital-master-ih.pdf

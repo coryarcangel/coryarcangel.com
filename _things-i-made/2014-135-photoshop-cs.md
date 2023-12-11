@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2014-135-detail-2-database-GAMeC-FF.jpg,photoshop-cs-2014-135-detail-3-database-GAMeC-FF.jpg,photoshop-cs-2014-135-detail-5-database-GAMeC-FF.jpg
 subheading:
 download:

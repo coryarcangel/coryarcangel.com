@@ -16,7 +16,7 @@ pitch: |-
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/On-and-On
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/On-and-On
 imgs: the-source-on-and-on-2013-168-install-Heart-01-database-SM.jpg
 subheading:
 download: the-source-on-and-on-2013-168-digital-master-ih.pdf

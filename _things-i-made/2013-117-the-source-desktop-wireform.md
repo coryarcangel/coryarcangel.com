@@ -15,7 +15,7 @@ pitch: Source code for “Desktop Wireform” sculpture printed on archival inks
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Desktop-Wireform
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Desktop-Wireform
 imgs: the-source-desktop-wireform-2013-117-detail-01-ih.jpg
 subheading:
 download: the-source-desktop-wireform-2013-117-digital-master-ih.pdf

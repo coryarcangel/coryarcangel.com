@@ -15,7 +15,7 @@ pitch: Box I made 4 Triple Canopy (I wz on the board for many year FYI). Kinda a
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: currentmood-2016-076-database-dt--2aWe.jpg,currentmood-2016-076-database-dt--dx7F.jpg,currentmood-2016-076-database-dt--4cHh.jpg,currentmood-2016-076-database-dt--F7Kh.jpg,currentmood-2016-076-database-dt--grCI.jpg,currentmood-2016-076-database-dt--FGer.jpg,currentmood-2016-076-database-ih--Lz5b.jpg
 subheading:
 download:

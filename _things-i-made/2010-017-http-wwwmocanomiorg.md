@@ -15,7 +15,7 @@ ps: "​Yes, this <i>IS</i> what the MOCA Miami website looked like during the d
   of my show. :)"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: mocanomi-2010-017-screenshot-1-database-ih.jpg
 subheading:
 download:

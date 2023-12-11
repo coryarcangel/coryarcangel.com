@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: ropac-install-2019-01-db---oU9j.jpg,ropac-install-2019-01-db-ih--NmzH.jpg,the-original-2018-124-db-ug--Gtcn.jpg,the-original-2018-124-db-ug--3Eyf.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Arcangel-Surfware-fuck-negativity-white-sweatpants-2016-077-full-database.jpg
 subheading:
 download:

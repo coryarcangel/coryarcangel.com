@@ -15,7 +15,7 @@ pitch: Source code for my infinate compression experiment (2004) as an archival 
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/666
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/666
 imgs: source-666-2013-134-detail-01-database-ih.jpg
 subheading:
 download: the-source-six-sixty-six-2013-134-digital-master-ih.pdf

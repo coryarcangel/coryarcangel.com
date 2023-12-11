@@ -16,6 +16,5 @@ imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
 things: "[96] [2010-057-cory-arcangel-for-new-jerseyy] 2010-057 Cory Arcangel for
   New Jerseyy"
 status:
-vis: Y
 layout: shows
 ---

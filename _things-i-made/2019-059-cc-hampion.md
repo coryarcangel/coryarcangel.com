@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: cc-hampion-2019-059-db-gn--I04E.jpg
 subheading:
 download:

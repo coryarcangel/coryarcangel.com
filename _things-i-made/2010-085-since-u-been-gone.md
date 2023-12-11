@@ -15,7 +15,7 @@ pitch: "​CD binder filled with CD’s relating to Kelly Clarkson’s hit singl
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: since-u-been-gone-2010-085-full-database-ropac.jpg
 subheading:
 download:

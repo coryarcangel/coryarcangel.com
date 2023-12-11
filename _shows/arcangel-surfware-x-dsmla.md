@@ -35,6 +35,5 @@ things: "[4111] [2013-117-the-source-desktop-wireform] 2013-117 The Source Issue
   2013-144 The Source Issue #9: Colors Personal Edition,[4451] [2018-052-multi-function-scarf]
   2018-052 Multi-function scarf"
 status:
-vis: Y
 layout: shows
 ---

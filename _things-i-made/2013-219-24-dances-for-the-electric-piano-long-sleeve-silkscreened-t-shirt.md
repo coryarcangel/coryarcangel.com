@@ -14,7 +14,7 @@ pitch: Tee for the 24 Dances suite of piano compositions.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 24-dances-shirt-2013-219-full-1-database-ih.jpg
 subheading:
 download:

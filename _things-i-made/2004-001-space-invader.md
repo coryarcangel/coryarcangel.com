@@ -19,7 +19,7 @@ ps: "​Space Invader is a mod of the Atari game Space Invaders which has been t
   below. "
 live_url:
 youtube: https://www.youtube.com/watch?v=XAoiBidAgv4
-related_code: https://github.com/coryarcangel/Space-Invader
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Space-Invader
 imgs: space-invader-2004-001-cartridge-database-ih.jpg,space-invader-2004-001-still-2-database-ih.jpg,space-invader-2004-001-still-4-database-ih.jpg,space-invader-2004-001-still-5-database-ih.jpg,space-invader-2004-001-still-6-database-ih.jpg,space-invader-2004-001-still-7-database-ih.jpg
 subheading:
 download: arcangel_spaceinvader.bin.zip

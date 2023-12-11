@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: super-chilled-2012-069-full-database-ih.jpg
 subheading:
 download:

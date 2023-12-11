@@ -14,7 +14,7 @@ pitch: Youtube videos to be permanently embedded in a non maintained web-page.
 ps:
 live_url: https://webrecorder.io/cory_arcangel/my-top-ten-youtube-videos
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2008_078_My_Top_Ten_Youtube_Videos_Screenshot_Database_IH.jpg
 subheading:
 download:

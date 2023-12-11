@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: nbc-2018-035-db-ih--3H2d.jpg
 subheading:
 download: Alle-Fugler.pdf

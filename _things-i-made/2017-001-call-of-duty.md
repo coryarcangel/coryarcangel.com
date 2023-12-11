@@ -15,7 +15,7 @@ pitch: Webmaster pool noodle.&nbsp;
 ps: The work that started the trade that started Olia&nbsp;
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: call-of-duty-2017-001-full-database-er-1-1749.jpg
 subheading:
 download:

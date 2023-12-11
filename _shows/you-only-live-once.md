@@ -36,6 +36,5 @@ things: "[144] [2010-076-sports-products] 2010-076 Sports Products,[2213] [2011-
   2012-117 Express Yourself Clearly,[4152] [2013-062-Express-Yourself-Clearly] 2013-062
   Express Yourself Clearly"
 status:
-vis: Y
 layout: shows
 ---

@@ -28,6 +28,5 @@ things: '[7] [supermarioclouds] 2002-001 Super Mario Clouds,[9] [ishotandywarhol
   [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground Dance Music Collection
   of Recorded Sound,[2242] [2013-063-audmcrs-website] 2013-063 AUDMCRS website'
 status:
-vis: Y
 layout: shows
 ---

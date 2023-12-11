@@ -14,7 +14,7 @@ pitch: "​Between 0-100 lines drawn to random points"
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 imgs: hello-world-2009-037-digital-database-ih.jpg
 subheading:
 download:

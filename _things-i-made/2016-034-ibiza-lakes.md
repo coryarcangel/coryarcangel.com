@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: ibiza-lakes-2016-034-full-database-JH.jpg
 subheading:
 download:

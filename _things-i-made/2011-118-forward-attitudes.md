@@ -15,7 +15,7 @@ pitch: ​Sound sculpture where a Steely Dan mp3 plays through ears buds on an O
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: forward-attitudes-2011-118-full-database-ih_1.jpg
 subheading:
 download:

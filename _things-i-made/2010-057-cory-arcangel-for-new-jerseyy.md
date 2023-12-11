@@ -14,7 +14,7 @@ pitch: "​New Jerseyy website redesigned to look like the website of Pace Galle
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch: Bot so u can follow Tony Conrads Music and the Mind of the World 40 yrs l
 ps:
 live_url: https://twitter.com/on_this_day_mmw
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: mmw-bot-2017-044-database-ih--uPUu_1.jpg,mmw-bot-2017-044-database-ih--8j3K_1.jpg,mmw-bot-2017-044-database-ih--QCQu_1.jpg
 subheading:
 download:

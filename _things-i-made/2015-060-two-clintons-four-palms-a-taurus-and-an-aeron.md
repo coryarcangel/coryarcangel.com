@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: two-clintons-seven-palms-a-taurus-and-an-aeron-2015-060-install-database-CK.jpg
 subheading:
 download:

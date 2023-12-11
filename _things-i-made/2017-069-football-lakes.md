@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: artwork-title-2017-069-database-dt--IK6r.jpg
 subheading:
 download:

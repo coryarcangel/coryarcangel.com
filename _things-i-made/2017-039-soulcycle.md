@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2018-039-soulcycle-database-01.jpg
 subheading:
 download:

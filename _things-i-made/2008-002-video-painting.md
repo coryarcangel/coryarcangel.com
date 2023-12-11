@@ -19,7 +19,7 @@ ps: ​Video painting is a 2 hour (eeek!) long video edited onto a <i><b> unique
   place out cause they have the only tape.
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: video-painting-2008-002-still-3-database-ih.jpg
 subheading:
 download:

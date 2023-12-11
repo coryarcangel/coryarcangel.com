@@ -18,6 +18,5 @@ things: "[5] [2006-008-the-bruce-springsteen-born-to-run-glockenspiel-addendum] 
   [2007-045-bruce-springsteen-glockenspiel-addendum] 2007-045 The Bruce Springsteen
   Born to Run Glockenspiel Addendum (CD ROM)"
 status:
-vis: Y
 layout: shows
 ---

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: untitled-2018-098-db-ih--qTwf.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch: MASSIVE CATALOG 4 MASSIVE SHOW
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: asymmetrical-response-2017-020-database-ih--AemK.jpg
 subheading: "(Catalog)"
 download:

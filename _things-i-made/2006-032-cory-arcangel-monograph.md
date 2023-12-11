@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2005-032-migros-monograph-full-database-ih.jpg
 subheading: "(Monograph)"
 download:

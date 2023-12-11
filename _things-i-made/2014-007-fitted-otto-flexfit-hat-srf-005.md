@@ -14,7 +14,7 @@ pitch: White Hat with Embroidered Red Arcangel Surfware Logo.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: srf-005-fitted-hat-2014-007-full-1-database-ih.jpg
 subheading:
 download:

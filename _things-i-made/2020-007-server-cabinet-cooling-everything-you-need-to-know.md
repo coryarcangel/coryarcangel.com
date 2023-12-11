@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: server-cabinet-cooling---everything-you-need-to-know-2020-007-db-ih--bYZo.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ ps: "​Brochure made for a show at the Carnegie Museum. Unknown edition. Not fo
   or available outside of the show.&nbsp;"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: carnegie-brochure-booklet-2012-150-full-1-database-ih.jpg
 subheading:
 download:

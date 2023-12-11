@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-carpet-2014-152-install-2-database-gamec-RM.jpg,photoshop-cs-carpet-2014-152-install-database-gamec-RM.jpg
 subheading:
 download:

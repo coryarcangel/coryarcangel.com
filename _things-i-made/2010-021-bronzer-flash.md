@@ -15,7 +15,7 @@ pitch: "​Last half hour of NJ trance radio station Pulse 97. Edition of 300. S
 ps:
 live_url: https://soundcloud.com/coryarcangel/bronzer-flash
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: bronzer-flash-2010-021-disc-database-ih.jpg
 subheading:
 download:

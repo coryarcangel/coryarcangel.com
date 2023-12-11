@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: beibs-lakes-2017-074-digital-database-dt--ZM6W.jpg
 subheading:
 download:

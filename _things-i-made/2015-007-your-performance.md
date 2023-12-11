@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: your-performance-2015-007-full-database-JH.jpg,your-performance-2015-007-detail-database-JH.jpg
 subheading:
 download:

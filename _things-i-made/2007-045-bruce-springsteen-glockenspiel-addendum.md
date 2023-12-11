@@ -18,7 +18,7 @@ ps: "​Cd’s given away with a mix version of my composition The Bruce Springs
   would eventually get circulated as Bruce’s record. :)"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: born-to-run-2007-045-cd-install-database_1.jpg
 subheading: "(CD Edition)"
 download:

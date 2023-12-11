@@ -15,7 +15,7 @@ pitch: "​“Combo” version of a past series &amp; performance."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: since-u-been-gone-2013-197-install-Heart-01-database-SM.jpg,since-u-been-gone-2013-197-detail-Heart-01-database-SM.jpg
 subheading:
 download:

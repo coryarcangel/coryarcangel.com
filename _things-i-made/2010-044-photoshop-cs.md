@@ -16,7 +16,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2010-044-full-cropped-database-ropac.jpg
 subheading:
 download:

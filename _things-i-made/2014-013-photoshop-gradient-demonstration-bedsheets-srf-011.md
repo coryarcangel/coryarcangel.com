@@ -15,7 +15,7 @@ pitch: A Photoshop Gradient Demonstration rendered on high-quality bedsheets. Le
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: spectrum-queen-2014-013-full-database-ih.jpg
 subheading:
 download:

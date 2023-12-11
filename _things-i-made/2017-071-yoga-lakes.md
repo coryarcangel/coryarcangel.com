@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: yoga-lakes-2017-071-database-dt-Dt4K.jpg
 subheading:
 download:

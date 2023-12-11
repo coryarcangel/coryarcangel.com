@@ -14,7 +14,7 @@ pitch: "​Press release sprayed with Lynx body spray. "
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: body-talk-2011-138-install-database-dv.jpg,body-talk-2011-138-detail-1-database-scan.jpg,body-talk-2011-138-detail-1-database-scan_1.jpg,body-talk-2011-138-detail-2-database-scan.jpg,body-talk-2011-138-detail-3-database-scan.jpg
 subheading:
 download:

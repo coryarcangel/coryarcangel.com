@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: hot-topics-2015-014-full-database-team-JL.jpg,hot-topics-2015-014-detail-database-team-JL.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch: Ran an iphone through a printing press, LOL.&nbsp;
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: iphone-emboss-2017-059-full-database-ih.jpg
 subheading:
 download:

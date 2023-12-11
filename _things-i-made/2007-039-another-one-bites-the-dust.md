@@ -15,7 +15,7 @@ pitch: "​Poster featuring Axl's shoes taken from he interior of GNR's Spaghett
 ps:
 live_url: https://www.spikeartmagazine.com/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Another_One_Bites_the_Dust_2007_039_full_database_IH_1.jpg
 subheading:
 download:

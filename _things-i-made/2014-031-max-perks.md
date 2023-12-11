@@ -14,7 +14,7 @@ pitch: "​Surfing around officemax.com....."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: max-perks-2014-031-digital-1-database-ih.jpg
 subheading:
 download:

@@ -16,7 +16,7 @@ ps: "​Uuuugh, youtube took this one down, so it doesn't make as much sense now
   download it here.&nbsp;"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Epic-Line-Rider-Fail-2009-053-still-2-database-ih.jpg
 subheading:
 download: arcangel-epic-line-rider-fail-2009-053-video-web.mp4

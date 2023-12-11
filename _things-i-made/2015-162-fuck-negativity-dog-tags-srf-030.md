@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: fuck-negativity-dogtag-SRF-030-2015-162-detail-database-ih.jpg,fuck-negativity-dogtag-SRF-030-2015-162-full-1-database-ih.jpg
 subheading:
 download:

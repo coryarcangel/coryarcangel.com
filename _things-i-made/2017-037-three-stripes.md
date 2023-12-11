@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2017-037-three-stripes-press-lisson-database-03.jpg
 subheading:
 download:

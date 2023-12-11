@@ -14,7 +14,7 @@ pitch: "​5 minute improvisation on a Sandin Image Processor."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: romp-ip-2011-020-still-1-database-ih.jpg
 subheading:
 download:

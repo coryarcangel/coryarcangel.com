@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Colors-Personal-Edition
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Colors-Personal-Edition
 imgs: source-colors-2013-144-database-ih--himk.jpg
 subheading:
 download: the-source-colors-pe-2013-144-digital-master-ih-2018.pdf

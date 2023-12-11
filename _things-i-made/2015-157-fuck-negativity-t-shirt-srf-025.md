@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Fuck-Negativity-T-Shirt-SRF-025-2015-157-full-database-ih.jpg
 subheading:
 download:

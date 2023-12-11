@@ -30,6 +30,5 @@ things: "[7] 2002-001 Super Mario Clouds - supermarioclouds,[11] 2003-002 Data D
   Collection of Recorded Sound - 2011-156-the-audmcrs-underground-dance-music-collection-of-recorded-sound,[2228]
   2012-065 AUDMCRS Essay - 2012-065-audmcrs-essay"
 status:
-vis: Y
 layout: shows
 ---

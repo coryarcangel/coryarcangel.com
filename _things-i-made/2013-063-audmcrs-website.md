@@ -14,7 +14,7 @@ pitch: "​Website 4 my touring trance record collection."
 ps:
 live_url: http://audmcrs.coryarcangel.com
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: audmcrs-website-2013-063-digital-database-ih.jpg
 subheading: "(Website)"
 download:

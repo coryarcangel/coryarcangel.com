@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: flagship-2017-062-db-jih--eQIH.jpg
 subheading:
 download:

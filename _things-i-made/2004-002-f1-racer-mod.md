@@ -18,7 +18,7 @@ ps: "​This is a simple mod I did of the old Japanese Famicom driving game F1 R
   titled ‘F2′….check below for the ROM."
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/F1-Racer
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/F1-Racer
 imgs: f1-racer-2004-002-screen-shot-1-database-ih.jpg,f1-racer-2004-002-cartridge-1-database-ih_1.jpg,f1-racer-2004-002-screen-shot-2-database-ih.jpg,f1-racer-2004-002-screen-shot-3-database-ih.jpg,f1-racer-2004-002-screen-shot-4-database-ih.jpg
 subheading:
 download: arcangel-f1-racer.nes.zip

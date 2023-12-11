@@ -23,7 +23,7 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
   Montana "
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: various-books-scents-2011-193-full-database-Team.jpg
 subheading:
 download:

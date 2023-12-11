@@ -18,7 +18,7 @@ live_url:
 youtube: 'https://www.youtube.com/watch?v=3QjTPA-Ib9E
 
   '
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: one-at-every-party-2010-003-still-1-database-ih_1.jpg
 subheading:
 download:

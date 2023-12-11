@@ -16,7 +16,7 @@ pitch: Array of Ikea tables, done 4 show at Firstsite (orignially done as separa
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: firstsite-2019-05-db-da--Qitn.jpg
 subheading:
 download:

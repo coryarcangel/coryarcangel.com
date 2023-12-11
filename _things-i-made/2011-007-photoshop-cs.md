@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2011-007-full-cropped-database-AR3.jpg
 subheading:
 download:

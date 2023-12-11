@@ -15,7 +15,7 @@ pitch: "​Short read about my new Scandi life ... also a bit about Apple and Sw
 ps:
 live_url: https://www.are.na/blog/the-north-face
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: the-north-face-2018-063-web-ih.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: all-the-small-things-2014-078-database-2-ih.jpg
 subheading: "(Edition)"
 download:

@@ -14,6 +14,5 @@ imgs: overwrite-2020-07-db-gn--8WxP.jpg,overwrite-2020-07-db-gn--mIpx.jpg,overwr
 things: "[15] [2004-002-f1-racer-mod] 2004-002 F1 Racer Mod (aka Japanese Driving
   Game)"
 status:
-vis: Y
 layout: shows
 ---

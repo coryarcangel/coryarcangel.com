@@ -17,7 +17,7 @@ ps: Part of the Genealogies project at the <a title="" href="http://www.lux.org.
   if u ever wondered,………
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2008_074_Genealogies_Full_Database_IH.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: boyfriend-2018-018-database-dt--A4li.jpg
 subheading:
 download:

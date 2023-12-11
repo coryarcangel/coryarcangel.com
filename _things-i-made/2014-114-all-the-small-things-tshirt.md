@@ -14,7 +14,7 @@ pitch: T made for my All The Small Things showz.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2014-114-allthesmallthings-shirt-database-ih.jpg
 subheading: "(Tee shirt)"
 download:

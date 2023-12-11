@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url: https://soundcloud.com/coryarcangel/currentmood
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: currentmood-2016-110-database-ih--w0kq.jpg
 subheading: "(Audio)"
 download:

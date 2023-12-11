@@ -17,7 +17,7 @@ ps: Random facts --> this is kinda related to the Huffington Post, LOL, seriousl
   here</a>.&nbsp;
 live_url: https://web.archive.org/web/20050827225046/http://showdown.contagiousmedia.org/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Contagious_Media_Showdown_2005_024_screenshot_database_IH.jpg
 subheading:
 download:

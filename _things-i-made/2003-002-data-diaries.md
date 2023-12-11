@@ -15,7 +15,7 @@ ps: 'Rhizome got this working again! OMG. Also, actually 61 videos cause there i
   an error on one, and I decided to not fix it. '
 live_url: https://anthology.rhizome.org/data-diaries-2003
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: data-diaries-2003-002-still-1-database-ih.jpg
 subheading:
 download:

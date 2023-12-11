@@ -14,6 +14,5 @@ ps:
 imgs: team-venice-2014-09-install-1-database-jm.jpg,team-venice-2014-09-install-2-database-jm.jpg,team-venice-2014-09-install-4-database-jm.jpg,team-venice-2014-09-install-10-database-jm.jpg,team-venice-2014-09-install-14-database-jm.jpg,team-venice-2014-09-install-13-database-jm.jpg,team-venice-2014-09-install-17-database-jm.jpg,team-venice-2014-09-install-15-database-jm.jpg,team-venice-2014-09-install-21-database-jm.jpg,team-venice-2014-09-install-38-database-jm.jpg
 things: "[4173] [room-for-squares] Room for Squares"
 status:
-vis: Y
 layout: shows
 ---

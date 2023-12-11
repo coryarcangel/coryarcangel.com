@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: russels-lakes-2014-086-full-still-1-database-team.jpg
 subheading:
 download:

@@ -15,7 +15,7 @@ pitch: "â€‹Dj Set performed Nov 17th, 2012 @ ICA Phillie as part of Ooga Boogaâ€
 ps:
 live_url: https://soundcloud.com/coryarcangel/reproduction-dj-set-ica
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: reproduction-dj-set-2008-069-performance-view-excursus-3-database-ak.jpg
 subheading:
 download:

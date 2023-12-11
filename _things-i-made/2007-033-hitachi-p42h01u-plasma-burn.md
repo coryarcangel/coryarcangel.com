@@ -14,7 +14,7 @@ pitch: "​Label information being burned into a plasma monitor."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: burn-2007-033-full-1-database-unknown_1.jpg
 subheading:
 download:

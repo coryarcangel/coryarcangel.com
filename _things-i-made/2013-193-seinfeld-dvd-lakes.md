@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: seinfeld-lakes-2013-193-install-Heart-01-database-SM.jpg
 subheading:
 download:

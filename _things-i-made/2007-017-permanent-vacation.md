@@ -14,7 +14,7 @@ pitch: "​Two computers stuck in an our of office email loop."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: permanent-vacation-2007-017-install-MWG-1-database-MWG.jpg
 subheading:
 download:

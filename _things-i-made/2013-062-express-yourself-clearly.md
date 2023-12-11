@@ -14,7 +14,7 @@ pitch: "​Clinton jogging on a TV which looks like apolar bear :/"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: express-yourself-clearly-2013-062-full-database-JW.jpg
 subheading:
 download:

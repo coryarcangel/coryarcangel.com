@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: peace-old-navy-2018-021-database-dt--VIT3.jpg
 subheading:
 download:

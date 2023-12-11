@@ -15,7 +15,7 @@ pitch: Sweat 4 my friends Wet!
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: wet-sweatshirt-2015-038-full-database-studio.jpg
 subheading:
 download:

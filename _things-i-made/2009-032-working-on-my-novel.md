@@ -16,7 +16,7 @@ ps: 'Original link (which doesn’t work anymore) was: http://twitter.com/#searc
   of the idea. LOL! ;-)'
 live_url: https://web.archive.org/web/20110903012902/http://www.buzzfeed.com/arcangel/great-twitter-searches-volume-1-working-on-my-n
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: working-on-my-novel-2009-032-digital-database-1-ih.jpg
 subheading: "(Twitter Search)"
 download:

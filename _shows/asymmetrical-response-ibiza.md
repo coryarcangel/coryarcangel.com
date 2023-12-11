@@ -23,6 +23,5 @@ things: "[147] [2010-079-skipping-stones] 2010-079 Skipping Stones,[2217] [2011-
   2017-041 Asymmetrical Response Reader: Ibiza (SRF-041),[4416] [2017-020-asymmetrical-response]
   2017-020 Asymmetrical Response"
 status:
-vis: Y
 layout: shows
 ---

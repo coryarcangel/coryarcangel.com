@@ -20,7 +20,7 @@ pitch: 'Re-staging of my old(ish) NES works on emulators running on cell phones.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: quickoffice-2013-196-detail-Heart-02-database-SM.jpg,quickoffice-2013-196-detail-Heart-01-database-SM.jpg,quickoffice-2013-196-install-Heart-01-database-SM.jpg
 subheading:
 download:

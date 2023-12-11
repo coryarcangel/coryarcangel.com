@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: glenn-gould-2008-082-full-1-press-ih.jpg
 subheading: "(Publication)"
 download:

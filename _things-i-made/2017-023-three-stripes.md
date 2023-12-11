@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: three-stripes-2017-023-install-database-ih-1.jpg
 subheading:
 download:

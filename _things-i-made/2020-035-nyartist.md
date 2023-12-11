@@ -20,7 +20,7 @@ ps: NYARTIST is documentation of a project by Cory Arcangel which was exhibited 
   14.
 live_url: https://issueprojectroom.org/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: nyartist-2020-035-db-ih--UHyo.jpg
 subheading:
 download:

@@ -18,7 +18,7 @@ ps: '​This was a lecture / course I performaned / taught a bunch of times for 
   LOL. '
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Dirtstyle-Design-2002-009-screenshot-database-ih.jpg
 subheading:
 download:

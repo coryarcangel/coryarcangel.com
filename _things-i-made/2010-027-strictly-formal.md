@@ -14,7 +14,7 @@ pitch: "​Interview blog"
 ps:
 live_url: http://strictly-formal.org/
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2010-027-Strictly-Formal-Screenshot-Database-IH.jpg
 subheading:
 download:

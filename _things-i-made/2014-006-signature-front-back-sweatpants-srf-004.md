@@ -14,7 +14,7 @@ pitch: Arcangel Surfware sweatpants with a gradient pattern text along the leg.
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: srf-004-signature-sweats-2014-006-full-2-database-ih.jpg
 subheading:
 download:

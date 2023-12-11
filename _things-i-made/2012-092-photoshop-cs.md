@@ -18,7 +18,7 @@ ps: "​Decided to up the amount of clicks it takes to make my Photoshop paintin
   photos / whatever they r. :)"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2012-092-full-database-Team.jpg
 subheading:
 download:

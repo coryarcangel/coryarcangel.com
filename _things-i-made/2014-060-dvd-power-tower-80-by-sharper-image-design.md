@@ -14,7 +14,7 @@ pitch: "​DVD rack with crap DVD’s…."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: dvd-rack-2014-060-detail-full-01-database-ih.jpg
 subheading:
 download:

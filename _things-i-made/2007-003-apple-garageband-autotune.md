@@ -16,7 +16,7 @@ live_url:
 youtube: 'https://www.youtube.com/watch?v=9zWqUnW66wY
 
   '
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: auto-tune-demo-2007-003-still-2-database-ih.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: creibleworkut-2019-048-db---LGoM.jpg
 subheading:
 download:

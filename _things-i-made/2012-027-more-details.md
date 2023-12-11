@@ -18,7 +18,7 @@ ps: So yeah, this was just some tic tacs thrown under the front seat of a Merced
   ABOUT page of this site. Thanks and looking forward to hearing from you ! :)
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: more-details-2012-027-detail-2-database-JT-Moca.jpg,more-details-2012-027-detail-database-PC.jpg,more-details-2012-027-full-1-database-SK.jpg
 subheading:
 download:

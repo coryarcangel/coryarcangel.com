@@ -33,6 +33,5 @@ things: "[4111] [2013-117-the-source-desktop-wireform] 2013-117 The Source Issue
   2013-141 The Source  Issue #10: What a misunderstanding!,[4410] [2013-144-the-source-issue-9-colors-personal-edition]
   2013-144 The Source Issue #9: Colors Personal Edition"
 status:
-vis: Y
 layout: shows
 ---

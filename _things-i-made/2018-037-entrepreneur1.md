@@ -14,7 +14,7 @@ pitch: Using google 2 remem how to spell en·tre·pre·neur
 ps:
 live_url: https://conifer.rhizome.org/cory_arcangel/enterpnurer
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: entreprenuer-2018-037-web-ih--fL9T.jpg
 subheading:
 download:

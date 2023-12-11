@@ -17,7 +17,7 @@ ps: "INFORMATION:\n Author: <a href=\"http://coryarcangel.com/\" title=\"\">Cory
   144"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: working-on-my-novel-2012-037-full-01-database-ih.jpg,working-on-my-novel-2012-037-full-02-database-ih.jpg,working-on-my-novel-2012-037-full-04-database-ih.jpg,working-on-my-novel-2012-037-full-03-database-ih.jpg,working-on-my-novel-2012-037-full-05-database-ih.jpg
 subheading: "(Book)"
 download:

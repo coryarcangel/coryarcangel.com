@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: you-only-live-once-2014-051-detail-Heart-01-database-SM.jpg,you-only-live-once-2014-051-full-Heart-01-database-SM.jpg
 subheading:
 download:

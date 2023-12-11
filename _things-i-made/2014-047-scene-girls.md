@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: scene-girls-2014-047-full-Heart-01-database-SM.jpg
 subheading:
 download:

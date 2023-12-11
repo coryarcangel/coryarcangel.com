@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: started-at-the-bottom-2015-005-full-database-JH.jpg,started-at-the-bottom-2015-005-detail-database-JH.jpg
 subheading:
 download:

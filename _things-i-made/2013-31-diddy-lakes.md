@@ -15,7 +15,7 @@ pitch: Diddy w/ Lake effect .....
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: diddy-lakes-2013-031-install-Heart-01-database-SM.jpg
 subheading:
 download:

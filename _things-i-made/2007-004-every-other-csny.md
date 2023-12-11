@@ -14,7 +14,7 @@ pitch: "​Every single possible combination of CSNY."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: every-other-csny-2007-004-full-database-ih.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/What-a-Misunderstanding
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/What-a-Misunderstanding
 imgs: source-wam-2013-141-database-ih--l1vt.jpg
 subheading:
 download: the-source-wam-2013-141-digital-master-ih-2018.pdf

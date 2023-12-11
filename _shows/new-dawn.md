@@ -14,6 +14,5 @@ ps:
 imgs: lv-2020-07-web-sm--CVeL.jpg,lv-2020-07-web-sm--DJFW.jpg,lv-2020-07-web-sm--faVh.jpg,lv-2020-07-web-sm--91eI.jpg
 things: "[4497] [2020-031-the-light-of-a-new-dawn] 2020-031 The light of a new dawn"
 status:
-vis: Y
 layout: shows
 ---

@@ -14,7 +14,7 @@ pitch: "​Arrangement of flat-screen TV's in boxes. "
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: volume-management-2011-021-full-database-SC.jpg
 subheading:
 download:

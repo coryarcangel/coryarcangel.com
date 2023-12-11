@@ -25,7 +25,7 @@ ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This
   power to whoever took them and kept them. :)
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: whitney-brochure-2011-092-detail-database.jpg
 subheading:
 download: arcangel_brochure.pdf

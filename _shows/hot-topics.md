@@ -19,6 +19,5 @@ things: "[4251] [2015-001-high-lyfe] 2015-001 High Lyfe,[4252] [2015-002-leafs] 
   [2015-006-misfits] 2015-006 Misfits,[4257] [2015-007-your-performance] 2015-007
   Your Performance"
 status:
-vis: Y
 layout: shows
 ---

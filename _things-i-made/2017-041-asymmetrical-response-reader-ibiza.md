@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: ar-reader-2017-041-database-ih--12a5.jpg,ar-reader-2017-041-database-ih--0JBs.jpg
 subheading:
 download:

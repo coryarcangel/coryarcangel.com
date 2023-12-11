@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: coming-soon-2014-137-database-ih--W7yV.jpg
 subheading:
 download: coming-soon-2014-137-scan-ih.pdf

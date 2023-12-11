@@ -14,7 +14,7 @@ pitch: "​Weekend at Bernie’s screening at the Whitney Museum."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Weekend-at-Bernies-Screening-at-Whitney-2011-127-performance-view-2-database-TO.jpg
 subheading:
 download:

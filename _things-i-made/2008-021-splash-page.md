@@ -17,7 +17,7 @@ ps: This is an actual “splash page” I made for this site, which after being 
   this would still be my index.html.
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 2008_021_Splash_Page_Still_Database_IH.jpg
 subheading:
 download:

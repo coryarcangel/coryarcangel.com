@@ -14,7 +14,7 @@ pitch: Did an ad &amp; window campaign 4 LV.&nbsp;
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: light-of-a-new-dawn-2020-031-db-ih--MUIA.jpg
 subheading:
 download:

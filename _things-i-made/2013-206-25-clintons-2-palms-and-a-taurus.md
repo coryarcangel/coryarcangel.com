@@ -14,7 +14,7 @@ pitch: "​...."
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 25-clintons-2013-206-full-Heart-01-database-SM.jpg,25-clintons-2013-206-detail-Heart-01-database-SM.jpg
 subheading:
 download:

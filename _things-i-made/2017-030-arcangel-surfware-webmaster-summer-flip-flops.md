@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: as-ws-flip-flops-2017-030-database-ih--WtJY.jpg
 subheading:
 download:

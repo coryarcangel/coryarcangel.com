@@ -15,7 +15,7 @@ pitch: Hooded white sweatshirt with a large Arcangel Surfware Spectrum Yin-Yang 
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: srf-003-crest-hoodie-2014-005-full-1-database-ih.jpg,srf-003-crest-hoodie-2014-005-full-2-database-ih.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch: "​Txt about digital folklore."
 ps:
 live_url: " http://digitalfolklore.org/"
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Everybody-Else-2009-040-Full-1-Database-IH.jpg
 subheading:
 download:

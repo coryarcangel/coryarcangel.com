@@ -18,7 +18,7 @@ ps: "​This was the first in a series of three different vidz I ended up making
   in this respect. "
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: gould-2007-006-install-1-database-NGCA.jpg
 subheading:
 download:

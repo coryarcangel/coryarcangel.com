@@ -17,7 +17,7 @@ ps: "​This series ran every week for a year. During that time I didn’t bothe
   it, mostly bots. Definitely one of the projects I am most proud of."
 live_url: http://www.solitaire-weekly.com
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: solitaire-weekly-2012-068-full-database-ih.jpg
 subheading:
 download:

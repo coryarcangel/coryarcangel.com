@@ -17,7 +17,7 @@ ps: "​These were modified (?) AOL booklets which contained the OSX compression
   I have left r like this. "
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: tac-booklet-2005-025-full-database-ih.jpg
 subheading: Booklet
 download:

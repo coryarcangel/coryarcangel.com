@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: first-class-2015-004-full-database-JH.jpg,first-class-2015-004-detail-1-database-JH.jpg
 subheading:
 download:

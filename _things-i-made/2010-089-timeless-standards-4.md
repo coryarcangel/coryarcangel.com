@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: timeless-standards-2010-089-full-cropped-database-ropac.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: timeless-standards-2012-060-full-1-database-Lisson.jpg
 subheading:
 download:

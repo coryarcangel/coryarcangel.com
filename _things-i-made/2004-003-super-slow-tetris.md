@@ -20,7 +20,7 @@ ps: ​This was originally called "Tetris Screwed". It takes about 8 hours for t
   was written by hand in 6502 binary! Step to that!
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-2004-003-screenshot-3-database-ih.jpg,super-slow-tetris-2004-003-screenshot-4-database-ih.jpg,super-slow-tetris-2004-003-screenshot-5-database-ih.jpg,super-slow-tetris-2004-003-screenshot-7-database-ih.jpg,super-slow-tetris-2004-003-screenshot-8-database-ih.jpg
 subheading:
 download: super-slow-tetris-2004-003-master.nes.zip

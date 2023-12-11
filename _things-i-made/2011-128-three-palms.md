@@ -14,7 +14,7 @@ pitch: "​Plotter-drawn palm trees, produced in an edition of 6. "
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: three-palms-2011-128-digital-database-ih.jpg
 subheading:
 download:

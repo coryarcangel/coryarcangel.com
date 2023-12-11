@@ -16,6 +16,5 @@ imgs: dunk-2019-005-db-saf--sLpd.jpg,destroyed-jeans-2018-125-db-saf--wbBE.jpg,d
 things: "[4463] [2018-125-destroyed-jeans] 2018-125 Destroyed Jeans,[4464] [2019-005-dunk]
   2019-005 Dunk"
 status:
-vis: Y
 layout: shows
 ---

@@ -20,6 +20,5 @@ things: "[164] 2008-008 Self Playing Sony Playstation I Bowling - 2008-008-self-
   the party - 2007-020-i-dont-want-to-spoil-the-party,[168] 2007-002 Structural Film
   - 2007-002-structural-film,[135] 2008-004 Personal Film - 2008-004-personal-film"
 status:
-vis: Y
 layout: shows
 ---

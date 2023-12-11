@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: increased-stress-2012-044-full-database-ih.jpg
 subheading:
 download:

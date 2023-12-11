@@ -17,7 +17,7 @@ ps: '​This was only the second "Self Playing Game" I ever made. Note the early
   middle of R + D on that device. '
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: ps1-bowling-2008-008-still-database-ih.jpg,ps1-bowling-2008-008-controller-database-ih_1.jpg
 subheading:
 download:

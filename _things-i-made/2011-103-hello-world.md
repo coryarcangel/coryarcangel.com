@@ -14,7 +14,7 @@ pitch: Wire bent to random points with one dimension always increasing.
 ps:
 live_url:
 youtube:
-related_code: https://github.com/coryarcangel/Desktop-Wireform
+https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Desktop-Wireform
 imgs: hello-world-2011-103-full-database-Team.jpg
 subheading:
 download:

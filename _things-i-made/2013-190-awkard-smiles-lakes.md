@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: awkward-smiles-lakes-2013-190-full-Heart-01-database-SM.jpg
 subheading:
 download:

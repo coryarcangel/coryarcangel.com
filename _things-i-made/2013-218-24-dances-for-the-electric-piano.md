@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url: https://soundcloud.com/coryarcangel/sets/24-dances-for-the-electric-piano-record-srf-001
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: 24-dances-2013-218-sheet-music-database-ih.jpg
 subheading: "(Composition)"
 download: 24-dances-2013-015-sheet-music-master.pdf

@@ -15,7 +15,7 @@ ps: "​Yeah,....this is how we used to spend our time in the suburbs of Buffalo
   York. "
 live_url:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZRXnGdIy4PaG-tbbj-T6bkz
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: insectiside-1991-001-still-3-database-ih.jpg
 subheading:
 download:

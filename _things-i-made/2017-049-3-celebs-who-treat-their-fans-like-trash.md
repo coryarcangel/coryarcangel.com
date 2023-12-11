@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: celebs-2017-049-database-jih--d17f.jpg
 subheading:
 download:

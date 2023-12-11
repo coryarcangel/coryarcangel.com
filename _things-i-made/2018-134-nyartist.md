@@ -15,7 +15,7 @@ pitch: 'Algo pipe organ piece which was made to be recorded &amp; inserted into 
 ps:
 live_url: http://nyartist.coryarcangel.com
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: sharjah-biennial-2019-03-db-ih--LoHh.jpg
 subheading:
 download:

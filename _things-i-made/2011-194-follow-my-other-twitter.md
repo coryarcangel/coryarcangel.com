@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url: http://twitter.com/#!/search/%22follow%20my%20other%20twitter%22
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: follow-my-other-twitter-2011-194-screenshot-database-ih.jpg
 subheading:
 download:

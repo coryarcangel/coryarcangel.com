@@ -20,7 +20,7 @@ ps: For this one, I have remastered - from a 78 - a recording of Beethoven’s S
   called the XL Model Geneva Lab GenevaSound Stereo.
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: living-situations-2011-137-full-database-Team.jpg
 subheading:
 download: arcangel-living-situtations.mp3

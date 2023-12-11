@@ -25,7 +25,7 @@ ps: "​This isn't exactly a video, but actually a modified DVD. The only differ
   any traditional sense (hence comedy clubs).&nbsp; "
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: Old_Friends_2005_011_still_database_IH.jpg
 subheading:
 download:

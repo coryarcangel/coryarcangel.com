@@ -14,7 +14,7 @@ pitch: "​Humidifier filled with Diet Sprite soda"
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: real-taste-2011-117-full-database-KA.jpg
 subheading:
 download:

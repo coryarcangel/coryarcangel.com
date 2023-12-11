@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: photoshop-cs-2015-055-install-2-database-CK.jpg,photoshop-cs-2015-055-install-1-database-CK.jpg
 subheading:
 download:

@@ -14,7 +14,7 @@ pitch: Dazed and Confused dubbed back into English via an outsource firm in Bang
 ps: "​So......yes the dialog in the film is still in English. :)"
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: translation-2006-002-install-6-database.jpg
 subheading:
 download:

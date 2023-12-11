@@ -14,7 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: consumer-information-2012-070-full-database-ih.jpg
 subheading:
 download:

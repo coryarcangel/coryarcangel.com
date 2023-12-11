@@ -15,7 +15,7 @@ pitch:
 ps:
 live_url:
 youtube:
-related_code:
+https://github.com/coryarcangel/alu:
 imgs: high-lyfe-2015-001-full-database-JH.jpg,high-lyfe-2015-001-detail-2-database-JH.jpg,high-lyfe-2015-001-detail-1-database-JH.jpg
 subheading:
 download:
