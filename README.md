@@ -1,8 +1,7 @@
 # coryarcangel.com
 
 ASCII Character Codes:
-
-		
+	
 p = ASCII 112
 u = ASCII 117
 k = ASCII 107
@@ -12,10 +11,13 @@ Website for coryarcangel.com
 
 Usage👇
 
-Export & audition
-./scrips-imgs.sh; bundle exec jekyll pagemaster --force shows things-i-made; bundle exec jekyll serve
+Generate thumbs
+./script-thumbs.sh
+
+Export & audition 
+bundle exec jekyll pagemaster --force shows things-i-made; bundle exec jekyll serve
 
 Full export
-./scrips-imgs.sh; bundle exec jekyll pagemaster --force shows things-i-made; JEKYLL_ENV=production bundle exec jekyll build
+bundle exec jekyll pagemaster --force shows things-i-made; JEKYLL_ENV=production bundle exec jekyll build
 
 
