@@ -31,4 +31,4 @@ else
     echo "File not found: $file_path"
 fi
 
-mv images-temp.csv _data/images-test.csv
+mv images-temp.csv _data/images.csv
