@@ -47,18 +47,19 @@ img
     clear: both;
 }
 /* Print */
-@media print {
+@media print 
+{
   	body {
-		font-size: 16px;
+	font-size: 16px;
   	}
   	img
 	{	
-		max-width: 45%;
-		max-height: 45%;
+	max-width: 45%;
+	max-height: 45%;
 	}
   	.thumbs img {
     	max-height: 150px;
-    }
+    	}
 	.fix
 	{
     	width:10%;
