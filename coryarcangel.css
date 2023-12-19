@@ -40,8 +40,6 @@ img
 }
 .thumbs img {
 	float: left;
-	max-height: 300px;
-	max-width: 100vw;
 	padding: 0px,0px,0px,0px; //padding positions
 }
 /* IBM */
