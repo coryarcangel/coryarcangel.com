@@ -5,6 +5,30 @@ body
 	font-size: 32px;
 	margin: 1%;
 }
+@media screen and (min-width: 250px) {
+	    body {
+	        font-size: 16px;
+	    }
+@media screen and (min-width: 576px) {
+	    body {
+	        font-size: 18px;
+	    }
+}
+@media screen and (min-width: 768px) {
+	    body {
+	        font-size: 20px;
+	    }
+}
+@media screen and (min-width: 992px) {
+	    body {
+	        font-size: 22px;
+	    }
+}
+@media screen and (min-width: 1200px) {
+	    body {
+	        font-size: 32px;
+	    }
+}
 p 
 {
 	margin: 0px;
@@ -18,19 +42,20 @@ li
 	margin: 0px;
 }
 /* Logo */
-.fix
+.fix_img
 {
-    position:fixed; 
-    bottom:1%; 
-    right:1%; 
-    width:15%;
+    	position:fixed; 
+    	bottom:1%; 
+    	right:1%; 
+    	width:15%;
 }
-.print
+.fix_txt
 {
-    position:fixed; 
-    bottom:1%; 
-    right:1%; 
-    width:10%;
+    	position:fixed;
+	bottom:1%; 
+    	right:1%;  
+	text-align: right;
+  	font-size: 6vw;
 }
 /* Images */
 img
@@ -45,6 +70,9 @@ img
 /* IBM */
 .TXT {
     clear: both;
+    .thumbs img {
+    	max-height: 150px;
+    	}
 }
 /* Print */
 @media print 

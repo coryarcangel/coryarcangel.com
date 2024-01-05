@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-¯\_(ツ)_/¯  
 * [About](about) 
 * [Contact](contact) 
 * Stuff 
