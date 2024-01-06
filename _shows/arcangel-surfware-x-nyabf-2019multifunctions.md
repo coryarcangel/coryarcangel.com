@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4502'
-site: '1'
-type: '5'
 title: 'Arcangel Surfware X NYABF 2019: Flagship'
 url: arcangel-surfware-x-nyabf-2019multifunctions
 live_url:

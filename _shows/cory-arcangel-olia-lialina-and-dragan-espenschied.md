@@ -1,7 +1,5 @@
 ---
 ee_id_show: '2237'
-site: '1'
-type: '5'
 title: Cory Arcangel + Olia Lialina and Dragan Espenschied
 url: cory-arcangel-olia-lialina-and-dragan-espenschied
 live_url:

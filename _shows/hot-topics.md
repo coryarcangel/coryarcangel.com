@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4258'
-site: '1'
-type: '5'
 title: Hot Topics
 url: hot-topics
 live_url:

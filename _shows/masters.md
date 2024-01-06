@@ -1,7 +1,5 @@
 ---
 ee_id_show: '2181'
-site: '1'
-type: '5'
 title: Masters
 url: masters
 live_url:

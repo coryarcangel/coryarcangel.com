@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4503'
-site: '1'
-type: '5'
 title: Frieze LA
 url: frieze-la
 live_url:

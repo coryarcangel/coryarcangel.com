@@ -1,7 +1,5 @@
 ---
 ee_id_show: '2848'
-site: '1'
-type: '5'
 title: Regarding Warhol
 url: regarding-warhol
 live_url:

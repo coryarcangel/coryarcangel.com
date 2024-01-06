@@ -1,7 +1,5 @@
 ---
 ee_id_show: '2163'
-site: '1'
-type: '5'
 title: Cory Arcangel For New Jerseyy
 url: cory-arcangel-for-new-jerseyy
 live_url:

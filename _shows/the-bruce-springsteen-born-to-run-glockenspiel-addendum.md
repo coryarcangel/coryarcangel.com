@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4171'
-site: '1'
-type: '5'
 title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 url: the-bruce-springsteen-born-to-run-glockenspiel-addendum
 live_url:

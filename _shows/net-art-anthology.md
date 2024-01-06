@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4422'
-site: '1'
-type: '5'
 title: Net Art Anthology
 url: net-art-anthology
 live_url: https://anthology.rhizome.org/data-diaries-2003

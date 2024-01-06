@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4470'
-site: '1'
-type: '5'
 title: Overwrite
 url: overwrite
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4039'
-site: '1'
-type: '5'
 title: Liste
 url: liste
 live_url:

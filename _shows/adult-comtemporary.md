@@ -1,7 +1,5 @@
 ---
 ee_id_show: '218'
-site: '1'
-type: '5'
 title: Adult Comtemporary
 url: adult-comtemporary
 live_url:

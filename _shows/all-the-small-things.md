@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4108'
-site: '1'
-type: '5'
 title: All The Small Things
 url: all-the-small-things
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '198'
-site: '1'
-type: '5'
 title: subtractions, modifications, addenda, and other recent contributions to participatory
   culture
 url: subtractions-modifications-addenda-and-other-recent-contributions-to-partic

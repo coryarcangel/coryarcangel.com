@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4244'
-site: '1'
-type: '5'
 title: Toys Redux – On Play and Critique
 url: toys-redux-on-play-and-critique
 live_url:

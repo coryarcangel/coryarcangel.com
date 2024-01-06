@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4360'
-site: '1'
-type: '5'
 title: Images
 url: images
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4359'
-site: '1'
-type: '5'
 title: currentmood
 url: currentmood
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4504'
-site: '1'
-type: '5'
 title: 'Arcangel Surfware x DSMLA: Flagship'
 url: arcangel-surfware-x-dsmla
 live_url:

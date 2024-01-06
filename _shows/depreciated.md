@@ -1,7 +1,5 @@
 ---
 ee_id_show: '237'
-site: '1'
-type: '5'
 title: Depreciated
 url: depreciated
 live_url:

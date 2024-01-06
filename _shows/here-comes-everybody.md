@@ -1,7 +1,5 @@
 ---
 ee_id_show: '199'
-site: '1'
-type: '5'
 title: Here Comes Everybody
 url: here-comes-everybody
 live_url:

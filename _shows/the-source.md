@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4274'
-site: '1'
-type: '5'
 title: 'Arcangel Surfware x NYABF 2015: The Source'
 url: the-source
 live_url:

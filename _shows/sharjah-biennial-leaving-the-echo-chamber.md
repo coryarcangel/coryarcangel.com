@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4465'
-site: '1'
-type: '5'
 title: Leaving the Echo Chamber
 url: sharjah-biennial-leaving-the-echo-chamber
 live_url:

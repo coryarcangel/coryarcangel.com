@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4424'
-site: '1'
-type: '5'
 title: Art in the Age of the Internet, 1989 to Today
 url: art-in-the-age-of-the-internet-1989-to-today
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4501'
-site: '1'
-type: '5'
 title: Freshbuzz
 url: freshbuzz
 live_url:

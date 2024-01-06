@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4172'
-site: '1'
-type: '5'
 title: Music For Stereos
 url: music-for-stereos
 live_url:

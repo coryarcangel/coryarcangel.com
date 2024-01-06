@@ -1,7 +1,5 @@
 ---
 ee_id_show: '2849'
-site: '1'
-type: '5'
 title: Power Points
 url: power-points
 live_url:

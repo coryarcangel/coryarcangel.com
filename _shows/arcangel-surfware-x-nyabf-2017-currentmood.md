@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4423'
-site: '1'
-type: '5'
 title: 'Arcangel Surfware X NYABF 2017: currentmood'
 url: arcangel-surfware-x-nyabf-2017-currentmood
 live_url:

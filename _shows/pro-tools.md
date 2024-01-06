@@ -1,7 +1,5 @@
 ---
 ee_id_show: '203'
-site: '1'
-type: '5'
 title: Pro Tools
 url: pro-tools
 live_url:

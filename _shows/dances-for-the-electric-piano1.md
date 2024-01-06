@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4224'
-site: '1'
-type: '5'
 title: Dances For The Electric Piano
 url: dances-for-the-electric-piano1
 live_url:

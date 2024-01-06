@@ -1,7 +1,5 @@
 ---
 ee_id_show: '200'
-site: '1'
-type: '5'
 title: The Sharper Image
 url: the-sharper-image
 live_url:

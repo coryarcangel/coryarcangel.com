@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4509'
-site: '1'
-type: '5'
 title: Let it be
 url: let-it-be
 live_url:

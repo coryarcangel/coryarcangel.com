@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4273'
-site: '1'
-type: '5'
 title: AUDMCRS ~ PSK ~ SUBG
 url: audmcrs-psk-subg
 live_url:

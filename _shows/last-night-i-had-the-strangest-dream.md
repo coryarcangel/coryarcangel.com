@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4226'
-site: '1'
-type: '5'
 title: Last Night I Had The Strangest Dream
 url: last-night-i-had-the-strangest-dream
 live_url:

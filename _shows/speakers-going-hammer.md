@@ -1,7 +1,5 @@
 ---
 ee_id_show: '204'
-site: '1'
-type: '5'
 title: Speakers Going Hammer
 url: speakers-going-hammer
 live_url:

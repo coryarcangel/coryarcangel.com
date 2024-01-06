@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4170'
-site: '1'
-type: '5'
 title: tl;dr
 url: tldr-venice
 live_url:

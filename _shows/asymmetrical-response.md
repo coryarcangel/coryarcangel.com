@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4419'
-site: '1'
-type: '5'
 title: 'Asymmetrical Response: Cory Arcangel and Olia Lialina'
 url: asymmetrical-response
 live_url:

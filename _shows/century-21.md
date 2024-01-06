@@ -1,7 +1,5 @@
 ---
 ee_id_show: '5000'
-site: '1'
-type: '5'
 title: Century 21
 url: century-21
 live_url: https://conifer.rhizome.org/cory_arcangel/century-21-linktree

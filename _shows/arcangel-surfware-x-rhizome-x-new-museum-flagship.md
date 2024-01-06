@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4505'
-site: '1'
-type: '5'
 title: 'Arcangel Surfware X Rhizome X New Museum: Flagship'
 url: arcangel-surfware-x-rhizome-x-new-museum-flagship
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '2162'
-site: '1'
-type: '5'
 title: Cory Arcangel vs. / & Pierre Bismuth
 url: cory-arcangel-vs-pierre-bismuth
 live_url:

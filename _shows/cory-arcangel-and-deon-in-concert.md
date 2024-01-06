@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4225'
-site: '1'
-type: '5'
 title: Cory Arcangel & D'Eon in Concert
 url: cory-arcangel-and-deon-in-concert
 live_url:

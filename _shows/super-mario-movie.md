@@ -1,7 +1,5 @@
 ---
 ee_id_show: '202'
-site: '1'
-type: '5'
 title: Super Mario Movie
 url: super-mario-movie
 live_url:

@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4169'
-site: '1'
-type: '5'
 title: tl;dr
 url: tldr-new-york
 live_url:

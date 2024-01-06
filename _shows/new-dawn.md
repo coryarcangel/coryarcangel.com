@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4507'
-site: '1'
-type: '5'
 title: New Dawn
 url: new-dawn
 live_url:

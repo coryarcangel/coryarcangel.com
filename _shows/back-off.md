@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4499'
-site: '1'
-type: '5'
 title: BACK OFF
 url: back-off
 live_url:

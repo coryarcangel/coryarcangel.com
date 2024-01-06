@@ -1,7 +1,5 @@
 ---
 ee_id_show: '194'
-site: '1'
-type: '5'
 title: Creative Pursuits
 url: creative-pursuits
 live_url:

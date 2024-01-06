@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4129'
-site: '1'
-type: '5'
 title: 'THENnow: Mario Schifano / Cory Arcangel'
 url: thennow-mario-schifano-cory-arcangel
 live_url:

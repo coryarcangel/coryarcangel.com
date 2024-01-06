@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4447'
-site: '1'
-type: '5'
 title: A Portrait of the Composer
 url: a-portrait-of-the-composer
 live_url:

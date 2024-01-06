@@ -1,7 +1,5 @@
 ---
 ee_id_show: '4377'
-site: '1'
-type: '5'
 title: 'Arcangel Surfware x NYABF 2016: Fuck Negativity'
 url: fn-white-the-source-digest
 live_url:
