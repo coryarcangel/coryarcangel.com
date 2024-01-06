@@ -8,7 +8,7 @@ title: Shows
 {% for shows in shows_list %}
   <li>
       <a href="{{ shows.url }}">
-      {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.year }}
+      {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.state_country }}, {{ shows.year }}
       
     {% if shows.status == "soon"  %}
 	🔜

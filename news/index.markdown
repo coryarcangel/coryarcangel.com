@@ -9,7 +9,7 @@ title: Shows
 {% for shows in shows_list %}
 {% if shows.status == "news" %}
 
-	* <a href="../shows/{{ shows.url }}">{{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.year }}
+	* <a href="../shows/{{ shows.url }}">{{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.state_country }}, {{ shows.year }}
 
 {% endif %}
 {% endfor %}
