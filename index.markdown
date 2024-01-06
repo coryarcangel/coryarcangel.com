@@ -4,6 +4,7 @@ title: Home
 ---
 * [About](about) 
 * [Contact](contact) 
+* [New(s)](news)
 * Stuff 
   * [Things](things-i-made)  
   * [Shows](shows)  

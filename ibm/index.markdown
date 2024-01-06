@@ -253,6 +253,6 @@ Version: 2, July 3, 2023.
 </div>
 <!-- <a href="{{ site.url }}"> -->
 <a href="Cory-Arcangel-IBM-2.pdf">
-<img src="{{ site.url }}/assets/print-icon.svg" class="print"/>
+<img src="{{ site.url }}/assets/print-icon.svg" class="fix_img"/>
 </a>
 {{ site.time | date: '%d/%m/%y' }}
