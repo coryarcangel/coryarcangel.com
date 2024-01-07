@@ -1,6 +1,6 @@
 ---
-layout: shows-index
-title: Shows
+layout: default
+title: News
 ---
 <a href="../">↩ Home </a>
 * Shows
