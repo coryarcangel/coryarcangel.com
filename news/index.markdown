@@ -18,8 +18,8 @@ title: News
 * Still 🔥
 	* [Identity Pitches w/ Stine Janvin (buy now!)](https://primaryinformation.org/product/identity-pitches/)
 * Press
-	* [Cory Arcangel @  Otoliths in Flux Podcast](https://stegi.radio/show/artist-talk-cory-arcangel-2023-10-05) 
-	* [Cory Arcangel on John Knecht’s The Possible Fog of Heaven, 1993](https://www.artforum.com/print/202305/cory-arcangel-on-john-knecht-s-the-possible-fog-of-heaven-1993-90442) 
+	* [Otoliths in Flux Podcast](https://stegi.radio/show/artist-talk-cory-arcangel-2023-10-05){:target="_blank"}
+	* [On John Knecht’s The Possible Fog of Heaven, Artforum](https://www.artforum.com/print/202305/cory-arcangel-on-john-knecht-s-the-possible-fog-of-heaven-1993-90442){:target="_blank"} 
 
 
 
