@@ -6,6 +6,8 @@ live_url:
 year: '2009'
 venue: NiMK
 state_country: Amsterdam
+type:
+dates:
 pitch: 'Small all moving image survey show. '
 ps:
 imgs: NIMK-Amsterdam-2009-08-install-1-database-PC.jpg,NIMK-Amsterdam-2009-08-install-2-database-PC.jpg,NIMK-Amsterdam-2009-08-install-3-database-PC.jpg,NIMK-Amsterdam-2009-08-install-4-database-PC.jpg

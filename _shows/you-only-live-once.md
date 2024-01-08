@@ -6,6 +6,8 @@ live_url:
 year: '2014'
 venue: SOHO Holiday Inn, Grand Lafyette Conference Room
 state_country: New York
+type:
+dates:
 pitch: Debut Arcangel Surfware pop-up / first show of all new work in a few years
   in NYC (since my Whitney show) ...... :-/
 ps:

@@ -6,6 +6,8 @@ live_url:
 year: '2019'
 venue: New Museum
 state_country: New York
+type:
+dates:
 pitch: Built a copy of the Arcangel Surfware Flagship at the New Museum 4 one day!
   Thx Rhizome.&nbsp;
 ps:

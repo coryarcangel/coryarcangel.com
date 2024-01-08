@@ -6,6 +6,8 @@ live_url:
 year: '2015'
 venue: Galerie Thaddaeus Ropac
 state_country: Pantin
+type:
+dates:
 pitch: A great excuse 2 show my wharehouse banger PSK.
 ps:
 imgs: ropac-pantin-2015-06-install-04-database.jpg,ropac-pantin-2015-06-install-01-database.jpg,ropac-pantin-2015-06-install-02-database.jpg,ropac-pantin-2015-06-install-03-database.jpg,ropac-pantin-2015-06-install-07-database.jpg,ropac-pantin-2015-06-install-06-database.jpg,ropac-pantin-2015-06-install-08-database.jpg,ropac-pantin-2015-06-install-09-database.jpg

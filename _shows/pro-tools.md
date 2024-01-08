@@ -6,6 +6,8 @@ live_url:
 year: '2011'
 venue: Whitney Museum of American Art
 state_country: New York
+type:
+dates:
 pitch: "​All nu work 4 a show @ the Whitney. Almost put me in the grave making all
   this stuff in 9 months. Hope u like it! "
 ps:

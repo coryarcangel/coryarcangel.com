@@ -6,6 +6,8 @@ live_url:
 year: '2016'
 venue: NYABF
 state_country: New York
+type:
+dates:
 pitch: "​Debut of The Source Digest &amp; FN white gear."
 ps:
 imgs: nyabf-2016-109-database-ek--bw9S.jpg,nyabf-2016-109-database-ek--GPeC.jpg,nyabf-2016-109-database-ek--8eCf.jpg,nyabf-2016-109-database-ek--Q6oU.jpg,nyabf-2016-109-database-ek--wUFW.jpg

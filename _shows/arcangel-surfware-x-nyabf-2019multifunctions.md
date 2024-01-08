@@ -6,6 +6,8 @@ live_url:
 year: '2019'
 venue: NYABF
 state_country: New York
+type:
+dates:
 pitch: "​Surfware wz back at NYABF! Tiny tiny tiny tiny version of our flagship. Hot
   tickets: multi-function scarves &amp; “flatware” airplane pillows."
 ps:

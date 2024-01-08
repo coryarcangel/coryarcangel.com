@@ -6,6 +6,8 @@ live_url:
 year: '2005'
 venue: Migros Museum für Gegenwartskunst
 state_country: Zurich
+type:
+dates:
 pitch: "​Kinda a pixel show. Lotsa game / software stuff. "
 ps:
 imgs: migros-zurich-2005-04-install-1-database-qm.jpg,migros-zurich-2005-04-install-2-database-qm.jpg,migros-zurich-2005-04-install-3-database-qm.jpg

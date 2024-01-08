@@ -6,6 +6,8 @@ live_url:
 year: '2015'
 venue: Lisson Gallery
 state_country: Milan
+type:
+dates:
 pitch: "​Would you believe me if I told you this was my first <i>sculpture</i> show?
   ;-)"
 ps: "...think “Your Performance” might b 1 of the best things I ever made FYI. The

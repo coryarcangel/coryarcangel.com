@@ -6,6 +6,8 @@ live_url: https://anthology.rhizome.org/data-diaries-2003
 year: '2017'
 venue: http://rhizome.org
 state_country: Cyberspace
+type:
+dates:
 pitch: Data Diaries in NET ART ANTHOLOGY!
 ps:
 imgs: rhizome-anthology-2017-08-database-ih-1b.jpg

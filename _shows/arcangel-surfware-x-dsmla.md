@@ -6,6 +6,8 @@ live_url:
 year: '2019'
 venue: DSMLA
 state_country: LA
+type:
+dates:
 pitch: Built a copy of the Arcangel Surfware scandinavian flagship @ DSMLA…
 ps:
 imgs: dover-street-market-la-2019-XX-web-fs--1TkK.jpg,dover-street-market-la-2019-XX-web-fs--8jSG.jpg,dover-street-market-la-2019-XX-web-fs--4EwY.jpg,dover-street-market-la-2019-XX-web-fs--8v4e.jpg,dover-street-market-la-2019-XX-web-fs--9XJS.jpg,dover-street-market-la-2019-XX-web-fs--ahgz.jpg,dover-street-market-la-2019-XX-web-fs--dFFK.jpg,dover-street-market-la-2019-XX-web-fs--dgxO.jpg,dover-street-market-la-2019-XX-web-fs--Fe5B.jpg,dover-street-market-la-2019-XX-web-fs--HD9H.jpg,dover-street-market-la-2019-XX-web-fs--IuDK.jpg,dover-street-market-la-2019-XX-web-fs--kPQ7.jpg,dover-street-market-la-2019-XX-web-fs--M8OL.jpg,dover-street-market-la-2019-XX-web-fs--OdUG.jpg,dover-street-market-la-2019-XX-web-fs--RlWL.jpg,dover-street-market-la-2019-XX-web-fs--pf5V.jpg,dover-street-market-la-2019-XX-web-fs--SCQQ.jpg,dover-street-market-la-2019-XX-web-fs--SCQe.jpg,dover-street-market-la-2019-XX-web-fs--vM3E.jpg,dover-street-market-la-2019-XX-web-fs--w9vz.jpg,dover-street-market-la-2019-XX-web-fs--waql.jpg,dover-street-market-la-2019-XX-web-fs--yFRB.jpg,dover-street-market-la-2019-XX-web-fs--yTFm.jpg,dover-street-market-la-2019-XX-web-fs--YFWd.jpg,dover-street-market-la-2019-XX-web-fs--wlKN.jpg,dover-street-market-la-2019-XX-web-fs--ytzy.jpg,dover-street-market-la-2019-XX-web-fs--zPV0.jpg,dover-street-market-la-2019-XX-web-fs--zYwF.jpg,dover-street-market-la-2019-XX-web-ih--imHc.jpg

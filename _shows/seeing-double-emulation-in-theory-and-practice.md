@@ -6,6 +6,8 @@ live_url:
 year: '2004'
 venue: Solomon R. Guggenheim Museum
 state_country: New York
+type:
+dates:
 pitch: 'Kinda a cray ahead of its time group show about digital preservation / emulation.
   An honor 2 show w so many tru heads: Nam June Paik, Jodi.org, John Simon, etc, etc.'
 ps:

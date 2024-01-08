@@ -6,6 +6,8 @@ live_url:
 year: '2020'
 venue: Frieze Art Fair (w Greene Naftali)
 state_country: LA
+type:
+dates:
 pitch: "​First big show w Greene Naftali. Showed clickfarm works &amp; Ikea table
   flatware.&nbsp;"
 ps:

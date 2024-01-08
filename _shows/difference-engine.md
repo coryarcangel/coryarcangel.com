@@ -6,6 +6,8 @@ live_url:
 year: '2018'
 venue: Lisson Gallery
 state_country: New York
+type:
+dates:
 pitch: "​Curated this show w/ Tina Kukielski. Thx 2 Carol Bove, Jacob Ciocci, Aleksandra
   Domanović, Lonnie Holley, Jamian Juliano-Villani, JODI, Konrad Klapheck, Guthrie
   Lonergan, Michel Majerus, Jayson Musson, Deborah Remington, Hayley Silverman, Jessie

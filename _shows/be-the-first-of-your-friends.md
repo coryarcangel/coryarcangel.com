@@ -6,6 +6,8 @@ live_url:
 year: '2015'
 venue: Espace Louis Vuitton
 state_country: Munich
+type:
+dates:
 pitch: "&nbsp;Exhibition in the back of an LV store!"
 ps:
 imgs: espace-louis-vuitton-munich-2015-04-install-2-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-1-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-3-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-4-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-6-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-5-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-7-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-8-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-11-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-12-database-CK.jpg,espace-louis-vuitton-munich-2015-04-install-13-database-CK.jpg

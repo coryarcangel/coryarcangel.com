@@ -6,6 +6,8 @@ live_url:
 year: '2013'
 venue: Warhol Museum
 state_country: Pittsburgh
+type:
+dates:
 pitch: Silver Clouds, Super Mario Clouds ;-),,
 ps:
 imgs: Warhol-Pittsburgh-2013-02-install-05-database-Warhol_1.jpg,Warhol-Pittsburgh-2013-02-install-06-database-Warhol.jpg

@@ -7,6 +7,8 @@ live_url:
 year: '2006'
 venue: Team Gallery
 state_country: New York
+type:
+dates:
 pitch: "​Show that wz about re-using content / techniques. "
 ps:
 imgs: Team-NewYork-2006-09-install-1-database.jpg,Team-NewYork-2006-09-install-2-database.jpg,Team-NewYork-2006-09-install-3-database.jpg

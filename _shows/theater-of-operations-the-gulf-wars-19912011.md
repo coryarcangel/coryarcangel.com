@@ -6,6 +6,8 @@ live_url:
 year: '2019'
 venue: MoMA P.S.1
 state_country: New York
+type:
+dates:
 pitch: The good ppl @ Rhizome gave the IRL treatment 2 my 2005 readymade vid game
   Bomb Iraq
 ps:

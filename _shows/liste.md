@@ -6,6 +6,8 @@ live_url:
 year: '2004'
 venue: LISTE Art Fair (w/ Team Gallery)
 state_country: Basel
+type:
+dates:
 pitch: I was in the booth the whole time, showing ppl how to play the games, FYI.
 ps:
 imgs: Liste-2004-install-database-team-01.jpg,Liste-2004-install-database-team-02.jpg,Liste-2004-install-database-team-03.jpg,Liste-2004-install-database-team-04.jpg,Liste-2004-install-database-team-05.jpg,Liste-2004-install-database-team-06.jpg,Liste-2004-install-database-team-08.jpg,Liste-2004-install-database-team-09.jpg,Liste-2004-install-database-team-11.jpg

@@ -6,6 +6,8 @@ live_url:
 year: '2013'
 venue: DHC/ART Foundation
 state_country: Montreal
+type:
+dates:
 pitch: "​Best part of this was that all exhibition design used comic sans. Also,...each
   diff era? / area? of my stuff had its own room which was fun, .... photos, game
   stuff, composition, kinetic sculpture, vid mods, etc, etc.&nbsp;,,"

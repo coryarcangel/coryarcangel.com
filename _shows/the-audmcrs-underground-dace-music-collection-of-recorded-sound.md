@@ -6,6 +6,8 @@ live_url: https://www.newmuseum.org/exhibitions/view/the-audmcrs-underground-dan
 year: '2013'
 venue: Newmuseum.org
 state_country: Cyberspace
+type:
+dates:
 pitch: Gotta luv these virtual shows(!) Linked to the AUDMCRS Underground Dance Music
   Collection of Recorded Sound.
 ps:

@@ -6,6 +6,8 @@ live_url:
 year: '2010'
 venue: New Jerseyy & Tate Modern
 state_country: Cyberspace
+type:
+dates:
 pitch: 'FYI: This was an entirely “virtual” show…... I re-resigned New Jerseyy’s website
   for their participation in No Soul For Sale at the Tate.,,​'
 ps: "​Also possibly of interest, is this was the only participation of New Jerseyy

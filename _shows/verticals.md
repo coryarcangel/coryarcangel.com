@@ -6,6 +6,8 @@ live_url:
 year: '2019'
 venue: Galerie Thaddaeus Ropac
 state_country: Salzburg
+type:
+dates:
 pitch: A classic European show (maybe my last for a while?). Painting, sculpture,
   drawing, laser ;-)
 ps:

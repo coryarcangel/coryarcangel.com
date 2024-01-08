@@ -6,6 +6,8 @@ live_url:
 year: '2008'
 venue: Light Industry
 state_country: Brooklyn
+type:
+dates:
 pitch: "​First complete performance of my (epic?) composition for Glockenspiel and
   electronics.&nbsp;"
 ps:

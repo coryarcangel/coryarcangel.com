@@ -6,6 +6,8 @@ live_url:
 year: '2012'
 venue: Carnegie Museum of Art
 state_country: Pittsburgh
+type:
+dates:
 pitch: "&nbsp;... had a super chill time putting this one together, ... a bit of everything
   really. A good vibe all around! "
 ps: ​Finally got to put my sculpture "Volume Management" (a bunch of flat screens

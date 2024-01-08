@@ -6,6 +6,8 @@ live_url:
 year: '2011'
 venue: Team Gallery
 state_country: New York
+type:
+dates:
 pitch: I picked 3 of Pierre's things, he picked 3 of mine, and we made one together.
   :)
 ps:

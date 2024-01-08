@@ -6,6 +6,8 @@ live_url:
 year: '2010'
 venue: MoCA
 state_country: North Miami
+type:
+dates:
 pitch: "​Survey show, ... my best title by far. "
 ps:
 imgs: MoCANoMi-Miami-2010-03-install-1-database-SB.jpg,MoCANoMi-Miami-2010-03-install-2-database-SB.jpg,MoCANoMi-Miami-2010-03-install-3-database-SB.jpg,MoCANoMi-Miami-2010-03-install-4-database-SB.jpg,MoCANoMi-Miami-2010-03-install-5-database-SB.jpg

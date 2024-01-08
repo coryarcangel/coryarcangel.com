@@ -6,6 +6,8 @@ live_url:
 year: '2014'
 venue: Berliner Philharmonie
 state_country: Berlin
+type:
+dates:
 pitch: "​Hampus Lindwall on the ivories at the German premiere of my piano suite.
   Standing room only! ;-)"
 ps:

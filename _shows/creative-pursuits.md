@@ -6,6 +6,8 @@ live_url:
 year: '2010'
 venue: University of Michigan Museum of Art
 state_country: Ann Arbor
+type:
+dates:
 pitch: "​The space had so many windows, I had to step up my non projected image game. "
 ps:
 imgs: UMMA-AnnArbor-2010-01-install-1-database.jpg,UMMA-AnnArbor-2010-01-install-2-database.jpg,UMMA-AnnArbor-2010-01-install-3-database.jpg,UMMA-AnnArbor-2010-01-install-4-database.jpg,UMMA-AnnArbor-2010-01-install-5-database.jpg

@@ -6,6 +6,8 @@ live_url:
 year: '2015'
 venue: Gamec
 state_country: Bergamo
+type:
+dates:
 pitch: Absolutely ​<i>BONKERS</i> show in the oldest municipal space in Bergamo. A
   def eye popper. So fun.
 ps:
