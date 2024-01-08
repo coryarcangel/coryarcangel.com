@@ -6,7 +6,7 @@ inv_num: 2007-045
 add_credit:
 url: 2007-045-bruce-springsteen-glockenspiel-addendum
 title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
-year: '2010'
+year: '2007'
 display_year: '2007'
 medium: Audio CDs. Unlimited edition.
 dims:
