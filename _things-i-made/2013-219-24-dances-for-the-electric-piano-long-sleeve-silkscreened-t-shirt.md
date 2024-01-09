@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4139'
-site: '1'
-type: '2'
 inv_num: 2013-219
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2013-219-24-dances-for-the-electric-piano-long-sleeve-silkscreened-t-shirt
@@ -14,8 +11,7 @@ pitch: Tee for the 24 Dances suite of piano compositions.
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 24-dances-shirt-2013-219-full-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '30'
-site: '1'
-type: '2'
 inv_num: 2006-006
 add_credit:
 url: 2006-006-the-bruce-springsteen-born-to-run-glockenspiel-addendum
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: The-Bruce-Springsteen-Born-to-Run-Glockenspiel-Addendum-2006-006-db-1-IH.jpg
+related_code:
 subheading: "(Composition)"
 download: cory-arcangel-2006-006-glock-addendum-web.pdf
 commission:

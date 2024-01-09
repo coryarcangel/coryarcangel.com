@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '118'
-site: '1'
-type: '2'
 inv_num: 2011-024
 add_credit:
 url: 2011-024-sports-products
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: sports-products-2011-024-full-database-AR.jpg
+related_code:
 subheading:
 download:
 commission: 'Comissioned by Whitney Museum of American Art, New York, for Cory Arcangel:

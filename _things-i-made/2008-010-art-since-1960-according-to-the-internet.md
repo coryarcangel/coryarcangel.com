@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '42'
-site: '1'
-type: '2'
 inv_num: 2008-010
 add_credit: Hanne Mugaas
 url: 2008-010-art-since-1960-according-to-the-internet
@@ -15,8 +12,7 @@ pitch: "​Performance featuring surfing Youtube for artist last names, and cloc
 ps:
 live_url: http://web.archive.org/web/20080406010337/http://www.hanne-mugaas.com/my_work/1_art_since_1960_according_to/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2008_010_Art_Since_1960_Performance_View_Database_IH.jpg
+related_code:
 subheading:
 download:
 commission:

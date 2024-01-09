@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '183'
-site: '1'
-type: '2'
 inv_num: 2007-005
 add_credit:
 url: 2007-005-samsung-ps42q7h-plasma-screen-burn1
@@ -14,8 +11,7 @@ pitch: "​Label text burned into a plasma monitor over time. "
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: samsung-PS42Q7H-plasma-burn-2007-005-full-database_1.jpg
+related_code:
 subheading:
 download:
 commission:

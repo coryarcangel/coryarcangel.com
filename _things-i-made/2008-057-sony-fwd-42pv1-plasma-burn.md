@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '211'
-site: '1'
-type: '2'
 inv_num: 2008-057
 add_credit:
 url: 2008-057-sony-fwd-42pv1-plasma-burn
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: burn-2008-057-full-database-UG.jpg
+related_code:
 subheading:
 download:
 commission:

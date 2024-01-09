@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4379'
-site: '1'
-type: '2'
 inv_num: 2017-001
 add_credit:
 url: 2017-001-call-of-duty
@@ -15,8 +12,7 @@ pitch: Webmaster pool noodle.&nbsp;
 ps: The work that started the trade that started Olia&nbsp;
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: call-of-duty-2017-001-full-database-er-1-1749.jpg
+related_code:
 subheading:
 download:
 commission:

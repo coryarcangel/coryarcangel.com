@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2219'
-site: '1'
-type: '2'
 inv_num: 2012-080
 add_credit:
 url: 2012-080-lil-jordans
@@ -14,8 +11,7 @@ pitch: "​..."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: air-jordans-2012-080-detail-database-ih.jpg,air-jordans-2012-080-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

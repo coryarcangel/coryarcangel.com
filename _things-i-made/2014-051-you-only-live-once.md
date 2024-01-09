@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4239'
-site: '1'
-type: '2'
 inv_num: 2014-051
 add_credit:
 url: 2014-051-you-only-live-once
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: you-only-live-once-2014-051-detail-Heart-01-database-SM.jpg,you-only-live-once-2014-051-full-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

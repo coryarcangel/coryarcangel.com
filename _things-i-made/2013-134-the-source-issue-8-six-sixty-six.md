@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4215'
-site: '1'
-type: '2'
 inv_num: 2013-134
 add_credit:
 url: 2013-134-the-source-issue-8-six-sixty-six
@@ -15,8 +12,7 @@ pitch: Source code for my infinate compression experiment (2004) as an archival 
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/666
-imgs: source-666-2013-134-detail-01-database-ih.jpg
+related_code: https://github.com/coryarcangel/666
 subheading:
 download: the-source-six-sixty-six-2013-134-digital-master-ih.pdf
 commission: Creative Capital

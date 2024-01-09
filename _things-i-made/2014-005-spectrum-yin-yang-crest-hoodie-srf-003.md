@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4142'
-site: '1'
-type: '2'
 inv_num: 2014-005
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2014-005-spectrum-yin-yang-crest-hoodie-srf-003
@@ -15,8 +12,7 @@ pitch: Hooded white sweatshirt with a large Arcangel Surfware Spectrum Yin-Yang 
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: srf-003-crest-hoodie-2014-005-full-1-database-ih.jpg,srf-003-crest-hoodie-2014-005-full-2-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '125'
-site: '1'
-type: '2'
 inv_num: 2011-105
 add_credit:
 url: 2011-105-jay-z-blue
@@ -15,8 +12,7 @@ ps: "​Jay-Z has his own color blue FYI, and I&nbsp;licensed it from his compan
   use for painting one wall in an&nbsp;exhibition.&nbsp;"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: jay-z-blue-2011-105-full-2-database-SC.jpg
+related_code:
 subheading:
 download:
 commission:

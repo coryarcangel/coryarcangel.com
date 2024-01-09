@@ -1,7 +1,4 @@
 ---
-ee_id_thing: na
-site: na
-type: na
 inv_num: 2017-006
 add_credit:
 url: 2017-006-rodeo-performance
@@ -26,8 +23,7 @@ pitch: 'A custom built & programmed high performance machine learning computer w
 ps: 'All details at micosite! '
 live_url: https://rodeo.computer/
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/rodeo-lets-play
-imgs:
+related_code: https://github.com/coryarcangel/rodeo-lets-play
 subheading:
 download:
 commission:

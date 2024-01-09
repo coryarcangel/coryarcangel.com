@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4149'
-site: '1'
-type: '2'
 inv_num: 2012-160
 add_credit: Arcangel Surfware R & D team
 url: 2012-160-euphoria
@@ -17,8 +14,7 @@ pitch: "​Christmas Light animation......."
 ps:
 live_url: http://www.dailymotion.com/video/x1z2ci8_arcangel-surfware-yolo-pop-up-shop-holiday-inn_creation#from=embediframe
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: yolo-2014-03-install-008-database-DG.jpg
+related_code:
 subheading:
 download:
 commission:

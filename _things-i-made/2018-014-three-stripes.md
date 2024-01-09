@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4402'
-site: '1'
-type: '2'
 inv_num: 2018-014
 add_credit:
 url: 2018-014-three-stripes
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: three-stripes2018-014-database-02.jpg
+related_code:
 subheading:
 download:
 commission:

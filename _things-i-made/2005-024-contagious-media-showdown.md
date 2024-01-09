@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '21'
-site: '1'
-type: '2'
 inv_num: 2005-024
 add_credit:
 url: 2005-024-contagious-media-showdown
@@ -17,8 +14,7 @@ ps: Random facts --> this is kinda related to the Huffington Post, LOL, seriousl
   here</a>.&nbsp;
 live_url: https://web.archive.org/web/20050827225046/http://showdown.contagiousmedia.org/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Contagious_Media_Showdown_2005_024_screenshot_database_IH.jpg
+related_code:
 subheading:
 download:
 commission:

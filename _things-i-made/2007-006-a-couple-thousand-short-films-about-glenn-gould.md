@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '41'
-site: '1'
-type: '2'
 inv_num: 2007-006
 add_credit:
 url: 2007-006-a-couple-thousand-short-films-about-glenn-gould
@@ -18,8 +15,7 @@ ps: "​This was the first in a series of three different vidz I ended up making
   in this respect. "
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: gould-2007-006-install-1-database-NGCA.jpg
+related_code:
 subheading:
 download:
 commission: Film and Video Umbrella

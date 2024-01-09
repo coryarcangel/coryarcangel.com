@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4251'
-site: '1'
-type: '2'
 inv_num: 2015-001
 add_credit:
 url: 2015-001-high-lyfe
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: high-lyfe-2015-001-full-database-JH.jpg,high-lyfe-2015-001-detail-2-database-JH.jpg,high-lyfe-2015-001-detail-1-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

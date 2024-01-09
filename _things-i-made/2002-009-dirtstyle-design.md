@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '10'
-site: '1'
-type: '2'
 inv_num: 2002-009
 add_credit:
 url: 2002-009-dirtstyle-design
@@ -18,8 +15,7 @@ ps: '​This was a lecture / course I performaned / taught a bunch of times for 
   LOL. '
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Dirtstyle-Design-2002-009-screenshot-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

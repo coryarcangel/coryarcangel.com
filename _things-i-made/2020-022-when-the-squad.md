@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4495'
-site: '1'
-type: '2'
 inv_num: 2020-022
 add_credit:
 url: 2020-022-when-the-squad
@@ -16,8 +13,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: squad-2020-022-db-ih--LMgO.jpg
+related_code:
 subheading:
 download:
 commission:

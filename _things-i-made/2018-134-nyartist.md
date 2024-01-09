@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4476'
-site: '1'
-type: '2'
 inv_num: 2018-134
 add_credit:
 url: 2018-134-nyartist
@@ -15,8 +12,7 @@ pitch: 'Algo pipe organ piece which was made to be recorded &amp; inserted into 
 ps:
 live_url: http://nyartist.coryarcangel.com
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: sharjah-biennial-2019-03-db-ih--LoHh.jpg
+related_code:
 subheading:
 download:
 commission:

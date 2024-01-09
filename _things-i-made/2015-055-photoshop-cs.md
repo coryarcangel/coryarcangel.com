@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4279'
-site: '1'
-type: '2'
 inv_num: 2015-055
 add_credit: Produced by ege carpets
 url: 2015-055-photoshop-cs
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-2015-055-install-2-database-CK.jpg,photoshop-cs-2015-055-install-1-database-CK.jpg
+related_code:
 subheading:
 download:
 commission:

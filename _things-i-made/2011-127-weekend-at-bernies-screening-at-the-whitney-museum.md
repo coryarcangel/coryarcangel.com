@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '132'
-site: '1'
-type: '2'
 inv_num: 2011-127
 add_credit:
 url: 2011-127-weekend-at-bernies-screening-at-the-whitney-museum
@@ -14,8 +11,7 @@ pitch: "​Weekend at Bernie’s screening at the Whitney Museum."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Weekend-at-Bernies-Screening-at-Whitney-2011-127-performance-view-2-database-TO.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4146'
-site: '1'
-type: '2'
 inv_num: 2014-009
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2014-009-photoshop-gradient-demonstration-ipad-case-srf-007
@@ -15,8 +12,7 @@ pitch: Plastic iPad case printed with an image from the Photoshop Gradient Demon
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: srf-007-spectrum-ipad-case-2014-009-full-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2242'
-site: '1'
-type: '2'
 inv_num: 2013-063
 add_credit:
 url: 2013-063-audmcrs-website
@@ -14,8 +11,7 @@ pitch: "​Website 4 my touring trance record collection."
 ps:
 live_url: http://audmcrs.coryarcangel.com
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: audmcrs-website-2013-063-digital-database-ih.jpg
+related_code:
 subheading: "(Website)"
 download:
 commission:

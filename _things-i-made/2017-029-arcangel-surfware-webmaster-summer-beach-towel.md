@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4385'
-site: '1'
-type: '2'
 inv_num: 2017-029
 add_credit: Olia Lialina
 url: 2017-029-arcangel-surfware-webmaster-summer-beach-towel
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: as-ws-towell-2017-029-database-ih--I5us.jpg
+related_code:
 subheading:
 download:
 commission:

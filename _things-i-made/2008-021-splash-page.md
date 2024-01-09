@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '44'
-site: '1'
-type: '2'
 inv_num: 2008-021
 add_credit:
 url: 2008-021-splash-page
@@ -17,8 +14,7 @@ ps: This is an actual “splash page” I made for this site, which after being 
   this would still be my index.html.
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2008_021_Splash_Page_Still_Database_IH.jpg
+related_code:
 subheading:
 download:
 commission:

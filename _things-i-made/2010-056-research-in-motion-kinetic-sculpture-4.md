@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '139'
-site: '1'
-type: '2'
 inv_num: 2010-056
 add_credit:
 url: 2010-056-research-in-motion-kinetic-sculpture-4
@@ -14,8 +11,7 @@ pitch: "​Four Dancing Stands modded to sync."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: research-in-motion-2010-056-full-database-Ropac.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4489'
-site: '1'
-type: '2'
 inv_num: 2019-063
 add_credit:
 url: 2019-063-satin-to-slip
@@ -17,8 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: satin-to-sip-2019-063-db-ih--ULmB.jpg
+related_code:
 subheading:
 download:
 commission:

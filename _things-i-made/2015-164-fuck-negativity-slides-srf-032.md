@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4305'
-site: '1'
-type: '2'
 inv_num: 2015-164
 add_credit:
 url: 2015-164-fuck-negativity-slides-srf-032
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Fuck-Negativity-Slides-SRF-032-2015-164-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

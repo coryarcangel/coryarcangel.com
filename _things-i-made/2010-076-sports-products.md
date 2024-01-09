@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '144'
-site: '1'
-type: '2'
 inv_num: 2010-076
 add_credit:
 url: 2010-076-sports-products
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: sports-products-2010-076-full-database-ropac_1.jpg
+related_code:
 subheading:
 download:
 commission:

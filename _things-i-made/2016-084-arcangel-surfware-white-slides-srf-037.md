@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4369'
-site: '1'
-type: '2'
 inv_num: 2016-084
 add_credit:
 url: 2016-084-arcangel-surfware-white-slides-srf-037
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: fn-white-slides-2016-084-database-ih--OvGJ.jpg
+related_code:
 subheading:
 download:
 commission:

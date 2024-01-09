@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4116'
-site: '1'
-type: '2'
 inv_num: 2013-087
 add_credit:
 url: 2013-087-blackberry-lakes
@@ -15,8 +12,7 @@ pitch: Rando image w/ lake effect ;-)
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: blackberry-lakes-2013-187-install-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

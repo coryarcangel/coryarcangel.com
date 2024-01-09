@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '165'
-site: '1'
-type: '2'
 inv_num: 2004-008
 add_credit:
 url: 2004-008-sans-simon
@@ -14,8 +11,7 @@ pitch: 'Simon and Garfunkel minus Simon. '
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: sans-simon-2004-008-database-still-2_1.jpg
+related_code:
 subheading: "(Video)"
 download:
 commission:

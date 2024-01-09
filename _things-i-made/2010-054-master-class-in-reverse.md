@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '66'
-site: '1'
-type: '2'
 inv_num: 2010-054
 add_credit:
 url: 2010-054-master-class-in-reverse
@@ -15,8 +12,7 @@ pitch: "​Performance for unknown electronics"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: master-class-2010-054-performance-3-database-AK.jpg
+related_code:
 subheading:
 download:
 commission:

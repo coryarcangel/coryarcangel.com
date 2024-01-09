@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4491'
-site: '1'
-type: '2'
 inv_num: 2020-004
 add_credit:
 url: 2020-004-workutworutworout
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: workutworutworout-2020-004-db-ih--D6cD.jpg
+related_code:
 subheading:
 download:
 commission:

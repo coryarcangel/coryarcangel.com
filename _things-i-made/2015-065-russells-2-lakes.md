@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4276'
-site: '1'
-type: '2'
 inv_num: 2015-065
 add_credit:
 url: 2015-065-russells-2-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: russells-2-lakes-2015-065-full-database-CK.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '135'
-site: '1'
-type: '2'
 inv_num: 2008-004
 add_credit:
 url: 2008-004-personal-film
@@ -15,8 +12,7 @@ pitch: "​A “fake” structural film, composed of stock digital video footage
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: personal-film-2008-004-still-5-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

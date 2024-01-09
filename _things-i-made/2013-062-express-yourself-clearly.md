@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4152'
-site: '1'
-type: '2'
 inv_num: 2013-062
 add_credit:
 url: 2013-062-express-yourself-clearly
@@ -14,8 +11,7 @@ pitch: "​Clinton jogging on a TV which looks like apolar bear :/"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: express-yourself-clearly-2013-062-full-database-JW.jpg
+related_code:
 subheading:
 download:
 commission:

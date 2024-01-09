@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4176'
-site: '1'
-type: '2'
 inv_num: 2014-086
 add_credit:
 url: 2014-086-russells-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: russels-lakes-2014-086-full-still-1-database-team.jpg
+related_code:
 subheading:
 download:
 commission:

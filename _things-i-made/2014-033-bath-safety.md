@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4229'
-site: '1'
-type: '2'
 inv_num: 2014-033
 add_credit:
 url: 2014-033-bath-safety
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: bath-safety-2014-033-full-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

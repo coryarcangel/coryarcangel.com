@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4131'
-site: '1'
-type: '2'
 inv_num: 2014-031
 add_credit:
 url: 2014-031-max-perks
@@ -14,8 +11,7 @@ pitch: "​Surfing around officemax.com....."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: max-perks-2014-031-digital-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

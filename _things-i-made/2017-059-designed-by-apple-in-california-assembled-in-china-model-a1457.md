@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4393'
-site: '1'
-type: '2'
 inv_num: 2017-059
 add_credit:
 url: 2017-059-designed-by-apple-in-california-assembled-in-china-model-a1457
@@ -14,8 +11,7 @@ pitch: Ran an iphone through a printing press, LOL.&nbsp;
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: iphone-emboss-2017-059-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

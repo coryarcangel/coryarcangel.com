@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4140'
-site: '1'
-type: '2'
 inv_num: 2013-221
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2013-221-24-dances-for-electric-piano-drawing-srf-013
@@ -15,8 +12,7 @@ pitch: "​Plotter drawing of the dunk plot on the cover of the 24 Dances for El
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 24-dances-drawing-2013-221-full-1-database-ih.jpg
+related_code:
 subheading: "(Drawing)"
 download:
 commission:

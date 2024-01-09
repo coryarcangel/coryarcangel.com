@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '51'
-site: '1'
-type: '2'
 inv_num: 2009-041
 add_credit:
 url: 2009-041-last-night-i-had-the-strangest-dream
@@ -14,8 +11,7 @@ pitch: Me playing folk music and singing through auto-tune. Uuugh.
 ps:
 live_url:
 youtube: https://www.youtube.com/watch?v=Kow3MR2kTVs
-https://github.com/coryarcangel/alu:
-imgs: Last-Night-I-Had-Strangest-Dream-2009-041-Perf-View-1-database-NL.jpg
+related_code:
 subheading:
 download:
 commission:

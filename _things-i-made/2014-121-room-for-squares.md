@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4173'
-site: '1'
-type: '2'
 inv_num: 2014-121
 add_credit:
 url: 2014-121-room-for-squares
@@ -47,8 +44,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: room-for-squares-2014-121-09-install-team-2-database-jm.jpg
+related_code:
 subheading:
 download:
 commission:

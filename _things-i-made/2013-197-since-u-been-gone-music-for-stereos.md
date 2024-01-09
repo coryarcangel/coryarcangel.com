@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4240'
-site: '1'
-type: '2'
 inv_num: 2013-197
 add_credit:
 url: 2013-197-since-u-been-gone-music-for-stereos
@@ -15,8 +12,7 @@ pitch: "​“Combo” version of a past series &amp; performance."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: since-u-been-gone-2013-197-install-Heart-01-database-SM.jpg,since-u-been-gone-2013-197-detail-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

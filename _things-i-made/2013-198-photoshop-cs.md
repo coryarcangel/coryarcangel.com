@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4227'
-site: '1'
-type: '2'
 inv_num: 2013-198
 add_credit: 'Produced by egg carpets, Denmark. '
 url: 2013-198-photoshop-cs
@@ -15,8 +12,7 @@ pitch: "​... digital carpet ... (!!!)"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: gradient-carpet-2013-198-install-Heart-01-database-SM.jpg,gradient-carpet-2013-198-detail-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

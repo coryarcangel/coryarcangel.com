@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4280'
-site: '1'
-type: '2'
 inv_num: 2015-060
 add_credit:
 url: 2015-060-two-clintons-four-palms-a-taurus-and-an-aeron
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: two-clintons-seven-palms-a-taurus-and-an-aeron-2015-060-install-database-CK.jpg
+related_code:
 subheading:
 download:
 commission:

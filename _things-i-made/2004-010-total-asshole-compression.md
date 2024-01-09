@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '18'
-site: '1'
-type: '2'
 inv_num: 2004-010
 add_credit: In collaboration with the Radical Software Group
 url: 2004-010-total-asshole-compression
@@ -14,8 +11,7 @@ pitch: "​Compression software that makes files bigger."
 ps: "​Check the “official” website above to download the software, etc, etc. "
 live_url: http://tac-compression.com/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: total-asshole-compression-screenshot-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

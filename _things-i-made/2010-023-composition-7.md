@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '64'
-site: '1'
-type: '2'
 inv_num: 2010-023
 add_credit:
 url: 2010-023-composition-7
@@ -19,8 +16,7 @@ ps: '​This is a mod file for the desktop game Frets on Fire, which is an open 
   length of a pop song. About 4 minutes. '
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: composition-7-2010-023-still-database-ih.jpg,composition-7-2010-023-install-database-HBM.jpg,composition-7-2010-023-detail-database-studio_1.jpg
+related_code:
 subheading:
 download: arcangel_composition_7.zip
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '98'
-site: '1'
-type: '2'
 inv_num: 2010-020
 add_credit:
 url: 2010-020-sorry-i-havent-posted
@@ -15,8 +12,7 @@ pitch: "​Blog which re-posts the best blog posts of people apologizing for not
 ps:
 live_url: http://sorry.coryarcangel.com/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: sorry-2010-020-digital-4-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

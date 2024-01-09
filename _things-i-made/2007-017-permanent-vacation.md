@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '169'
-site: '1'
-type: '2'
 inv_num: 2007-017
 add_credit:
 url: 2007-017-permanent-vacation
@@ -14,8 +11,7 @@ pitch: "​Two computers stuck in an our of office email loop."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: permanent-vacation-2007-017-install-MWG-1-database-MWG.jpg
+related_code:
 subheading:
 download:
 commission:

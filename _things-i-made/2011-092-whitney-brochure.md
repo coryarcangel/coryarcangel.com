@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '108'
-site: '1'
-type: '2'
 inv_num: 2011-092
 add_credit:
 url: 2011-092-whitney-brochure
@@ -25,8 +22,7 @@ ps: A brochure made for a show I did @ the Whitney Museum called Pro Tools. This
   power to whoever took them and kept them. :)
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: whitney-brochure-2011-092-detail-database.jpg
+related_code:
 subheading:
 download: arcangel_brochure.pdf
 commission:

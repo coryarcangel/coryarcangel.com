@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '122'
-site: '1'
-type: '2'
 inv_num: 2011-117
 add_credit:
 url: 2011-117-real-taste
@@ -14,8 +11,7 @@ pitch: "​Humidifier filled with Diet Sprite soda"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: real-taste-2011-117-full-database-KA.jpg
+related_code:
 subheading:
 download:
 commission:

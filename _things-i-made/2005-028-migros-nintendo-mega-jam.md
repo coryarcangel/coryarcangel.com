@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '192'
-site: '1'
-type: '2'
 inv_num: 2005-028
 add_credit:
 url: 2005-028-migros-nintendo-mega-jam
@@ -17,8 +14,7 @@ ps: |-
   did at the Migros museum in 2005. The music was an improvisation on a Nintendo NES music sequencer I was working on at the time, and which would eventually power the music in a vid I made that year called Super Mario Movie.&nbsp; :)
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: migros-jam-2005-028-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

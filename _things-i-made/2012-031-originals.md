@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2216'
-site: '1'
-type: '2'
 inv_num: 2012-031
 add_credit:
 url: 2012-031-originals
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: originals-2012-031-install-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

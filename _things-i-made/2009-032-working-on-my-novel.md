@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '54'
-site: '1'
-type: '2'
 inv_num: 2009-032
 add_credit:
 url: 2009-032-working-on-my-novel
@@ -16,8 +13,7 @@ ps: 'Original link (which doesn’t work anymore) was: http://twitter.com/#searc
   of the idea. LOL! ;-)'
 live_url: https://web.archive.org/web/20110903012902/http://www.buzzfeed.com/arcangel/great-twitter-searches-volume-1-working-on-my-n
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: working-on-my-novel-2009-032-digital-database-1-ih.jpg
+related_code:
 subheading: "(Twitter Search)"
 download:
 commission:

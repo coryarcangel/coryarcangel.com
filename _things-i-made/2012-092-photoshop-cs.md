@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2218'
-site: '1'
-type: '2'
 inv_num: 2012-092
 add_credit:
 url: 2012-092-photoshop-cs
@@ -18,8 +15,7 @@ ps: "​Decided to up the amount of clicks it takes to make my Photoshop paintin
   photos / whatever they r. :)"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-2012-092-full-database-Team.jpg
+related_code:
 subheading:
 download:
 commission:

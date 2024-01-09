@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '28'
-site: '1'
-type: '2'
 inv_num: 2006-019
 add_credit:
 url: 2006-019-handmadegif
@@ -28,8 +25,7 @@ ps: "​Handmade Gif is a Gif file I wrote by hand in binary. This of course is 
   is a 2 by 2 black and white checker GIF…\n\nBW WB"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Gif_2006_019_full-2-database_qqq.jpg,cory_arcangel_gif.gif
+related_code:
 subheading:
 download:
 commission:

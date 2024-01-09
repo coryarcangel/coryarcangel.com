@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '126'
-site: '1'
-type: '2'
 inv_num: 2011-119
 add_credit:
 url: 2011-119-regular-flex
@@ -14,8 +11,7 @@ pitch: 'A couple of golf clubs placed in a row. '
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: regular-flex-2011-119-full-database-ka_1.jpg
+related_code:
 subheading:
 download:
 commission:

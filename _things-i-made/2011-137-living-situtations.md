@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2211'
-site: '1'
-type: '2'
 inv_num: 2011-137
 add_credit:
 url: 2011-137-living-situtations
@@ -20,8 +17,7 @@ ps: For this one, I have remastered - from a 78 - a recording of Beethoven’s S
   called the XL Model Geneva Lab GenevaSound Stereo.
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: living-situations-2011-137-full-database-Team.jpg
+related_code:
 subheading:
 download: arcangel-living-situtations.mp3
 commission:

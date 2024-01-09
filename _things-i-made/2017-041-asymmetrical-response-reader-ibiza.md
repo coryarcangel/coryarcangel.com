@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4390'
-site: '1'
-type: '2'
 inv_num: 2017-041
 add_credit: Olia Lialina
 url: 2017-041-asymmetrical-response-reader-ibiza
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: ar-reader-2017-041-database-ih--12a5.jpg,ar-reader-2017-041-database-ih--0JBs.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4433'
-site: '1'
-type: '2'
 inv_num: 2018-063
 add_credit:
 url: 2018-063-the-north-face
@@ -15,8 +12,7 @@ pitch: "​Short read about my new Scandi life ... also a bit about Apple and Sw
 ps:
 live_url: https://www.are.na/blog/the-north-face
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: the-north-face-2018-063-web-ih.jpg
+related_code:
 subheading:
 download:
 commission:

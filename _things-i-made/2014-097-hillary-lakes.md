@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4175'
-site: '1'
-type: '2'
 inv_num: 2014-097
 add_credit:
 url: 2014-097-hillary-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: hillary-lakes-2014-097-full-still-3-database-team.jpg
+related_code:
 subheading:
 download:
 commission:

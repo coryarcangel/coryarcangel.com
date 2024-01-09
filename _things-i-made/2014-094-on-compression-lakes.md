@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4178'
-site: '1'
-type: '2'
 inv_num: 2014-094
 add_credit:
 url: 2014-094-on-compression-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: oncompression-lakes-2014-094-full-still-1-database-team.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '176'
-site: '1'
-type: '2'
 inv_num: 2007-015
 add_credit:
 url: 2007-015-photoshop-gradient-and-smudge-tool-demonstration
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-smudge-2007-015-digital-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

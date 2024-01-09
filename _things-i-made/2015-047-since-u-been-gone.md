@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4266'
-site: '1'
-type: '2'
 inv_num: 2015-047
 add_credit:
 url: 2015-047-since-u-been-gone
@@ -15,8 +12,7 @@ pitch: OH yah, this was actually just playing the Shania Twain CD, the woman in 
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: since-u-been-gone-2015-047-install-database-gamec-MZ.jpg
+related_code:
 subheading:
 download:
 commission:

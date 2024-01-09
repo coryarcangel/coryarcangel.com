@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '124'
-site: '1'
-type: '2'
 inv_num: 2011-118
 add_credit:
 url: 2011-118-forward-attitudes
@@ -15,8 +12,7 @@ pitch: ​Sound sculpture where a Steely Dan mp3 plays through ears buds on an O
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: forward-attitudes-2011-118-full-database-ih_1.jpg
+related_code:
 subheading:
 download:
 commission:

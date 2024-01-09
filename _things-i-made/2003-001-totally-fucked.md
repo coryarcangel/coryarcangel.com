@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '220'
-site: '1'
-type: '2'
 inv_num: 2003-001
 add_credit:
 url: 2003-001-totally-fucked
@@ -23,8 +20,7 @@ ps: "​This one is an infinite loop of Mario stuck on a cube. A year later I cr
   file. Thx again guys!&nbsp;"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Totally-Fucked
-imgs: fucked-2003-001-cartridge-database-ih.jpg,fucked-2003-001-still-2-database-ih.jpg,fucked-2003-001-still-3-database-ih.jpg
+related_code: https://github.com/coryarcangel/Totally-Fucked
 subheading:
 download: totally-fucked-2003-001-master.nes.zip
 commission:

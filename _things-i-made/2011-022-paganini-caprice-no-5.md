@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '101'
-site: '1'
-type: '2'
 inv_num: 2011-022
 add_credit:
 url: 2011-022-paganini-caprice-no-5
@@ -17,8 +14,7 @@ ps: 'It''s embarrassing to admit, but I was really trying to make like a massive
   you are down! '
 live_url:
 youtube: https://www.youtube.com/watch?v=JjVIwJJPGws
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Gould-Pro
-imgs: paganini-2011-022-still-1-database-ih_1.jpg
+related_code: https://github.com/coryarcangel/Gould-Pro
 subheading:
 download:
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:

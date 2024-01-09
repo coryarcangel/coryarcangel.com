@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4391'
-site: '1'
-type: '2'
 inv_num: 2017-049
 add_credit:
 url: 2017-049-3-celebs-who-treat-their-fans-like-trash
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: celebs-2017-049-database-jih--d17f.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4382'
-site: '1'
-type: '2'
 inv_num: 2017-016
 add_credit:
 url: 2017-016-photoshop-cs
@@ -17,8 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2017-016-photoshop-cs-database-01-er.jpg
+related_code:
 subheading:
 download:
 commission:

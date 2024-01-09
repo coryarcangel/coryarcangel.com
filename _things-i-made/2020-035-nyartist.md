@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4496'
-site: '1'
-type: '2'
 inv_num: 2020-035
 add_credit:
 url: 2020-035-nyartist
@@ -20,8 +17,7 @@ ps: NYARTIST is documentation of a project by Cory Arcangel which was exhibited 
   14.
 live_url: https://issueprojectroom.org/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: nyartist-2020-035-db-ih--UHyo.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '173'
-site: '1'
-type: '2'
 inv_num: 2007-033
 add_credit:
 url: 2007-033-hitachi-p42h01u-plasma-burn
@@ -14,8 +11,7 @@ pitch: "​Label information being burned into a plasma monitor."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: burn-2007-033-full-1-database-unknown_1.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4412'
-site: '1'
-type: '2'
 inv_num: 2017-044
 add_credit:
 url: 2017-044-on-this-day
@@ -15,8 +12,7 @@ pitch: Bot so u can follow Tony Conrads Music and the Mind of the World 40 yrs l
 ps:
 live_url: https://twitter.com/on_this_day_mmw
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: mmw-bot-2017-044-database-ih--uPUu_1.jpg,mmw-bot-2017-044-database-ih--8j3K_1.jpg,mmw-bot-2017-044-database-ih--QCQu_1.jpg
+related_code:
 subheading:
 download:
 commission:

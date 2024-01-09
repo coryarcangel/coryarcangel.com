@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2149'
-site: '1'
-type: '2'
 inv_num: 2009-054
 add_credit:
 url: 2009-054-colors-personal-edition
@@ -14,8 +11,7 @@ pitch: Software 2 play a quicktime movie one horizontal line of pixels at a time
 ps:
 live_url: http://colors-personal-edition.com/
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Colors-Personal-Edition
-imgs: colors-2009-054-detail-2-database-ih.jpg
+related_code: https://github.com/coryarcangel/Colors-Personal-Edition
 subheading:
 download:
 commission:

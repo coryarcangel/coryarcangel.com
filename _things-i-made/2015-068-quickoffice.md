@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4281'
-site: '1'
-type: '2'
 inv_num: 2015-068
 add_credit:
 url: 2015-068-quickoffice
@@ -20,8 +17,7 @@ pitch: 'Re-staging of my old(ish) NES works on emulators running on cell phones.
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: quickoffice-2015-068-install-database-CK.jpg,quickoffice-2015-068-install-detail-database-2-CK.jpg
+related_code:
 subheading:
 download:
 commission:

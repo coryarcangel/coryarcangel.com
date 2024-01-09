@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4357'
-site: '1'
-type: '2'
 inv_num: 2016-058
 add_credit:
 url: 2016-058-dump-bin-with-slides
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: dunks-slides-2016-058-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

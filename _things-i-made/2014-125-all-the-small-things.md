@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4168'
-site: '1'
-type: '2'
 inv_num: 2014-125
 add_credit: 'Published by WALTHER KöNIG, KöLN, Design by Dave Yun, Photos: Sasha Maric'
 url: 2014-125-all-the-small-things
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: allthesmallthingscatalog-2014-125-full-01-database-ih.jpg,allthesmallthingscatalog-2014-125-full-02-database-ih.jpg,allthesmallthingscatalog-2014-125-full-03-database-ih.jpg,allthesmallthingscatalog-2014-125-full-05-database-ih.jpg,allthesmallthingscatalog-2014-125-full-06-database-ih.jpg,allthesmallthingscatalog-2014-125-full-07-database-ih.jpg,allthesmallthingscatalog-2014-125-full-04-database-ih.jpg,allthesmallthingscatalog-2014-125-full-08-database-ih.jpg,allthesmallthingscatalog-2014-125-full-09-database-ih.jpg,allthesmallthingscatalog-2014-125-full-11-database-ih.jpg,allthesmallthingscatalog-2014-125-full-12-database-ih.jpg,allthesmallthingscatalog-2014-125-full-13-database-ih.jpg,allthesmallthingscatalog-2014-125-full-10-database-ih.jpg,allthesmallthingscatalog-2014-125-full-15-database-ih.jpg,allthesmallthingscatalog-2014-125-full-14-database-ih.jpg
+related_code:
 subheading: "(Catalog)"
 download:
 commission:

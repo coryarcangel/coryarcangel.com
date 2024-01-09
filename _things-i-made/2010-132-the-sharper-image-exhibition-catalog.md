@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2145'
-site: '1'
-type: '2'
 inv_num: 2010-132
 add_credit:
 url: 2010-132-the-sharper-image-exhibition-catalog
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2010-132-sharper-image-catalog-full-1-database-ih.jpg
+related_code:
 subheading: "(Exhibition Catalog)"
 download:
 commission:

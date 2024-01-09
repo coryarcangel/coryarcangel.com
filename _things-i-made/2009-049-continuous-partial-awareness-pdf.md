@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '70'
-site: '1'
-type: '2'
 inv_num: 2009-049
 add_credit:
 url: 2009-049-continuous-partial-awareness-pdf
@@ -15,8 +12,7 @@ pitch: A list of ideas for artworks, rated. Made originally for a performance. p
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Continuous-Partial-Awareness-2009-049-Full-db-OL.jpg,Continuous-Partial-Awareness-2009-049-install-2-db-OL.jpg
+related_code:
 subheading:
 download: arcangel-CPA.pdf
 commission:

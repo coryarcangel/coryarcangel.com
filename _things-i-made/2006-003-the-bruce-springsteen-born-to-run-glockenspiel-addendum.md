@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '31'
-site: '1'
-type: '2'
 inv_num: 2006-003
 add_credit:
 url: 2006-003-the-bruce-springsteen-born-to-run-glockenspiel-addendum
@@ -14,8 +11,7 @@ pitch: "​LP featuring a Glockenspiel addendum to Springsteen’s Born To Run r
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: born-to-run-2006-003-full-database-ih.jpg
+related_code:
 subheading: "(LP)"
 download:
 commission:

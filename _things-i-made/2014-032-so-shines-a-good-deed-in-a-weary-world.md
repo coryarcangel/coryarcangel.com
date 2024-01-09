@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4130'
-site: '1'
-type: '2'
 inv_num: 2014-032
 add_credit:
 url: 2014-032-so-shines-a-good-deed-in-a-weary-world
@@ -14,8 +11,7 @@ pitch: "​Surfing around dunkindonuts.com…..."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: dunkin-2014-032-digital-2-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4228'
-site: '1'
-type: '2'
 inv_num: 2013-196
 add_credit:
 url: 2013-196-quickoffice
@@ -20,8 +17,7 @@ pitch: 'Re-staging of my old(ish) NES works on emulators running on cell phones.
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: quickoffice-2013-196-detail-Heart-02-database-SM.jpg,quickoffice-2013-196-detail-Heart-01-database-SM.jpg,quickoffice-2013-196-install-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '27'
-site: '1'
-type: '2'
 inv_num: 2005-007
 add_credit:
 url: 2005-007-slim-thug-status-bot
@@ -15,8 +12,7 @@ pitch: "​Bot which allows a user to ask chat user Slim Thug if his album has g
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: slim-thug-2005-007-screenshot-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

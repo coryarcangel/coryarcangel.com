@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4367'
-site: '1'
-type: '2'
 inv_num: 2016-078
 add_credit:
 url: 2016-078-fuck-negativity-white-hoodie-srf-035
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-front-full-database.jpg,Arcangel-Surfware-fuck-negativity-white-hoodie-2016-078-back-full-database.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '137'
-site: '1'
-type: '2'
 inv_num: 2010-039
 add_credit:
 url: 2010-039-research-in-motion-kinetic-sculpture-2
@@ -14,8 +11,7 @@ pitch: "​2 dancing stands modded to spin a slightly different speeds"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: research-in-motion-2010-039-full-1-database-bahnhof.jpg
+related_code:
 subheading:
 download:
 commission:

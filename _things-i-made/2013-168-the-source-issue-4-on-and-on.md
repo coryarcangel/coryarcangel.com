@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4113'
-site: '1'
-type: '2'
 inv_num: 2013-168
 add_credit:
 url: 2013-168-the-source-issue-4-on-and-on
@@ -16,8 +13,7 @@ pitch: |-
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/On-and-On
-imgs: the-source-on-and-on-2013-168-install-Heart-01-database-SM.jpg
+related_code: https://github.com/coryarcangel/On-and-On
 subheading:
 download: the-source-on-and-on-2013-168-digital-master-ih.pdf
 commission: Creative Capital

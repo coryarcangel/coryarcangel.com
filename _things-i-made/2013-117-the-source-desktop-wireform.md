@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4111'
-site: '1'
-type: '2'
 inv_num: 2013-117
 add_credit:
 url: 2013-117-the-source-desktop-wireform
@@ -15,8 +12,7 @@ pitch: Source code for “Desktop Wireform” sculpture printed on archival inks
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Desktop-Wireform
-imgs: the-source-desktop-wireform-2013-117-detail-01-ih.jpg
+related_code: https://github.com/coryarcangel/Desktop-Wireform
 subheading:
 download: the-source-desktop-wireform-2013-117-digital-master-ih.pdf
 commission: Creative Capital

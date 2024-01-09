@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4487'
-site: '1'
-type: '2'
 inv_num: 2019-054
 add_credit:
 url: 2019-054-artney-adid
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: artney_-adid-2019-054-db---cTgi.jpg
+related_code:
 subheading:
 download:
 commission:

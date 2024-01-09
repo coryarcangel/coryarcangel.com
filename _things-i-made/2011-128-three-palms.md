@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '128'
-site: '1'
-type: '2'
 inv_num: 2011-128
 add_credit:
 url: 2011-128-three-palms
@@ -14,8 +11,7 @@ pitch: "​Plotter-drawn palm trees, produced in an edition of 6. "
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: three-palms-2011-128-digital-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

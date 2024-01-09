@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4418'
-site: '1'
-type: '2'
 inv_num: 2017-026
 add_credit:
 url: 2017-026-what-a-great-idea
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: great-idea-2017-026-database-ih--kt4K_1.jpg
+related_code:
 subheading:
 download: great-idea-2017-026-pdf-ih.pdf
 commission:

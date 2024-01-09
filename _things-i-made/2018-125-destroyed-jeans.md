@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4463'
-site: '1'
-type: '2'
 inv_num: 2018-125
 add_credit:
 url: 2018-125-destroyed-jeans
@@ -14,8 +11,7 @@ pitch: 'Went big 4 this! '
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: destroyed-jeans-2018-125-db-saf--wbBE.jpg,destroyed-jeans-2018-125-db-saf--2s34.jpg
+related_code:
 subheading:
 download:
 commission: Sharjah Art Foundation

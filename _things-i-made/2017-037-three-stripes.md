@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4387'
-site: '1'
-type: '2'
 inv_num: 2017-037
 add_credit:
 url: 2017-037-three-stripes
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2017-037-three-stripes-press-lisson-database-03.jpg
+related_code:
 subheading:
 download:
 commission:

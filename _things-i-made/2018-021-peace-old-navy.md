@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4408'
-site: '1'
-type: '2'
 inv_num: 2018-021
 add_credit:
 url: 2018-021-peace-old-navy
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: peace-old-navy-2018-021-database-dt--VIT3.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2205'
-site: '1'
-type: '2'
 inv_num: 2012-066
 add_credit:
 url: 2012-066-working-on-my-novel
@@ -15,8 +12,7 @@ pitch: "​Twitter Feed which re-tweets the best posts featuring the phrase “w
 ps:
 live_url: http://twitter.com/WrknOnMyNovel
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: working-on-my-novel-2012-066-digital-screenshot-1-database-ih.jpg
+related_code:
 subheading: "(Twitter Account)"
 download:
 commission:

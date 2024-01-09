@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4278'
-site: '1'
-type: '2'
 inv_num: 2015-064
 add_credit:
 url: 2015-064-vomit-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: vomit-lakes-2015-064-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

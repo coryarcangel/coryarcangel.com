@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4112'
-site: '1'
-type: '2'
 inv_num: 2013-133
 add_credit:
 url: 2013-133-the-source-issue-3-i-shot-andy-warhol
@@ -16,8 +13,7 @@ pitch: |-
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/I-Shot-Andy-Warhol
-imgs: the-source-warhol-srf-016-2013-133-detail-07-database-ih.jpg
+related_code: https://github.com/coryarcangel/I-Shot-Andy-Warhol
 subheading:
 download: the-source-warhol-2013-133-digital-master-ih.pdf
 commission: Creative Capital

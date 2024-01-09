@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '9'
-site: '1'
-type: '2'
 inv_num: 2002-002
 add_credit:
 url: 2002-002-i-shot-andy-warhol
@@ -23,8 +20,7 @@ ps: 'This is a Hogan’s Alley mod, where the gangsters have been replaced by Wa
   symmetrical where as Col sanders’ face is.'
 live_url:
 youtube: https://www.youtube.com/watch?v=Nbej4iuUN4Q
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/I-Shot-Andy-Warhol
-imgs: i-shot-andy-2002-002-screen-shot-5-database-ih.jpg,i-shot-andywarhol-2002-002-cartridge-4-database-ih.jpg,i-shot-andy-2002-002-screen-shot-1-database-ih.jpg,i-shot-andy-2002-002-screen-shot-3-database-ih.jpg,i-shot-andy-2002-002-install-5-database-ih.jpg,i-shot-andy-2002-002-install-1-database-ih.jpg
+related_code: https://github.com/coryarcangel/I-Shot-Andy-Warhol
 subheading:
 download: i-shot-warhol-2002-002-master-rom.nes.zip
 commission:

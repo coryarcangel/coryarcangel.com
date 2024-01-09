@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4211'
-site: '1'
-type: '2'
 inv_num: 2013-136
 add_credit:
 url: 2013-136-the-source-issue-5-space-invader
@@ -16,8 +13,7 @@ pitch: Source code for “Space Invader” Atari mod (a collaboration with RSG) 
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Space-Invader
-imgs: source-space-2013-136-detail-01-database-ih.jpg
+related_code: https://github.com/coryarcangel/Space-Invader
 subheading:
 download: the-source-space-invader-2013-168-digital-master-ih.pdf
 commission: Creative Capital

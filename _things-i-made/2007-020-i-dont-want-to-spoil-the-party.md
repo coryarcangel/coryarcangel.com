@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '38'
-site: '1'
-type: '2'
 inv_num: 2007-020
 add_credit:
 url: 2007-020-i-dont-want-to-spoil-the-party
@@ -15,8 +12,7 @@ pitch: "​Beatles 1st US press conference with an additional laser porter betwe
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: spoil-party-2007-020-install-database-ih_1.jpg
+related_code:
 subheading:
 download:
 commission:

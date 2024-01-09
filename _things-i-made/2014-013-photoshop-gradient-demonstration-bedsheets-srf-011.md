@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4147'
-site: '1'
-type: '2'
 inv_num: 2014-013
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2014-013-photoshop-gradient-demonstration-bedsheets-srf-011
@@ -15,8 +12,7 @@ pitch: A Photoshop Gradient Demonstration rendered on high-quality bedsheets. Le
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: spectrum-queen-2014-013-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

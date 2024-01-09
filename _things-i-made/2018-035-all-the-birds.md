@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4446'
-site: '1'
-type: '2'
 inv_num: 2018-035
 add_credit:
 url: 2018-035-all-the-birds
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: nbc-2018-035-db-ih--3H2d.jpg
+related_code:
 subheading:
 download: Alle-Fugler.pdf
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4353'
-site: '1'
-type: '2'
 inv_num: 2016-056
 add_credit:
 url: 2016-056-love-pink
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: love-pink-2016-056-full-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

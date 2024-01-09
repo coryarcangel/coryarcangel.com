@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '189'
-site: '1'
-type: '2'
 inv_num: 2004-025
 add_credit: Radical Software Group
 url: 2004-025-total-asshole-compression
@@ -17,8 +14,7 @@ ps: "​These were modified (?) AOL booklets which contained the OSX compression
   I have left r like this. "
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: tac-booklet-2005-025-full-database-ih.jpg
+related_code:
 subheading: Booklet
 download:
 commission:

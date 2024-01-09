@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4347'
-site: '1'
-type: '2'
 inv_num: 2016-035
 add_credit:
 url: 2016-035-dawgs-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: dawgs-lakes-2016-035-full-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

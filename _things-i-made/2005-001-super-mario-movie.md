@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '20'
-site: '1'
-type: '2'
 inv_num: 2005-001
 add_credit: Paper Rad
 url: 2005-001-super-mario-movie
@@ -21,8 +18,7 @@ ps: "​First check out the ROM below. You can load this up in a NES emulator to
   RLE scheme to compress backgrounds."
 live_url:
 youtube: https://www.youtube.com/watch?v=JN-WCA5-Qxs
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Super-Mario-Movie
-imgs: mario-movie-2005-001-cartridge-database-ih.jpg,mario-movie-2005-001-screenshot-1-database-ih.jpg,mario-movie-2005-001-screenshot-2-database-ih.jpg,mario-movie-2005-001-screenshot-10-database-ih.jpg,mario-movie-2005-001-screenshot-15-database-ih.jpg,mario-movie-2005-001-screenshot-11-database-ih.jpg
+related_code: https://github.com/coryarcangel/Super-Mario-Movie
 subheading:
 download: arcangel_paperrad_mariomovie.nes.zip
 commission:

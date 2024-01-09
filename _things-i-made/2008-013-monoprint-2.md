@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '214'
-site: '1'
-type: '2'
 inv_num: 2008-013
 add_credit:
 url: 2008-013-monoprint-2
@@ -14,8 +11,7 @@ pitch: Poorly done C-M-Y silkscreens.
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Monoprint-2-2008-013-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

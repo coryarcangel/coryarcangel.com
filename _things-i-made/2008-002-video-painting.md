@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '48'
-site: '1'
-type: '2'
 inv_num: 2008-002
 add_credit:
 url: 2008-002-video-painting
@@ -19,8 +16,7 @@ ps: ​Video painting is a 2 hour (eeek!) long video edited onto a <i><b> unique
   place out cause they have the only tape.
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: video-painting-2008-002-still-3-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

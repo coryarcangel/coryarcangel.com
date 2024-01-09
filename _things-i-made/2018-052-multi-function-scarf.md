@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4451'
-site: '1'
-type: '2'
 inv_num: 2018-052
 add_credit:
 url: 2018-052-multi-function-scarf
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: flagship-2017-062-db-jih--eQIH.jpg
+related_code:
 subheading:
 download:
 commission:

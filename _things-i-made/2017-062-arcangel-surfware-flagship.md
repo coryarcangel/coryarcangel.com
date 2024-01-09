@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4396'
-site: '1'
-type: '2'
 inv_num: 2017-062
 add_credit:
 url: 2017-062-arcangel-surfware-flagship
@@ -15,8 +12,7 @@ pitch: Flagship store. Ran 4 2 years in my home of Stavanger, Norway(!!!!). Thx 
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: flagship-2017-062-database-jih--YsOT.jpg,flagship-2017-062-database-jih--4tEb.jpg,flagship-2017-062-database-jih--d87z.jpg,flagship-2017-062-database-jih--8Fus.jpg,flagship-2017-062-database-jih--eObU.jpg,flagship-2017-062-database-jih--GhMO.jpg,flagship-2017-062-database-jih--hjqV.jpg,flagship-2017-062-database-jih--rrqI.jpg,flagship-2017-062-database-jih--Kq09.jpg
+related_code:
 subheading:
 download:
 commission:

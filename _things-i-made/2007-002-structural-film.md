@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '168'
-site: '1'
-type: '2'
 inv_num: 2007-002
 add_credit:
 url: 2007-002-structural-film
@@ -16,8 +13,7 @@ ps: "​Somewhere along the way on this one, a file got corrupted in one of the 
   weren’t actually part of the plan."
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: structural-film-2007-002-still-1-database-ih_1.jpg
+related_code:
 subheading:
 download:
 commission:

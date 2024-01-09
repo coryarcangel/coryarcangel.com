@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '36'
-site: '1'
-type: '2'
 inv_num: 2007-003
 add_credit:
 url: 2007-003-apple-garageband-autotune
@@ -16,8 +13,7 @@ live_url:
 youtube: 'https://www.youtube.com/watch?v=9zWqUnW66wY
 
   '
-https://github.com/coryarcangel/alu:
-imgs: auto-tune-demo-2007-003-still-2-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

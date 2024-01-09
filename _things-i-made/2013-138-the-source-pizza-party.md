@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4114'
-site: '1'
-type: '2'
 inv_num: 2013-138
 add_credit:
 url: 2013-138-the-source-pizza-party
@@ -16,8 +13,7 @@ pitch: |-
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Pizza-Party-0.1.b
-imgs: the-source-pizza-party-srf-015-2013-138-detail-01-database-ih.jpg
+related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
 subheading:
 download: the-source-pizza-party-2013-138-digital-master-ih.pdf
 commission: Creative Capital

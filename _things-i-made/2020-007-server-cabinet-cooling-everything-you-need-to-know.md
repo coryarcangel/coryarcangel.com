@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4493'
-site: '1'
-type: '2'
 inv_num: 2020-007
 add_credit:
 url: 2020-007-server-cabinet-cooling-everything-you-need-to-know
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: server-cabinet-cooling---everything-you-need-to-know-2020-007-db-ih--bYZo.jpg
+related_code:
 subheading:
 download:
 commission:

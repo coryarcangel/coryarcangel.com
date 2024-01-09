@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4145'
-site: '1'
-type: '2'
 inv_num: 2014-008
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2014-008-photoshop-gradient-demonstration-iphone-case-srf-006
@@ -15,8 +12,7 @@ pitch: Plastic iPhone 5 case printed with an image from the Photoshop Gradient D
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: srf-006-iphone-case-2014-008-full-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

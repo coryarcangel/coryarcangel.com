@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4242'
-site: '1'
-type: '2'
 inv_num: 2014-079
 add_credit:
 url: 2014-079-photoshop-cs
@@ -17,8 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-2014-079-full-2-database-team-jm.jpg
+related_code:
 subheading:
 download:
 commission:

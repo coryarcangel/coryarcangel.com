@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4427'
-site: '1'
-type: '2'
 inv_num: 2016-057
 add_credit:
 url: 2016-057photoshop-cs
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-2016-057-full-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

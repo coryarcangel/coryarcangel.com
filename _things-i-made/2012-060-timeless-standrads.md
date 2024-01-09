@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2223'
-site: '1'
-type: '2'
 inv_num: 2012-060
 add_credit:
 url: 2012-060-timeless-standrads
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: timeless-standards-2012-060-full-1-database-Lisson.jpg
+related_code:
 subheading:
 download:
 commission:

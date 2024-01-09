@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4485'
-site: '1'
-type: '2'
 inv_num: 2019-048
 add_credit:
 url: 2019-048-creibleworkut
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: creibleworkut-2019-048-db---LGoM.jpg
+related_code:
 subheading:
 download:
 commission:

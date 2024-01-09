@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4110'
-site: '1'
-type: '2'
 inv_num: 2013-31-
 add_credit:
 url: 2013-31-diddy-lakes
@@ -15,8 +12,7 @@ pitch: Diddy w/ Lake effect .....
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: diddy-lakes-2013-031-install-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

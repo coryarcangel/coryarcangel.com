@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4411'
-site: '1'
-type: '2'
 inv_num: 2015-095
 add_credit: Tony Conrad. Editing, copy-editing & transcription Cory Arcangel, Gil
   Gentile, Elliot Kaufman, Amanda Schmidt  Archival programming & data manipulation
@@ -19,8 +16,7 @@ pitch: "​Worked - along w a massive team! - with my friend Tony to publish his
 ps:
 live_url: http://musicandthemindofthe.world/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2015-095-mmw-photoshoot-database-01-JIH.jpg
+related_code:
 subheading:
 download:
 commission:

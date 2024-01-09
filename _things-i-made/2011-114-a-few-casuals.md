@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '120'
-site: '1'
-type: '2'
 inv_num: 2011-114
 add_credit:
 url: 2011-114-a-few-casuals
@@ -14,8 +11,7 @@ pitch: "​Uggs with a lead ignot in them"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: a-few-casuals-2011-114-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

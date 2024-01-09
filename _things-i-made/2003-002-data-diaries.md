@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '11'
-site: '1'
-type: '2'
 inv_num: 2003-002
 add_credit:
 url: 2003-002-data-diaries
@@ -15,8 +12,7 @@ ps: 'Rhizome got this working again! OMG. Also, actually 61 videos cause there i
   an error on one, and I decided to not fix it. '
 live_url: https://anthology.rhizome.org/data-diaries-2003
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: data-diaries-2003-002-still-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission: Commissioned by New Radio and Performing Arts, Inc., (aka Ether-Ore),

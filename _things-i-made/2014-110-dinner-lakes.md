@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4275'
-site: '1'
-type: '2'
 inv_num: 2014-110
 add_credit:
 url: 2014-110-dinner-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: dinner-lakes-2014-110-full-database-lisson-KL.jpg
+related_code:
 subheading:
 download:
 commission:

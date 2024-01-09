@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '99'
-site: '1'
-type: '2'
 inv_num: 2010-027
 add_credit:
 url: 2010-027-strictly-formal
@@ -14,8 +11,7 @@ pitch: "​Interview blog"
 ps:
 live_url: http://strictly-formal.org/
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2010-027-Strictly-Formal-Screenshot-Database-IH.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '109'
-site: '1'
-type: '2'
 inv_num: 2011-102
 add_credit:
 url: 2011-102-hello-world
@@ -14,8 +11,7 @@ pitch: "​Wire bent to random points with one dimension always increasing."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Desktop-Wireform
-imgs: hello-world-2011-102-full-database-Team.jpg
+related_code: https://github.com/coryarcangel/Desktop-Wireform
 subheading:
 download:
 commission:

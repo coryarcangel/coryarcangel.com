@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '79'
-site: '1'
-type: '2'
 inv_num: 2011-007
 add_credit:
 url: 2011-007-photoshop-cs
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-2011-007-full-cropped-database-AR3.jpg
+related_code:
 subheading:
 download:
 commission:

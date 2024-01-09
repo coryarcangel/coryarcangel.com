@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4153'
-site: '1'
-type: '2'
 inv_num: 2014-024
 add_credit:
 url: 2014-024-the-warhol-files
@@ -17,8 +14,7 @@ pitch: "​Text about the super fun Warhol Amiga preservation project I did (w /
 ps:
 live_url: http://artforum.com/inprint/id=46874
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: the-warhol-files-2014-024-digital-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

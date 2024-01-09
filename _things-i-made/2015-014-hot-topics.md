@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4260'
-site: '1'
-type: '2'
 inv_num: 2015-014
 add_credit:
 url: 2015-014-hot-topics
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: hot-topics-2015-014-full-database-team-JL.jpg,hot-topics-2015-014-detail-database-team-JL.jpg
+related_code:
 subheading:
 download:
 commission:

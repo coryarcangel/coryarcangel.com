@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '157'
-site: '1'
-type: '2'
 inv_num: 2006-002
 add_credit:
 url: 2006-002-untitled-translation-exercise
@@ -14,8 +11,7 @@ pitch: Dazed and Confused dubbed back into English via an outsource firm in Bang
 ps: "​So......yes the dialog in the film is still in English. :)"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: translation-2006-002-install-6-database.jpg
+related_code:
 subheading:
 download:
 commission:

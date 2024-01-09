@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '185'
-site: '1'
-type: '2'
 inv_num: 2005-021
 add_credit:
 url: 2005-021-super-landscape-1
@@ -16,8 +13,7 @@ ps: "​This wasn’t supposed to be a new thing, but after installing two of my
   a new project. But yeah, this is just two earlier things installed together."
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: super-landscape-2005-021-install-database-migros-unknown.jpg
+related_code:
 subheading:
 download:
 commission:

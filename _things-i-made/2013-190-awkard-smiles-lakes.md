@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4118'
-site: '1'
-type: '2'
 inv_num: 2013-190
 add_credit:
 url: 2013-190-awkard-smiles-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: awkward-smiles-lakes-2013-190-full-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

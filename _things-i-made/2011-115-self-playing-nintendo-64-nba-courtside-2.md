@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '121'
-site: '1'
-type: '2'
 inv_num: 2011-115
 add_credit:
 url: 2011-115-self-playing-nintendo-64-nba-courtside-2
@@ -14,8 +11,7 @@ pitch: Nintendo 64 NBA Courtside programmed to throw bricks forever via a modded
 ps:
 live_url:
 youtube: https://www.youtube.com/watch?v=ndQsEjFisIs
-https://github.com/coryarcangel/alu:
-imgs: various-n64-2011-115-detail-database-ka.jpg
+related_code:
 subheading:
 download:
 commission:

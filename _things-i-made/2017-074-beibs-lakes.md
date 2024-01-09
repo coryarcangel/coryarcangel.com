@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4399'
-site: '1'
-type: '2'
 inv_num: 2017-074
 add_credit:
 url: 2017-074-beibs-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: beibs-lakes-2017-074-digital-database-dt--ZM6W.jpg
+related_code:
 subheading:
 download:
 commission:

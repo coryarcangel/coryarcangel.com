@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '142'
-site: '1'
-type: '2'
 inv_num: 2010-045
 add_credit:
 url: 2010-045-photoshop-cs
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-2010-045-full-cropped-database-ropac.jpg
+related_code:
 subheading:
 download:
 commission:

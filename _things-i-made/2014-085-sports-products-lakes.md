@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4179'
-site: '1'
-type: '2'
 inv_num: 2014-085
 add_credit:
 url: 2014-085-sports-products-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: sports-products-lakes-2014-085-full-still-database-team.jpg
+related_code:
 subheading:
 download:
 commission:

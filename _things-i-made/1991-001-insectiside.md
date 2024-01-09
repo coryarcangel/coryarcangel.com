@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '8'
-site: '1'
-type: '2'
 inv_num: 1991-001
 add_credit:
 url: 1991-001-insectiside
@@ -15,8 +12,7 @@ ps: "​Yeah,....this is how we used to spend our time in the suburbs of Buffalo
   York. "
 live_url:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZRXnGdIy4PaG-tbbj-T6bkz
-https://github.com/coryarcangel/alu:
-imgs: insectiside-1991-001-still-3-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

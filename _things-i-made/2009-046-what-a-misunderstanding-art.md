@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '55'
-site: '1'
-type: '2'
 inv_num: 2009-046
 add_credit:
 url: 2009-046-what-a-misunderstanding-art
@@ -15,8 +12,7 @@ pitch: "​New Yorker “Caption This Cartoon” contest always captioned with t
 ps:
 live_url: http://www.what-a-misunderstanding.com/
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/What-a-Misunderstanding
-imgs: what-a-mistunderstanding-2009-046-digital-database-ih.jpg
+related_code: https://github.com/coryarcangel/What-a-Misunderstanding
 subheading:
 download:
 commission:

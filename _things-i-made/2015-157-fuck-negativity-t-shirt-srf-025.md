@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4299'
-site: '1'
-type: '2'
 inv_num: 2015-157
 add_credit:
 url: 2015-157-fuck-negativity-t-shirt-srf-025
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Fuck-Negativity-T-Shirt-SRF-025-2015-157-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

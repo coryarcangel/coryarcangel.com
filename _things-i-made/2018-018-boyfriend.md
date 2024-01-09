@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4406'
-site: '1'
-type: '2'
 inv_num: 2018-018
 add_credit:
 url: 2018-018-boyfriend
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: boyfriend-2018-018-database-dt--A4li.jpg
+related_code:
 subheading:
 download:
 commission:

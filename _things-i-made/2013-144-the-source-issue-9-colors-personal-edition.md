@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4410'
-site: '1'
-type: '2'
 inv_num: 2013-144
 add_credit:
 url: 2013-144-the-source-issue-9-colors-personal-edition
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Colors-Personal-Edition
-imgs: source-colors-2013-144-database-ih--himk.jpg
+related_code: https://github.com/coryarcangel/Colors-Personal-Edition
 subheading:
 download: the-source-colors-pe-2013-144-digital-master-ih-2018.pdf
 commission:

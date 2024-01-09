@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4497'
-site: '1'
-type: '2'
 inv_num: 2020-031
 add_credit:
 url: 2020-031-the-light-of-a-new-dawn
@@ -14,8 +11,7 @@ pitch: Did an ad &amp; window campaign 4 LV.&nbsp;
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: light-of-a-new-dawn-2020-031-db-ih--MUIA.jpg
+related_code:
 subheading:
 download:
 commission:

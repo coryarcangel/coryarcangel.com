@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4380'
-site: '1'
-type: '2'
 inv_num: 2017-004
 add_credit: Olia Lialina
 url: 2017-004-asymmetrical-response-reader-srf-039
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: ar-reader-2017-004-web-ih--ComI.jpg
+related_code:
 subheading:
 download:
 commission:

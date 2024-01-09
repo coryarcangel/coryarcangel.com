@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2224'
-site: '1'
-type: '2'
 inv_num: 2012-044
 add_credit:
 url: 2012-044-increased-stress
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: increased-stress-2012-044-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

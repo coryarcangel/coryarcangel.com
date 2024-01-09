@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '47'
-site: '1'
-type: '2'
 inv_num: 2008-007
 add_credit:
 url: 2008-007-golden-ticket
@@ -16,8 +13,7 @@ pitch: As part of a Frieze commission, I had them send out candy bars to all gal
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: golden-ticket-2008-007-detail-2-database-DT_1.jpg
+related_code:
 subheading:
 download:
 commission: Frieze Art Fair

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4457'
-site: '1'
-type: '2'
 inv_num: 2018-098
 add_credit:
 url: 2018-098-untitled
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: untitled-2018-098-db-ih--qTwf.jpg
+related_code:
 subheading:
 download:
 commission:

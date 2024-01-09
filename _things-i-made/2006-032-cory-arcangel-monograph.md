@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2148'
-site: '1'
-type: '2'
 inv_num: 2006-032
 add_credit:
 url: 2006-032-cory-arcangel-monograph
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2005-032-migros-monograph-full-database-ih.jpg
+related_code:
 subheading: "(Monograph)"
 download:
 commission:

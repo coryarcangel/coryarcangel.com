@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '45'
-site: '1'
-type: '2'
 inv_num: 2008-079
 add_credit:
 url: 2008-079-sans-comic
@@ -17,8 +14,7 @@ ps: "​Made as part of Dexter Sinister’s True Mirror reflections on the 2008 
   font. LOL. :)"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2008_079_Sans_Comic_Full_Database_IH_1.jpg
+related_code:
 subheading:
 download: arcangel-sans-comic.pdf
 commission:

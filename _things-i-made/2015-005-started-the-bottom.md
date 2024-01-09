@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4255'
-site: '1'
-type: '2'
 inv_num: 2015-005
 add_credit:
 url: 2015-005-started-the-bottom
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: started-at-the-bottom-2015-005-full-database-JH.jpg,started-at-the-bottom-2015-005-detail-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

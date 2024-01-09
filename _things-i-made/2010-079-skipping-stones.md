@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '147'
-site: '1'
-type: '2'
 inv_num: 2010-079
 add_credit:
 url: 2010-079-skipping-stones
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: skipping-stones-2010-079-full-database-ropac.jpg
+related_code:
 subheading:
 download:
 commission:

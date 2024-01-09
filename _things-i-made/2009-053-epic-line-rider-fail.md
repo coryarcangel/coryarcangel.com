@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '53'
-site: '1'
-type: '2'
 inv_num: 2009-053
 add_credit:
 url: 2009-053-epic-line-rider-fail
@@ -16,8 +13,7 @@ ps: "​Uuuugh, youtube took this one down, so it doesn't make as much sense now
   download it here.&nbsp;"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Epic-Line-Rider-Fail-2009-053-still-2-database-ih.jpg
+related_code:
 subheading:
 download: arcangel-epic-line-rider-fail-2009-053-video-web.mp4
 commission:

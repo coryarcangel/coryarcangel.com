@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4221'
-site: '1'
-type: '2'
 inv_num: 2013-206
 add_credit:
 url: 2013-206-25-clintons-2-palms-and-a-taurus
@@ -14,8 +11,7 @@ pitch: "​...."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 25-clintons-2013-206-full-Heart-01-database-SM.jpg,25-clintons-2013-206-detail-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

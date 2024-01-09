@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '7'
-site: '1'
-type: '2'
 inv_num: 2002-001
 add_credit:
 url: 2002-001-super-mario-clouds
@@ -22,8 +19,7 @@ ps: 'Super Mario Clouds is an old Mario Brothers cartridge which I modified to e
   with so many bugs!), and making an official The Source zine. Coming soon, I promise.'
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Super-Mario-Clouds
-imgs: mario-clouds-2002-001-cartridge-2-database-ih.jpg
+related_code: https://github.com/coryarcangel/Super-Mario-Clouds
 subheading:
 download: arcangel-super-mario-clouds.nes.zip
 commission:

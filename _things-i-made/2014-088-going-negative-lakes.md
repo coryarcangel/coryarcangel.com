@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4277'
-site: '1'
-type: '2'
 inv_num: 2014-088
 add_credit:
 url: 2014-088-going-negative-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: going-negative-2014-088-full-database-team-JL.jpg
+related_code:
 subheading:
 download:
 commission:

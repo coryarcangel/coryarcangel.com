@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '34'
-site: '1'
-type: '2'
 inv_num: 2007-004
 add_credit:
 url: 2007-004-every-other-csny
@@ -14,8 +11,7 @@ pitch: "​Every single possible combination of CSNY."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: every-other-csny-2007-004-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

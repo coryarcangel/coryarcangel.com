@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '149'
-site: '1'
-type: '2'
 inv_num: 2010-081
 add_credit:
 url: 2010-081-hello-world
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Desktop-Wireform
-imgs: hello-world-2010-081-full-database-ropac.jpg
+related_code: https://github.com/coryarcangel/Desktop-Wireform
 subheading:
 download:
 commission:

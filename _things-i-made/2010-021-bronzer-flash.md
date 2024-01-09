@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '97'
-site: '1'
-type: '2'
 inv_num: 2010-021
 add_credit:
 url: 2010-021-bronzer-flash
@@ -15,8 +12,7 @@ pitch: "​Last half hour of NJ trance radio station Pulse 97. Edition of 300. S
 ps:
 live_url: https://soundcloud.com/coryarcangel/bronzer-flash
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: bronzer-flash-2010-021-disc-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

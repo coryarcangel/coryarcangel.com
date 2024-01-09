@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4416'
-site: '1'
-type: '2'
 inv_num: 2017-020
 add_credit: 'Olia Lialina. Design by Manuel Berger! '
 url: 2017-020-asymmetrical-response
@@ -14,8 +11,7 @@ pitch: MASSIVE CATALOG 4 MASSIVE SHOW
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: asymmetrical-response-2017-020-database-ih--AemK.jpg
+related_code:
 subheading: "(Catalog)"
 download:
 commission:

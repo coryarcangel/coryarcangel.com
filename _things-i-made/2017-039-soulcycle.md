@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4388'
-site: '1'
-type: '2'
 inv_num: 2017-039
 add_credit:
 url: 2017-039-soulcycle
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2018-039-soulcycle-database-01.jpg
+related_code:
 subheading:
 download:
 commission:

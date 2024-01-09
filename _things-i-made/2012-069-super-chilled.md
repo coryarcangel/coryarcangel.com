@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2225'
-site: '1'
-type: '2'
 inv_num: 2012-069
 add_credit:
 url: 2012-069-super-chilled
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: super-chilled-2012-069-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

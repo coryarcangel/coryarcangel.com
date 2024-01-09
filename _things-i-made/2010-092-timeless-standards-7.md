@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '153'
-site: '1'
-type: '2'
 inv_num: 2010-092
 add_credit:
 url: 2010-092-timeless-standards-7
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: timeless-standards-2010-093-full-cropped-database-ropac_1.jpg
+related_code:
 subheading:
 download:
 commission:

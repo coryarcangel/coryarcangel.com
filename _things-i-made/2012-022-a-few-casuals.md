@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2215'
-site: '1'
-type: '2'
 inv_num: 2012-022
 add_credit:
 url: 2012-022-a-few-casuals
@@ -14,8 +11,7 @@ pitch: "​Uggs with a lead ignot in them"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: a-few-casuals-2012-022-full-1-skur2-database-ESJ.jpg
+related_code:
 subheading:
 download:
 commission:

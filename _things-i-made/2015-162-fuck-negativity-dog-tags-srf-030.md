@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4306'
-site: '1'
-type: '2'
 inv_num: 2015-162
 add_credit:
 url: 2015-162-fuck-negativity-dog-tags-srf-030
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: fuck-negativity-dogtag-SRF-030-2015-162-detail-database-ih.jpg,fuck-negativity-dogtag-SRF-030-2015-162-full-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

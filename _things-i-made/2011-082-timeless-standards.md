@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '106'
-site: '1'
-type: '2'
 inv_num: 2011-082
 add_credit:
 url: 2011-082-timeless-standards
@@ -14,8 +11,7 @@ pitch: "​Scan of a Lacoste shirt."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: timeless-standards-2011-082-full-cropped-database-KA.jpg
+related_code:
 subheading:
 download:
 commission:

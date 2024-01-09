@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4138'
-site: '1'
-type: '2'
 inv_num: 2013-115
 add_credit: Arcangel Surfware
 url: 2013-115-24-dances-for-the-electric-piano
@@ -15,8 +12,7 @@ pitch: "​Vinyl release of my suite of 24 piano compositions. Don’t sleep on 
 ps:
 live_url: https://soundcloud.com/coryarcangel/sets/24-dances-for-the-electric-piano-record-srf-001
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 24-dances-record-2013-015-full-1-database-ih.jpg,24-dances-record-2013-015-full-6-database-ih.jpg,24-dances-record-2013-015-full-5-database-ih.jpg,24-dances-record-2013-015-full-2-database-ih.jpg
+related_code:
 subheading: "(Vinyl)"
 download:
 commission:

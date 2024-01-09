@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4462'
-site: '1'
-type: '2'
 inv_num: 2018-124
 add_credit:
 url: 2018-124-the-original
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: ropac-install-2019-01-db---oU9j.jpg,ropac-install-2019-01-db-ih--NmzH.jpg,the-original-2018-124-db-ug--Gtcn.jpg,the-original-2018-124-db-ug--3Eyf.jpg
+related_code:
 subheading:
 download:
 commission:

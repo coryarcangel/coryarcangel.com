@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4119'
-site: '1'
-type: '2'
 inv_num: 2013-193
 add_credit:
 url: 2013-193-seinfeld-dvd-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: seinfeld-lakes-2013-193-install-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

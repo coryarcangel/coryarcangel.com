@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '158'
-site: '1'
-type: '2'
 inv_num: 2010-018
 add_credit:
 url: 2010-018-research-in-motion
@@ -14,8 +11,7 @@ pitch: "​Two dancing stands modded to spin at slightly different speeds. "
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: research-in-motion-2010-018-full-2-database-team_1.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '152'
-site: '1'
-type: '2'
 inv_num: 2010-085
 add_credit:
 url: 2010-085-since-u-been-gone
@@ -15,8 +12,7 @@ pitch: "​CD binder filled with CD’s relating to Kelly Clarkson’s hit singl
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: since-u-been-gone-2010-085-full-database-ropac.jpg
+related_code:
 subheading:
 download:
 commission:

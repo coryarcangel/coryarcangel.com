@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4214'
-site: '1'
-type: '2'
 inv_num: 2013-140
 add_credit:
 url: 2013-140-the-source-issue-7-dooogle
@@ -15,8 +12,7 @@ pitch: Source code for my 2004 web “masterpiece” :/ Dooogle printed with arc
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Dooogle
-imgs: source-doogle-2013-140-detail-database-01-ih.jpg
+related_code: https://github.com/coryarcangel/Dooogle
 subheading:
 download: the-source-dooogle-2013-140-digital-master-ih.pdf
 commission: Creative Capital

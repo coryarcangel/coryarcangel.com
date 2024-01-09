@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4117'
-site: '1'
-type: '2'
 inv_num: 2013-189
 add_credit:
 url: 2013-189-asshole-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: asshole-lakes-2013-189-install-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

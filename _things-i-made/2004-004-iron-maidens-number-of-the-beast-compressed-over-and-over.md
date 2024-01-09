@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '13'
-site: '1'
-type: '2'
 inv_num: 2004-004
 add_credit:
 url: 2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over
@@ -21,8 +18,7 @@ ps: ​If you have ever wondered what Iron Maiden’s “The Number of the Beast
   Sitting in a Room</a>.
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/666
-imgs: 666-2004-004-screenshot-1-database-ih.jpg
+related_code: https://github.com/coryarcangel/666
 subheading:
 download: Cory-Arcangel-666.mp3
 commission:

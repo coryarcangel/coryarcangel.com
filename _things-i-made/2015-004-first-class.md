@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4254'
-site: '1'
-type: '2'
 inv_num: 2015-004
 add_credit:
 url: 2015-004-first-class
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: first-class-2015-004-full-database-JH.jpg,first-class-2015-004-detail-1-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

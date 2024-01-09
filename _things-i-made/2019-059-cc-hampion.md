@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4467'
-site: '1'
-type: '2'
 inv_num: 2019-059
 add_credit:
 url: 2019-059-cc-hampion
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: cc-hampion-2019-059-db-gn--I04E.jpg
+related_code:
 subheading:
 download:
 commission:

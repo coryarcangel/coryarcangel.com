@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4257'
-site: '1'
-type: '2'
 inv_num: 2015-007
 add_credit:
 url: 2015-007-your-performance
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: your-performance-2015-007-full-database-JH.jpg,your-performance-2015-007-detail-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

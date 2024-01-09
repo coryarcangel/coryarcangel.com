@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4167'
-site: '1'
-type: '2'
 inv_num: 2012-068
 add_credit:
 url: 2012-068-solitaire-weekly
@@ -17,8 +14,7 @@ ps: "​This series ran every week for a year. During that time I didn’t bothe
   it, mostly bots. Definitely one of the projects I am most proud of."
 live_url: http://www.solitaire-weekly.com
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: solitaire-weekly-2012-068-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4103'
-site: '1'
-type: '2'
 inv_num: 2012-029
 add_credit: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
   STUDIO for Creative Inquiry
@@ -20,8 +17,7 @@ ps: Not exactly a “thing i made”, more like a “thing i produced”, but no
   the 3 year process that went into this. ;)
 live_url:
 youtube: https://vimeo.com/92583299
-https://github.com/coryarcangel/alu:
-imgs: warhol-proposal-2012-029-digital-still-2-database-aw.jpg
+related_code:
 subheading:
 download:
 commission:

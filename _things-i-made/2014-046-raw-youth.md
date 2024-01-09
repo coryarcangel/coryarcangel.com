@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4236'
-site: '1'
-type: '2'
 inv_num: 2014-046
 add_credit:
 url: 2014-046-raw-youth
@@ -16,8 +13,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: raw-youth-2014-046-install-Heart-01-database-SM.jpg,raw-youth-2014-046-full-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

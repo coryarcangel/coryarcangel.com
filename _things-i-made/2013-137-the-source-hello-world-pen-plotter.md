@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4213'
-site: '1'
-type: '2'
 inv_num: 2013-137
 add_credit:
 url: 2013-137-the-source-hello-world-pen-plotter
@@ -16,8 +13,7 @@ pitch: Source code for my HP pen plotter hello worlds printed on archival inks a
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
-imgs: source-hp-2013-137-detail-database-ih.jpg
+related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 subheading:
 download: the-source-hp-hello-world-2013-137-digital-master-ih.pdf
 commission: Creative Capital

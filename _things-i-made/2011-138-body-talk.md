@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2212'
-site: '1'
-type: '2'
 inv_num: 2011-138
 add_credit:
 url: 2011-138-body-talk
@@ -14,8 +11,7 @@ pitch: "​Press release sprayed with Lynx body spray. "
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: body-talk-2011-138-install-database-dv.jpg,body-talk-2011-138-detail-1-database-scan.jpg,body-talk-2011-138-detail-1-database-scan_1.jpg,body-talk-2011-138-detail-2-database-scan.jpg,body-talk-2011-138-detail-3-database-scan.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2204'
-site: '1'
-type: '2'
 inv_num: 2012-027
 add_credit:
 url: 2012-027-more-details
@@ -18,8 +15,7 @@ ps: So yeah, this was just some tic tacs thrown under the front seat of a Merced
   ABOUT page of this site. Thanks and looking forward to hearing from you ! :)
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: more-details-2012-027-detail-2-database-JT-Moca.jpg,more-details-2012-027-detail-database-PC.jpg,more-details-2012-027-full-1-database-SK.jpg
+related_code:
 subheading:
 download:
 commission:

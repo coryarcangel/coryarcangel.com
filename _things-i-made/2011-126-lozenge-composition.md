@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2232'
-site: '1'
-type: '2'
 inv_num: 2011-126
 add_credit:
 url: 2011-126-lozenge-composition
@@ -15,8 +12,7 @@ pitch: "​Page ripped from Mondrain book,... flipped. :)"
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: lozenge-2011-176-digital-database-ih.jpg
+related_code:
 subheading:
 download:
 commission: Studio Voltaire

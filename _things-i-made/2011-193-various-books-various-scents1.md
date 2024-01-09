@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2213'
-site: '1'
-type: '2'
 inv_num: 2011-193
 add_credit:
 url: 2011-193-various-books-various-scents1
@@ -23,8 +20,7 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
   Montana "
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: various-books-scents-2011-193-full-database-Team.jpg
+related_code:
 subheading:
 download:
 commission:

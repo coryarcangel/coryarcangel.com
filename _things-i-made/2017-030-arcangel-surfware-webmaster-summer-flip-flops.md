@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4386'
-site: '1'
-type: '2'
 inv_num: 2017-030
 add_credit: Olia Lialina
 url: 2017-030-arcangel-surfware-webmaster-summer-flip-flops
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: as-ws-flip-flops-2017-030-database-ih--WtJY.jpg
+related_code:
 subheading:
 download:
 commission:

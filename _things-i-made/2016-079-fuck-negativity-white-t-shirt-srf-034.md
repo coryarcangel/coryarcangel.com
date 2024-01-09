@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4368'
-site: '1'
-type: '2'
 inv_num: 2016-079
 add_credit:
 url: 2016-079-fuck-negativity-white-t-shirt-srf-034
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Arcangel-Surfware-fuck-negativity-white-shirt-2016-079-full-database.jpg
+related_code:
 subheading:
 download:
 commission:

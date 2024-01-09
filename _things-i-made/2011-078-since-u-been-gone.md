@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '89'
-site: '1'
-type: '2'
 inv_num: 2011-078
 add_credit:
 url: 2011-078-since-u-been-gone
@@ -15,8 +12,7 @@ pitch: "​CD’s related to Kelly Clarkson’s Since U Been Gone scanned and th
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Since-U-Been-Gone-2012-078-detail-print-1-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-10-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-11-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-12-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-13-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-14-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-2-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-3-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-4-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-5-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-6-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-7-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-8-database-KA.jpg,Since-U-Been-Gone-2012-078-detail-print-9-database-KA.jpg
+related_code:
 subheading: Prints
 download:
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:

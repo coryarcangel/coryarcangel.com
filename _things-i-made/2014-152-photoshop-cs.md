@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4267'
-site: '1'
-type: '2'
 inv_num: 2014-152
 add_credit:
 url: 2014-152-photoshop-cs
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-carpet-2014-152-install-2-database-gamec-RM.jpg,photoshop-cs-carpet-2014-152-install-database-gamec-RM.jpg
+related_code:
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '63'
-site: '1'
-type: '2'
 inv_num: 2008-074
 add_credit:
 url: 2008-074-genealogies
@@ -17,8 +14,7 @@ ps: Part of the Genealogies project at the <a title="" href="http://www.lux.org.
   if u ever wondered,………
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2008_074_Genealogies_Full_Database_IH.jpg
+related_code:
 subheading:
 download:
 commission:

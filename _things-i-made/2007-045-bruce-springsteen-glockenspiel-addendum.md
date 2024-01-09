@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '171'
-site: '1'
-type: '2'
 inv_num: 2007-045
 add_credit:
 url: 2007-045-bruce-springsteen-glockenspiel-addendum
@@ -18,8 +15,7 @@ ps: "​Cd’s given away with a mix version of my composition The Bruce Springs
   would eventually get circulated as Bruce’s record. :)"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: born-to-run-2007-045-cd-install-database_1.jpg
+related_code:
 subheading: "(CD Edition)"
 download:
 commission:

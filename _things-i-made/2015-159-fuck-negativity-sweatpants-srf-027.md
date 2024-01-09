@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4297'
-site: '1'
-type: '2'
 inv_num: 2015-159
 add_credit:
 url: 2015-159-fuck-negativity-sweatpants-srf-027
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Fuck-Negativity-Sweatpants-2015-159-full-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

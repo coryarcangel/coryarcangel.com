@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4115'
-site: '1'
-type: '2'
 inv_num: 2013-169
 add_credit:
 url: 2013-169-freshbuzz
@@ -14,8 +11,7 @@ pitch: On take motion picture of myself web surfing around www.subway.com
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: freshbuzz-2013-169-install-Heart-01-database-SM.jpg
+related_code:
 subheading:
 download:
 commission:

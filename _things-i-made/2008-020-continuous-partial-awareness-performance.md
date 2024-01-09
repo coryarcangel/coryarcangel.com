@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '49'
-site: '1'
-type: '2'
 inv_num: 2008-020
 add_credit:
 url: 2008-020-continuous-partial-awareness-performance
@@ -14,8 +11,7 @@ pitch: "​Performance listing some ideas for projects."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: 2008-020-Continuous-Play-Perf-View-2-database-IH.jpg
+related_code:
 subheading: "(Performance)"
 download:
 commission:

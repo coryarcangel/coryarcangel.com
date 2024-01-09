@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4415'
-site: '1'
-type: '2'
 inv_num: 2013-226
 add_credit: OPN
 url: 2013-226-joyvtl-jvbuayf
@@ -14,8 +11,7 @@ pitch: Compressed the OPN track as real audio.&nbsp;
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: opn-2013-x-digital-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

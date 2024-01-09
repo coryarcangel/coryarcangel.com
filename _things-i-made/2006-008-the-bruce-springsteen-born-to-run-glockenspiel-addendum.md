@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '5'
-site: '1'
-type: '2'
 inv_num: 2006-008
 add_credit:
 url: 2006-008-the-bruce-springsteen-born-to-run-glockenspiel-addendum
@@ -15,8 +12,7 @@ ps: 'Above: performance of the complete 43 minute The Bruce Springsteen Born to 
   Glockenspiel Addendum @ Light Industry in Brooklyn'
 live_url:
 youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZT0iTIRgMD397O33Mgueva5
-https://github.com/coryarcangel/alu:
-imgs: glockenspiel-2006-008-light-industry-performance-view-1-database-DC.jpg
+related_code:
 subheading: "(Performance)"
 download:
 commission:

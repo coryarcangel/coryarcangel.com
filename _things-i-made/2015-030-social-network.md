@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4264'
-site: '1'
-type: '2'
 inv_num: 2015-030
 add_credit:
 url: 2015-030-social-network
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: social-network-2015-030-detail-2-database-EK.jpg,social-network-2015-030-full-database-team-JL.jpg
+related_code:
 subheading:
 download:
 commission:

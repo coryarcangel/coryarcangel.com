@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4144'
-site: '1'
-type: '2'
 inv_num: 2014-007
 add_credit: Cory Arcangel for Arcangel Surfware
 url: 2014-007-fitted-otto-flexfit-hat-srf-005
@@ -14,8 +11,7 @@ pitch: White Hat with Embroidered Red Arcangel Surfware Logo.
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: srf-005-fitted-hat-2014-007-full-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

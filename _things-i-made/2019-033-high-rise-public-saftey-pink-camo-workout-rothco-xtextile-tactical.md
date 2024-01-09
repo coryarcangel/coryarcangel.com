@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4479'
-site: '1'
-type: '2'
 inv_num: 2019-033
 add_credit:
 url: 2019-033-high-rise-public-saftey-pink-camo-workout-rothco-xtextile-tactical
@@ -16,8 +13,7 @@ pitch: Array of Ikea tables, done 4 show at Firstsite (orignially done as separa
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: firstsite-2019-05-db-da--Qitn.jpg
+related_code:
 subheading:
 download:
 commission:

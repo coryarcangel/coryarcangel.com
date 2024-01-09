@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '26'
-site: '1'
-type: '2'
 inv_num: 2005-011
 add_credit:
 url: 2005-011-old-friends
@@ -25,8 +22,7 @@ ps: "​This isn't exactly a video, but actually a modified DVD. The only differ
   any traditional sense (hence comedy clubs).&nbsp; "
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: Old_Friends_2005_011_still_database_IH.jpg
+related_code:
 subheading:
 download:
 commission:

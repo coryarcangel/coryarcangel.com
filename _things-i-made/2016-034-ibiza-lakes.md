@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4354'
-site: '1'
-type: '2'
 inv_num: 2016-034
 add_credit:
 url: 2016-034-ibiza-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: ibiza-lakes-2016-034-full-database-JH.jpg
+related_code:
 subheading:
 download:
 commission:

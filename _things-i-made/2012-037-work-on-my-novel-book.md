@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4127'
-site: '1'
-type: '2'
 inv_num: 2012-037
 add_credit:
 url: 2012-037-work-on-my-novel-book
@@ -17,8 +14,7 @@ ps: "INFORMATION:\n Author: <a href=\"http://coryarcangel.com/\" title=\"\">Cory
   144"
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: working-on-my-novel-2012-037-full-01-database-ih.jpg,working-on-my-novel-2012-037-full-02-database-ih.jpg,working-on-my-novel-2012-037-full-04-database-ih.jpg,working-on-my-novel-2012-037-full-03-database-ih.jpg,working-on-my-novel-2012-037-full-05-database-ih.jpg
+related_code:
 subheading: "(Book)"
 download:
 commission:

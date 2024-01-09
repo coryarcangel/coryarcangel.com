@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4375'
-site: '1'
-type: '2'
 inv_num: 2016-104
 add_credit:
 url: 2016-104-jeans-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: jeans-lakes-2016-104-install-database-dt.jpg
+related_code:
 subheading:
 download:
 commission:

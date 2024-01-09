@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '16'
-site: '1'
-type: '2'
 inv_num: 2004-009
 add_credit: Michael  Frumin
 url: 2004-009-pizza-party
@@ -16,8 +13,7 @@ ps: ​Check the related code below to download this if u r down. Note, it doesn
   the magic of open source</a>.
 live_url:
 youtube: https://www.youtube.com/watch?v=PnVaQQVla1Y
-https://github.com/coryarcangel/alu: https://github.com/coryarcangel/Pizza-Party-0.1.b
-imgs: pizza-party-2004-009-screenshot-1-database-ih.jpg
+related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
 subheading:
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2147'
-site: '1'
-type: '2'
 inv_num: 2008-082
 add_credit: Dexter Sinister
 url: 2008-082-a-couple-thousand-short-films-about-glenn-gould-publication
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: glenn-gould-2008-082-full-1-press-ih.jpg
+related_code:
 subheading: "(Publication)"
 download:
 commission:

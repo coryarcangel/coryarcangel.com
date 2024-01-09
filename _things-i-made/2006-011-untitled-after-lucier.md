@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '156'
-site: '1'
-type: '2'
 inv_num: 2006-011
 add_credit:
 url: 2006-011-untitled-after-lucier
@@ -14,8 +11,7 @@ pitch: "​An infinitely compressing video of the Beatles on Ed Sullivan."
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: untitled-after-lucier-2006-011-still-1-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

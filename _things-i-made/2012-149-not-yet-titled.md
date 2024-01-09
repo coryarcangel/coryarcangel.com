@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '2221'
-site: '1'
-type: '2'
 inv_num: 2012-149
 add_credit:
 url: 2012-149-not-yet-titled
@@ -18,8 +15,7 @@ ps: "​This was a live performance where I watched TV in NYC, and broadcast it 
   America to an audience - the ultimate low stress / stay at home performance."
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: untitled-2012-149-western-front-perf-view-2-database-BW.jpg
+related_code:
 subheading:
 download:
 commission:

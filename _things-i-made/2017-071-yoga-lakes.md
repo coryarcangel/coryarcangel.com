@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4398'
-site: '1'
-type: '2'
 inv_num: 2017-071
 add_credit:
 url: 2017-071-yoga-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: yoga-lakes-2017-071-database-dt-Dt4K.jpg
+related_code:
 subheading:
 download:
 commission:

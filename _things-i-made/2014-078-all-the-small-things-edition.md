@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4250'
-site: '1'
-type: '2'
 inv_num: 2014-078
 add_credit:
 url: 2014-078-all-the-small-things-edition
@@ -14,8 +11,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: all-the-small-things-2014-078-database-2-ih.jpg
+related_code:
 subheading: "(Edition)"
 download:
 commission:

@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4478'
-site: '1'
-type: '2'
 inv_num: 2019-027
 add_credit:
 url: 2019-027-responce
@@ -14,8 +11,7 @@ pitch:
 ps: Print for Lorenzo Sennis Presto label's 10th anniversary
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: responce-2019-027-db-ih--oHP0.jpg
+related_code:
 subheading:
 download:
 commission:

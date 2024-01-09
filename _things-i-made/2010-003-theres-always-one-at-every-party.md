@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '72'
-site: '1'
-type: '2'
 inv_num: 2010-003
 add_credit:
 url: 2010-003-theres-always-one-at-every-party
@@ -18,8 +15,7 @@ live_url:
 youtube: 'https://www.youtube.com/watch?v=3QjTPA-Ib9E
 
   '
-https://github.com/coryarcangel/alu:
-imgs: one-at-every-party-2010-003-still-1-database-ih_1.jpg
+related_code:
 subheading:
 download:
 commission:

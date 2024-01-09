@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '71'
-site: '1'
-type: '2'
 inv_num: 2011-021
 add_credit:
 url: 2011-021-volumemanagement
@@ -14,8 +11,7 @@ pitch: "​Arrangement of flat-screen TV's in boxes. "
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: volume-management-2011-021-full-database-SC.jpg
+related_code:
 subheading:
 download:
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:

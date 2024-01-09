@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4394'
-site: '1'
-type: '2'
 inv_num: 2017-060
 add_credit:
 url: 2017-060-photoshop-cs-84by-144-inches-300-dpi-rgb-square-pixels-default-gra
@@ -17,8 +14,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: photoshop-cs-2017-060-database-02-ug.jpg
+related_code:
 subheading:
 download:
 commission:

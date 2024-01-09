@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '187'
-site: '1'
-type: '2'
 inv_num: 2004-003
 add_credit:
 url: 2004-003-super-slow-tetris
@@ -20,8 +17,7 @@ ps: ​This was originally called "Tetris Screwed". It takes about 8 hours for t
   was written by hand in 6502 binary! Step to that!
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: super-slow-tetris-2004-003-cartridge-database-ih.jpg,super-slow-tetris-2004-003-screenshot-3-database-ih.jpg,super-slow-tetris-2004-003-screenshot-4-database-ih.jpg,super-slow-tetris-2004-003-screenshot-5-database-ih.jpg,super-slow-tetris-2004-003-screenshot-7-database-ih.jpg,super-slow-tetris-2004-003-screenshot-8-database-ih.jpg
+related_code:
 subheading:
 download: super-slow-tetris-2004-003-master.nes.zip
 commission:

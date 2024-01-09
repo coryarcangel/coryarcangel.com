@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '96'
-site: '1'
-type: '2'
 inv_num: 2010-057
 add_credit:
 url: 2010-057-cory-arcangel-for-new-jerseyy
@@ -14,8 +11,7 @@ pitch: "​New Jerseyy website redesigned to look like the website of Pace Galle
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: new-jerseyy-2010-057-screen-shot-3-database-ih.jpg
+related_code:
 subheading:
 download:
 commission:

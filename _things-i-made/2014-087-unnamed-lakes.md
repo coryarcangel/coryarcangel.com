@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4177'
-site: '1'
-type: '2'
 inv_num: 2014-087
 add_credit:
 url: 2014-087-unnamed-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: unnamed-lakes-2014-087-full-still-3-database-team.jpg
+related_code:
 subheading:
 download:
 commission:

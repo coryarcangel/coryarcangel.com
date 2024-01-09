@@ -1,7 +1,4 @@
 ---
-ee_id_thing: '4397'
-site: '1'
-type: '2'
 inv_num: 2017-069
 add_credit:
 url: 2017-069-football-lakes
@@ -15,8 +12,7 @@ pitch:
 ps:
 live_url:
 youtube:
-https://github.com/coryarcangel/alu:
-imgs: artwork-title-2017-069-database-dt--IK6r.jpg
+related_code:
 subheading:
 download:
 commission:
