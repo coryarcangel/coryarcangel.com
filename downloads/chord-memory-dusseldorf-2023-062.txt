@@ -1,3 +1,10 @@
+Cory Arcangel
+Chord Memory ~ Dusseldorf 
+2024
+
+Chord Memory is a algo composition for pipe organ. The Chord Memory algo is a vvvv simple chord generator loosely based on the "chord memory" function of some keyboards & general off the wall random pitching. The code set the below scores were generated from is located at: https://github.com/coryarcangel/chord-memory & is an Open Office spreadsheet which generates MIDI files in .CSV format. The 14 scores below were generated on the occasion of Terms and Conditions @ St. Antonius Church, Dusseldorf, January 20th, 2024 w/ and for Hampus Lindwall. For each note of 16 ticks, and a drone (marked by a ~), place a maj 7th chord on the root note. As for arrangement, tempo, and instrumentation, looping, or no looping - all that is completely up to the performer. For example, the piece can be arpeggiated, transposed in any direction, and even all but one note in each chord thorwn away. The only thing which matters is the timing of each chord in relation to one another, and the drone note. Very flexi!
+
+10-10-10-10-X-X-X-X-X-X-X-X-X-X-X-X~0
 10-9-6-10-0-5-4-10-6-1-0-3-1-6-8-8~6
 11-3-X-X-2-X-X-7-X-8-X-X-X-X-7-X~8
 4-X-X-X-X-X-X-X-X-X-3-X-8-X-1-X~5
@@ -12,3 +19,6 @@
 X-X-X-2-X-X-X-X-X-X-X-X-X-X-X-X~6
 X-X-X-X-X-1-X-X-X-X-X-X-X-X-X-X~8
 X-X-X-X-X-X-X-11-X-X-X-X-3-X-0-X~4
+
+January 9th, 2024
+Stavanger, Norway 
