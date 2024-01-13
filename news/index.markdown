@@ -4,7 +4,10 @@ title: News
 ---
 <a href="../">↩ Home </a>
 * 🔥
-	* [Identity Pitches w/ Stine Janvin (buy now!)](https://primaryinformation.org/product/identity-pitches/)
+	* [Identity Pitches w/ Stine Janvin (buy now!)↪](https://primaryinformation.org/product/identity-pitches/){:target="_blank"}
+	* [/roʊˈdeɪoʊ/↪](https://rodeo.computer/){:target="_blank"}
+	* [Related to Your Interests↪](https://rtyi.coryarcangel.com/){:target="_blank"}
+	* [Tony Conrad: Music and the Mind of the World↪](http://musicandthemindofthe.world/){:target="_blank"}
 * Shows
 
 {% assign shows_list = site.data.shows %}
@@ -17,8 +20,8 @@ title: News
 {% endfor %}
 
 * Press
-	* [Otoliths in Flux Podcast](https://stegi.radio/show/artist-talk-cory-arcangel-2023-10-05){:target="_blank"}
-	* [On John Knecht’s The Possible Fog of Heaven, Artforum](https://www.artforum.com/print/202305/cory-arcangel-on-john-knecht-s-the-possible-fog-of-heaven-1993-90442){:target="_blank"} 
+	* [Otoliths in Flux Podcast↪](https://stegi.radio/show/artist-talk-cory-arcangel-2023-10-05){:target="_blank"}
+	* [On John Knecht’s The Possible Fog of Heaven, Artforum↪](https://www.artforum.com/print/202305/cory-arcangel-on-john-knecht-s-the-possible-fog-of-heaven-1993-90442){:target="_blank"} 
 
 
 
