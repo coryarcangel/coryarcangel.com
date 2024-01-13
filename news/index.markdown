@@ -5,7 +5,7 @@ title: News
 <a href="../">↩ Home </a>
 * 🔥
 	* [Identity Pitches w/ Stine Janvin (buy now!)↪](https://primaryinformation.org/product/identity-pitches/){:target="_blank"}
-	* [/roʊˈdeɪoʊ/↪](https://rodeo.computer/){:target="_blank"}
+	* [/roʊˈdeɪoʊ/: Let's Play↪](https://rodeo.computer/){:target="_blank"}
 	* [Related to Your Interests↪](https://rtyi.coryarcangel.com/){:target="_blank"}
 	* [Tony Conrad: Music and the Mind of the World↪](http://musicandthemindofthe.world/){:target="_blank"}
 * Shows
