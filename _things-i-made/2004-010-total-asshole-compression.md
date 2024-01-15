@@ -1,6 +1,6 @@
 ---
 inv_num: 2004-010
-add_credit: In collaboration with the Radical Software Group
+add_credit: Radical Software Group
 url: 2004-010-total-asshole-compression
 title: T.A.C. - Total Asshole Compression
 year: '2004'
