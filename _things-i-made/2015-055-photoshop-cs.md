@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-055
-add_credit: Produced by ege carpets
+add_credit:
 url: 2015-055-photoshop-cs
 title: 'Photoshop CS: 684 by 4600 centimeters, 10 DPC, RGB, square pixels, default
   gradient "Russell''s Rainbow", mousedown y=2357 x=4633, mouseup y=4548 x=4666'
