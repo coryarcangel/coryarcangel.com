@@ -18,12 +18,3 @@ title: News
 
 {% endif %}
 {% endfor %}
-
-* Press
-	* [Otoliths in Flux Podcast↪](https://stegi.radio/show/artist-talk-cory-arcangel-2023-10-05){:target="_blank"}
-	* [On John Knecht’s The Possible Fog of Heaven, Artforum↪](https://www.artforum.com/print/202305/cory-arcangel-on-john-knecht-s-the-possible-fog-of-heaven-1993-90442){:target="_blank"} 
-
-
-
-
-

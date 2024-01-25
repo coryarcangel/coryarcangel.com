@@ -1,3 +1,14 @@
+{% assign press_list = site.data.press %}
+{% for press in press_list %}
+	* <a href="../shows/{{ press.URL }}">{{ press.Year }}, p
+{% endfor %}
+
+
+
+
+
+
+
       Bindery.PageBreak({selector: 'h1', position: 'before' })
 
 {% if page.imgs != "" %}
