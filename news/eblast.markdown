@@ -8,9 +8,9 @@ title: News
 
 {% assign shows_list = site.data.shows %}
 {% for shows in shows_list %}
-{% if shows.status == "news" %}
+{% if shows.wwweblast == "Y" %}
 
-	* <a href="../shows/{{ shows.url }}">{{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.dates }}, {{ shows.state_country }}, {{ shows.year }}
+	* <a href="../shows/{{ shows.url }}">{{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.dates }}, {{ shows.state_country }}
 
 {% endif %}
 {% endfor %}
@@ -19,11 +19,14 @@ title: News
 
 {% assign press_list = site.data.press %}
 {% for press in press_list %}
+{% if press.wwweblast == "Y" %}
 
 {% if press.URL %}
 	* <a href="{{ press.URL }}">{{ press.Primary }}, {{ press.Secondary }}, {{ press.Year }}
 {% else %}
 	* {{ press.Primary }}, {{ press.Secondary }}, {{ press.Year }}
 {% endif %}
-	
+
+{% endif %}	
+
 {% endfor %}

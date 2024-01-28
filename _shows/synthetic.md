@@ -8,12 +8,11 @@ venue: Whitney Museum of American Art
 state_country: New York
 type:
 dates:
+wwwnews:
+wwweblast:
 pitch: ​Group show, .... got to show next to a sick Kenny Sharf (yES!!!) ;-) Also,
   Super Mario Clouds always gets shown differently, but this was the best "multi-screen"
   version of it I ever pulled off.&nbsp;
 ps:
-imgs: whitney-ny-2009-01-full-database-whitney.jpg
-things: "[7] [supermarioclouds] 2002-001 Super Mario Clouds"
-status:
 layout: shows
 ---

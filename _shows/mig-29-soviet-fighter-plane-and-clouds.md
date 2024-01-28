@@ -8,10 +8,9 @@ venue: 'Art Basel Unlimited (w/ Lisson Gallery) '
 state_country: Basel
 type:
 dates:
+wwwnews:
+wwweblast:
 pitch: "​Dusted this oldie off, and showed it how I always wished it would b shown."
 ps:
-imgs: Mig-29-Soviet-2005-03-install-database-07.jpg,Mig-29-Soviet-2005-03-install-database-08.jpg,Mig-29-Soviet-2005-03-install-database-04.jpg
-things:
-status:
 layout: shows
 ---
