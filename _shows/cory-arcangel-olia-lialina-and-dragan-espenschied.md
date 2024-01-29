@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: ".. a summer show in Texas with Olia Lialina and Dragan Espenschied! Yes!"
 ps:
+download:
 layout: shows
 ---

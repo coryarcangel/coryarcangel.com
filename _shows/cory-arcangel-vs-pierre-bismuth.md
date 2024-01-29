@@ -13,5 +13,6 @@ wwweblast:
 pitch: I picked 3 of Pierre's things, he picked 3 of mine, and we made one together.
   :)
 ps:
+download:
 layout: shows
 ---

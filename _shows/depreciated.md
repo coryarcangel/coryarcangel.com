@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: 'Small all moving image survey show. '
 ps:
+download:
 layout: shows
 ---

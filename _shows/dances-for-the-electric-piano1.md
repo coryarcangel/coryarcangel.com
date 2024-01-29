@@ -13,5 +13,6 @@ wwweblast:
 pitch: "​Hampus Lindwall on the ivories at the German premiere of my piano suite.
   Standing room only! ;-)"
 ps:
+download:
 layout: shows
 ---

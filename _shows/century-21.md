@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: 'First show in NYC in a trollion years! Wz online and offiline. '
 ps:
+download:
 layout: shows
 ---

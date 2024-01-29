@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file_path="_data/images.csv"
+file_path="_data/images-temp.csv"
 counter=0
 
 # Check if the file exists
@@ -31,4 +31,4 @@ else
     echo "File not found: $file_path"
 fi
 
-mv images-temp.csv _data/images.csv
+mv images-temp.csv _data/images-temp.csv

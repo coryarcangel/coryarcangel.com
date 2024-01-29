@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: Data Diaries in NET ART ANTHOLOGY!
 ps:
+download:
 layout: shows
 ---

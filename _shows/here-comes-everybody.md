@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: "​Show that wz centered around music / composition."
 ps:
+download:
 layout: shows
 ---

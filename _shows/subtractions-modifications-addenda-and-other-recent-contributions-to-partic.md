@@ -13,5 +13,6 @@ wwwnews:
 wwweblast:
 pitch: "​Show that wz about re-using content / techniques. "
 ps:
+download:
 layout: shows
 ---

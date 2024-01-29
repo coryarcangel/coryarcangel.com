@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: "​Kinda a pixel show. Lotsa game / software stuff. "
 ps:
+download:
 layout: shows
 ---

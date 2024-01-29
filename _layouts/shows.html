@@ -40,8 +40,13 @@ layout: shows
 	{% if page.live_url  %}
 	<b>Url: </b><a href="{{ page.live_url }}" target="_blank">{{ page.live_url }}↪</a>
 	<br>
-	{% endif %}	
+	{% endif %}
 	
+	{% if page.download  %}
+	<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
+	<br>
+	{% endif %}	
+			
 	{% assign things_thingsXshows = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
 	{% assign things_list = '' | split: '' %}
 	{% for item in things_thingsXshows %}

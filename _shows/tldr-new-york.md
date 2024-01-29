@@ -14,5 +14,6 @@ pitch: Tried 2 b a grown up and did a show focusing on just one series of work�
   appearances from the “lake” applet, Britney, Hillary, Sport Products, On Compression,
   etc, etc.
 ps:
+download:
 layout: shows
 ---

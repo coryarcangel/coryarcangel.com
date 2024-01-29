@@ -13,5 +13,6 @@ wwweblast:
 pitch: 'Kinda a cray ahead of its time group show about digital preservation / emulation.
   An honor 2 show w so many tru heads: Nam June Paik, Jodi.org, John Simon, etc, etc.'
 ps:
+download:
 layout: shows
 ---

@@ -17,5 +17,6 @@ ps: This show was the first time I showed the monster Various Self Playing Bowli
   Also, since there was only one work in the show, I was stupid to give the show a
   different title then the work. That's why Various Self Playing Bowling Games often
   gets mis-titled Beat the Champ.
+download:
 layout: shows
 ---

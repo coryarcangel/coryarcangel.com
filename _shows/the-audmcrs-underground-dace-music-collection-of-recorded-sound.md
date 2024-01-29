@@ -13,5 +13,6 @@ wwweblast:
 pitch: Gotta luv these virtual shows(!) Linked to the AUDMCRS Underground Dance Music
   Collection of Recorded Sound.
 ps:
+download:
 layout: shows
 ---

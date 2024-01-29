@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: I was in the booth the whole time, showing ppl how to play the games, FYI.
 ps:
+download:
 layout: shows
 ---

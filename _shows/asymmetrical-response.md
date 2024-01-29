@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: "​First in the x3 shows w/ Olia Lialina."
 ps:
+download:
 layout: shows
 ---

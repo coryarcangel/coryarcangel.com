@@ -12,5 +12,6 @@ wwwnews:
 wwweblast:
 pitch: "​Group ... shared a room with Michel Majerus! OMG~~~~!"
 ps:
+download:
 layout: shows
 ---

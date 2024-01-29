@@ -15,5 +15,6 @@ pitch: Release party for my LP 24 Dances For the Electric Piano. Double header w
   my piano suite on an M1. There was also an Arcangel Surfware merch table in an antiquities
   room. :-)
 ps:
+download:
 layout: shows
 ---

@@ -13,5 +13,6 @@ wwweblast:
 pitch: 'Curated a small show 4 Flagship AS (the gallery inside Arcangel Surfware’s
   flagship) with the legendary Steina and Woody Vasulka: Let it be (1970) '
 ps:
+download:
 layout: shows
 ---

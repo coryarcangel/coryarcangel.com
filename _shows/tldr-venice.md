@@ -13,5 +13,6 @@ wwweblast:
 pitch: Mini retrospective in the form of a C+ cell phone store for a gallery in a
   garage (in Venice Beach!) :/
 ps:
+download:
 layout: shows
 ---

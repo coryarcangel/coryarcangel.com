@@ -14,5 +14,6 @@ pitch: "&nbsp;... had a super chill time putting this one together, ... a bit of
   really. A good vibe all around! "
 ps: ​Finally got to put my sculpture "Volume Management" (a bunch of flat screens
   previously shown just in their boxes) to good use. LOL. :)
+download:
 layout: shows
 ---
