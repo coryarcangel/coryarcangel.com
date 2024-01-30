@@ -14,7 +14,7 @@ title: News
 {% for shows in shows_list %}
 {% if shows.wwweblast == "Y" %}
 
-	* <a href="../shows/{{ shows.url }}">{{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.dates }}, {{ shows.state_country }}, {{ shows.year }}
+	* <a href="../shows/{{ shows.url }}">{{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.dates }}, {{ shows.state_country }}
 
 {% endif %}
 {% endfor %}
