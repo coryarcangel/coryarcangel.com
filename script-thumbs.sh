@@ -13,8 +13,10 @@ if [ -e "$file_path" ]; then
 		else
 			filename=$(awk -F"[,]" '{printf("%s", $1);}' <<< "$line")
 			stripped_filename=$(echo "$filename" | sed 's/"//g' | sed 's/\..*$//')
+			simple_filename=${filename//\"}
 			if ! test -f assets/thumbs/$stripped_filename-thumb.jpg; then
-				convert assets/imgs/$stripped_filename.jpg -quality 80 -resize x300 $stripped_filename-thumb.jpg; 
+				echo $filename, $stripped_filename
+				convert assets/imgs/$simple_filename -quality 80 -resize x300 $stripped_filename-thumb.jpg; 
 				mv $stripped_filename-thumb.jpg assets/thumbs/
 			fi		
 				inventory=$(awk -F"[,]" '{printf("%s", $2);}' <<< "$line")
