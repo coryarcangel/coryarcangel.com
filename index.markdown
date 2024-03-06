@@ -10,7 +10,7 @@ title: Home
   * [Shows](shows)  
   * [Images](images)  
 * [Subscribe](subscribe)
-* [Shop](https://arcangelsurfware.biz/)↪ 
+* [Shop](https://schellmannart.com/exhibitions/paperless-prints)↪ 
 * [Social](social)
 
 {{ site.time | date: '%d/%m/%y' }}
