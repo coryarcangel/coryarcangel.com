@@ -9,11 +9,13 @@ display_year: '2020'
 medium: Dual-channel screen recording of a live bot performance on Instagram, Febuary
   5th, 2020.
 dims:
-pitch:
+pitch: 2-channel H.264 MP4 screen capture video of a game of chess played on Feb 26th,
+  2020 by two AI bots communicating through Instagram, the photo and video-sharing
+  social networking service owned by Facebook, Inc.
 ps:
 live_url:
 youtube:
-related_code:
+related_code: http://github.com/hvandusen/runner-suite
 subheading:
 download:
 commission:
