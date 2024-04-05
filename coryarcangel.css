@@ -20,6 +20,11 @@ body
 	        font-size: 28px;
 	    }
 }
+@media screen and (min-width: 1600px) {
+	    body {
+	        font-size: 32px;
+	    }
+}
 p 
 {
 	margin: 0px;
