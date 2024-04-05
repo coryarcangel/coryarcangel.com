@@ -15,6 +15,7 @@ pitch: "​Not sure what to say about this one, except I had some yellow thing g
   here, <i>A Few Casuals, </i>and the humidifier filled with diet sprite, <i>Real
   Taste</i>. :)"
 ps:
+credits:
 download:
 layout: shows
 ---

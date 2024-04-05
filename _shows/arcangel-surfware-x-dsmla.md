@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: Built a copy of the Arcangel Surfware scandinavian flagship @ DSMLA…
 ps:
+credits:
 download:
 layout: shows
 ---

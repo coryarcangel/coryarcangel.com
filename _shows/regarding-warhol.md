@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: Silver Clouds, Super Mario Clouds ;-),,
 ps:
+credits:
 download:
 layout: shows
 ---

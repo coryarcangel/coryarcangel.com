@@ -15,6 +15,7 @@ pitch: "​Curated this show w/ Tina Kukielski. Thx 2 Carol Bove, Jacob Ciocci, 
   Lonergan, Michel Majerus, Jayson Musson, Deborah Remington, Hayley Silverman, Jessie
   Stead, Paul Thek and Ernest Trova. "
 ps: I made the carpet, and had a Juicero on site :-)
+credits:
 download:
 layout: shows
 ---

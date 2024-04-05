@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: "​Debut of The Source Digest &amp; FN white gear."
 ps:
+credits:
 download:
 layout: shows
 ---

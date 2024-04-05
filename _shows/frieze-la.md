@@ -13,6 +13,7 @@ wwweblast:
 pitch: "​First big show w Greene Naftali. Showed clickfarm works &amp; Ikea table
   flatware.&nbsp;"
 ps:
+credits:
 download:
 layout: shows
 ---

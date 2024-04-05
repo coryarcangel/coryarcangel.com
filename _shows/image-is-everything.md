@@ -14,6 +14,7 @@ pitch: 'First show of all new work I did with leaving the lights on in the galle
   Took the title from the Agassi book I was reading at the time. Highly recommended
   (the book)! '
 ps:
+credits:
 download:
 layout: shows
 ---

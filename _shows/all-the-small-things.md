@@ -14,6 +14,7 @@ pitch: Wasnâ€™t doing IRL shows of nu work 4 a few years (needed a break, lol)â€
   this one was a chill opportunity 2 try out all the nu ideas I had since my 2011
   Whitney &amp; Lisson shows .....
 ps:
+credits:
 download:
 layout: shows
 ---

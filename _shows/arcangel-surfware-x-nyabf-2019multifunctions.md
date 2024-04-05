@@ -13,6 +13,7 @@ wwweblast:
 pitch: "​Surfware wz back at NYABF! Tiny tiny tiny tiny version of our flagship. Hot
   tickets: multi-function scarves &amp; “flatware” airplane pillows."
 ps:
+credits:
 download:
 layout: shows
 ---

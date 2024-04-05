@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: "&nbsp;Exhibition in the back of an LV store!"
 ps:
+credits:
 download:
 layout: shows
 ---

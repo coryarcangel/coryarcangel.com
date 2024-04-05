@@ -46,6 +46,11 @@ layout: shows
 	<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
 	<br>
 	{% endif %}	
+	
+	{% if page.credits  %}
+	<b>Credits: </b>{{ page.credits }}
+	<br>
+	{% endif %}	
 			
 	{% assign things_thingsXshows = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
 	{% assign things_list = '' | split: '' %}

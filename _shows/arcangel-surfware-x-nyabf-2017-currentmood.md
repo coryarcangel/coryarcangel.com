@@ -13,6 +13,7 @@ wwweblast:
 pitch: "​Testing out a “menu” &amp; dropped the Tony Conrad bot, as well as a line
   of fidget spinners."
 ps:
+credits:
 download:
 layout: shows
 ---

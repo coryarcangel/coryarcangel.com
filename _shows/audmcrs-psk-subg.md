@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: A great excuse 2 show my wharehouse banger PSK.
 ps:
+credits:
 download:
 layout: shows
 ---

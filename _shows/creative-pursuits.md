@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: "​The space had so many windows, I had to step up my non projected image game. "
 ps:
+credits:
 download:
 layout: shows
 ---

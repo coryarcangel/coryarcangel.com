@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: in d corner w/ Majerus &amp; Catala :)
 ps:
+credits:
 download:
 layout: shows
 ---

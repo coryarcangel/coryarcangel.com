@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: Composition for consumer home stereos, and CD’s. :/
 ps: Stressful! ...
+credits:
 download:
 layout: shows
 ---

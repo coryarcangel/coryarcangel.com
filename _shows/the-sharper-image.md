@@ -12,6 +12,7 @@ wwwnews:
 wwweblast:
 pitch: "​Survey show, ... my best title by far. "
 ps:
+credits:
 download:
 layout: shows
 ---

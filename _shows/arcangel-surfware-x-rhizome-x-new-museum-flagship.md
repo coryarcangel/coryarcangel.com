@@ -13,6 +13,7 @@ wwweblast:
 pitch: Built a copy of the Arcangel Surfware Flagship at the New Museum 4 one day!
   Thx Rhizome.&nbsp;
 ps:
+credits:
 download:
 layout: shows
 ---

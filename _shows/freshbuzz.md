@@ -15,6 +15,7 @@ pitch: Poss a high point 4 me in my 20 year journey as “an artist”, ... 100 
   Screen (Stream) Slate Twitch. Great convo w Ed Halter after. Thx Rhizome and EAI
   as well.&nbsp;
 ps:
+credits:
 download:
 layout: shows
 ---

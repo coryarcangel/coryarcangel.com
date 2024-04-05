@@ -14,6 +14,7 @@ pitch: Dragan Espenschied restored my 2005 digital “readymade”, Bomb Iraq, a
   it runs in a browser! Def check it out, and read Dragan’s beautiful txt. Another
   “virtual show” :-/
 ps:
+credits:
 download:
 layout: shows
 ---

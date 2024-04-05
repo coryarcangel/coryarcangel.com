@@ -16,6 +16,7 @@ pitch: "... this one was out of the blue, but opened a flagship store for Arcang
   wz the EXCLUSIVE POS for Arcangel Surfware during that time (we discarded our web
   shop) &amp; open 4 2 years every Saturday 12-1500. "
 ps:
+credits:
 download:
 layout: shows
 ---

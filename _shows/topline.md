@@ -14,6 +14,7 @@ pitch: Third "asset light" show. Finally got the nerve up 2 do a whole show of t
   flatware series (uuuuugh, ... took me 10 years!). Def worth the wait I think. Shanghai
   wz also great.&nbsp;
 ps:
+credits:
 download:
 layout: shows
 ---
