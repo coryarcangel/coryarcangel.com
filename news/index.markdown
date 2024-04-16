@@ -15,7 +15,7 @@ title: News
 
 {% assign shows_list = site.data.shows %}
 {% for shows in shows_list %}
-{% if shows.wwweblast == "Y" %}
+{% if shows.wwwnews == "Y" %}
 
 	* <a href="../shows/{{ shows.url }}">{{ shows.dates }}, {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.state_country }}
 
