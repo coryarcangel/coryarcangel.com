@@ -19,7 +19,7 @@ title: News
 {% endif %}
 {% endfor %}
 
-* 🗞
+* Press
 
 {% assign press_list = site.data.press %}
 {% for press in press_list %}
