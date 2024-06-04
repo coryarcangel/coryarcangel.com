@@ -4,10 +4,12 @@ title: News
 ---
 <a href="../">↩ Home </a>
 * 🔥
-	* [Let's Play Majerus G3 - Majerus' laptop restored & I'm finally a youtuber!↪](https://www.youtube.com/watch?v=QhQrywlzaVI){:target="_blank"}
-	* [Phoebe Philo X Cory Arcangel - Fun wrkn w Phoebe Philo on SEO, etc, etc ;-) ↪](https://www.google.com/search?q=Phoebe+Philo){:target="_blank"}
-	* [/roʊˈdeɪoʊ/: Let's Play - AI video game playing computer↪](https://rodeo.computer/){:target="_blank"}
-	* [Related to Your Interests - 800+ YT vids of trash↪](https://rtyi.coryarcangel.com/){:target="_blank"}
+	* [Cookery (SRF-061)↪](https://cookery.cooking/){:target="_blank"} - A command-line utility for concocting and cooking deepfrying recipes for image and video   
+	* [Let's Play Majerus G3↪](https://www.youtube.com/watch?v=QhQrywlzaVI){:target="_blank"} - Majerus' laptop restored & I'm finally a Youtuber!  
+	* [Phoebe Philo X Cory Arcangel↪](https://www.google.com/search?q=Phoebe+Philo){:target="_blank"} - Fun wrkn w Phoebe Philo on SEO, etc, etc ;-)  
+	* [/roʊˈdeɪoʊ/: Let's Play↪](https://rodeo.computer/){:target="_blank"} - AI video game playing computer   
+	* [Related to Your Interests↪](https://rtyi.coryarcangel.com/){:target="_blank"} - 800+ YT vids of trash  
+
 * Shows
 
 {% assign shows_list = site.data.shows %}

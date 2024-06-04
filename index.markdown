@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 * [About](about) 
-* [Contact](contact) 
+* [Contact](contact)
+* [Loans](loans) 
 * [New(s)](news)
 * Stuff 
   * [Things](things-i-made)  
