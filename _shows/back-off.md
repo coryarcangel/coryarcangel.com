@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Done on dawn of a poss Brexit @ Firstsite kunsthall (notably in Colchester)
   thus the second of my “asset light” shows (Sharjah wz the first), ... meaning most
   everything was collected, assembled, and produced quickly &amp; locally - eg. lasers,

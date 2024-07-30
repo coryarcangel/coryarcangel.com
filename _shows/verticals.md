@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: A classic European show (maybe my last for a while?). Painting, sculpture,
   drawing, laser ;-)
 ps:

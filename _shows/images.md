@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: "​Group ... shared a room with Michel Majerus! OMG~~~~!"
 ps:
 credits:

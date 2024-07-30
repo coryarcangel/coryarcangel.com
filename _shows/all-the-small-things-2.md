@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Traveling show (came form Denmark). Iceland was so sick. OMG. Amazing place.
 ps:
 credits:

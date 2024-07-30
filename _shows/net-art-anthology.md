@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Data Diaries in NET ART ANTHOLOGY!
 ps:
 credits:

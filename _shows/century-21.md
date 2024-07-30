@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: 'First show in NYC in a trollion years! Wz online and offiline. '
 ps:
 credits:

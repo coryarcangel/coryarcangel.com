@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: "​Trade show style booth 4 my Triple Canopy edition (kinda my last Lisson show
   in a box)."
 ps:

@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: "​Hampus Lindwall on the ivories at the German premiere of my piano suite.
   Standing room only! ;-)"
 ps:

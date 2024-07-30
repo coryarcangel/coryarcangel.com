@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Wasn’t doing IRL shows of nu work 4 a few years (needed a break, lol)…. so
   this one was a chill opportunity 2 try out all the nu ideas I had since my 2011
   Whitney &amp; Lisson shows .....

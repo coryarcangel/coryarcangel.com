@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: 'First show of all new work I did with leaving the lights on in the gallery.
   Took the title from the Agassi book I was reading at the time. Highly recommended
   (the book)! '

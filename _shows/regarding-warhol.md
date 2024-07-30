@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Silver Clouds, Super Mario Clouds ;-),,
 ps:
 credits:

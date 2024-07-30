@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Really great experience working with Studio Marconi ’65 doing this show with
   the estate of Italian pop artist Mario Schifano.
 ps:

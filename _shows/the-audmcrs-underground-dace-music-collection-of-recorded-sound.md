@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Gotta luv these virtual shows(!) Linked to the AUDMCRS Underground Dance Music
   Collection of Recorded Sound.
 ps:

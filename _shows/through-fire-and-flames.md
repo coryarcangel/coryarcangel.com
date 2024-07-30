@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: "​2nd Arcangel Surfware Pop-up. Technical the launch of my All The Small Things
   catalog."
 ps:

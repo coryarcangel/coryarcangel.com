@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: A bunch of random stuff, .... first time I tried making on of my Photoshop
   Gradient Demonstrations super <i>HUGE</i>, which ended up working pretty good.
 ps:

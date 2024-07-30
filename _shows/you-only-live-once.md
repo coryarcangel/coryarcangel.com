@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: Debut Arcangel Surfware pop-up / first show of all new work in a few years
   in NYC (since my Whitney show) ...... :-/
 ps:

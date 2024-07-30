@@ -10,6 +10,7 @@ type:
 dates:
 wwwnews:
 wwweblast:
+www:
 pitch: "​Would you believe me if I told you this was my first <i>sculpture</i> show?
   ;-)"
 ps: "...think “Your Performance” might b 1 of the best things I ever made FYI. The
