@@ -4,7 +4,7 @@ title: About
 ---
 <a href="../">↩ Home</a>   
 * [Are.na ❤️](https://www.are.na/cory-arcangel)↪ 
-* [Bdnacamp️](https://bandcamp.com/cory_arcangel)↪ 
+* [Bandcamp](https://bandcamp.com/cory_arcangel)↪ 
 * [Github](https://github.com/coryarcangel)↪
 * [Special Fish](https://special.fish/cory)↪
 * [Twitter](https://twitter.com/cory_arcangel)↪
