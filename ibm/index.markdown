@@ -66,7 +66,7 @@ International Business Machines (working title) is the first mid-career retrospe
 <br>
 <b>Dates↴</b>
 <br>
-2025, 2026, 2027+
+2027+
 <br>
 <b>Venues↴</b>
 <br>
@@ -244,15 +244,15 @@ Organizer: <a href="https://coryarcangel.com/">Cory Arcangel</a>, and Arcangel S
 Press: TBC<br>
 Legal: <a href="https://crownlaw.se/">Crown Law</a><br>
 Institutional assistance: <a href="https://rhizome.org">Rhizome.org</a> (TBC), <a href="https://smalldata.industries/">Small Data</a>, and <a href="https://eai.org">Electronic Arts Intermix</a> (TBC)<br>
-Gallery support: Lisson Gallery, Greene Naftali Gallery (TBC), and Thaddaeus Ropac Gallery (TBC)
+Gallery support: Lisson Gallery, and Thaddaeus Ropac Gallery (TBC)
 <br>
 Loans (all TBC): the Albright-Knox Gallery, Buffalo, NY, Carnegie Museum of Art, Pittsburgh, PA, Migros Museum für Gegenwartskunst, Zürich, Switzerland, Museum of Contemporary Art North Miami, Miami, FL, Museum of Modern Art, New York, NY, Neue Nationalgalerie, Berlin, Germany, Smithsonian Museum of American Art, Washington D.C., Tate, London, UK, Thoma Foundation, Santa Fe, and the Whitney Museum of American Art, New York, NY
 <br>
-Version: 2, July 3, 2023.
+Version: 3, Oct, 30, 2024
 <br>
 </div>
 <!-- <a href="{{ site.url }}"> -->
-<a href="Cory-Arcangel-IBM-2.pdf">
+<a href="Cory-Arcangel-IBM-3.pdf">
 <img src="{{ site.url }}/assets/print-icon.svg" class="fix_img"/>
 </a>
 {{ site.time | date: '%d/%m/%y' }}
