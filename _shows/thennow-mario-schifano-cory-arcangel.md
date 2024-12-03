@@ -9,12 +9,10 @@ state_country: Milan
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Really great experience working with Studio Marconi ’65 doing this show with
   the estate of Italian pop artist Mario Schifano.
 ps:
-credits:
 download:
 layout: shows
 ---

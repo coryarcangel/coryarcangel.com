@@ -9,11 +9,9 @@ state_country: Amsterdam
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: 'Small all moving image survey show. '
 ps:
-credits:
 download:
 layout: shows
 ---

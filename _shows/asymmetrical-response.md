@@ -9,11 +9,9 @@ state_country: Vancouver
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​First in the x3 shows w/ Olia Lialina."
 ps:
-credits:
 download:
 layout: shows
 ---

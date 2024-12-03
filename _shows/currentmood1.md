@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Trade show style booth 4 my Triple Canopy edition (kinda my last Lisson show
   in a box)."
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,12 +9,10 @@ state_country: Paris
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Hampus Lindwall on the pipes w a few of mine, one by Duchamp (if you blinked,
   you would have missed it), and one by Niblock. WZ TOTAL FIRE.
 ps:
-credits:
 download:
 layout: shows
 ---

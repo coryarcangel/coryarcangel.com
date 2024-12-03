@@ -9,11 +9,9 @@ state_country: Berlin
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Show that wz centered around music / composition."
 ps:
-credits:
 download:
 layout: shows
 ---

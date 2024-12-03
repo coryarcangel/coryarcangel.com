@@ -9,12 +9,10 @@ state_country: Salzburg
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: A classic European show (maybe my last for a while?). Painting, sculpture,
   drawing, laser ;-)
 ps:
-credits:
 download:
 layout: shows
 ---

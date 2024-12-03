@@ -9,11 +9,9 @@ state_country: LA
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Built a copy of the Arcangel Surfware scandinavian flagship @ DSMLA…
 ps:
-credits:
 download:
 layout: shows
 ---

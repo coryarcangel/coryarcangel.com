@@ -9,11 +9,9 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: w/ JULIE BECKER, TONY CONRAD, GUYTON\WALKER, JACQUELINE HUMPHRIES :-)
 ps:
-credits:
 download:
 layout: shows
 ---

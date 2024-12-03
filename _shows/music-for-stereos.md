@@ -9,11 +9,9 @@ state_country: Chicago
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Composition for consumer home stereos, and CD’s. :/
 ps: Stressful! ...
-credits:
 download:
 layout: shows
 ---

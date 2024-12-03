@@ -9,11 +9,9 @@ state_country: Basel
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: I was in the booth the whole time, showing ppl how to play the games, FYI.
 ps:
-credits:
 download:
 layout: shows
 ---

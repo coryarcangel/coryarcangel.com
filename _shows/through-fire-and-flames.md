@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​2nd Arcangel Surfware Pop-up. Technical the launch of my All The Small Things
   catalog."
 ps:
-credits:
 download:
 layout: shows
 ---

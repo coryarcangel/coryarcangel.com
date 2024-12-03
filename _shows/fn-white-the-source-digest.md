@@ -9,11 +9,9 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Debut of The Source Digest &amp; FN white gear."
 ps:
-credits:
 download:
 layout: shows
 ---

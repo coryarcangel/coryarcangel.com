@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: I picked 3 of Pierre's things, he picked 3 of mine, and we made one together.
   :)
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,12 +9,10 @@ state_country: Global
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Did an ad campaign 4 LV - both print &amp; in-store. Decked out their flagships
   4 July with dusk &amp; dawns.
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,12 +9,10 @@ state_country: Berlin
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Hampus Lindwall on the ivories at the German premiere of my piano suite.
   Standing room only! ;-)"
 ps:
-credits:
 download:
 layout: shows
 ---

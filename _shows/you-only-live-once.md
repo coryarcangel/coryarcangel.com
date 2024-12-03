@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Debut Arcangel Surfware pop-up / first show of all new work in a few years
   in NYC (since my Whitney show) ...... :-/
 ps:
-credits:
 download:
 layout: shows
 ---

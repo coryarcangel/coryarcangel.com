@@ -9,12 +9,10 @@ state_country: Stavanger
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: 'Curated a small show 4 Flagship AS (the gallery inside Arcangel Surfware’s
   flagship) with the legendary Steina and Woody Vasulka: Let it be (1970) '
 ps:
-credits:
 download:
 layout: shows
 ---

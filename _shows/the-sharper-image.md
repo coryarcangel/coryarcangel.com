@@ -9,11 +9,9 @@ state_country: North Miami
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Survey show, ... my best title by far. "
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,11 +9,9 @@ state_country: Boston
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: in d corner w/ Majerus &amp; Catala :)
 ps:
-credits:
 download:
 layout: shows
 ---

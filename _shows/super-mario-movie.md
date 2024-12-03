@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Collaboration with Paper Rad on a project we had been talking about for a
   few years. “A Mario comic on a cartridge” wz the original idea. "
 ps:
-credits:
 download:
 layout: shows
 ---

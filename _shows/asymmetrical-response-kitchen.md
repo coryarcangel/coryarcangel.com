@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Second show w/ Olia Lialina. Re-done from the WF show. Big room, big carpet,
   big LED.
 ps:
-credits:
 download:
 layout: shows
 ---

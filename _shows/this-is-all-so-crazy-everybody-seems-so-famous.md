@@ -9,12 +9,10 @@ state_country: Bergamo
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Absolutely ​<i>BONKERS</i> show in the oldest municipal space in Bergamo. A
   def eye popper. So fun.
 ps:
-credits:
 download:
 layout: shows
 ---

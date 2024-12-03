@@ -9,11 +9,9 @@ state_country: Basel
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Dusted this oldie off, and showed it how I always wished it would b shown."
 ps:
-credits:
 download:
 layout: shows
 ---

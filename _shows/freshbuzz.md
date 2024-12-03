@@ -9,14 +9,12 @@ state_country: Cyberspace
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Poss a high point 4 me in my 20 year journey as “an artist”, ... 100 ppl watching
   a screen recorded surf sesh of www.subway.com from 2014 ... online on the legendary
   Screen (Stream) Slate Twitch. Great convo w Ed Halter after. Thx Rhizome and EAI
   as well.&nbsp;
 ps:
-credits:
 download:
 layout: shows
 ---

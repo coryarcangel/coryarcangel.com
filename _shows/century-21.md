@@ -9,11 +9,9 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: 'First show in NYC in a trollion years! Wz online and offiline. '
 ps:
-credits:
 download:
 layout: shows
 ---

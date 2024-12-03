@@ -9,12 +9,10 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: The good ppl @ Rhizome gave the IRL treatment 2 my 2005 readymade vid game
   Bomb Iraq
 ps:
-credits:
 download:
 layout: shows
 ---

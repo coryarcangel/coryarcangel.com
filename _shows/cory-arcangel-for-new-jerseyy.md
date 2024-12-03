@@ -9,13 +9,11 @@ state_country: Cyberspace
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: 'FYI: This was an entirely “virtual” show…... I re-resigned New Jerseyy’s website
   for their participation in No Soul For Sale at the Tate.,,​'
 ps: "​Also possibly of interest, is this was the only participation of New Jerseyy
   in the fair. LOL."
-credits:
 download:
 layout: shows
 ---

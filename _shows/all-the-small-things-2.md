@@ -9,11 +9,9 @@ state_country: Reykjavik
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Traveling show (came form Denmark). Iceland was so sick. OMG. Amazing place.
 ps:
-credits:
 download:
 layout: shows
 ---

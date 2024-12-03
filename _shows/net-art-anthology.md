@@ -9,11 +9,9 @@ state_country: Cyberspace
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Data Diaries in NET ART ANTHOLOGY!
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,12 +9,10 @@ state_country: Cyberspace
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Gotta luv these virtual shows(!) Linked to the AUDMCRS Underground Dance Music
   Collection of Recorded Sound.
 ps:
-credits:
 download:
 layout: shows
 ---

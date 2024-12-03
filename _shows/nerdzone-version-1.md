@@ -9,11 +9,9 @@ state_country: Zurich
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Kinda a pixel show. Lotsa game / software stuff. "
 ps:
-credits:
 download:
 layout: shows
 ---

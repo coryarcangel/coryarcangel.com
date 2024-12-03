@@ -9,11 +9,9 @@ state_country: Graz
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Auto-tune’d my way through this performance. More soon ...."
 ps:
-credits:
 download:
 layout: shows
 ---

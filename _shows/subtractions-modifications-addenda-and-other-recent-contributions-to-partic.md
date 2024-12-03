@@ -10,11 +10,9 @@ state_country: New York
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Show that wz about re-using content / techniques. "
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,11 +9,9 @@ state_country: Pittsburgh
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Silver Clouds, Super Mario Clouds ;-),,
 ps:
-credits:
 download:
 layout: shows
 ---

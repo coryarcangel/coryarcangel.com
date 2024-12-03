@@ -9,11 +9,9 @@ state_country: Kassel
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: "​Group ... shared a room with Michel Majerus! OMG~~~~!"
 ps:
-credits:
 download:
 layout: shows
 ---

@@ -9,11 +9,9 @@ state_country: Dallas
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: ".. a summer show in Texas with Olia Lialina and Dragan Espenschied! Yes!"
 ps:
-credits:
 download:
 layout: shows
 ---

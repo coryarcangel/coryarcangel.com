@@ -9,11 +9,9 @@ state_country: Pantin
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: A great excuse 2 show my wharehouse banger PSK.
 ps:
-credits:
 download:
 layout: shows
 ---

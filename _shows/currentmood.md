@@ -9,14 +9,12 @@ state_country: London
 type:
 dates:
 wwwnews:
-wwweblast:
-www:
+credits:
 pitch: Liked so much how all the Lakes looked lined up in Munich, kinda wanted 2 see
   how all my work mashed together would look. Otherwise, not exactly sure what I wz
   doing, but turned out well (I thought). Also, there was kinda def (ining) audio.
   Last show of a run of shows which started in 2014.
 ps:
-credits:
 download:
 layout: shows
 ---
