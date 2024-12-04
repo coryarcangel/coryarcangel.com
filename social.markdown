@@ -7,5 +7,4 @@ title: About
 * [Bandcamp](https://bandcamp.com/cory_arcangel)↪ 
 * [Github](https://github.com/coryarcangel)↪
 * [Special Fish](https://special.fish/cory)↪
-* [Twitter](https://twitter.com/cory_arcangel)↪
 * [Youtube](https://www.youtube.com/user/coryarcangel)↪
