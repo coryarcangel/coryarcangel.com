@@ -11,7 +11,7 @@ title: Home
   * [Shows](shows)  
   * [Images](images)  
 * [Subscribe](subscribe)
-* [Shop](shop)
+* [Shop](https://arcangelsurfware.biz/){:target="_blank"}↪ 
 * [Social](social)
 
 {{ site.time | date: '%d/%m/%y' }}
