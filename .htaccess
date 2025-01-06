@@ -10,6 +10,8 @@ RewriteEngine on
 
 RewriteEngine on
 
+RewriteRule ^feed/atom$ /feed.xml [R=301,L]
+
 #example.com/page/ will display the contents of example.com/page.html if dir doesn't exist
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule (.+)/$ /$1 [L,R=301]
