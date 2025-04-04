@@ -1,3 +1,20 @@
+
+"\"" & Inventory & "\"" & "," &  
+"\"" & Inventory Self::artist & "\"" & "," &  
+"\"" & www_url & "\"" & "," &  
+"\"" & Inventory Self::Title & "\"" & "," &  
+"\"" & www_year & "\"" & "," &  
+"\"" & Inventory Self::Date & "\"" & "," &  
+"\"" & Inventory Self::Medium Lookup & "\"" & "," &  
+"\"" & Inventory Self::Dimensions Summary & "\"" & "," &  
+"\"" & Inventory Self::description lookup & "\"" & "," &  
+"\"" & ps & "\"" & "," &  
+"\"" & Inventory Self::url & "\"" & "," &  
+"\"" & youtube & "\"" & "," &  
+"\"" & Code::Github URL & "\"" & "," &
+
+
+
 {% assign press_list = site.data.press %}
 {% for press in press_list %}
 	* <a href="../shows/{{ press.URL }}">{{ press.Year }}, p
