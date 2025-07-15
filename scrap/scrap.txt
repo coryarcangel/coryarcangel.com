@@ -1,3 +1,11 @@
+"2025-029","Cory Arcangel & Phoebe Philo","2025-029","WAVE T-SHIRT","2025","2025","T-shirt in white cotton jersey.","S, M, L","T-shirt in white cotton jersey screen-printed with contrast red stripes. Cut for a relaxed fit, the T-shirt has a crew neck and short sleeves."
+"2025-028","Cory Arcangel & Phoebe Philo","2025-028","WAVE TROUSERS","2025","2025","100% polyester, 100% cotton pocket liningBP73-PL3191-100WT","34, 36, 38, 40, 42, 44","Tailored trousers with contrast wave stripes. Cut to sit on the mid-waist, the trousers have a straight leg, with an eased fit and a dropped rise. Textured fabric creates a structured silhouette."
+
+"wave-tshirt-2025-029-web-ih-DaVyU-2.jpg","2025-029",,,300,300,
+"wave-trousers-2025-028-web-ih-d3xS2-5.jpg","2025-028",,,300,300,
+"wave-trousers-2025-028-web-ih-d3xS2-1.jpg","2025-028",,,300,300,
+
++++++++++++++++++++++++++
 
 "\"" & Inventory & "\"" & "," &  
 "\"" & Inventory Self::artist & "\"" & "," &  
@@ -13,70 +21,14 @@
 "\"" & youtube & "\"" & "," &  
 "\"" & Code::Github URL & "\"" & "," &
 
-
++++++++++++++++++++++++++
 
 {% assign press_list = site.data.press %}
 {% for press in press_list %}
 	* <a href="../shows/{{ press.URL }}">{{ press.Year }}, p
 {% endfor %}
 
-
-
-
-
-
-
-      Bindery.PageBreak({selector: 'h1', position: 'before' })
-
-{% if page.imgs != "" %}
-	{% assign images = things.imgs | split: ',' %}
-	{% for image in images %}
-  		<img src="../assets/imgs/{{ image }}">
-	{% endfor %}
-	{% else %}	
-	<img src="../assets/x.svg">
-{% endif %}	
-
-
-1vmax
-1vmin
-
-@media (min-width: 360px) {
-  body {
-    font-size: 32px;
-  }
-}
-
-@media (min-width: 1000px) {
-  body {
-    font-size: 46px;
-  }
-  }
-  
-  
-  Youtube: [1](https://www.youtube.com/user/coryarcangel), 
-[2](https://www.youtube.com/channel/UC_LfMr7ffUG9q5M3UuxmF0Q), 
-[3](https://www.youtube.com/channel/UCYBrqFro8YOq5IPGSoVQycg)  
-Twitter: [1](https://twitter.com/cory_arcangel), [2](https://twitter.com/RodeoComputer), [3](https://twitter.com/SolitaireWeekly)  
-Are.na:️ [Me](https://www.are.na/cory-arcangel), eg. [Nice pics](https://www.are.na/cory-arcangel/nice-pics), 
-[Wish I Made This](https://www.are.na/cory-arcangel/wish-i-made-this), etc, etc  
-
-
-
-
-
-[]()
-
-
-{% assign eeid_clean = things.first | remove: "[" | remove: "]" %}{{ eeid_clean }},
-{% assign url_clean = things.[1] | remove: "[" | remove: "]" %}{% assign url_chop = url_clean | split: '-' %}{{ url_chop.[0] }}-{{ url_chop.[1] }},
-
-
-
-
-
-JEKYLL_ENV=production bundle exec jekyll build
-bundle exec jekyll pagemaster --force shows things-i-made
++++++++++++++++++++++++++
 
 	{% assign showz_list = '' | split: '' %}
 	
@@ -107,43 +59,3 @@ bundle exec jekyll pagemaster --force shows things-i-made
 	</li>		
 	{% endfor %}
 	
-THUMBS
-	
-cp imgs/* thumbs       
-mogrify -resize 200x  
-for file in *.jpg; do
-    mv "$file" "${file%.jpg}_thumb.jpg"
-done
-
-
-
-
-/* Images */
-/* Image grid */
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 25%;
-}
-.column img {
-  vertical-align: middle;
-  width: 100%;
-}
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
