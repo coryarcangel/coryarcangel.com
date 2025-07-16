@@ -5,7 +5,7 @@ title: Home
 * [About](about) 
 * [Contact](contact)
 * [Loans](loans) 
-* News
+* New(s)
 	* 🔥
 
 		* [Arcangel Surfware is bck!↪](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New Cooked™ logo. "Drops" every other month. Let's go!
@@ -57,6 +57,12 @@ title: Home
   * [Images](images)  
 * [Subscribe](subscribe)
 * [Shop](https://arcangelsurfware.biz/){:target="_blank"}↪ 
-* [Social](social)
+* Social
+	* [Are.na ❤️](https://www.are.na/cory-arcangel)↪ 
+	* [Bsky️](https://bsky.app/profile/coryarcangel.com)↪ 
+	* [Bandcamp](https://bandcamp.com/cory_arcangel)↪ 
+	* [Github](https://github.com/coryarcangel)↪
+	* [Special Fish](https://special.fish/cory)↪
+	* [Youtube](https://www.youtube.com/user/coryarcangel)↪  
 
 {{ site.time | date: '%d/%m/%y' }}
