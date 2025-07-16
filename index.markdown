@@ -57,12 +57,6 @@ title: Home
   * [Images](images)  
 * [Subscribe](subscribe)
 * [Shop](https://arcangelsurfware.biz/){:target="_blank"}↪ 
-* Social
-	* [Are.na ❤️](https://www.are.na/cory-arcangel)↪ 
-	* [Bsky️](https://bsky.app/profile/coryarcangel.com)↪ 
-	* [Bandcamp](https://bandcamp.com/cory_arcangel)↪ 
-	* [Github](https://github.com/coryarcangel)↪
-	* [Special Fish](https://special.fish/cory)↪
-	* [Youtube](https://www.youtube.com/user/coryarcangel)↪  
+* [Social](social)
 
 {{ site.time | date: '%d/%m/%y' }}

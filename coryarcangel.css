@@ -27,6 +27,8 @@ body
 	    }
 }
 */
+
+/* HTML */
 p 
 {
 	margin: 0px;
@@ -43,6 +45,27 @@ li
 	padding-inline-start: 20px; /* Default browser value, you can change this */
 
 }
+
+/* Images */
+img
+{	
+	float: left;
+	max-width: 100%;
+	height: auto;
+}
+
+.thumbs img
+{	
+}
+
+/* IBM */
+.TXT {
+    clear: both;
+    .thumbs img {
+    	max-height: 150px;
+    	}
+}
+
 /* Logo */
 .fix_img
 {
@@ -50,31 +73,6 @@ li
     	bottom:1%; 
     	right:1%; 
     	/* height:50%;
-}
-.fix_txt
-{
-    	position:fixed;
-	bottom:1%; 
-    	right:1%;  
-	text-align: right;
-  	font-size: 6vw;
-}
-/* Images */
-img
-{	
-	max-width: 100%;
-	height: auto;
-}
-.thumbs img {
-	float: left;
-	padding: 0px,0px,0px,0px; //padding positions
-}
-/* IBM */
-.TXT {
-    clear: both;
-    .thumbs img {
-    	max-height: 150px;
-    	}
 }
 /* Print */
 @media print 
