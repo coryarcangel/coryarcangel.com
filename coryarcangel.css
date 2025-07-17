@@ -71,7 +71,8 @@ img
     	position:fixed; 
     	bottom:1%; 
     	right:1%; 
-    	width:20%;
+    	max-width:20%;
+    	max-height:20%;
 }
 /* Print */
 @media print 
