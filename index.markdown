@@ -10,12 +10,7 @@ title: Home
 
 		* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New Cooked™ logo. "Drops" every other month. Let's go!
 
-		* [Let's Play Majerus G3](https://rhizome.org/editorial/artbase-anthologies-002/){:target="_blank"} - Majerus' laptop restored & I'm finally a Youtuber!  
-			- [Ep 1: The Basics](https://www.youtube.com/watch?v=QhQrywlzaVI){:target="_blank"}
-			- [Ep 2: Painting, Painting, Painting!](https://www.youtube.com/watch?v=jWYC5AmgZco){:target="_blank"} 
-			- [Ep 3: Space Invader](https://www.youtube.com/watch?v=h8_vWichxHI){:target="_blank"}
-			- [Ep 4: Software Environment](https://www.youtube.com/watch?v=xO8sBle8yrE){:target="_blank"}
-			- [Ep 5: Atomic Kittens](https://www.youtube.com/watch?v=jFSLaRjlAr4){:target="_blank"}
+		* [Let's Play Majerus G3](https://rhizome.org/editorial/artbase-anthologies-002/){:target="_blank"} ([1](https://www.youtube.com/watch?v=QhQrywlzaVI){:target="_blank"}, [2](https://www.youtube.com/watch?v=jWYC5AmgZco){:target="_blank"}, [3](https://www.youtube.com/watch?v=h8_vWichxHI){:target="_blank"}, [4](https://www.youtube.com/watch?v=xO8sBle8yrE){:target="_blank"}, [5](https://www.youtube.com/watch?v=jFSLaRjlAr4){:target="_blank"}) - Majerus' laptop restored & I'm finally a Youtuber!  
 						
 		* [ALL I EAT IN A DAY](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"} - Group show curated w/ Kunsthalle Sankt Gallen — may it live on forever ✞
 	
