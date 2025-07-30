@@ -16,7 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4390] [2017-041-asymmetrical-response-reader-ibiza] 2017-041 Asymmetrical
-  Response Reader: Ibiza (SRF-041)"
 layout: things-i-made
 ---

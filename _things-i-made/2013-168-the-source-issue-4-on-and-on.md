@@ -17,6 +17,5 @@ related_code: https://github.com/coryarcangel/On-and-On
 subheading:
 download: the-source-on-and-on-2013-168-digital-master-ih.pdf
 commission: Creative Capital
-related:
 layout: things-i-made
 ---

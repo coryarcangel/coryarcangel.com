@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[169] [2007-017-permanent-vacation] 2007-017 Permanent Vacation"
 layout: things-i-made
 ---

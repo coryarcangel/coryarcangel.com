@@ -15,7 +15,5 @@ related_code:
 subheading: "(Performance)"
 download:
 commission:
-related: "[70] [2009-049-continuous-partial-awareness-pdf] 2009-049 Continuous Partial
-  Awareness (PDF)"
 layout: things-i-made
 ---

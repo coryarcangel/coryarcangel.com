@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[36] 2007-003 Apple GarageBand Auto Tune Demonstration - appleautotune"
 layout: things-i-made
 ---

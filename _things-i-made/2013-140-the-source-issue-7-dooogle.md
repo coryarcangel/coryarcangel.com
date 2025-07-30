@@ -16,6 +16,5 @@ related_code: https://github.com/coryarcangel/Dooogle
 subheading:
 download: the-source-dooogle-2013-140-digital-master-ih.pdf
 commission: Creative Capital
-related: "[17] [2004-006-dooogle] 2004-006 Dooogle"
 layout: things-i-made
 ---

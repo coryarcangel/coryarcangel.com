@@ -15,6 +15,5 @@ related_code:
 subheading: "(Exhibition Catalog)"
 download:
 commission:
-related:
 layout: things-i-made
 ---

@@ -22,6 +22,5 @@ related_code: https://github.com/coryarcangel/Super-Mario-Movie
 subheading:
 download: arcangel_paperrad_mariomovie.nes.zip
 commission:
-related:
 layout: things-i-made
 ---

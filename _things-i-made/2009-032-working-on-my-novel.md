@@ -17,8 +17,5 @@ related_code:
 subheading: "(Twitter Search)"
 download:
 commission:
-related: |-
-  [2205] [2012-066-working-on-my-novel] 2012-066 Working On My Novel (Twitter Feed)
-  [4127] [2012-037-work-on-my-novel-book] 2012-037 Work On My Novel (book)
 layout: things-i-made
 ---

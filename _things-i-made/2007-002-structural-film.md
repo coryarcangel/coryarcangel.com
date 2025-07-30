@@ -17,6 +17,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[135] [2008-004-personal-film] 2008-004 Personal Film"
 layout: things-i-made
 ---

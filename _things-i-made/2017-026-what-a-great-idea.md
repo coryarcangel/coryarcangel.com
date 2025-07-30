@@ -15,6 +15,5 @@ related_code:
 subheading:
 download: great-idea-2017-026-pdf-ih.pdf
 commission:
-related:
 layout: things-i-made
 ---

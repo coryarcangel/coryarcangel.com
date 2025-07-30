@@ -16,7 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4411] [2015-095-music-and-the-mind-of-the-world] 2015-095 Music and the
-  Mind of the World"
 layout: things-i-made
 ---

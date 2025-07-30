@@ -20,8 +20,5 @@ related_code:
 subheading: "(Installation)"
 download:
 commission:
-related: |-
-  [2228] [2012-065-audmcrs-essay] 2012-065 AUDMCRS Essay
-  [2242] [2013-063-audmcrs-website] 2013-063 AUDMCRS website
 layout: things-i-made
 ---

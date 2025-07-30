@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4277] [2014-088-going-negative-lakes] 2014-088 Going Negative / Lakes"
 layout: things-i-made
 ---

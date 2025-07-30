@@ -15,6 +15,5 @@ related_code:
 subheading:
 download: Alle-Fugler.pdf
 commission:
-related:
 layout: things-i-made
 ---

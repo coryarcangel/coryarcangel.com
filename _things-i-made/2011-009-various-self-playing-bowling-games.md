@@ -25,6 +25,5 @@ related_code:
 subheading:
 download:
 commission: 'The Whitney Museum of American Art, New York and The Barbican, London. '
-related:
 layout: things-i-made
 ---

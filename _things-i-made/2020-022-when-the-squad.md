@@ -19,6 +19,5 @@ related_code: http://github.com/hvandusen/runner-suite
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

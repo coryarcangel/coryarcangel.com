@@ -18,6 +18,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[20] 2005-001 Super Mario Movie - supermariomovie"
 layout: things-i-made
 ---

@@ -16,7 +16,5 @@ related_code:
 subheading:
 download: arcangel-CPA.pdf
 commission:
-related: "[49] [2008-020-continuous-partial-awareness-performance] 2008-020 Continuous
-  Partial Awareness (Performance)"
 layout: things-i-made
 ---

@@ -15,6 +15,5 @@ related_code: https://github.com/coryarcangel/Colors-Personal-Edition
 subheading:
 download: the-source-colors-pe-2013-144-digital-master-ih-2018.pdf
 commission:
-related:
 layout: things-i-made
 ---

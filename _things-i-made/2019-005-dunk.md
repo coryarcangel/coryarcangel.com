@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission: Sharjah Art Foundation
-related:
 layout: things-i-made
 ---

@@ -15,6 +15,5 @@ related_code:
 subheading:
 download: cory_arcangel_boys_r_back.pdf
 commission:
-related:
 layout: things-i-made
 ---

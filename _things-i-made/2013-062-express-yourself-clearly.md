@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4151] [2012-117-express-yourself-clearly] 2012-117 Express Yourself Clearly"
 layout: things-i-made
 ---

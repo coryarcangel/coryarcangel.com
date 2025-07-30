@@ -17,6 +17,5 @@ related_code:
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

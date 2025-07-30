@@ -15,6 +15,5 @@ related_code:
 subheading: "(Video)"
 download:
 commission:
-related: "[40] 2004-014 Sans Simon - 2004-014-sans-simon"
 layout: things-i-made
 ---

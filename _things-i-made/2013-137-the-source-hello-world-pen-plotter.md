@@ -17,12 +17,5 @@ related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 subheading:
 download: the-source-hp-hello-world-2013-137-digital-master-ih.pdf
 commission: Creative Capital
-related: |-
-  [56] [2009-033-hello-world] 2009-033 Hello World
-  [57] [2009-034-hello-world] 2009-034 Hello World
-  [58] [2009-035-hello-world] 2009-035 Hello World
-  [59] [2009-036-hello-world] 2009-036 Hello World
-  [60] [2009-037-hello-world] 2009-037 Hello World
-  [149] [2010-081-hello-world] 2010-081 Hello World
 layout: things-i-made
 ---

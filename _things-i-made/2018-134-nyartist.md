@@ -16,6 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4496] [2020-035-nyartist] 2020-035 NYARTIST"
 layout: things-i-made
 ---

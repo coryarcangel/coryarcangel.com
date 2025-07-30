@@ -15,6 +15,5 @@ related_code: https://github.com/coryarcangel/chord-memory
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

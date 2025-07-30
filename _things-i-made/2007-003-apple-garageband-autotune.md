@@ -17,7 +17,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[51] [2009-041-last-night-i-had-the-strangest-dream] 2009-041 Last Night
-  I Had The Strangest Dream"
 layout: things-i-made
 ---

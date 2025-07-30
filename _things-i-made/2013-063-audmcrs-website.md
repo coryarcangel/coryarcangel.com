@@ -15,8 +15,5 @@ related_code:
 subheading: "(Website)"
 download:
 commission:
-related: |-
-  [2217] [2011-156-audmcrs-installation] 2011-156 The AUDMCRS Underground Dance Music Collection of Recorded Sound
-  [2228] [2012-065-audmcrs-essay] 2012-065 AUDMCRS Essay
 layout: things-i-made
 ---

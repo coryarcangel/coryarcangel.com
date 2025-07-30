@@ -21,6 +21,5 @@ related_code:
 subheading:
 download: arcangel-living-situtations.mp3
 commission:
-related:
 layout: things-i-made
 ---

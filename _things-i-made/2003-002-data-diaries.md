@@ -17,6 +17,5 @@ subheading:
 download:
 commission: Commissioned by New Radio and Performing Arts, Inc., (aka Ether-Ore),
   for its Turbulence website
-related:
 layout: things-i-made
 ---

@@ -15,7 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4380] [2017-004-asymmetrical-response-reader-srf-039] 2017-004 Asymmetrical
-  Response Reader: The Kitchen (SRF-039)"
 layout: things-i-made
 ---

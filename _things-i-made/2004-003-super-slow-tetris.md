@@ -21,9 +21,5 @@ related_code:
 subheading:
 download: super-slow-tetris-2004-003-master.nes.zip
 commission:
-related: |-
-  [17] 2004-006 Dooogle - 2004-006-dooogle
-  [64] 2010-023 Composition #7 - 2010-023-composition-7
-  [14] 2004-001 Space Invader - 2004-001-space-Invader
 layout: things-i-made
 ---

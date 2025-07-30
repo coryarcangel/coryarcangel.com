@@ -15,7 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4385] [2017-029-arcangel-surfware-webmaster-summer-beach-towel] 2017-029
-  Arcangel Surfware / Webmaster Summer Beach Towel"
 layout: things-i-made
 ---

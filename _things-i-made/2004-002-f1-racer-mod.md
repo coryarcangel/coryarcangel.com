@@ -19,6 +19,5 @@ related_code: https://github.com/coryarcangel/F1-Racer
 subheading:
 download: arcangel-f1-racer.nes.zip
 commission:
-related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 layout: things-i-made
 ---

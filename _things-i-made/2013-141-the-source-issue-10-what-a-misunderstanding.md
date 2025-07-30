@@ -15,6 +15,5 @@ related_code: https://github.com/coryarcangel/What-a-Misunderstanding
 subheading:
 download: the-source-wam-2013-141-digital-master-ih-2018.pdf
 commission:
-related: "[55] [2009-046-what-a-misunderstanding-art] 2009-046 What a Misunderstanding!"
 layout: things-i-made
 ---

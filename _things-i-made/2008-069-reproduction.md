@@ -16,7 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[2147] 2008-082 A Couple Thousand Short Films about Glenn Gould (Publication)
-  - 2008-082-a-couple-thousand-short-films-about-glenn-gould-publication"
 layout: things-i-made
 ---

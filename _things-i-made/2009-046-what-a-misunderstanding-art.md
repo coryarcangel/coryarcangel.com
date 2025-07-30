@@ -16,7 +16,5 @@ related_code: https://github.com/coryarcangel/What-a-Misunderstanding
 subheading:
 download:
 commission:
-related: "[4409] [2013-141-the-source-issue-10-what-a-misunderstanding] 2013-141 The
-  Source  Issue #10: What a misunderstanding!"
 layout: things-i-made
 ---

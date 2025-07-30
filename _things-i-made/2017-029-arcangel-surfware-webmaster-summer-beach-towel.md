@@ -15,7 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4386] [2017-030-arcangel-surfware-webmaster-summer-flip-flops] 2017-030
-  Arcangel Surfware / Webmaster Summer Flip-Flops"
 layout: things-i-made
 ---

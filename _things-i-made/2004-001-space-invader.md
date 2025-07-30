@@ -20,7 +20,5 @@ related_code: https://github.com/coryarcangel/Space-Invader
 subheading:
 download: arcangel_spaceinvader.bin.zip
 commission:
-related: "[4211] [2013-136-the-source-issue-5-space-invader] 2013-136 The Source Issue
-  5 Space Invader"
 layout: things-i-made
 ---

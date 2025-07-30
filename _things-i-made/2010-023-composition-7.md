@@ -20,6 +20,5 @@ related_code:
 subheading:
 download: arcangel_composition_7.zip
 commission:
-related:
 layout: things-i-made
 ---

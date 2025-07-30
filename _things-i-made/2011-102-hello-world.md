@@ -15,6 +15,5 @@ related_code: https://github.com/coryarcangel/Desktop-Wireform
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

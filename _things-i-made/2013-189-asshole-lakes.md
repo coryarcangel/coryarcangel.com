@@ -16,6 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4174] [2014-095-hillary-lakes] 2014 095 Asshole 2 / Lakes"
 layout: things-i-made
 ---

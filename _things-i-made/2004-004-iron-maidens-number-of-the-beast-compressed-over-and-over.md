@@ -22,9 +22,5 @@ related_code: https://github.com/coryarcangel/666
 subheading:
 download: Cory-Arcangel-666.mp3
 commission:
-related: |-
-  [18] [2004-010-total-asshole-compression] 2004-010 T.A.C. - Total Asshole Compression
-  [43] [2007-007-on-c] 2007-007 On C
-  [189] [2004-025-total-asshole-compression] 2004-025 Total Asshole Compression
 layout: things-i-made
 ---

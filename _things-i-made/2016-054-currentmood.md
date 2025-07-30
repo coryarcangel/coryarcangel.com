@@ -16,6 +16,5 @@ related_code:
 subheading: "(Sculpture)"
 download:
 commission:
-related:
 layout: things-i-made
 ---

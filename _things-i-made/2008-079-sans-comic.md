@@ -18,6 +18,5 @@ related_code:
 subheading:
 download: arcangel-sans-comic.pdf
 commission:
-related: "[94] [2010-017-http-www.mocanomi.org] 2010-017 http://www.mocanomi.org/"
 layout: things-i-made
 ---

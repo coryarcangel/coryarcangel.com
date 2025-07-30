@@ -15,6 +15,5 @@ related_code:
 subheading: "(Composition)"
 download: cory-arcangel-2006-006-glock-addendum-web.pdf
 commission:
-related:
 layout: things-i-made
 ---
