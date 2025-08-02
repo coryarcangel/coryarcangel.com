@@ -17,7 +17,5 @@ related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
 subheading:
 download:
 commission:
-related: "[4114] [2013-138-the-source-pizza-party] 2013 138 The Source Issue 2 Pizza
-  Party (SRF-015)"
 layout: things-i-made
 ---

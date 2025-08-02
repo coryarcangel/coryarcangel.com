@@ -18,7 +18,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4103] [2012-029-andy-warhol-amiga-preservation] 2012-029 Andy Warhol Amiga
-  Preservation"
 layout: things-i-made
 ---

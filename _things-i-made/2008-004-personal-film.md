@@ -16,6 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[168] [2007-002-structural-film] 2007-002 Structural Film"
 layout: things-i-made
 ---

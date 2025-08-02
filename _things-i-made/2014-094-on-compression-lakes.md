@@ -16,6 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[43] [2007-007-on-c] 2007-007 On C"
 layout: things-i-made
 ---

@@ -15,6 +15,5 @@ related_code:
 subheading:
 download: the-source-digest-2016-061-digital-master-ih.pdf
 commission:
-related:
 layout: things-i-made
 ---

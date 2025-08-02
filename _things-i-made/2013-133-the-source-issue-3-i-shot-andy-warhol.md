@@ -17,6 +17,5 @@ related_code: https://github.com/coryarcangel/I-Shot-Andy-Warhol
 subheading:
 download: the-source-warhol-2013-133-digital-master-ih.pdf
 commission: Creative Capital
-related: "[9] [2002-002-i-shot-andy-warhol] 2002-002 I Shot Andy Warhol"
 layout: things-i-made
 ---

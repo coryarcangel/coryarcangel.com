@@ -24,6 +24,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[2212] [2011-138-body-talk] 2011-138 Body Talk"
 layout: things-i-made
 ---

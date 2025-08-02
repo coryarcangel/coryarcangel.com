@@ -16,6 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4196] [2010-025-music-for-stereos] 2010-025 Music For Stereos"
 layout: things-i-made
 ---

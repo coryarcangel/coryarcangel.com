@@ -21,9 +21,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1
-  [4173] [2014-121-room-for-squares] 2014-121 Room for Squares
-  [4228] [2013-196-quickoffice] 2013-196 QuickOffice
 layout: things-i-made
 ---

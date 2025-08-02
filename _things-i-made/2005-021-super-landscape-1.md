@@ -17,10 +17,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [7] [2002-001-super-mario-clouds] 2002-001 Super Mario Clouds
-  [15] [2004-002-f1-racer-mod] 2004-002 F1 Racer Mod (aka Japanese Driving Game)
-  [4228] [2013-196-quickoffice] 2013-196 QuickOffice
-  [4281] [2015-068-quickoffice] 2015-068 QuickOffice
 layout: things-i-made
 ---

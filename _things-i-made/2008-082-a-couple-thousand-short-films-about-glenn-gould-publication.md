@@ -15,8 +15,5 @@ related_code:
 subheading: "(Publication)"
 download:
 commission:
-related: |-
-  [41] 2007-006 A Couple Thousand Short Films About Glenn Gould - 2007-006-a-couple-thousand-short-films-about-glenn-gould
-  [43] 2007-007 On C - 2007-007-on-c
 layout: things-i-made
 ---

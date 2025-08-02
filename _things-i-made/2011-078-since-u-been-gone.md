@@ -17,6 +17,5 @@ subheading: Prints
 download:
 commission: 'Commissioned by Whitney Museum of American Art, New York, for Cory Arcangel:
   Pro Tools'
-related:
 layout: things-i-made
 ---

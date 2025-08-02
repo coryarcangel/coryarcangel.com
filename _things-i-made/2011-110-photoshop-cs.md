@@ -16,10 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [107] 2011-108 Photoshop CS - 2011-108-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
-  [110] 2011-109 Photoshop CS - 2011-109-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
-  [114] 2011-112 Photoshop CS - 2011-112-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
-  [116] 2011-113 Photoshop CS - 2011-113-photoshop-cs-84-by-66-inches-300-dpi-rgb-square-pixels-default-gra
 layout: things-i-made
 ---

@@ -15,7 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[13] 2004-004 Iron Maidens “The Number of the Beast” compressed over and
-  over as an mp3 666 times - maiden"
 layout: things-i-made
 ---

@@ -16,10 +16,5 @@ related_code: https://github.com/coryarcangel/Desktop-Wireform
 subheading:
 download: the-source-desktop-wireform-2013-117-digital-master-ih.pdf
 commission: Creative Capital
-related: |-
-  [109] [2011-102-hello-world] 2011-102 Hello World
-  [111] [2011-103-hello-world] 2011-103 Hello World
-  [117] [2011-099-hello-world] 2011-099 Hello World
-  [149] [2010-081-hello-world] 2010-081 Hello World
 layout: things-i-made
 ---

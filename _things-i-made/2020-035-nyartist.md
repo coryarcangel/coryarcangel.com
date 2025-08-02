@@ -21,6 +21,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4476] [2018-134] 2018-134 NYARTIST"
 layout: things-i-made
 ---

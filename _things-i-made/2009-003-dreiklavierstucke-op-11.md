@@ -25,6 +25,5 @@ related_code: https://github.com/coryarcangel/Gould-Pro
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

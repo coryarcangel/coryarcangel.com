@@ -17,6 +17,5 @@ related_code: https://github.com/coryarcangel/Space-Invader
 subheading:
 download: the-source-space-invader-2013-168-digital-master-ih.pdf
 commission: Creative Capital
-related: "[14] [2004-001-space-invader] 2004-001 Space Invader"
 layout: things-i-made
 ---

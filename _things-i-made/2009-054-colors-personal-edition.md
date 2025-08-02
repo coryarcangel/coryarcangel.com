@@ -15,6 +15,5 @@ related_code: https://github.com/coryarcangel/Colors-Personal-Edition
 subheading:
 download:
 commission:
-related: "[33] 2006-004 Colors - 2006-004-colors"
 layout: things-i-made
 ---

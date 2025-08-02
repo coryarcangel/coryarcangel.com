@@ -15,7 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances For
-  The Electric Piano (SRF-001)"
 layout: things-i-made
 ---

@@ -24,7 +24,5 @@ related_code: https://github.com/coryarcangel/I-Shot-Andy-Warhol
 subheading:
 download: i-shot-warhol-2002-002-master-rom.nes.zip
 commission:
-related: "[4112] [2013-133-the-source-issue-3-i-shot-andy-warhol] 2013 133 The Source
-  Issue 3 I Shot Andy Warhol"
 layout: things-i-made
 ---

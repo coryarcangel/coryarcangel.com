@@ -18,10 +18,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [4115] [2013-169-freshbuzz] 2013-169 Freshbuzz
-  [4130] [2014-032-so-shines-a-good-deed-in-a-weary-world] 2014-032 So shines a good deed in a weary world
-  [4131] [2014-31-max-perks] 2014--31 Max Perks
-  [4132] [2014-030-ideas-in-action] 2014-030 Ideas In Action
 layout: things-i-made
 ---

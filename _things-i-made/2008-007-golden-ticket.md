@@ -17,6 +17,5 @@ related_code:
 subheading:
 download:
 commission: Frieze Art Fair
-related:
 layout: things-i-made
 ---

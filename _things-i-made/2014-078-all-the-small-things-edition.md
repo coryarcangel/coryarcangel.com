@@ -15,6 +15,5 @@ related_code:
 subheading: "(Edition)"
 download:
 commission:
-related:
 layout: things-i-made
 ---

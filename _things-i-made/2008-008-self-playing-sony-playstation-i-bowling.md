@@ -18,6 +18,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[87] 2011-009 Various Self Playing Bowling Games - 2011-009-various-self-playing-bowling-games"
 layout: things-i-made
 ---

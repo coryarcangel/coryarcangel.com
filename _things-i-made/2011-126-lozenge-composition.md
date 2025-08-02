@@ -16,6 +16,5 @@ related_code:
 subheading:
 download:
 commission: Studio Voltaire
-related:
 layout: things-i-made
 ---

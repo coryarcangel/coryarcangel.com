@@ -15,7 +15,5 @@ related_code:
 subheading: "(Composition)"
 download: 24-dances-2013-015-sheet-music-master.pdf
 commission:
-related: "[4138] [2013-115-24-Dances-For-The-Electric-Piano] 2013-015 24 Dances For
-  The Electric Piano (SRF-001)"
 layout: things-i-made
 ---

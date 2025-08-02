@@ -15,7 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4305] [2015-164-fuck-negativity-slides-srf-032] 2015-164 Fuck Negativity
-  Slides (SRF-032)"
 layout: things-i-made
 ---

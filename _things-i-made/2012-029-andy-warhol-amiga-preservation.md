@@ -21,6 +21,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4153] [2014-024-the-warhol-files] 2014-024 The Warhol Files"
 layout: things-i-made
 ---

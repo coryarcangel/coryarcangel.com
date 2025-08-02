@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[120] 2011-114 A Few Casuals - 2011-114-a-few-casuals"
 layout: things-i-made
 ---

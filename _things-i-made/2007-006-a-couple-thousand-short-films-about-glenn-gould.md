@@ -19,8 +19,5 @@ related_code:
 subheading:
 download:
 commission: Film and Video Umbrella
-related: |-
-  [52] 2009-003 Drei Klavierstücke op. 11 - dreiklavierstucke
-  [101] 2011-022 Paganini Caprice No. 5 - 2011-022-paganini-caprice-no-5
 layout: things-i-made
 ---

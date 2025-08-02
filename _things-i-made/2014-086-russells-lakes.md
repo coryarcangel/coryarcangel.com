@@ -16,9 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [80] [2011-008-photoshop-cs] 2011-008 Photoshop CS
-  [108] [2011-092-whitney-brochure] 2011-092 Whitney Brochure
-  [141] [2010-044-photoshop-cs] 2010-044 Photoshop CS
 layout: things-i-made
 ---

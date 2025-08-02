@@ -16,9 +16,5 @@ related_code:
 subheading: "(Vinyl)"
 download:
 commission:
-related: |-
-  [4139] [2013-219-24-dances-for-the-electric-piano-long-sleeve-silkscreened-t-shirt] 2013-219 24 Dances For The Electric Piano Long-Sleeve Silkscreened T-Shirt (SRF-012)
-  [4140] [2013-221-24-dances-for-electric-piano-drawing-srf-013] 2013-221 24 Dances for Electric Piano (Drawing) (SRF-013)
-  [4194] [2013-218-24-dances-for-the-electric-piano] 2013-218 24 Dances For The Electric Piano (Composition)
 layout: things-i-made
 ---

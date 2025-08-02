@@ -17,6 +17,5 @@ related_code: https://github.com/coryarcangel/Pizza-Party-0.1.b
 subheading:
 download: the-source-pizza-party-2013-138-digital-master-ih.pdf
 commission: Creative Capital
-related: "[16] [2004-009-pizza-party] 2004-009 Pizza Party"
 layout: things-i-made
 ---

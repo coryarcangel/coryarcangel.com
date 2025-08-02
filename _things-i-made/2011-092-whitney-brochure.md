@@ -26,6 +26,5 @@ related_code:
 subheading:
 download: arcangel_brochure.pdf
 commission:
-related:
 layout: things-i-made
 ---

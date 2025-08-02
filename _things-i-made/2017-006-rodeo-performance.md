@@ -27,6 +27,5 @@ related_code: https://github.com/coryarcangel/rodeo-lets-play
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

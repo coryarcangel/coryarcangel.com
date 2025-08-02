@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission: The Whitney Museum of American Art
-related:
 layout: things-i-made
 ---

@@ -23,6 +23,5 @@ related_code: https://github.com/coryarcangel/Super-Mario-Clouds
 subheading:
 download: arcangel-super-mario-clouds.nes.zip
 commission:
-related: "[185] [2005-021-super-landscape-1] 2005-021 Super Landscape #1"
 layout: things-i-made
 ---

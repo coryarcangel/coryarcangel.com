@@ -15,6 +15,5 @@ related_code: https://github.com/coryarcangel/Hp-Pen-Plotter-Hello-World
 subheading:
 download:
 commission:
-related:
 layout: things-i-made
 ---

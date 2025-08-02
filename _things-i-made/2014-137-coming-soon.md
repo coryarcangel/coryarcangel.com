@@ -15,6 +15,5 @@ related_code:
 subheading:
 download: coming-soon-2014-137-scan-ih.pdf
 commission:
-related:
 layout: things-i-made
 ---

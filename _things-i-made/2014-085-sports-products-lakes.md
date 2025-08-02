@@ -16,10 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [118] [2011-024-sports-products] 2011-024 Sports Products
-  [144] [2010-076-sports-products] 2010-076 Sports Products
-  [145] [2010-077-sports-products] 2010-077 Sports Products
-  [146] [2010-078-sports-products] 2010-078 Sports Products
 layout: things-i-made
 ---

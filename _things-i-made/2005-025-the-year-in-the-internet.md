@@ -15,6 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[23] 2006-020 The Year in the Internet (2006) - the-year-in-the-internet1"
 layout: things-i-made
 ---

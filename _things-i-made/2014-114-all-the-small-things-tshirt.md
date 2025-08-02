@@ -15,9 +15,5 @@ related_code:
 subheading: "(Tee shirt)"
 download:
 commission:
-related: |-
-  [4166] [2014-126-all-the-small-things-trailer] 2014 126 All The Small Things (trailer)
-  [4168] [2014-125-all-the-small-things] 2014-125 All The Small Things (catalog)
-  [4250] [2014-078-all-the-small-things-edition] 2014-078 All The Small Things Edition
 layout: things-i-made
 ---

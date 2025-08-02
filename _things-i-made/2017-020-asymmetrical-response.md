@@ -15,8 +15,5 @@ related_code:
 subheading: "(Catalog)"
 download:
 commission:
-related: |-
-  [4380] [2017-004-asymmetrical-response-reader-srf-039] 2017-004 Asymmetrical Response Reader: The Kitchen (SRF-039)
-  [4390] [2017-041-asymmetrical-response-reader-ibiza] 2017-041 Asymmetrical Response Reader: Ibiza (SRF-041)
 layout: things-i-made
 ---

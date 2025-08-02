@@ -16,7 +16,5 @@ related_code:
 subheading:
 download:
 commission:
-related: "[4240] [2013-197-since-u-been-gone-music-for-stereos] 2013-197 Since U Been
-  Gone / Music For Stereos"
 layout: things-i-made
 ---

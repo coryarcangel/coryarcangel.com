@@ -15,9 +15,5 @@ related_code:
 subheading:
 download:
 commission:
-related: |-
-  [13] [2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over] 2004-004 Iron Maidens “The Number of the Beast” compressed over and over as an mp3 666 times
-  [43] [2007-007-on-c] 2007-007 On C
-  [189] [2004-025-total-asshole-compression] 2004-025 Total Asshole Compression
 layout: things-i-made
 ---
