@@ -10,9 +10,7 @@ dims:
 pitch: "​GarageBand auto-tune applied to Jimi Hendrix’s Woodstock Star Spangled Banner."
 ps:
 live_url:
-youtube: 'https://www.youtube.com/watch?v=9zWqUnW66wY
-
-  '
+youtube: https://www.youtube.com/watch?v=9zWqUnW66wY
 related_code:
 subheading:
 download:

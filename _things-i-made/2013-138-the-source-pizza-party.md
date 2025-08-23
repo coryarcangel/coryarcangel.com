@@ -7,9 +7,9 @@ year: '2013'
 display_year: '2013'
 medium: Zine
 dims: 11 x 8.5
-pitch: |-
-  Source code for “Pizza Party” software (a collaboration with Michael Frumin) printed on archival inks and
-   paper, footnoted with artist txt, writing, poetry, whatevz, etc, etc, .........
+pitch: Source code for “Pizza Party” software (a collaboration with Michael Frumin)
+  printed on archival inks and paper, footnoted with artist txt, writing, poetry,
+  whatevz, etc, etc, .........
 ps:
 live_url:
 youtube:

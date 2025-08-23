@@ -9,7 +9,7 @@ medium: Website
 dims:
 pitch: "​Interview blog"
 ps:
-live_url: http://strictly-formal.org/
+live_url:
 youtube:
 related_code:
 subheading:

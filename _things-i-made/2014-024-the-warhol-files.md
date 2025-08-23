@@ -12,7 +12,7 @@ pitch: "​Text about the super fun Warhol Amiga preservation project I did (w /
   The Frank-Ratchye STUDIO for Creative Inquiry). Also covers more general thoughts
   on preservation / performance. ;-)"
 ps:
-live_url: http://artforum.com/inprint/id=46874
+live_url: https://www.artforum.com/features/the-warhol-files-andy-warhols-long-lost-computer-graphics-220444/
 youtube:
 related_code:
 subheading:

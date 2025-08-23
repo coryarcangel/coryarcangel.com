@@ -10,7 +10,7 @@ dims:
 pitch: 'Algo pipe organ piece which was made to be recorded &amp; inserted into the
   gym mix at the Sharjah Radisson 4 the Sharjah Biennial 14. '
 ps:
-live_url: http://nyartist.coryarcangel.com
+live_url: http:/yartist.coryarcangel.com
 youtube:
 related_code:
 subheading:

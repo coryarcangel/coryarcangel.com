@@ -12,9 +12,7 @@ pitch: "​Seinfeld super-cut of all scenes dealing with Kramer’s coffee table
 ps: I was making a show, and thought it needed some ​Seinfeld,​....so I made this.
   . :)
 live_url:
-youtube: 'https://www.youtube.com/watch?v=3QjTPA-Ib9E
-
-  '
+youtube: https://www.youtube.com/watch?v=3QjTPA-Ib9E
 related_code:
 subheading:
 download:

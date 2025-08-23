@@ -1,5 +1,5 @@
 ---
-inv_num: 2013-31-
+inv_num: 2013-031
 add_credit:
 url: 2013-31-diddy-lakes
 title: Diddy / Lakes
