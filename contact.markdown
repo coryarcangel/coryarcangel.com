@@ -2,6 +2,5 @@
 layout: default
 title: Contact
 ---
-<a href="../">↩ Home</a>  
-<!--- US / Europe mgmt:  Rute AT [materiarara](https://www.materiarara.com/)  DOT com --> 
+<a href="../">Home</a>  
 studio AT coryarcangel DOT com
