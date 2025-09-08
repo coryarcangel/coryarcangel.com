@@ -37,25 +37,24 @@ ul
 {
 	margin: 0px;
 	padding-inline-start: 20px; /* Default browser value, you can change this */
+
 }
 li
 {
 	margin: 0px;*
 	padding-inline-start: 20px; /* Default browser value, you can change this */
-  	clear: both; 
+
 }
 
 /* Images */
 img
-{
+{	
+	float: left;
 	max-width: 100%;
 	height: auto;
 }
 .thumbs img
-{
-	float: left;
-	max-width: 100%;
-	height: auto;	
+{	
 }
 
 /* IBM */
