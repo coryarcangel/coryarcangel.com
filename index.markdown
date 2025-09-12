@@ -22,14 +22,18 @@ title: Home
 
 	* 🏢
 
-	{% assign shows_list = site.data.shows %}
-	{% for shows in shows_list %}
-	{% if shows.wwwnews == "Y" %}
-
-		* <a href="../shows/{{ shows.url }}">{{ shows.dates }}, {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.state_country }}
-
-	{% endif %}
-	{% endfor %}
+		{% assign shows_list = site.data.shows %}
+		{% for shows in shows_list %}
+		{% if shows.wwwnews == "Y" %}
+	
+		{% if shows.live_url != "" and shows.live_url %}
+		* <a href="{{ shows.live_url }}">{{ shows.dates }}, {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.state_country }}</a>
+		{% else %}
+		* {{ shows.dates }}, {{ shows.venue }}, <i>{{ shows.title }}</i>, {{ shows.type }}, {{ shows.state_country }}
+		{% endif %}
+		
+		{% endif %}
+		{% endfor %}
 
 	* 🗞
 
