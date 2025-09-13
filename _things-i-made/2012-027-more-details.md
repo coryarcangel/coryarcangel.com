@@ -5,9 +5,10 @@ url: 2012-027-more-details
 title: More Detials
 year: '2012'
 display_year: '2012'
-medium: Tic-tacs, Mercedes-Benz Concept Style Coupé
+medium: High-end sports car (Mercedes, Ferrari, etc, etc), loose candy (tic-tacks,
+  etc, etc)
 dims: Variable
-pitch: "​A handful of tic-tacs thrown under the front seat of a Mercedes,....:)"
+pitch: "​A handful of tic-tacs thrown under the front seat of a Mercedes, etc, etc...:)"
 ps: So yeah, this was just some tic tacs thrown under the front seat of a Mercedes,..
   it wz in a show at MOCA LA (curated by Mike D!) I think it is my personal highlight
   of 2012. If you have a Mercedes and are interested in this work - aka having some
