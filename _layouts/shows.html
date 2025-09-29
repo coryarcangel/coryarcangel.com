@@ -1,87 +1,75 @@
 ---
 layout: shows
 ---
-<!doctype html>
-<html>
-  <head>
-	<meta name="description" content="Cory Arcangel - {{ page.title }} ;-)">
-	{% include meta.html %}
-	{% include css.html %}
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-	Cory Arcangel
-	<br>
-	<a href="../shows/">↩ Shows</a> 
-  	{% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}"><</a>
-  	{% endif %}
-  	{% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">></a>
-  	{% endif %}	
-	<br>
-    <b>Venue: </b>{{ page.venue }}
-    <br>
-    <b>City: </b>{{ page.state_country }}
-	<br>
-    <b>Title: </b>{{ page.title }}
-    <br>
-    <b>Year: </b>{{ page.year }}
-    <br>
-	{% if page.pitch %}
-	<b>pitch: </b>{{ page.pitch }}
-	<br>
-	{% endif %}	
-	{% if page.ps  %}
-	<b>ps: </b> {{ page.ps }}
-	<br>
-	{% endif %}	
-	
-	{% if page.live_url  %}
-	<b>Url: </b><a href="{{ page.live_url }}" target="_blank">{{ page.live_url }}↪</a>
-	<br>
-	{% endif %}
-	
-	{% if page.download  %}
-	<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
-	<br>
-	{% endif %}	
-	
-	{% if page.credits  %}
-	<b>Credits: </b>{{ page.credits }}
-	<br>
-	{% endif %}	
-			
-	{% assign things_thingsXshows = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
-	{% assign things_list = '' | split: '' %}
-	{% for item in things_thingsXshows %}
-		{% assign things_things = site.data.things | where:"inv_num",item.inv_num %}
-		{% for item2 in things_things %}		
-			{% assign things_list = things_list | push: item2 %}	
-		{% endfor %}	
+{% include body_top.html %}
+<a href="../">Home</a> > <a href="../shows/">Shows</a>  
+({% if page.previous.url %}
+	<a class="prev" href="{{page.previous.url}}"><</a>
+{% endif %}
+{% if page.next.url %}
+	<a class="next" href="{{page.next.url}}">></a>
+{% endif %})
+<br>
+<br>
+<b>Venue: </b>{{ page.venue }}
+<br>
+<b>City: </b>{{ page.state_country }}
+<br>
+<b>Title: </b>{{ page.title }}
+<br>
+<b>Year: </b>{{ page.year }}
+<br>
+{% if page.pitch %}
+<b>pitch: </b>{{ page.pitch }}
+<br>
+{% endif %}	
+{% if page.ps  %}
+<b>ps: </b> {{ page.ps }}
+<br>
+{% endif %}	
+
+{% if page.live_url  %}
+<b>Url: </b><a href="{{ page.live_url }}" target="_blank">{{ page.live_url }}↪</a>
+<br>
+{% endif %}
+
+{% if page.download  %}
+<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
+<br>
+{% endif %}	
+
+{% if page.credits  %}
+<b>Credits: </b>{{ page.credits }}
+<br>
+{% endif %}	
+		
+{% assign things_thingsXshows = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
+{% assign things_list = '' | split: '' %}
+{% for item in things_thingsXshows %}
+	{% assign things_things = site.data.things | where:"inv_num",item.inv_num %}
+	{% for item2 in things_things %}		
+		{% assign things_list = things_list | push: item2 %}	
+	{% endfor %}	
+{% endfor %}
+{% if things_list.size != 0 %}
+<b>Things ↴</b>
+	<ul>
+	{% assign things_list = things_list | sort: "inv_num" | reverse %}	
+	{% for item in things_list %}
+		<li>
+		<a href="../things-i-made/{{ item.url }}">
+		{{ item.title }}, {{ item.year }}
+		</a>
+		</li>		
 	{% endfor %}
-	{% if things_list.size != 0 %}
-	<b>Things ↴</b>
-		<ul>
-		{% assign things_list = things_list | sort: "inv_num" | reverse %}	
-		{% for item in things_list %}
-			<li>
-      		<a href="../things-i-made/{{ item.url }}">
-      		{{ item.title }}, {{ item.year }}
-      		</a>
- 			</li>		
-		{% endfor %}
-		</ul>		
-	{% endif %}	
-	
-	{% assign images_images = site.data.images | where:"ee_id_show",page.ee_id_show %}
-	{% if images_images.size != 0 %}	
-	<b>Imgs ↴</b><br>
-	{% for item in images_images %}
-	<img src="../assets/imgs/{{ item.filename }}">	
-	{% endfor %}
-	{% endif %}		
-	{% include puke.html %}
-	©
-  </body>
-</html>
+	</ul>		
+{% endif %}	
+
+{% assign images_images = site.data.images | where:"ee_id_show",page.ee_id_show %}
+{% if images_images.size != 0 %}	
+<b>Imgs ↴</b><br>
+{% for item in images_images %}
+<img src="../assets/imgs/{{ item.filename }}">	
+{% endfor %}
+{% endif %}		
+{% include body_bottom.html %}

@@ -2,7 +2,7 @@
 layout: images-index
 title: Images
 ---
-<a href="../">↩ Home</a> 
+<a href="../">Home</a> > Images
 {% assign images_list = site.data.images %}
 {% for image in images_list %}
 {% if image.x != "n"  %}

@@ -2,7 +2,7 @@
 layout: shows-index
 title: Shows
 ---
-<a href="../">↩ Home </a>
+<a href="../">Home</a> > Shows
 <ul>
 {% assign shows_list = site.data.shows %}
 {% for shows in shows_list %}
