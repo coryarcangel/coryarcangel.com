@@ -2,14 +2,12 @@
 layout: default
 title: Home
 ---
-Home
-
-## About  
-
+Home  
+<br>
 Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}↪, [artist](../things-i-made/){:target="_blank"}↪, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}↪, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}↪, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen)↪, [aspiring youtuber](https://www.youtube.com/user/coryarcangel)↪, etc, etc, living in [ Stavanger, Norway](https://www.youtube.com/watch?v=7DDfLOc-Dlc){:target="_blank"}↪.  
 
 ## New(s)
-* 🔥
+* Hot
 
 	* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New Cooked™ logo. "Drops" every other month. Let's go!
 	
@@ -23,7 +21,7 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 	
 	* [/roʊˈdeɪoʊ/: Let's Play](https://rodeo.computer/){:target="_blank"} - AI video game playing computer   
 
-* 🏢
+* Tour
 
 	{% assign shows_list = site.data.shows %}
 	{% for shows in shows_list %}
@@ -38,7 +36,7 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 	{% endif %}
 	{% endfor %}
 
-* 🗞
+* Press
 
 {% assign press_list = site.data.press %}
 {% for press in press_list %}
@@ -60,6 +58,12 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 * [Shows](shows)  
 * [Images](images)  
 
+## Shop
+* [Arcangel Surfware](https://arcangelsurfware.biz) ☮
+* [Lisson Gallery](https://www.lissongallery.com/artists/cory-arcangel) 
+* [Galerie Thaddaeus Ropac](https://ropac.net/artists/25-cory-arcangel/) 
+
+
 ## Contact
 	
 * studio AT domain of this site
@@ -71,7 +75,7 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 	
 * Socials
 	* [Are.na ❤️](https://www.are.na/cory-arcangel) 
-	* [Bsky️](https://bsky.app/profile/coryarcangel.com) 
+	* [Twitter](https://twitter.com/cory_arcangel) 
 	* [Bandcamp](https://bandcamp.com/cory_arcangel) 
 	* [Github](https://github.com/coryarcangel)
 	* [Special Fish](https://special.fish/cory)
