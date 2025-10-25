@@ -4,7 +4,7 @@ title: Home
 ---
 Home  
 <br>
-Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}↪, [artist](../things-i-made/){:target="_blank"}↪, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}↪, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}↪, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen)↪, [aspiring youtuber](https://www.youtube.com/user/coryarcangel)↪, etc, etc, living in [ Stavanger, Norway](https://www.youtube.com/watch?v=7DDfLOc-Dlc){:target="_blank"}↪.  
+Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}, [artist](../things-i-made/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [aspiring youtuber](https://www.youtube.com/user/coryarcangel), etc, etc, living in [ Stavanger, Norway](https://www.youtube.com/watch?v=7DDfLOc-Dlc){:target="_blank"}.  
 
 ## New(s)
 * Hot
@@ -59,15 +59,19 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 * [Images](images)  
 
 ## Shop
-* [Arcangel Surfware](https://arcangelsurfware.biz) ☮
+* [Arcangel Surfware](https://arcangelsurfware.biz) 🚨💙✔️
 * [Lisson Gallery](https://www.lissongallery.com/artists/cory-arcangel) 
 * [Galerie Thaddaeus Ropac](https://ropac.net/artists/25-cory-arcangel/) 
 
 ## Loans
 
 * [Electronic Art Intermix](https://www.eai.org/artists/cory-arcangel/titles){:target="_blank"} - Single-channel vids 
-* [Lisson Gallery](https://www.lissongallery.com/artists/cory-arcangel){:target="_blank"} & [Thaddeus Ropac Gallery ](https://ropac.net/artists/25-cory-arcangel/){:target="_blank"} - IRL things
-* My office - High traffic items aka [Super Mario Clouds](../things-i-made/2002-001-super-mario-clouds), [I Shot Andy Warhol](../things-i-made/2002-002-i-shot-andy-warhol), [Sweet 16](../things-i-made/2006-001-sweet16), [Permanent Vacation](../things-i-made/2008-003-permanent-vacation), etc, etc. 
+* [Lisson Gallery](https://www.lissongallery.com/artists/cory-arcangel){:target="_blank"} & [Thaddaeus Ropac Gallery ](https://ropac.net/artists/25-cory-arcangel/){:target="_blank"} - IRL things
+* My office (see below 4 contact) - High traffic items aka [Super Mario Clouds](../things-i-made/2002-001-super-mario-clouds), [I Shot Andy Warhol](../things-i-made/2002-002-i-shot-andy-warhol), [Sweet 16](../things-i-made/2006-001-sweet16), [Permanent Vacation](../things-i-made/2008-003-permanent-vacation), etc, etc. 
+
+## Consulting / Commissions
+
+* I'm happy to take a look under the hood of your brand, band, or building, etc, etc (past wrk w/ Electronic Arts Intermix, Phoebe Philo & Louis Vuitton). HMU. 
 
 ## Contact
 	
