@@ -63,13 +63,18 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 * [Lisson Gallery](https://www.lissongallery.com/artists/cory-arcangel) 
 * [Galerie Thaddaeus Ropac](https://ropac.net/artists/25-cory-arcangel/) 
 
+## Loans
+
+* [Electronic Art Intermix](https://www.eai.org/artists/cory-arcangel/titles){:target="_blank"} - Single-channel vids 
+* [Lisson Gallery](https://www.lissongallery.com/artists/cory-arcangel){:target="_blank"} & [Thaddeus Ropac Gallery ](https://ropac.net/artists/25-cory-arcangel/){:target="_blank"} - IRL things
+* My office - High traffic items aka [Super Mario Clouds](../things-i-made/2002-001-super-mario-clouds), [I Shot Andy Warhol](../things-i-made/2002-002-i-shot-andy-warhol), [Sweet 16](../things-i-made/2006-001-sweet16), [Permanent Vacation](../things-i-made/2008-003-permanent-vacation), etc, etc. 
 
 ## Contact
 	
 * studio AT domain of this site
 
 * Subscribe
-	* [Are.na](https://www.are.na/cory-arcangel/new-s-w4ykdrmcuts) 
+	* [Are.na ❤️](https://www.are.na/cory-arcangel/new-s-w4ykdrmcuts) 
 	* [Mailing List](https://mailchi.mp/f06b40c4c654/subscribe)
 	* [RSS](../feed.xml)  
 	
