@@ -52,7 +52,7 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 
 {% endfor %}
 
-## Study 🤦
+## Study 📚
 
 * [Things](things-i-made)  
 * [Shows](shows)  
