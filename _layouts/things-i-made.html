@@ -1,100 +1,88 @@
 ---
 layout: things-i-made
 ---
-<!doctype html>
-<html>
-  <head>
-	<meta name="description" content="Cory Arcangel - {{ page.title }} ;-)">
-	{% include meta.html %}
-	{% include css.html %}
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-	Cory Arcangel
-	<br>
-	<a href="../things-i-made/">↩ Things I Made</a>  
-  	{% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}"><</a>
-  	{% endif %}
-  	{% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">></a>
-  	{% endif %}
-	<br>
-    <b>Title:</b> {{ page.title }}
-    <br>
-    {% if page.add_credit  %}
-	<b>w/ </b> {{ page.add_credit }}
-	<br>
-	{% endif %}			
-    <b>Year:</b> {{ page.display_year }}
-    <br>
-	{% if page.medium %}
-	<b>Medium:</b> {{ page.medium }}
-	<br>
-	{% endif %}	
-	{% if page.dims  %}
-	<b>Dims:</b> {{ page.dims }}
-	<br>
-	{% endif %}	
-	{% if page.pitch %}
-	<b>Elevator pitch:</b> {{ page.pitch }}
-	<br>
-	{% endif %}		
-	{% if page.ps  %}
-	<b>ps:</b> {{ page.ps }}
-	<br>
-	{% endif %}		
-	{% if page.commission %}
-	<b>Commission: </b> {{ page.commission }}
-	<br>
-	{% endif %}		
-	{% if page.live_url  %}
-	<b>Url: </b><a href="{{ page.live_url }}">{{ page.live_url }}↪</a>
-	<br>
-	{% endif %}	
-	{% if page.download  %}
-	<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
-	<br>
-	{% endif %}	
-	{% if page.youtube  %}
-	<b>Vid: </b><a href="{{ page.youtube }}">{{ page.youtube }}↪</a>
-	<br>
-	{% endif %}	
-	{% if page.related_code %}
-	<b>Code: </b><a href="{{ page.related_code }}">{{ page.related_code }}↪</a>
-	<br>
-	{% endif %}	
-	
-	{% assign shows_thingsXshows = site.data.thingsXshows | where:"inv_num",page.inv_num %}
-	{% assign shows_list = '' | split: '' %}
-	{% for item in shows_thingsXshows %}
-		{% assign shows_shows = site.data.shows | where:"ee_id_show",item.ee_id_show %}
-		{% for item2 in shows_shows %}
-			{% assign shows_list = shows_list | push: item2 %}			
-		{% endfor %}		
-	{% endfor %}
-	{% if shows_list.size != 0 %}
-		<b>Shows ↴</b>
-		<ul>
-		{% assign shows_list = shows_list | sort: "year" | reverse %}	
-		{% for item in shows_list %}
-			<li>
-			<a href="../shows/{{ item.url }}">
-			{{ item.venue }}, <i>{{ item.title }}</i>, {{ item.year }}
-			</a>
-			</li>					
-		{% endfor %}
-		</ul>		
-	{% endif %}	
+{% include body_top.html %}	
+<a href="../">Home</a> > <a href="../things-i-made/">Things</a>  
+({% if page.previous.url %}
+	<a class="prev" href="{{page.previous.url}}"><</a>
+{% endif %}
+{% if page.next.url %}
+	<a class="next" href="{{page.next.url}}">></a>
+{% endif %})
+<br>
+<br>
+<b>Title:</b> {{ page.title }}
+<br>
+{% if page.add_credit  %}
+<b>w/ </b> {{ page.add_credit }}
+<br>
+{% endif %}			
+<b>Year:</b> {{ page.display_year }}
+<br>
+{% if page.medium %}
+<b>Medium:</b> {{ page.medium }}
+<br>
+{% endif %}	
+{% if page.dims  %}
+<b>Dims:</b> {{ page.dims }}
+<br>
+{% endif %}	
+{% if page.pitch %}
+<b>Elevator pitch:</b> {{ page.pitch }}
+<br>
+{% endif %}		
+{% if page.ps  %}
+<b>ps:</b> {{ page.ps }}
+<br>
+{% endif %}		
+{% if page.commission %}
+<b>Commission: </b> {{ page.commission }}
+<br>
+{% endif %}		
+{% if page.live_url  %}
+<b>Url: </b><a href="{{ page.live_url }}">{{ page.live_url }}↪</a>
+<br>
+{% endif %}	
+{% if page.download  %}
+<b>DL: </b><a href="../downloads/{{ page.download }}">{{ page.download }}</a>
+<br>
+{% endif %}	
+{% if page.youtube  %}
+<b>Vid: </b><a href="{{ page.youtube }}">{{ page.youtube }}↪</a>
+<br>
+{% endif %}	
+{% if page.related_code %}
+<b>Code: </b><a href="{{ page.related_code }}">{{ page.related_code }}↪</a>
+<br>
+{% endif %}	
 
-	{% assign images_images = site.data.images | where:"inv_num",page.inv_num %}	
-	{% if images_images.size != 0 %}
-	<b>Imgs ↴</b><br>
-	{% for item in images_images %}
-	<img src="../assets/imgs/{{ item.filename }}">	
+{% assign shows_thingsXshows = site.data.thingsXshows | where:"inv_num",page.inv_num %}
+{% assign shows_list = '' | split: '' %}
+{% for item in shows_thingsXshows %}
+	{% assign shows_shows = site.data.shows | where:"ee_id_show",item.ee_id_show %}
+	{% for item2 in shows_shows %}
+		{% assign shows_list = shows_list | push: item2 %}			
+	{% endfor %}		
+{% endfor %}
+{% if shows_list.size != 0 %}
+	<b>Shows ↴</b>
+	<ul>
+	{% assign shows_list = shows_list | sort: "year" | reverse %}	
+	{% for item in shows_list %}
+		<li>
+		<a href="../shows/{{ item.url }}">
+		{{ item.venue }}, <i>{{ item.title }}</i>, {{ item.year }}
+		</a>
+		</li>					
 	{% endfor %}
-	{% endif %}	
-	{% include puke.html %}
-	©
-  </body>
-</html>
+	</ul>		
+{% endif %}	
+
+{% assign images_images = site.data.images | where:"inv_num",page.inv_num %}	
+{% if images_images.size != 0 %}
+<b>Imgs ↴</b><br>
+{% for item in images_images %}
+<img src="../assets/imgs/{{ item.filename }}">	
+{% endfor %}
+{% endif %}	
+{% include body_bottom.html %}

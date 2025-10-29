@@ -2,7 +2,7 @@
 layout: default
 title: Social
 ---
-<a href="../">Home</a>   
+<a href="../">Home</a>    
 * [Are.na ❤️](https://www.are.na/cory-arcangel) 
 * [Bsky️](https://bsky.app/profile/coryarcangel.com) 
 * [Bandcamp](https://bandcamp.com/cory_arcangel) 

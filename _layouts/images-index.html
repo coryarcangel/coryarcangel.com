@@ -1,18 +1,6 @@
 ---
 layout: images-index
 ---
-<!doctype html>
-<html>
-  <head>
-	<meta name="description" content="Cory Arcangel - Images Index ;-)">
-	{% include meta.html %}
-	{% include css.html %}
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-	Cory Arcangel
-    	{{ content }}
-	{% include puke.html %}	
-	©
-  </body>
-</html>
+{% include body_top.html %}	
+{{ content }}
+{% include body_bottom.html %}

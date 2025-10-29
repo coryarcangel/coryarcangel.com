@@ -1,86 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="103.55363mm"
-   height="106.846mm"
-   viewBox="0 0 103.55363 106.846"
-   version="1.1"
-   id="svg825"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="smile.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview827"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.2102413"
-     inkscape:cx="195.01401"
-     inkscape:cy="394.78447"
-     inkscape:window-width="1309"
-     inkscape:window-height="456"
-     inkscape:window-x="20"
-     inkscape:window-y="61"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs822">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath524">
-      <path
-         d="m 433,47 h 53 v 33 h -53 z"
-         id="path522" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath542">
-      <path
-         d="m 491,52 h 23 v 24 h -23 z"
-         id="path540" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath556">
-      <path
-         d="m 519,47 h 52 v 33 h -52 z"
-         id="path554" />
-    </clipPath>
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-52.799663,-43.519)">
-    <g
-       id="g536"
-       transform="matrix(4.6186411,0,0,-4.6186411,-2216.6089,392.82872)">
-      <g
-         id="g538"
-         clip-path="url(#clipPath542)">
-        <g
-           id="g544"
-           transform="matrix(32.4,0,0,32.4,486.0125,54.70001)">
-          <text
-             xml:space="preserve"
-             transform="scale(1,-1)"
-             style="font-variant:normal;font-weight:normal;font-size:1px;font-family:STSong;-inkscape-font-specification:STSongti-SC-Regular;writing-mode:lr-tb;fill:#551a8b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text548"><tspan
-               x="0"
-               y="0"
-               id="tspan546">ツ</tspan></text>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg825" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="1.2 (dc2aeda, 2022-05-15)" sodipodi:docname="smile.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 293.5 302.9"
+	 style="enable-background:new 0 0 293.5 302.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000046331834815415379950000009343047104527992195_);}
+	.st1{font-family:'TimesNewRomanPSMT';}
+	.st2{font-size:300px;}
+</style>
+<sodipodi:namedview  bordercolor="#000000" borderopacity="0.25" id="namedview827" inkscape:current-layer="layer1" inkscape:cx="195.01401" inkscape:cy="394.78447" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="456" inkscape:window-maximized="0" inkscape:window-width="1309" inkscape:window-x="20" inkscape:window-y="61" inkscape:zoom="0.2102413" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-52.799663,-43.519)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g536" transform="matrix(4.6186411,0,0,-4.6186411,-2216.6089,392.82872)">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="372.4" y="-114.4" width="301.1" height="314.2"/>
+			</defs>
+			<clipPath id="SVGID_00000183946879800515433910000001951892588191508405_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="g538" style="clip-path:url(#SVGID_00000183946879800515433910000001951892588191508405_);">
+				<g id="g544" transform="matrix(32.4,0,0,32.4,486.0125,54.70001)">
+					
+						<text transform="matrix(6.682528e-03 0 0 -6.682528e-03 0.165 -4.6466)" style="fill:#551A8B; font-family:'STSong'; font-size:424.1876px;">ツ</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 51 249)" class="st1 st2">:/</text>
 </svg>

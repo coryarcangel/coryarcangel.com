@@ -1,19 +1,6 @@
 ---
 layout: default
 ---
-<!doctype html>
-<html>
-  <head>
-  	<meta name="description" content="Cory Arcangel's Website. Last updated {{ site.time | date: '%d/%m/%y' }}. About, Contact, Shows, Things I Made, Subscribe & Shop.">
-	<meta name="keywords" content="Cory Arcangel, art, stupid, tricks, Super Mario, Fucked, Runners, Rodeo, Screenagers">
-{% include meta.html %}
-{% include css.html %}
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-	Cory Arcangel
-    {{ content }}
-	{% include puke.html %}	
-	©
-  </body>
-</html>
+{% include body_top.html %}	
+{{ content }}
+{% include body_bottom.html %}
