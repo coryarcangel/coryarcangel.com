@@ -9,6 +9,8 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 ## New(s)
 * Hot
 
+	* [The Cory Arcangel Hack](https://mitpress.mit.edu/9780262552547/the-cory-arcangel-hack/){:target="_blank"} - Eivind Røssaak goes hard on the last 25 years of my non-sense 🤯 
+
 	* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New Cooked™ logo. "Drops" every other month. Let's go!
 	
 	* [Let's Play Majerus G3](https://rhizome.org/editorial/artbase-anthologies-002/){:target="_blank"} ([1](https://www.youtube.com/watch?v=QhQrywlzaVI){:target="_blank"}, [2](https://www.youtube.com/watch?v=jWYC5AmgZco){:target="_blank"}, [3](https://www.youtube.com/watch?v=h8_vWichxHI){:target="_blank"}, [4](https://www.youtube.com/watch?v=xO8sBle8yrE){:target="_blank"}, [5](https://www.youtube.com/watch?v=jFSLaRjlAr4){:target="_blank"}) - Majerus' laptop restored & I'm finally a Youtuber!  					
