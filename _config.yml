@@ -32,11 +32,11 @@ plugins:
   - pagemaster
 
 collections:
-  things-i-made:
+  works:
     output: true
-    source: things.csv
+    source: works.csv
     id_key: url
-    layout: things-i-made
+    layout: works
     sort_by: url
     
   shows:
