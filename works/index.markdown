@@ -2,7 +2,7 @@
 layout: works-index
 title: Works
 ---
-[Biz](../../)  / <a href="../">*Study*</a> > Works
+[Biz](../../)  / <a href="../study">*Study*</a> > Works
 <ul>
 {% assign works_list = site.data.works %}
 {% for works in works_list %}

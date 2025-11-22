@@ -2,7 +2,7 @@
 layout: shows
 ---
 {% include body_top.html %}
-<a href="../">Home</a> > <a href="../shows/">Shows</a>  
+<a href="../../">Biz</a> / <a href="../"><i>Study</i></a> > <a href="{{ site.baseurl }}/shows/">Shows</a> 
 ({% if page.previous.url %}
 	<a class="prev" href="{{page.previous.url}}"><</a>
 {% endif %}
@@ -57,7 +57,7 @@ layout: shows
 	{% assign things_list = things_list | sort: "inv_num" | reverse %}	
 	{% for item in things_list %}
 		<li>
-		<a href="../things-i-made/{{ item.url }}">
+		<a href="../works/{{ item.url }}">
 		{{ item.title }}, {{ item.year }}
 		</a>
 		</li>		
@@ -69,7 +69,7 @@ layout: shows
 {% if images_images.size != 0 %}	
 <b>Imgs ↴</b><br>
 {% for item in images_images %}
-<img src="../assets/imgs/{{ item.filename }}">	
+<img src="../../assets/imgs/{{ item.filename }}">	
 {% endfor %}
 {% endif %}		
 {% include body_bottom.html %}
