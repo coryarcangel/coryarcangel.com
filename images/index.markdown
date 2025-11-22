@@ -2,7 +2,8 @@
 layout: images-index
 title: Images
 ---
-<a href="../">Home</a> > Images
+[Biz](../../)  / <a href="../study">*Study*</a> > Images
+<br><br>
 {% assign images_list = site.data.images %}
 {% for image in images_list %}
 {% if image.x != "n"  %}
@@ -10,10 +11,10 @@ title: Images
 {% assign jpeg = image.filename | split: "." | first | append: "-thumb.jpg"%}
 {% if image.ee_id_show %}
 {% assign shows_shows = site.data.shows | where:"ee_id_show",image.ee_id_show %}
-{% for item in shows_shows %}<div class="thumbs"><a href="../shows/{{ item.url }}"><img src="../assets/thumbs/{{image.filename | split: "." | first}}-thumb.jpg" loading="lazy" alt="…" height="{{image.h}}" width="{{image.w}}"></a></div>{% endfor %}
+{% for item in shows_shows %}<div class="thumbs"><a href="../shows/{{ item.url }}"><img src="../../assets/thumbs/{{image.filename | split: "." | first}}-thumb.jpg" loading="lazy" alt="…" height="{{image.h}}" width="{{image.w}}"></a></div>{% endfor %}
 {% else %}
 {% assign things_things = site.data.things | where:"inv_num",image.inv_num %}
-{% for item in things_things %}<div class="thumbs"><a href="../things-i-made/{{ item.url }}"><img src="../assets/thumbs/{{image.filename | split: "." | first}}-thumb.jpg" loading="lazy" alt="…" height="{{image.h}}" width="{{image.w}}"></a></div>{% endfor %}
+{% for item in things_things %}<div class="thumbs"><a href="../works/{{ item.url }}"><img src="../../assets/thumbs/{{image.filename | split: "." | first}}-thumb.jpg" loading="lazy" alt="…" height="{{image.h}}" width="{{image.w}}"></a></div>{% endfor %}
 {% endif %}
 {% endif %}
 {% endfor %}
