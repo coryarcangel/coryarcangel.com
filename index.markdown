@@ -8,6 +8,8 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 ## New(s)
 * Hot
 
+	* [Rodl Glide by Oneohtrix Point Never ](https://arcangelsurfware.biz){:target="_blank"} - Made a music vid 4 OPN (!)
+
 	* [The Cory Arcangel Hack](https://mitpress.mit.edu/9780262552547/the-cory-arcangel-hack/){:target="_blank"} - Eivind Røssaak goes hard on the last 25 years of my non-sense 🤯 
 
 	* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New Cooked™ logo. "Drops" every other month. Let's go!
@@ -66,7 +68,7 @@ Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}
 
 ## Consulting / Commissions
 
-* I'm happy to take a look under the hood of your brand, band, or building, etc, etc (past wrk w/ Electronic Arts Intermix, Phoebe Philo & Louis Vuitton). HMU. 
+* I'm happy to take a look under the hood of your brand, band, or building, etc, etc (past wrk w/ Electronic Arts Intermix, Warp Records, Phoebe Philo & Louis Vuitton). HMU. 
 
 ## Contact
 	
