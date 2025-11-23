@@ -4,7 +4,7 @@ title: Biz
 ---
 [*Biz*]()  / [Study](study)  
 <br>
-Hi. Thx 4 the 👀. I'm a [composer](https://hiddennoise.org/){:target="_blank"}, [artist](../things-i-made/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [aspiring youtuber](https://www.youtube.com/user/coryarcangel), etc, etc, living in [ Stavanger, Norway](https://www.youtube.com/watch?v=7DDfLOc-Dlc){:target="_blank"}.  
+Hi. Thx 4 the visit. I'm a [composer](https://hiddennoise.org/){:target="_blank"}, [artist](../things-i-made/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [aspiring youtuber](https://www.youtube.com/user/coryarcangel), etc, etc, living in [ Stavanger, Norway](https://www.youtube.com/watch?v=7DDfLOc-Dlc){:target="_blank"}.  
 ## New(s)
 * Hot
 
