@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biz
+title: Cory Arcangel
 ---
 [*Biz*]()  / [Study](study)  
 <br>
