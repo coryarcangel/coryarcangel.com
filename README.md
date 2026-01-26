@@ -12,9 +12,9 @@ Website for coryarcangel.com
 Usage👇
 
 Export & audition 
-./script-thumbs.sh; bundle exec jekyll pagemaster --force shows things-i-made; bundle exec jekyll serve
+./script-thumbs.sh; bundle exec jekyll pagemaster --force shows works; bundle exec jekyll serve
 
 Full export
-./script-thumbs.sh; bundle exec jekyll pagemaster --force shows things-i-made; JEKYLL_ENV=production bundle exec jekyll build
+./script-thumbs.sh; bundle exec jekyll pagemaster --force shows works; JEKYLL_ENV=production bundle exec jekyll build
 
 
