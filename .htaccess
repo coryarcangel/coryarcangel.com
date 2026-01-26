@@ -64,3 +64,6 @@ RewriteRule ^about(\.html)?/?$ https://coryarcangel.com/ [R=301,L]
 RewriteRule ^loans(\.html)?/?$ https://coryarcangel.com/ [R=301,L]
 RewriteRule ^subscribe(\.html)?/?$ https://coryarcangel.com/ [R=301,L]
 RewriteRule ^news(\.html)?/?$ https://coryarcangel.com/ [R=301,L]
+
+#Things I Made to Works
+RewriteRule ^things-i-made/?(.*)$ /works/$1 [R=301,L]
