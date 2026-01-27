@@ -4,15 +4,14 @@ title: Cory Arcangel
 ---
 [*Biz*]()  / [Study](study)  
 <br>
-Hi. Thx 4 the visit. I'm a [composer](https://hiddennoise.org/){:target="_blank"}, [artist](../things-i-made/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [aspiring youtuber](https://www.youtube.com/user/coryarcangel), etc, etc, living in <s>Stavanger</s> Oslo, Norway.  
+Hi. Thx 4 the visit. I'm a [composer](https://hiddennoise.org/){:target="_blank"}, [artist](../things-i-made/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [aspiring youtuber](https://www.youtube.com/user/coryarcangel), etc, etc, living in <s><a href="https://www.youtube.com/watch?v=7DDfLOc-Dlc" target="_blank">Stavanger</a></s> Oslo, Norway.  
 ## New(s)
 * Hot
+	* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New "dad" hat w/ unintelligible embroidered logo. Act now! 
 
 	* [Rodl Glide by Oneohtrix Point Never ](https://arcangelsurfware.biz){:target="_blank"} - Made a music vid 4 OPN (!)
 
 	* [The Cory Arcangel Hack](https://mitpress.mit.edu/9780262552547/the-cory-arcangel-hack/){:target="_blank"} - Eivind Røssaak goes hard on the last 25 years of my non-sense 🤯 
-
-	* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New Cooked™ logo. "Drops" every other month. Let's go!
 	
 	* [Let's Play Majerus G3](https://rhizome.org/editorial/artbase-anthologies-002/){:target="_blank"} ([1](https://www.youtube.com/watch?v=QhQrywlzaVI){:target="_blank"}, [2](https://www.youtube.com/watch?v=jWYC5AmgZco){:target="_blank"}, [3](https://www.youtube.com/watch?v=h8_vWichxHI){:target="_blank"}, [4](https://www.youtube.com/watch?v=xO8sBle8yrE){:target="_blank"}, [5](https://www.youtube.com/watch?v=jFSLaRjlAr4){:target="_blank"}) - Majerus' laptop restored & I'm finally a Youtuber!  					
 	
