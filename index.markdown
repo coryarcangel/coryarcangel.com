@@ -4,7 +4,7 @@ title: Cory Arcangel
 ---
 [*Biz*]()  / [Study](study)  
 <br>
-Hi. Thx 4 the visit. I'm a [composer](https://hiddennoise.org/){:target="_blank"}, [artist](../things-i-made/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [aspiring youtuber](https://www.youtube.com/user/coryarcangel), etc, etc, living in <s><a href="https://www.youtube.com/watch?v=7DDfLOc-Dlc" target="_blank">Stavanger</a></s> Oslo, Norway.  
+Hi. Thx 4 the visit. I'm an [artist](../things-i-made/){:target="_blank"}, [aspiring youtuber](https://www.youtube.com/user/coryarcangel), [composer](https://hiddennoise.org/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, etc, etc, living in Oslo (having moved recently from <a href="https://www.youtube.com/watch?v=7DDfLOc-Dlc" target="_blank">Stavanger</a>).  
 ## New(s)
 * Hot
 	* [Arcangel Surfware is bck!](https://arcangelsurfware.biz){:target="_blank"} - SRF is back. New "dad" hat w/ unintelligible embroidered logo. Act now! 
