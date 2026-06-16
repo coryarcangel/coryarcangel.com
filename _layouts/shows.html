@@ -46,7 +46,7 @@ layout: shows
 {% assign things_thingsXshows = site.data.thingsXshows | where:"ee_id_show",page.ee_id_show %}
 {% assign things_list = '' | split: '' %}
 {% for item in things_thingsXshows %}
-	{% assign things_things = site.data.things | where:"inv_num",item.inv_num %}
+	{% assign things_things = site.data.works | where:"inv_num",item.inv_num %}
 	{% for item2 in things_things %}		
 		{% assign things_list = things_list | push: item2 %}	
 	{% endfor %}	
