@@ -35,10 +35,9 @@ _data/.~lock.thingsXshows.csv\#
 # Random #
 ######################
 _shows/*
+_works/*
 _things-i-made/*
 _site/*
 .DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
-.DS_Store
+
+
