@@ -12,7 +12,7 @@ assets/thumbs
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+
 _data/.~lock.things.csv#
 
 # OS generated files #
@@ -29,15 +29,11 @@ _data/.~lock.shows.csv\#
 .DS_Store
 *.lock
 *.csv#
-*.csv#
-.DS_Store
 _data/.~lock.thingsXshows.csv\#
+
 # Random #
 ######################
-_shows/*
-_works/*
-_things-i-made/*
-_site/*
-.DS_Store
+vendor
+
 
 
