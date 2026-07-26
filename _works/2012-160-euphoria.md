@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-160
-add_credit: Arcangel Surfware R & D team
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2012-160-euphoria
 title: Euphoria
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-039
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-039-soulcycle
 title: Soulcycle
 year: '2017'

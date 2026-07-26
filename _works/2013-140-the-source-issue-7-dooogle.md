@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-140
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-140-the-source-issue-7-dooogle
 title: 'The Source Issue #7: Dooogle (SRF-23)'
 year: '2015'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-044
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-044-photoshop-cs
 title: 'Photoshop CS: 84 by 66 inches, 300 DPI, RGB, square pixels, default gradient
   "Russell''s Rainbow" (turn transparency off), mousedown y=18000 x=14200, mouseup

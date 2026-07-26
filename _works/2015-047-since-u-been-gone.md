@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-047
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-047-since-u-been-gone
 title: Since U Been Gone
 year: '2015'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-051
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-051-you-only-live-once
 title: You Only Live Once
 year: '2014'

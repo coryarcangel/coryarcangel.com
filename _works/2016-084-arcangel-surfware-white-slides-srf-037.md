@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-084
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-084-arcangel-surfware-white-slides-srf-037
 title: Fuck Negativity White Slides (SRF-037)
 year: '2016'

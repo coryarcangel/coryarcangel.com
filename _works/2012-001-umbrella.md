@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-001
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-001-umbrella
 title: Umbrella
 year: '2012'

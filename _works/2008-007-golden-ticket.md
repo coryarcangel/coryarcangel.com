@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-007
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-007-golden-ticket
 title: Golden Ticket
 year: '2008'

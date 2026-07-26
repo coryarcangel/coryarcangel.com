@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-074
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-074-genealogies
 title: Genealogies
 year: '2008'

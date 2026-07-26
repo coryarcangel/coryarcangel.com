@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-004-photoshop-cs
 title: 'Photoshop CS: 40 by 30 inches, 300 DPI, RGB, square pixels, default gradient
   "Grey Value Stripes", mousedown y=11880 x=100, mouseup y=100 x=8860'

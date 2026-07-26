@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-085
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-085-sports-products-lakes
 title: Sports Products / Lakes
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-041
-add_credit: Olia Lialina
+add_credit: Cory Arcangel & Olia Lialina
 url: 2017-041-asymmetrical-response-reader-ibiza
 title: 'Asymmetrical Response Reader: Ibiza (SRF-041)'
 year: '2017'

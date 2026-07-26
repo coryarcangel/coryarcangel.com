@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-074
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-074-beibs-lakes
 title: Beibs / Lakes
 year: '2017'

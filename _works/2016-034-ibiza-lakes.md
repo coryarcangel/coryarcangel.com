@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-034
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-034-ibiza-lakes
 title: Ibiza / Lakes
 year: '2016'

@@ -1,11 +1,11 @@
 ---
 inv_num: 2011-156
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-156-audmcrs-installation
 title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2012'
 display_year: '2011'
-medium: '800+ trance records, MARC formatted database. '
+medium: 800+ trance records, MARC formatted database.
 dims: Variable
 pitch: "​Professionally archived collection of trance records."
 ps: ​This is a collection of about 900 or so trance records I acquired from <a href="http://en.wikipedia.org/wiki/Joshua_Topolsky"

@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-017
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-017-permanent-vacation
 title: Permanent Vacation
 year: '2007'

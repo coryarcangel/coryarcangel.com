@@ -1,6 +1,6 @@
 ---
 inv_num: 2004-009
-add_credit: Michael  Frumin
+add_credit: Cory Arcangel & Michael  Frumin
 url: 2004-009-pizza-party
 title: Pizza Party
 year: '2004'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-063
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-063-audmcrs-website
 title: The AUDMCRS Underground Dance Music Collection of Recorded Sound
 year: '2013'

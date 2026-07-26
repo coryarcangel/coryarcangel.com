@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-054
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-054-currentmood
 title: currentmood
 year: '2016'

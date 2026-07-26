@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-020
-add_credit:
+add_credit: Cory Arcangel
 url: 2005-020-bomb-iraq
 title: Bomb Iraq
 year: '2005'

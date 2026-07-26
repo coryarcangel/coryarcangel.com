@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-125
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-125-all-the-small-things
 title: All The Small Things
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-079
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-079-skipping-stones
 title: Skipping Stones
 year: '2010'

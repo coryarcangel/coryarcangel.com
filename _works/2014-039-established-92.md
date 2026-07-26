@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-039
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-039-established-92
 title: Established '92
 year: '2014'

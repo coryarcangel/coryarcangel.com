@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-013
-add_credit: Cory Arcangel for Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2014-013-photoshop-gradient-demonstration-bedsheets-srf-011
 title: Photoshop Gradient Demonstration Bedsheets (SRF-011)
 year: '2014'

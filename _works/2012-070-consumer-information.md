@@ -1,11 +1,11 @@
 ---
 inv_num: 2012-070
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-070-consumer-information
 title: Consumer Information
 year: '2012'
 display_year: '2012'
-medium: 'Wastebasket, Sprite Zero cans. '
+medium: Wastebasket, Sprite Zero cans.
 dims: 11 x 11 x 15 in
 pitch:
 ps:

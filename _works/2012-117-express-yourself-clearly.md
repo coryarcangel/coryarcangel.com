@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-117
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-117-express-yourself-clearly
 title: Express Yourself Clearly
 year: '2012'

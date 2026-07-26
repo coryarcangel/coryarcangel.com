@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-069
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-069-super-chilled
 title: Super Chilled
 year: '2012'

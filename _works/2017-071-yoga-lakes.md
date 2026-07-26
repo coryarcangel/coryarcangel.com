@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-071
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-071-yoga-lakes
 title: Yoga / Lakes
 year: '2017'

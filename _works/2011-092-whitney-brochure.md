@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-092
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-092-whitney-brochure
 title: Whitney Brochure
 year: '2011'

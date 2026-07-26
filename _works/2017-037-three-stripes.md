@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-037
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-037-three-stripes
 title: Three stripes
 year: '2017'

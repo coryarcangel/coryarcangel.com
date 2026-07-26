@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-008
-add_credit: Cory Arcangel for Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2014-008-photoshop-gradient-demonstration-iphone-case-srf-006
 title: Photoshop Gradient Demonstration iPhone Case (SRF-006)
 year: '2014'

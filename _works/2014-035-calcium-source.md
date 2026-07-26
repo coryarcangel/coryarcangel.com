@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-035
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-035-calcium-source
 title: Calcium Source
 year: '2014'

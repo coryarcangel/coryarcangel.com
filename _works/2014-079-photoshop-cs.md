@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-079
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-079-photoshop-cs
 title: 'Photoshop CS: 50 by 50 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=3000 x=650, mouseup y=3000 x=4525; tool "Wand", select y=4680,
@@ -9,7 +9,7 @@ title: 'Photoshop CS: 50 by 50 inches, 300 DPI, RGB, square pixels, default grad
 year: '2014'
 display_year: '2014'
 medium: Chromogenic print
-dims: '50in x 50in '
+dims: 50in x 50in
 pitch:
 ps:
 live_url:

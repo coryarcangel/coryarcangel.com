@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-031
-add_credit:
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2013-031-diddy-lakes
 title: Diddy / Lakes
 year: '2013'

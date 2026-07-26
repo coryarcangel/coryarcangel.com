@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-004
-add_credit: Olia Lialina
+add_credit: Cory Arcangel & Olia Lialina
 url: 2017-004-asymmetrical-response-reader-srf-039
 title: 'Asymmetrical Response Reader: The Kitchen (SRF-039)'
 year: '2017'

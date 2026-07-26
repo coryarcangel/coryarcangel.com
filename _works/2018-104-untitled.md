@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-104
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-104-untitled
 title: Untitled
 year: '2018'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-006
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-006-rodeo-performance
 title: "/roʊˈdeɪoʊ/ Let's Play: HOLLYWOOD"
 year: '2021'
@@ -14,13 +14,13 @@ medium: 'Custom built high performance computer rig (AMD Ryzen 9 5950X 16-core 3
   power supply, various peripherals), custom built Deep-Q Learning RPG playing software
   bot with system sounds by Daniel Lopatin (Oneohtrix Point Never), Kim Kardashian:
   Hollywood casual free-to-play role-playing Android game, Android phone, amplifier
-  & speakers, various cables. '
+  & speakers, various cables.'
 dims: Variable
 pitch: 'A custom built & programmed high performance machine learning computer which
   plays (& learns as it is plays) Kim Kardashian: Hollywood — a casual free-to-play
   role-playing Android game where players aim to increase their reputation by gaining
-  fans in order to become A-List celebrities. '
-ps: 'All details at micosite! '
+  fans in order to become A-List celebrities.'
+ps: All details at micosite!
 live_url: https://rodeo.computer/
 youtube:
 related_code: https://github.com/coryarcangel/rodeo-lets-play

@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-017
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-017-http-wwwmocanomiorg
 title: http://www.mocanomi.org/
 year: '2010'

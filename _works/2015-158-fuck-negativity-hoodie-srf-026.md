@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-158
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-158-fuck-negativity-hoodie-srf-026
 title: Fuck Negativity Hoodie (SRF-026)
 year: '2015'

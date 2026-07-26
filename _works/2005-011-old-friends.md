@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-011
-add_credit:
+add_credit: Cory Arcangel
 url: 2005-011-old-friends
 title: Old Friends
 year: '2005'
@@ -19,7 +19,7 @@ ps: "​This isn't exactly a video, but actually a modified DVD. The only differ
   chapter markers. It took me all summer to figure out how to re-program a DVD, and
   to this day this project is one of the stupider things I ever spent an insane amount
   of time and energy doing. Especially since it was virtually impossible to show in
-  any traditional sense (hence comedy clubs).&nbsp; "
+  any traditional sense (hence comedy clubs).&nbsp;"
 live_url:
 youtube:
 related_code:

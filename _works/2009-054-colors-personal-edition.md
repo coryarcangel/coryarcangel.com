@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-054
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-054-colors-personal-edition
 title: Colors Personal Edition
 year: '2009'

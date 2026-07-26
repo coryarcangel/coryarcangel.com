@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-003
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-003-theres-always-one-at-every-party
 title: There's Always One At Every Party
 year: '2010'

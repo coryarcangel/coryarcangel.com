@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-029
-add_credit: Olia Lialina
+add_credit: Cory Arcangel & Olia Lialina
 url: 2017-029-arcangel-surfware-webmaster-summer-beach-towel
 title: Arcangel Surfware / Webmaster Summer Beach Towel
 year: '2017'

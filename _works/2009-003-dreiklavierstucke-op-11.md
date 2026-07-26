@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-003
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-003-dreiklavierstucke-op-11
 title: Drei Klavierstücke op. 11
 year: '2009'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-002
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-002-structural-film
 title: Structural Film
 year: '2007'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-115
-add_credit: Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2013-115-24-dances-for-the-electric-piano
 title: 24 Dances For The Electric Piano (SRF-001)
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-080
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-080-photoshop-cs
 title: 'Photoshop CS: 40 by 30 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=6000 x=8000, mouseup y=6000 x=1000; tool "Wand", select

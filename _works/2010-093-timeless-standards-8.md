@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-093
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-093-timeless-standards-8
 title: Timeless Standards
 year: '2010'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-133
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-133-the-source-issue-3-i-shot-andy-warhol
 title: 'The Source Issue #3: I Shot Andy Warhol (SRF-016)'
 year: '2013'

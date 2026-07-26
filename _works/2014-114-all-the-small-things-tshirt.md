@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-114
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-114-all-the-small-things-tshirt
 title: All The Small Things
 year: '2014'

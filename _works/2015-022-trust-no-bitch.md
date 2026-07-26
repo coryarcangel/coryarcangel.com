@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-022
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-022-trust-no-bitch
 title: Trust No Bitch
 year: '2015'

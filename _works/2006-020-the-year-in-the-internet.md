@@ -1,6 +1,6 @@
 ---
 inv_num: 2006-020
-add_credit: Michael Bell Smith
+add_credit: Cory Arcangel & Michael Bell Smith
 url: 2006-020-the-year-in-the-internet
 title: The Year in the Internet (2006)
 year: '2006'

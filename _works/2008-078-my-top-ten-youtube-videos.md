@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-078
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-078-my-top-ten-youtube-videos
 title: My Top Ten Youtube Videos
 year: '2008'

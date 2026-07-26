@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-034
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-034-hello-world
 title: Hello World
 year: '2009'

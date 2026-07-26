@@ -1,11 +1,11 @@
 ---
 inv_num: 2011-194
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-194-follow-my-other-twitter
 title: Follow My Other Twitter
 year: '2011'
 display_year: '2011'
-medium: 'Search for social media network. '
+medium: Search for social media network.
 dims:
 pitch:
 ps:

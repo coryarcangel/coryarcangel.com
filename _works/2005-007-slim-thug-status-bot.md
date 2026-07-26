@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-007
-add_credit:
+add_credit: Cory Arcangel
 url: 2005-007-slim-thug-status-bot
 title: Slim Thug Status Bot
 year: '2005'

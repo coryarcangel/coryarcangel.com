@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-134
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-134-the-source-issue-8-six-sixty-six
 title: 'The Source Issue #8: Six Sixty-six (SRF-24)'
 year: '2015'

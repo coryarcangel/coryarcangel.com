@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-037
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-037-research-in-motion-kinetic-sculpture-3
 title: 'Research in Motion (Kinetic Sculpture #3)'
 year: '2010'

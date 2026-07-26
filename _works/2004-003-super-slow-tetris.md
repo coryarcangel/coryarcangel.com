@@ -1,6 +1,6 @@
 ---
 inv_num: 2004-003
-add_credit:
+add_credit: Cory Arcangel
 url: 2004-003-super-slow-tetris
 title: Super Slow Tetris
 year: '2004'

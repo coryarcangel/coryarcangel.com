@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-083
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-083-clintons
 title: Clintons
 year: '2012'

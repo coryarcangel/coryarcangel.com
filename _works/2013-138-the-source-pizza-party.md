@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-138
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-138-the-source-pizza-party
 title: 'The Source Issue #2: Pizza Party (SRF-015)'
 year: '2013'

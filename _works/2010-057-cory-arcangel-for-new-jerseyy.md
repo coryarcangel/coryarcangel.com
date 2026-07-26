@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-057
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-057-cory-arcangel-for-new-jerseyy
 title: Cory Arcangel for New Jerseyy
 year: '2010'

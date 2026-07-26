@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-141
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-141-the-source-issue-10-what-a-misunderstanding
 title: 'The Source  Issue #10: What a misunderstanding! (SRF-051)'
 year: '2018'

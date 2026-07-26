@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-127
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-127-weekend-at-bernies-screening-at-the-whitney-museum
 title: Weekend at Bernie's Screening at the Whitney Museum
 year: '2011'

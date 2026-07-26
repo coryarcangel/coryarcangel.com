@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-126
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-126-lozenge-composition
 title: Lozenge Composition, 1924 / Tableau No.IV. Losangique Pyramidal, 1925, with
   Red, Blue, Yellow and Black, 1924/1925 Titled No. III.

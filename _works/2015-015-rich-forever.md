@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-015
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-015-rich-forever
 title: Rich Forever
 year: '2015'

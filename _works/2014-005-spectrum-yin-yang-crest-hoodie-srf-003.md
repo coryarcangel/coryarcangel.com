@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-005
-add_credit: Cory Arcangel for Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2014-005-spectrum-yin-yang-crest-hoodie-srf-003
 title: Spectrum Yin-Yang Crest Hoodie (SRF-003)
 year: '2014'

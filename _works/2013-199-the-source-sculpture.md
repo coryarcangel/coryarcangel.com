@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-199
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-199-the-source-sculpture
 title: The Source
 year: '2013'

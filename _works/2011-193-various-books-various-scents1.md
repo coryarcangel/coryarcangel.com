@@ -1,13 +1,13 @@
 ---
 inv_num: 2011-193
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-193-various-books-various-scents1
 title: Various Books, Various Scents
 year: '2011'
 display_year: '2011'
 medium: Books paired with perfume on table.
-dims: '35 x 99 x 35.5 inches '
-pitch: "​Books paired w/ celeb perfumes. "
+dims: 35 x 99 x 35.5 inches
+pitch: "​Books paired w/ celeb perfumes."
 ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and Cricket
   Liu and<i>Someday</i> by Justin Bieber; <i>E.A.R.L. The Autobiography of DMX </i>as
   told to Smokey D. Fontaine<i> </i>and <i>Black Star</i> by Avril Lavigne; <i>Subculture:
@@ -17,7 +17,7 @@ ps: "​from left: <i>DNS and BIND 4<sup>th</sup> Edition</i> by Paul Albitz and
   and Cube: On the relationship between where art is made and where art is displayed</i>
   by Brian O’Doherty and <i>Parisienne </i>by Yves Saint Laurent; <i>PUNK 365</i>
   by Holly George-Warren, foreword by Richard Hell and <i>Ready to Rock</i> by Hannah
-  Montana "
+  Montana"
 live_url:
 youtube:
 related_code:

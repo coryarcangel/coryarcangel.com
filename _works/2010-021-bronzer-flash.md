@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-021
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-021-bronzer-flash
 title: Bronzer Flash!
 year: '2010'

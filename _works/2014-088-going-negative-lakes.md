@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-088
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-088-going-negative-lakes
 title: Going Negative / Lakes
 year: '2014'

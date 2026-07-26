@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-021
-add_credit:
+add_credit: Cory Arcangel
 url: 2005-021-super-landscape-1
 title: 'Super Landscape #1'
 year: '2005'

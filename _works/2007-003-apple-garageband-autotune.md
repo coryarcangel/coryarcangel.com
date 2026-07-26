@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-003
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-003-apple-garageband-autotune
 title: Apple GarageBand Auto Tune Demonstration
 year: '2007'

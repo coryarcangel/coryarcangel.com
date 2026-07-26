@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-162
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-162-fuck-negativity-dog-tags-srf-030
 title: Fuck Negativity Dog Tags (SRF-030)
 year: '2015'

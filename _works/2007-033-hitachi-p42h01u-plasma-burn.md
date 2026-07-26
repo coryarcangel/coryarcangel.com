@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-033
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-033-hitachi-p42h01u-plasma-burn
 title: HITACHI P42H01U Plasma Burn, 2007
 year: '2007'

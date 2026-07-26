@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-060
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-060-dvd-power-tower-80-by-sharper-image-design
 title: DVD Power Tower 80 by Sharper Image Design
 year: '2014'

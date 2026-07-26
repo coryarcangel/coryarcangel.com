@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-124
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-124-the-original
 title: The Original
 year: '2018'

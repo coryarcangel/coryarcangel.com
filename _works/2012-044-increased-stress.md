@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-044
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-044-increased-stress
 title: Increased Stress
 year: '2012'

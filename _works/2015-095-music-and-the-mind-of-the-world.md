@@ -9,7 +9,7 @@ url: 2015-095-music-and-the-mind-of-the-world
 title: 'Tony Conrad: Music and the Mind of the World (SRF-040)'
 year: '2017'
 display_year: '2015'
-medium: 'Website, Youtube account. '
+medium: Website, Youtube account.
 dims:
 pitch: "​Worked - along w a massive team! - with my friend Tony to publish his INCRED
   Music and the Mind of the World piano piece. Can´t explain how rewarding this wz."

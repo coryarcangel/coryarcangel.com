@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-128
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-128-behavioral-targeting
 title: Behavioral Targeting
 year: '2014'

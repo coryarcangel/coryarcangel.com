@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-052
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-052-multi-function-scarf
 title: Multi-function scarf
 year: '2018'

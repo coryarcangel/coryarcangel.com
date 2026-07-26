@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-149
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-149-not-yet-titled
 title: Not Yet Titled
 year: '2012'

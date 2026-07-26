@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-077
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-077-fuck-negativity-white-sweatpants
 title: Fuck Negativity Sweatpants (SRF-036)
 year: '2016'

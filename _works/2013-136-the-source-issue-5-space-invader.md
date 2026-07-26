@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-136
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-136-the-source-issue-5-space-invader
 title: 'The Source Issue #5: Space Invader (SRF-20)'
 year: '2015'

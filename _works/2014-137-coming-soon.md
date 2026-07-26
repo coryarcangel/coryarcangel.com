@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-137
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-137-coming-soon
 title: 'coming soon: blogs, paypal, the internet (on the work of Paper Rad)'
 year: '2014'

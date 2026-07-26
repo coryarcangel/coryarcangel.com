@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-060
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-060-two-clintons-four-palms-a-taurus-and-an-aeron
 title: Two Clintons, Four Palms, a Taurus and an Aeron
 year: '2015'

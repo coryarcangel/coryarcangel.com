@@ -1,6 +1,6 @@
 ---
 inv_num: 2020-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2020-004-workutworutworout
 title: WORKUTWORUTWOROUT
 year: '2020'

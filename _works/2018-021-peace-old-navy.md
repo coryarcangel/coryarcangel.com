@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-021
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-021-peace-old-navy
 title: Peace Old Navy
 year: '2018'

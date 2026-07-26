@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-032
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-032-so-shines-a-good-deed-in-a-weary-world
 title: So shines a good deed in a weary world (dunkindonuts.com)
 year: '2014'

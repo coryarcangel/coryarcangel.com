@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-196
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-196-quickoffice
 title: QuickOffice
 year: '2013'

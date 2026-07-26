@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-025
-add_credit: Michael Bell Smith
+add_credit: Cory Arcangel & Michael Bell Smith
 url: 2005-025-the-year-in-the-internet
 title: The Year in the Internet (2005)
 year: '2005'

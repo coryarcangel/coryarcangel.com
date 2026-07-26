@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-007
-add_credit: Cory Arcangel for Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2014-007-fitted-otto-flexfit-hat-srf-005
 title: Fitted Otto Flexfit Hat (SRF-005)
 year: '2014'

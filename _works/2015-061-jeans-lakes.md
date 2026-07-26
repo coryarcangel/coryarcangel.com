@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-061
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-061-jeans-lakes
 title: Jeans / Lakes
 year: '2016'

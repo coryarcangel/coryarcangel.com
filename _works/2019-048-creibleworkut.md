@@ -1,6 +1,6 @@
 ---
 inv_num: 2019-048
-add_credit:
+add_credit: Cory Arcangel
 url: 2019-048-creibleworkut
 title: CREIBLEWORKUT
 year: '2019'

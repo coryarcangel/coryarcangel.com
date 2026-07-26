@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-078
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-078-fuck-negativity-white-hoodie-srf-035
 title: Fuck Negativity White Hoodie (SRF-035)
 year: '2016'

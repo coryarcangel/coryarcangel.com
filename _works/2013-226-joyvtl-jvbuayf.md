@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-226
-add_credit: OPN
+add_credit: OPN & Cory Arcangel
 url: 2013-226-joyvtl-jvbuayf
 title: Joyvtl Jvbuayf
 year: '2013'

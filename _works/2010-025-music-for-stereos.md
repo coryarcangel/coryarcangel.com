@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-025
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-025-music-for-stereos
 title: Music For Stereos
 year: '2010'

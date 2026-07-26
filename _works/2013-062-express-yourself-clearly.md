@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-062
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-062-express-yourself-clearly
 title: Express Yourself Clearly
 year: '2013'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-066
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-066-working-on-my-novel
 title: Working On My Novel
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-069
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-069-football-lakes
 title: Football / Lakes
 year: '2017'

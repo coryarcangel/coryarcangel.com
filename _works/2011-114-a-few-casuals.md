@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-114
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-114-a-few-casuals
 title: A Few Casuals
 year: '2011'

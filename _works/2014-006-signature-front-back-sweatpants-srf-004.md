@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-006
-add_credit: Cory Arcangel for Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2014-006-signature-front-back-sweatpants-srf-004
 title: Signature Front/Back Sweatpants (SRF-004)
 year: '2014'

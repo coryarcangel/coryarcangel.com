@@ -1,11 +1,11 @@
 ---
 inv_num: 2011-009
-add_credit: Coding by narrat1ve.com
+add_credit: Cory Arcangel w coding by narrat1ve.com
 url: 2011-009-various-self-playing-bowling-games
 title: Various Self Playing Bowling Games
 year: '2011'
 display_year: '2011'
-medium: 'Modded game controllers and various video games. '
+medium: Modded game controllers and various video games.
 dims:
 pitch: "​Bowling games from the history of video games programmed to bowl only gutter
   balls via modded controllers."
@@ -24,6 +24,6 @@ youtube: https://www.youtube.com/playlist?list=PLIVciZ6unaZQMOV86lDJGUhhwPZDlHut
 related_code:
 subheading:
 download:
-commission: 'The Whitney Museum of American Art, New York and The Barbican, London. '
+commission: The Whitney Museum of American Art, New York and The Barbican, London.
 layout: works
 ---

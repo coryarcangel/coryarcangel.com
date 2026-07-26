@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-061
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-061-the-source-digest-srf-038
 title: The Source Digest (SRF-038)
 year: '2016'

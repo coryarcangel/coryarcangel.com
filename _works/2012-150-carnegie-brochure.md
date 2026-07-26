@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-150
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-150-carnegie-brochure
 title: Carnegie Brochure
 year: '2012'

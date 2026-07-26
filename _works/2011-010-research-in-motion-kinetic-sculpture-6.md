@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-010
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-010-research-in-motion-kinetic-sculpture-6
 title: 'Research in Motion (Kinetic Sculpture #6)'
 year: '2011'

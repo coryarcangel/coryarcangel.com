@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-001
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-001-call-of-duty
 title: Call of Duty
 year: '2017'

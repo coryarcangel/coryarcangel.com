@@ -1,6 +1,6 @@
 ---
 inv_num: 2019-027
-add_credit:
+add_credit: Cory Arcangel
 url: 2019-027-responce
 title: Responce
 year: '2019'

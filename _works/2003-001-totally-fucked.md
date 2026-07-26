@@ -1,6 +1,6 @@
 ---
 inv_num: 2003-001
-add_credit:
+add_credit: Cory Arcangel
 url: 2003-001-totally-fucked
 title: Totally Fucked
 year: '2003'

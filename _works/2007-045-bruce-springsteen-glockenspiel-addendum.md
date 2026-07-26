@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-045
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-045-bruce-springsteen-glockenspiel-addendum
 title: The Bruce Springsteen 'Born to Run' Glockenspiel Addendum
 year: '2007'

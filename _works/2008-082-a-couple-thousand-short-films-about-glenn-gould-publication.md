@@ -2,7 +2,7 @@
 inv_num: 2008-082
 add_credit: Dexter Sinister
 url: 2008-082-a-couple-thousand-short-films-about-glenn-gould-publication
-title: 'A Couple Thousand Short Films about Glenn Gould '
+title: A Couple Thousand Short Films about Glenn Gould
 year: '2008'
 display_year: '2008'
 medium: Publication

@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-052
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-052-more-to-explore
 title: More to Explore
 year: '2016'

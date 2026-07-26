@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-026
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-026-what-a-great-idea
 title: What a Great Idea It Is (on the work and life of Tony Conrad)
 year: '2017'

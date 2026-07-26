@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-058
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-058-timeless-standards
 title: Timeless Standards
 year: '2012'

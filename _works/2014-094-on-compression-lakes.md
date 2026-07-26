@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-094
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-094-on-compression-lakes
 title: On Compression / Lakes
 year: '2014'

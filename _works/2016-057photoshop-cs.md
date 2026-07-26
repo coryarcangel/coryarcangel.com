@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-057
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-057photoshop-cs
 title: 'Photoshop CS: 65 by 36.5 inches, 300 DPI, RGB, square pixels, default gradient
   "Russell''s Rainbow", mousedown y=4460 x=8400, mouseup y=4460 x=4430'

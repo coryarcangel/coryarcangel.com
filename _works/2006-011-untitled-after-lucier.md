@@ -1,6 +1,6 @@
 ---
 inv_num: 2006-011
-add_credit:
+add_credit: Cory Arcangel
 url: 2006-011-untitled-after-lucier
 title: Untitled After Lucier
 year: '2006'

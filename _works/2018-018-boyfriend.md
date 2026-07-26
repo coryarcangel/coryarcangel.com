@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-018
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-018-boyfriend
 title: Boyfriend
 year: '2018'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-102
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-102-hello-world
 title: Hello World
 year: '2011'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-027
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-027-more-details
 title: More Detials
 year: '2012'

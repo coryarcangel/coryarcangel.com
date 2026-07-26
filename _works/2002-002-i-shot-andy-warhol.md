@@ -1,6 +1,6 @@
 ---
 inv_num: 2002-002
-add_credit:
+add_credit: Cory Arcangel
 url: 2002-002-i-shot-andy-warhol
 title: I Shot Andy Warhol
 year: '2002'

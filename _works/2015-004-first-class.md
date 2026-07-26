@@ -1,11 +1,11 @@
 ---
 inv_num: 2015-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-004-first-class
 title: First Class
 year: '2015'
 display_year: '2015'
-medium: 'Foam pool noodles, necklace, sock, armbands, sleeve jewelry '
+medium: Foam pool noodles, necklace, sock, armbands, sleeve jewelry
 dims: 140 cm x variable width x variable depth
 pitch:
 ps:

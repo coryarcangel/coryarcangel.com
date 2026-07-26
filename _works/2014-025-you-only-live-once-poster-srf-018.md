@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-025
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-025-you-only-live-once-poster-srf-018
 title: You Only Live Once Poster (SRF-018)
 year: '2014'

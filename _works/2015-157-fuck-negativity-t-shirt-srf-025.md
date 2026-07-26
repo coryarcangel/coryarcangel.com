@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-157
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-157-fuck-negativity-t-shirt-srf-025
 title: Fuck Negativity T-Shirt (SRF-025)
 year: '2015'

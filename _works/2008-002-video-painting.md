@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-002
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-002-video-painting
 title: Video Painting
 year: '2008'

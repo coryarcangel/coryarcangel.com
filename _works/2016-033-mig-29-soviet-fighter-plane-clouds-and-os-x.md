@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-033
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-033-mig-29-soviet-fighter-plane-clouds-and-os-x
 title: Mig 29 Soviet Fighter Plane, Clouds, and OS X
 year: '2016'

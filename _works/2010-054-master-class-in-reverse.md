@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-054
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-054-master-class-in-reverse
 title: Master Class in Reverse
 year: '2010'

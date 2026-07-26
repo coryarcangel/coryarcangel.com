@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-097
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-097-hillary-lakes
 title: Hillary / Lakes
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-197
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-197-since-u-been-gone-music-for-stereos
 title: Since U Been Gone / Music For Stereos
 year: '2013'

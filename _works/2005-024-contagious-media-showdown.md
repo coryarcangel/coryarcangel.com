@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-024
-add_credit:
+add_credit: Cory Arcangel
 url: 2005-024-contagious-media-showdown
 title: Contagious Media Showdown
 year: '2005'

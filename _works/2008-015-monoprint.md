@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-015
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-015-monoprint
 title: Monoprint 4
 year: '2008'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-049
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-049-continuous-partial-awareness-pdf
 title: Continuous Partial Awareness (PDF)
 year: '2009'

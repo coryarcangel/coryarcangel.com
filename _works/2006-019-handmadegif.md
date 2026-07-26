@@ -1,13 +1,13 @@
 ---
 inv_num: 2006-019
-add_credit:
+add_credit: Cory Arcangel
 url: 2006-019-handmadegif
 title: Gif
 year: '2006'
 display_year: '2006'
-medium: 'Pen on paper. '
+medium: Pen on paper.
 dims:
-pitch: "​Gif file written by hand. "
+pitch: "​Gif file written by hand."
 ps: "​Handmade Gif is a Gif file I wrote by hand in binary. This of course is pointless,
   but I chose to do this as an exercise in order to familiarize myself with the basics
   of compression for no reason other then I wondered how it worked. Since Gif was

@@ -1,8 +1,8 @@
 ---
 inv_num: 2008-013
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-013-monoprint-2
-title: 'Monoprint 2 '
+title: Monoprint 2
 year: '2008'
 display_year: '2008'
 medium: Unique three-color process silkscreen on custom watermarked paper

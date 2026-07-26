@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-020
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-020-another-5-minute-romp-thru-the-ip
 title: Another 5-minute Romp thru the IP
 year: '2011'

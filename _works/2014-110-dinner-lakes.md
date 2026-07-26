@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-110
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-110-dinner-lakes
 title: Dinner / Lakes
 year: '2014'

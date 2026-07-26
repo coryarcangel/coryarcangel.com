@@ -1,0 +1,27 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Serve w imgs",
+            "type": "shell",
+            "command": "./script-thumbs.sh; bundle exec jekyll pagemaster --force shows works; bundle exec jekyll serve"
+        },
+        {
+            "label": "Serve",
+            "type": "shell",
+            "command": "bundle exec jekyll pagemaster --force shows works; bundle exec jekyll serve"
+        },
+        {
+            "label": "Push w imgs",
+            "type": "shell",
+            "command": "find assets/imgs/ -type f -exec chmod 644 {} +;./script-thumbs.sh; bundle exec jekyll pagemaster --force shows works; JEKYLL_ENV=production bundle exec jekyll build; rsync -av -e ssh _site/ coryagel@162.241.194.58:public_html"
+        },
+        {
+            "label": "Push",
+            "type": "shell",
+            "command": "find assets/imgs/ -type f -exec chmod 644 {} +; bundle exec jekyll pagemaster --force shows works; JEKYLL_ENV=production bundle exec jekyll build; rsync -av -e ssh _site/ coryagel@162.241.194.58:public_html"
+        }
+    ]
+}

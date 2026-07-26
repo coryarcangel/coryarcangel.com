@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-020
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-020-sorry-i-havent-posted
 title: Sorry I Haven't Posted
 year: '2010'

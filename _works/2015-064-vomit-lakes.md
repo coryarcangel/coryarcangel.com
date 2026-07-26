@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-064
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-064-vomit-lakes
 title: Vomit / Lakes
 year: '2015'

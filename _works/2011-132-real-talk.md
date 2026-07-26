@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-132
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-132-real-talk
 title: Real Talk
 year: '2011'

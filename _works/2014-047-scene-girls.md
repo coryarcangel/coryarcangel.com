@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-047
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-047-scene-girls
 title: Scene Girls
 year: '2014'

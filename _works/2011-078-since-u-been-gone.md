@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-078
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-078-since-u-been-gone
 title: Since U Been Gone
 year: '2011'

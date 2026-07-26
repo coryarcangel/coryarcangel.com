@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-039
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-039-another-one-bites-the-dust
 title: Another One Bites The Dust
 year: '2007'

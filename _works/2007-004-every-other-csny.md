@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-004-every-other-csny
 title: Every Other C.S.N.Y.
 year: '2007'

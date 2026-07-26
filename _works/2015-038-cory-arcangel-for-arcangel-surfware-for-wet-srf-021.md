@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-038
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-038-cory-arcangel-for-arcangel-surfware-for-wet-srf-021
 title: Cory Arcangel for Arcangel Surfware for Wet (SRF-021)
 year: '2015'

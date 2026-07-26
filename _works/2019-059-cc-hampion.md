@@ -1,6 +1,6 @@
 ---
 inv_num: 2019-059
-add_credit:
+add_credit: Cory Arcangel
 url: 2019-059-cc-hampion
 title: cC hampion
 year: '2019'

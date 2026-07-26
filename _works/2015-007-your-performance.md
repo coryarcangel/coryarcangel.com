@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-007
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-007-your-performance
 title: Your Performance
 year: '2015'

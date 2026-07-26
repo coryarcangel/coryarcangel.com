@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-056
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-056-love-pink
 title: love pink
 year: '2016'

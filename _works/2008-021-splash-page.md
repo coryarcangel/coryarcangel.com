@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-021
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-021-splash-page
 title: Splash Page
 year: '2008'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-049
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-049-3-celebs-who-treat-their-fans-like-trash
 title: 3 Celebs Who Treat Their Fans Like Trash (SRF-047)
 year: '2017'

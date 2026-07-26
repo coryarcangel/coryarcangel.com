@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-004-personal-film
 title: Personal Film
 year: '2008'

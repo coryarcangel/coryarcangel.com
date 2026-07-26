@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-189
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-189-asshole-lakes
 title: Asshole / Lakes
 year: '2013'

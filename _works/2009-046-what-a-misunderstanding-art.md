@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-046
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-046-what-a-misunderstanding-art
 title: What a Misunderstanding!
 year: '2009'

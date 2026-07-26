@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-004-photoshop-cs
 title: 'Photoshop CS: 72 by 110 inches, 300 DPI, RGB, square pixels, default gradient
   "Spectrum", mousedown y=1416 x=1000, mouseup y=208 x=42'

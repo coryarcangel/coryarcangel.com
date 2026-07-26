@@ -1,13 +1,13 @@
 ---
 inv_num: 2018-125
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-125-destroyed-jeans
 title: Destroyed Jeans
 year: '2019'
 display_year: '2019'
 medium: Vinyl prints onto 8 hanging banners
 dims: 650 x 250 cm
-pitch: 'Went big 4 this! '
+pitch: Went big 4 this!
 ps:
 live_url:
 youtube:

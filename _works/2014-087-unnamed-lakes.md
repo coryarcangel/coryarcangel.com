@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-087
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-087-unnamed-lakes
 title: Unnamed / Lakes
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2006-002
-add_credit:
+add_credit: Cory Arcangel
 url: 2006-002-untitled-translation-exercise
 title: Untitled Translation Exercise
 year: '2006'

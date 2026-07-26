@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-020
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-020-continuous-partial-awareness-performance
 title: Continuous Partial Awareness
 year: '2008'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-031
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-031-max-perks
 title: Max Perks (officemax.com)
 year: '2014'

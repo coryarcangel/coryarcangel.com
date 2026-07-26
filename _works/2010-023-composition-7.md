@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-023
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-023-composition-7
 title: 'Composition #7'
 year: '2010'
@@ -13,7 +13,7 @@ ps: '​This is a mod file for the desktop game Frets on Fire, which is an open 
   Frets on Fire song folder. This will allow you to play this game on your own version
   of Frets On Fire. For those not in the know, Composition #7 calls for two notes
   to be held for "a long time". For this game, "a long time" was defined as the classic
-  length of a pop song. About 4 minutes. '
+  length of a pop song. About 4 minutes.'
 live_url:
 youtube:
 related_code:

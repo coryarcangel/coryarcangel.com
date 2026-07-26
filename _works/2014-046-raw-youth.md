@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-046
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-046-raw-youth
 title: Raw Youth
 year: '2014'

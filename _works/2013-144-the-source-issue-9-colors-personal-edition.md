@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-144
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-144-the-source-issue-9-colors-personal-edition
 title: 'The Source Issue #9: Colors Personal Edition (SRF-052)'
 year: '2018'

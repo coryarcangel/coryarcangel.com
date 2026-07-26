@@ -1,6 +1,6 @@
 ---
 inv_num: 2020-022
-add_credit:
+add_credit: Cory Arcangel
 url: 2020-022-when-the-squad
 title: W♥h♥e♥n♥ ♥t♥h♥e♥ ♥s♥q♥u♥a♥d♥ ♥m♥e♥e♥t♥s♥ ♥u♥p♥ ♥/♥ ♥T♥h♥e♥ ♥K♥i♥n♥g♥ ♥C♥h♥e♥c♥k♥e♥d♥
   ♥b♥y♥ ♥t♥h♥e♥ ♥Q♥u♥e♥e♥n

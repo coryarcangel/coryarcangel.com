@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-079
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-079-sans-comic
 title: Sans Comic
 year: '2008'

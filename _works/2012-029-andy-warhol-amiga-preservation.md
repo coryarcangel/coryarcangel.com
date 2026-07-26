@@ -1,7 +1,7 @@
 ---
 inv_num: 2012-029
-add_credit: The Carnegie Museum of Art, The Andy Warhol Museum, and The Frank-Ratchye
-  STUDIO for Creative Inquiry
+add_credit: Cory Arcangel, The Carnegie Museum of Art, The Andy Warhol Museum, and
+  The Frank-Ratchye STUDIO for Creative Inquiry
 url: 2012-029-andy-warhol-amiga-preservation
 title: Andy Warhol Amiga Preservation
 year: '2014'

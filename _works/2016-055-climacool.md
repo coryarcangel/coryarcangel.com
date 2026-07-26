@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-055
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-055-climacool
 title: climacool
 year: '2016'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-014
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-014-hot-topics
 title: Hot Topics
 year: '2015'

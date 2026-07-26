@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-062
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-062-arcangel-surfware-flagship
 title: Arcangel Surfware Flagship
 year: '2018'

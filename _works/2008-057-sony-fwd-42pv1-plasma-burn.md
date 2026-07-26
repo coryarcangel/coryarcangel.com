@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-057
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-057-sony-fwd-42pv1-plasma-burn
 title: Sony FWD-42PV1 Plasma Burn
 year: '2008'

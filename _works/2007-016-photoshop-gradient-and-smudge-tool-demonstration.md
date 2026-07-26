@@ -1,8 +1,8 @@
 ---
 inv_num: 2007-016
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-016-photoshop-gradient-and-smudge-tool-demonstration
-title: 'Photoshop Gradient and Smudge Tool Demonstration '
+title: Photoshop Gradient and Smudge Tool Demonstration
 year: '2007'
 display_year: '2007'
 medium: Inkjet on laminate.

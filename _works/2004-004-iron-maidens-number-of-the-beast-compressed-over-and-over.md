@@ -1,6 +1,6 @@
 ---
 inv_num: 2004-004
-add_credit:
+add_credit: Cory Arcangel
 url: 2004-004-iron-maidens-number-of-the-beast-compressed-over-and-over
 title: Iron Maiden's “The Number of the Beast” compressed over and over as an mp3
   666 times

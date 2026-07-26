@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-030
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-030-social-network
 title: Social Network
 year: '2015'

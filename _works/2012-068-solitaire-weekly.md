@@ -1,11 +1,11 @@
 ---
 inv_num: 2012-068
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-068-solitaire-weekly
 title: Solitaire Weekly
 year: '2013'
 display_year: '2012'
-medium: 'Webisode series, Tumblr, Youtube, Facebook, & Twitter accounts. '
+medium: Webisode series, Tumblr, Youtube, Facebook, & Twitter accounts.
 dims:
 pitch: "​Webisode series (featuring screen cast computer solitaire), and associated
   social media accounts :/"

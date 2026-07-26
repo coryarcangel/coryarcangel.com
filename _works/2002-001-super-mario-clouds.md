@@ -1,6 +1,6 @@
 ---
 inv_num: 2002-001
-add_credit:
+add_credit: Cory Arcangel
 url: 2002-001-super-mario-clouds
 title: Super Mario Clouds
 year: '2002'

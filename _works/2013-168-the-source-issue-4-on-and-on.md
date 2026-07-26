@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-168
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-168-the-source-issue-4-on-and-on
 title: 'The Source Issue #4: On and On (SRF-017)'
 year: '2013'

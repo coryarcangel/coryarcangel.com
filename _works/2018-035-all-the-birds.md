@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-035
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-035-all-the-birds
 title: All the birds
 year: '2018'

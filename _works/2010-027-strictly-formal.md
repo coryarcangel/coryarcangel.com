@@ -1,8 +1,8 @@
 ---
 inv_num: 2010-027
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-027-strictly-formal
-title: 'Strictly Formal '
+title: Strictly Formal
 year: '2010'
 display_year: '2010'
 medium: Website

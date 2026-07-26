@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-193
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-193-seinfeld-dvd-lakes
 title: Seinfeld DVD / Lakes
 year: '2013'

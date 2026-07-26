@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-035
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-035-dawgs-lakes
 title: Dawgs / Lakes
 year: '2016'

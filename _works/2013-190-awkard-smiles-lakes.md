@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-190
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-190-awkard-smiles-lakes
 title: Awkard Smiles / Lakes
 year: '2013'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-169
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-169-freshbuzz
 title: Freshbuzz (www.subway.com)
 year: '2014'

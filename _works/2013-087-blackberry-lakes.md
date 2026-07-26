@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-087
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-087-blackberry-lakes
 title: Blackberry / Lakes
 year: '2013'

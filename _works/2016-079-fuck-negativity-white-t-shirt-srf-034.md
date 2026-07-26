@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-079
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-079-fuck-negativity-white-t-shirt-srf-034
 title: Fuck Negativity White T-Shirt (SRF-034)
 year: '2016'

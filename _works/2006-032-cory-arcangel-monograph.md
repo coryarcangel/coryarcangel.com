@@ -1,8 +1,8 @@
 ---
 inv_num: 2006-032
-add_credit:
+add_credit: Cory Arcangel
 url: 2006-032-cory-arcangel-monograph
-title: 'Cory Arcangel '
+title: Cory Arcangel
 year: '2006'
 display_year: '2006'
 medium:

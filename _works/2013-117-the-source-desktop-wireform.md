@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-117
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-117-the-source-desktop-wireform
 title: 'The Source Issue #1: Desktop Wireform (SRF-014)'
 year: '2013'

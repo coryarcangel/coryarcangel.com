@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-030
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-030-ideas-in-action
 title: Ideas In Action (starbucks.com)
 year: '2014'

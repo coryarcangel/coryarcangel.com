@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-003
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-003-permanent-vacation
 title: Permanent Vacation
 year: '2008'

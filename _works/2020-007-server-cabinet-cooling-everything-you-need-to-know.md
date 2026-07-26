@@ -1,6 +1,6 @@
 ---
 inv_num: 2020-007
-add_credit:
+add_credit: Cory Arcangel
 url: 2020-007-server-cabinet-cooling-everything-you-need-to-know
 title: Server Cabinet Cooling - Everything you need to know
 year: '2020'

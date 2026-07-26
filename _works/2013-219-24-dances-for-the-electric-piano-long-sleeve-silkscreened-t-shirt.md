@@ -1,6 +1,6 @@
 ---
 inv_num: 2013-219
-add_credit: Cory Arcangel for Arcangel Surfware
+add_credit: Cory Arcangel X Arcangel Surfware
 url: 2013-219-24-dances-for-the-electric-piano-long-sleeve-silkscreened-t-shirt
 title: 24 Dances For The Electric Piano Long-Sleeve Silkscreened T-Shirt (SRF-012)
 year: '2014'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-028
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-028-various-gift-cards-triptych
 title: Various Gift Cards Triptych
 year: '2017'

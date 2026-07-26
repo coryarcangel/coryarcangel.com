@@ -1,6 +1,6 @@
 ---
 inv_num: 2008-069
-add_credit:
+add_credit: Cory Arcangel
 url: 2008-069-reproduction
 title: Reproduction
 year: '2012'

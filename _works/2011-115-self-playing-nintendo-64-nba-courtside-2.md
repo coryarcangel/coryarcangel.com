@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-115
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-115-self-playing-nintendo-64-nba-courtside-2
 title: Self Playing Nintendo 64 NBA Courtside 2
 year: '2011'

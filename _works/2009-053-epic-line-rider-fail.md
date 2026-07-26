@@ -1,13 +1,13 @@
 ---
 inv_num: 2009-053
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-053-epic-line-rider-fail
 title: Epic Line Rider Fail
 year: '2009'
 display_year: '2009'
 medium: "(~Youtube) video"
 dims:
-pitch: 'My contribution to the genre of utube "Line Rider Fails". '
+pitch: My contribution to the genre of utube "Line Rider Fails".
 ps: "​Uuuugh, youtube took this one down, so it doesn't make as much sense now, as
   these line rider fails are kinda a youtube genre, but none the less you can still
   download it here.&nbsp;"

@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-086
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-086-russells-lakes
 title: Russells / Lakes
 year: '2014'

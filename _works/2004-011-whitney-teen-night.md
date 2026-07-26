@@ -1,6 +1,6 @@
 ---
 inv_num: 2004-011
-add_credit: Paper Rad
+add_credit: Cory Arcangel & Paper Rad
 url: 2004-011-whitney-teen-night
 title: Whitney Teen Night
 year: '2004'

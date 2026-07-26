@@ -1,6 +1,6 @@
 ---
 inv_num: 2010-078
-add_credit:
+add_credit: Cory Arcangel
 url: 2010-078-sports-products
 title: Sports Products
 year: '2010'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2005-001
-add_credit: Paper Rad
+add_credit: Cory Arcangel & Paper Rad
 url: 2005-001-super-mario-movie
 title: Super Mario Movie
 year: '2005'

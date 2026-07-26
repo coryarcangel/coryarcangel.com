@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-053
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-053-snowbunny-lakes
 title: Snowbunny / Lakes
 year: '2015'

@@ -1,6 +1,6 @@
 ---
 inv_num: 2009-041
-add_credit:
+add_credit: Cory Arcangel
 url: 2009-041-last-night-i-had-the-strangest-dream
 title: Last Night I Had The Strangest Dream
 year: '2009'

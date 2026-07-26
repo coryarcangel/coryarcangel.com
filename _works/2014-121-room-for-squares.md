@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-121
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-121-room-for-squares
 title: Room for Squares
 year: '2014'

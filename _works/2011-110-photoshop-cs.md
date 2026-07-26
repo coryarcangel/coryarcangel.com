@@ -1,6 +1,6 @@
 ---
 inv_num: 2011-110
-add_credit:
+add_credit: Cory Arcangel
 url: 2011-110-photoshop-cs
 title: 'Photoshop CS: 84 by 66 inches, 300 DPI, RGB, square pixels, default gradient
   "Blue, Red, Yellow", mousedown y=5300 x=8600, mouseup y=5600 x=8600'

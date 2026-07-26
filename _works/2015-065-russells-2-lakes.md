@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-065
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-065-russells-2-lakes
 title: 'Russell''s #2 / Lakes'
 year: '2015'

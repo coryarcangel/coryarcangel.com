@@ -1,8 +1,8 @@
 ---
 inv_num: 2013-218
-add_credit:
+add_credit: Cory Arcangel
 url: 2013-218-24-dances-for-the-electric-piano
-title: '24 Dances For The Electric Piano '
+title: 24 Dances For The Electric Piano
 year: '2013'
 display_year: '2013'
 medium: Piano suite

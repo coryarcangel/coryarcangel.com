@@ -1,6 +1,6 @@
 ---
 inv_num: 2018-037
-add_credit:
+add_credit: Cory Arcangel
 url: 2018-037-entrepreneur1
 title: en·tre·pre·neur
 year: '2018'

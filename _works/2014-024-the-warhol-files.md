@@ -1,6 +1,6 @@
 ---
 inv_num: 2014-024
-add_credit:
+add_credit: Cory Arcangel
 url: 2014-024-the-warhol-files
 title: The Warhol Files
 year: '2014'

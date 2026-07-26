@@ -1,6 +1,6 @@
 ---
 inv_num: 2016-058
-add_credit:
+add_credit: Cory Arcangel
 url: 2016-058-dump-bin-with-slides
 title: Dump Bin with slides
 year: '2016'

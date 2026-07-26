@@ -1,6 +1,6 @@
 ---
 inv_num: 2015-005
-add_credit:
+add_credit: Cory Arcangel
 url: 2015-005-started-the-bottom
 title: Started @ The Bottom
 year: '2015'

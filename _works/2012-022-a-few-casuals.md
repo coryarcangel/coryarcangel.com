@@ -1,6 +1,6 @@
 ---
 inv_num: 2012-022
-add_credit:
+add_credit: Cory Arcangel
 url: 2012-022-a-few-casuals
 title: A Few Casuals
 year: '2012'

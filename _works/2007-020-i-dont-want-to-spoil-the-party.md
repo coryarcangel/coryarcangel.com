@@ -1,6 +1,6 @@
 ---
 inv_num: 2007-020
-add_credit:
+add_credit: Cory Arcangel
 url: 2007-020-i-dont-want-to-spoil-the-party
 title: I don't want to spoil the party
 year: '2007'

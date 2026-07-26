@@ -1,6 +1,6 @@
 ---
 inv_num: 2017-044
-add_credit:
+add_credit: Cory Arcangel
 url: 2017-044-on-this-day
 title: 'Tony Conrad: Music and the Mind of the World: On This Day (SRF-044)'
 year: '2017'
