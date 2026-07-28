@@ -13,6 +13,7 @@ assets/thumbs
 .jekyll-cache
 .jekyll-metadata
 _data/.~lock.things.csv#
+.vscode/*
 
 # OS generated files #
 ######################
