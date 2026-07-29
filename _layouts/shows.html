@@ -11,6 +11,7 @@ layout: shows
 {% endif %})
 <br>
 <br>
+<p>
 <b>Venue: </b>{{ page.venue }}
 <br>
 <b>City: </b>{{ page.state_country }}
@@ -71,5 +72,6 @@ layout: shows
 {% for item in images_images %}
 <img src="../../assets/imgs/{{ item.filename }}">	
 {% endfor %}
-{% endif %}		
+{% endif %}	
+</p>	
 {% include body_bottom.html %}
