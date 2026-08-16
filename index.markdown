@@ -4,7 +4,7 @@ title: Cory Arcangel
 ---
 [*Biz*]()  / [Study](study)  
 <br>
-Hi. Thx 4 the visit. I'm an [artist](../things-i-made/){:target="_blank"}, [aspiring youtuber](https://www.youtube.com/user/coryarcangel), [composer](https://hiddennoise.org/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, and [founder of Arcangel Surfware](https://arcangelsurfware.biz) living in Oslo (having moved recently from <a href="https://www.youtube.com/watch?v=7DDfLOc-Dlc" target="_blank">Stavanger</a>). Shows, artworks, etc, etc are now in the [Study](study) section, ty.   
+Hi. Thx 4 the visit. I'm an [artist](../things-i-made/){:target="_blank"}, [aspiring youtuber](https://www.youtube.com/user/coryarcangel), [composer](https://hiddennoise.org/){:target="_blank"}, [curator](https://www.kunsthallesanktgallen.ch/en/exhibition/959/ALLIEATINADAY2024){:target="_blank"}, [teacher](https://uit.no/studiesteder/kabelvag/filmkunstskolen), [writer](https://www.are.na/editorial/the-north-face){:target="_blank"}, and [founder of Arcangel Surfware](https://arcangelsurfware.biz){:target="_blank"} living in Oslo (having moved recently from <a href="https://www.youtube.com/watch?v=7DDfLOc-Dlc" target="_blank">Stavanger</a>). Shows, artworks, etc, etc are now in the [Study](study) section, ty.   
 ## New(s)
 * Hot
 	* [I bulit a carillon!](https://www.kistefosmuseum.no/){:target="_blank"} - 🔔🔔🔔🔔🔔🔔🔔🔔🔔🔔🔔🔔
