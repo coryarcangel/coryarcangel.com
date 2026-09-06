@@ -72,27 +72,27 @@ img
 
 .images-page
 {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-	gap: 8px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
 }
 
-.images-page p
+.images-page > p
 {
-	grid-column: 1 / -1;
+	flex-basis: 100%;
 }
 
 .images-page .thumbs
 {
-	min-width: 0;
+	height: 300px;
 }
 
 .images-page .thumbs img
 {
 	display: block;
 	float: none;
-	width: 100%;
-	height: auto;
+	width: auto;
+	height: 100%;
 }
 
 /* IBM */
