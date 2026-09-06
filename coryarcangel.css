@@ -70,6 +70,31 @@ img
 {	
 }
 
+.images-page
+{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+	gap: 8px;
+}
+
+.images-page p
+{
+	grid-column: 1 / -1;
+}
+
+.images-page .thumbs
+{
+	min-width: 0;
+}
+
+.images-page .thumbs img
+{
+	display: block;
+	float: none;
+	width: 100%;
+	height: auto;
+}
+
 /* IBM */
 .TXT {
     clear: both;
