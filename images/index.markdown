@@ -4,6 +4,7 @@ title: Images
 ---
 [Biz](../../)  / <a href="../study">*Study*</a> > Images
 <br><br>
+<div class="images-gallery">
 {% assign images_list = site.data.images %}
 {% for image in images_list %}
 {% if image.x != "n"  %}
@@ -18,7 +19,7 @@ title: Images
 {% endif %}
 {% endif %}
 {% endfor %}
-
+</div>
 
 
 

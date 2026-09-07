@@ -72,22 +72,24 @@ img
 
 .images-page
 {
+	display: block;
+}
+
+.images-gallery
+{
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-start;
+	justify-content: flex-start;
 }
 
-.images-page > p
-{
-	flex-basis: 100%;
-}
-
-.images-page .thumbs
+.images-gallery .thumbs
 {
 	height: 300px;
+	flex: 0 0 auto;
 }
 
-.images-page .thumbs img
+.images-gallery .thumbs img
 {
 	display: block;
 	float: none;
